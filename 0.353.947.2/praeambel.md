@@ -1,0 +1,3 @@
+# Präambel
+
+Mit Notenwechsel vom 19. Mai/21. September 1965 sind die Schweiz und Kenia übereingekommen, dass der Auslieferungsvertrag zwischen der Schweiz und Grossbritannien vom 26. November 1880, ergänzt durch Übereinkunft vom 29. Juni 1904, der gemäss seinem Artikel XVIII und dem Notenwechsel vom 17./23. August 1909 auf das Gebiet Kenias anwendbar war, sowie das Zusatzabkommen vom 19. Dezember 1934 zum genannten Auslieferungsvertrag, das gemäss seinem Artikel 2 auf das Gebiet Kenias anwendbar war, im Verhältnis zwischen der Schweiz und Kenia weiterhin in Kraft bleiben. Nach Erlangung der Unabhängigkeit Kenias hatte die Regierung dieses Staates zunächst die provisorische Weitergeltung der betreffenden Vereinbarungen bis zum 12. Dezember 1965 bestätigt.
