@@ -1,0 +1,7 @@
+# Art. XVII
+
+Während der Geltungsdauer dieser Vereinbarung soll ein generelles Gleichgewicht sowohl betreffend die finanzielle Beteiligung angestrebt werden, als auch betreffend das filmgestaltende Personal, die Techniker, die Darsteller und die technischen Mittel (Ateliers und Labors), unter Beachtung der Eigenheiten eines jeden der beiden Länder.
+
+Die zuständigen Behörden der beiden Staaten prüfen die Anwendungsbedingungen der vorliegenden Vereinbarung, um die durch ihre Umsetzung entstehenden Schwierigkeiten zu beheben. Sie empfehlen die allenfalls notwendigen Änderungen zur Förderung der Zusammenarbeit auf dem Gebiete des Films und der audiovisuellen Produktion im gemeinsamen Interesse beider Staaten.
+
+Es wird eine Gemischte Kommission zur Überprüfung der Anwendung der Vereinbarung eingesetzt. Die Gemischte Kommission prüft, ob dieses Gleichgewicht beachtet wurde und entscheidet im gegenteiligen Fall die zur Herstellung dieses Gleichgewichts notwendigen Massnahmen. Sie tritt in der Regel alle zwei Jahre abwechslungsweise im einen und dem anderen Land zusammen. Sie kann jedoch auf Antrag einer der zuständigen Behörden einberufen werden, insbesondere bei wichtigen Änderungen der für den Film und die audiovisuelle Produktion in dem einen oder anderen Staat geltenden rechtlichen Bestimmungen, oder für den Fall, dass die Anwendung der Vereinbarung besonders schwerwiegende Probleme verursachen sollte. Die Gemischte Kommission soll in einer Zeitspanne von sechs (6) Monaten nach ihrer Einberufung durch eine der beiden Parteien zusammentreten.

@@ -1,0 +1,3 @@
+# Art. VII
+
+Jede Koproduktion muss das Schutz‑ und das Reproduktionsmaterial im Doppel aufweisen. Jeder Koproduzent ist Besitzer eines Exemplars des Schutz‑ und des Reproduktionsmaterials und berechtigt, dieses zur Anfertigung weiterer Kopien zu benutzen. Jeder Produzent hat ausserdem Zugang zum Originalmaterial, gemäss den unter den Koproduzenten vereinbarten Bedingungen. Auf Antrag der beiden Koproduzenten und unter Vorbehalt der Bewilligung der zuständigen Behörden beider Staaten, dürfen sich Koproduktionen mit kleinem Budget mit einem einzigen Exemplar von Schutz‑ und Reproduktionsmaterial begnügen. In diesem Fall würde sich das Material im Land des Mehrheitskoproduzenten befinden. Der Minderheitskoproduzent würde jederzeit Zugang zum Material haben.
