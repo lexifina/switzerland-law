@@ -1,6 +1,6 @@
 # Art. 71b Ausländische gedeckte Schuldverschreibungen
 
-Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionsklasse zugeordnet und nach Anhang 2 Ziffer 8 gewichtet werden, wenn die folgenden Voraussetzungen erfüllt sind:
+1 Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionsklasse zugeordnet und nach Anhang 2 Ziffer 8 gewichtet werden, wenn die folgenden Voraussetzungen erfüllt sind:
 
   - a. Sie werden von einer Bank oder einem Hypothekarinstitut emittiert.
 
@@ -25,3 +25,5 @@ Ausländische gedeckte Schuldverschreibungen können nur dann dieser Positionskl
   - e. Der Nominalwert der zur Deckung verwendeten Vermögenswerte muss mindestens 10 Prozent über dem Nominalwert der vom Institut emittierten ausländischen gedeckten Schuldverschreibungen liegen. Sehen die gesetzlichen Vorschriften nach Buchstabe b diese Überdeckung nicht vor, so muss das Institut die Einhaltung dieser Anforderung regelmässig öffentlich ausweisen.
 
   - f. Die Bank beschafft sich vom Emittenten der ausländischen gedeckten Schuldverschreibungen mindestens alle sechs Monate die Informationen nach Ziffer 20.37 CRE.
+
+2 Sind die Voraussetzungen nach Absatz 1 nicht erfüllt, so sind die Schuldverschreibungen wie Forderungen gegenüber ihren Emittenten zu behandeln.

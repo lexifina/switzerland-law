@@ -1,6 +1,6 @@
 # Art. 72a Direkt und indirekt grundpfandgesicherte Positionen: Belehnungsgrad
 
-1 Der Belehnungsgrad des Grundpfandes ist das Verhältnis zwischen dem ausstehenden Kredit und allen Kreditzusagen einerseits und dem ursprünglichen Belehnungswert des Grundpfandes andererseits.
+1 Der Belehnungsgrad des Grundpfandes ist das Verhältnis zwischen dem ausstehenden Kredit und den noch nicht als Kredit ausgezahlten Teilen aller Kreditzusagen einerseits und dem ursprünglichen Belehnungswert des Grundpfandes andererseits.
 
 2 Bei Krediten, die durch mehrere Grundpfänder gesichert sind, teilt die Bank zur Ermittlung des Belehnungsgrades pro Grundpfand den Kreditbetrag mittels eines geeigneten Schlüssels auf die Belehnungswerte der verschiedenen Grundpfänder auf.
 

@@ -6,4 +6,4 @@
 
 3 Führt die vorsichtige Bewertung zu Bewertungsanpassungen über diejenigen nach den anwendbaren Rechnungslegungsvorschriften hinaus, so führen diese zusätzlichen Bewertungsanpassungen zu einer Reduktion des anrechenbaren harten Kernkapitals.
 
-4 Die FINMA erlässt technische Ausführungsbestimmungen zur vorsichtigen Bewertung. Sie richtet sich dabei nach dem CAP.
+4 Die FINMA erlässt technische Ausführungsbestimmungen zur vorsichtigen Bewertung. Sie richtet sich dabei nach dem CAP und der Delegierten Verordnung (EU) 2016/101. Für Banken der Kategorien 4 und 5 nach Anhang 3 BankV kann sie Erleichterungen vorsehen.
