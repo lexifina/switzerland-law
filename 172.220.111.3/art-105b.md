@@ -6,7 +6,7 @@
 
 3 Der Arbeitgeber kann aus triftigen Gründen zusätzlich zu den Renten nach den Absätzen 1 und 2 die folgenden Leistungen erbringen:
 
-  - a. eine Beteiligung an den Kosten für die Weiterführung der Vorsorge nach Artikel 88dbis Absatz 3;
+  - a. eine Beteiligung an den Kosten für die Weiterführung der Vorsorge nach Artikel 63c Absatz 3;
 
   - b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 32a VRAB;
 

@@ -8,6 +8,6 @@
 
 4 Bei einem Übertritt in eine andere Verwaltungseinheit nach Artikel 1 Absatz 1 im Rahmen einer Eingliederungsmassnahme nach Artikel 11a beginnen die Fristen nach Artikel 56 Absätze 1 und 2 nicht neu zu laufen.
 
-5 Wird einer angestellten Person nach Artikel 31a Absatz 5 gekündigt, so besteht die Lohnfortzahlungspflicht nach Artikel 56 Absätze 1 und 2 so lange weiter, wie sie nach dem gekündigten Arbeitsverhältnis gedauert hätte. Der Lohn nach dem neuen Arbeitsverhältnis und die finanziellen Leistungen der Invalidenversicherung sowie von PUBLICA werden dabei angerechnet.
+5 Wird einer angestellten Person nach Artikel 31a Absatz 5 gekündigt, so besteht die Lohnfortzahlungspflicht nach Artikel 56 Absätze 1 und 2 so lange weiter, wie sie nach dem gekündigten Arbeitsverhältnis gedauert hätte. Der Lohn nach dem neuen Arbeitsverhältnis sowie die finanziellen Leistungen der Invalidenversicherung und der Pensionskasse des Bundes (Publica) werden dabei angerechnet.
 
 6 Bei befristeten Arbeitsverhältnissen endet die Lohnfortzahlung nach Artikel 56 Absätze 1 und 2 spätestens mit dem Ende des Arbeitsverhältnisses.

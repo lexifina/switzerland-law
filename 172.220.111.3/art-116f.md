@@ -4,4 +4,4 @@
 
 2 Die Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente von Angestellten, die beim Inkrafttreten der Änderung vom 20 Juni 2014 das 59. Altersjahr vollendet haben und bis spätestens am 31. Juli 2017 vorzeitig pensioniert werden, richtet sich nach bisherigem Recht.
 
-3 Für die Berechnung der Überbrückungsrente nach Artikel 88f werden die vor dem Inkrafttreten dieser Änderung anerkannten Anstellungsjahre und der daraus ermittelte durchschnittliche Beschäftigungsgrad nach bisherigem Recht angerechnet.
+3 Für die Berechnung der Überbrückungsrente nach Artikel 63e werden die vor dem Inkrafttreten dieser Änderung anerkannten Anstellungsjahre und der daraus ermittelte durchschnittliche Beschäftigungsgrad nach bisherigem Recht angerechnet.
