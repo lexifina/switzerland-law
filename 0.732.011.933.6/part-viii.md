@@ -1,0 +1,9 @@
+# VIII. Teil Abänderungen, Modifikationen, Inkrafttreten und Dauer
+
+31. Auf Antrag einer vertragschliessenden Partei haben die vertragschliessenden Parteien über eine Abänderung dieses Abkommens zu beraten. Ändert der Gouverneursrat das Dokument über die Kontrollmassnahmen oder den Geltungsbereich des Kontrollsystems, so ist dieses Abkommen abzuändern, falls die Regierungen zur Berücksichtigung einer oder aller dieser Modifikationen darum ersuchen. Ändert der Gouverneursrat das Dokument über die Inspektoren, so ist dieses Abkommen abzuändern, falls die Regierungen zur Berücksichtigung einer oder aller dieser Modifikationen darum ersuchen.
+
+32. Dieses Abkommen tritt in Kraft nach Unterzeichnung durch oder für den Generaldirektor der Organisation und durch die bevollmächtigten Vertreter der beiden Regierungen.
+
+33. Dieses Abkommen bleibt während der Dauer des Abkommens über die Zusammenarbeit, das von Zeit zu Zeit verlängert oder abgeändert werden kann, in Kraft, sofern es nicht früher von einer vertragschliessenden Partei mit sechsmonatiger Kündigungsfrist gegenüber den anderen vertragschliessenden Parteien oder auf eine anderweitig vereinbarte Weise beendet wird. Es kann auf Grund einer Vereinbarung zwischen den vertragschliessenden Parteien weiter verlängert und auch von jeder vertragschliessenden Partei mit sechsmonatiger Kündigungsfrist gegenüber den anderen vertragschliessenden Parteien oder auf eine anderweitig vereinbarte Weise vorzeitig beendet werden. Dieses Abkommen bleibt jedoch in bezug auf jedes in Abschnitt 10a) iii) oder 10d) erwähnte Kernmaterial so lange in Kraft, bis die Organisation beiden Regierungen anzeigt, dass sie die Kontrollmassnahmen, die dieses Material betreffen, gemäss Abschnitt 19 beendet hat.
+
+Geschehen zu Wien, am 28. Februar 1972, in dreifacher Ausfertigung in englischer Sprache.
