@@ -1,0 +1,3 @@
+# Art. VI
+
+Die Vereinbarung zwischen der Schweiz und den Vereinigten Staaten von Amerika über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge, abgeschlossen durch Notenaustausch in Bern am 13. Oktober 1961 und ergänzt durch Briefwechsel in Washington vom 7. Januar 1977, bleibt in Kraft, bis die in Artikel III beschriebenen Durchführungsverfahren über die Lufttüchtigkeit durch die Zivilluftfahrtbehörden der Vertragsparteien abgeschlossen worden sind, und wird sodann durch Notenwechsel aufgehoben. Im Falle einer Unvereinbarkeit zwischen der Vereinbarung von 1961 sowie deren Ergänzung von 1977 und der vorliegenden Vereinbarung werden sich die Vertragsparteien konsultieren.
