@@ -1,0 +1,11 @@
+# Präambel
+
+1. Die Genehmigung zur Errichtung neuer öffentlicher Überfahrten auf der obengedachten Strecke des Rheins sowie zum Eintritt eines neuen Unternehmers in den Betrieb einer bestehenden Überfahrt soll durch die zuständigen Behörden der angrenzenden Staaten nur erteilt werden, nachdem über die Errichtung der Fähre, beziehungsweise den Eintritt des neuen Unternehmers, sowie über die hierbei die gemeinsamen Interessen der angrenzenden Staaten berührenden Punkte eine Übereinstimmung zwischen den beiderseitigen Behörden erzielt worden ist.
+
+2. Die polizeilichen Vorschriften über die Einrichtung, den Betrieb und die Unter-haltung solcher öffentlicher Überfahrten sollen in allen Punkten, welche die gemeinsamen Interessen der angrenzenden Staaten berühren, übereinstimmend erlassen werden.
+
+Diejenigen Vorschriften, welche von den besonderen örtlichen Verhältnissen unabhängig sind und daher einheitlich für alle in Betracht kommenden Überfahrten geregelt werden können, sind für die gedachte Rheinstrecke nach den in der Anlage enthaltenen Bestimmungen übereinstimmend für beide angrenzende Staatsgebiete zu erlassen.
+
+Soweit ausserdem besondere polizeiliche Vorschriften für eine Überfahrt zu erlassen sind, sei es, dass für bestimmte Materien nach Landesrecht nur die Ortspolizei-behörde zur Erlassung zuständig ist, sei es, dass sich die Regelung durch die Ortspolizeibehörde mit Rücksicht auf die besondere örtliche Bedeutung der Vorschriften empfiehlt (z. B. bei Festsetzung der Überfahrtszeit und der Überfahrtstaxen, bei Regelung eigenartiger Fährsignale, der im Interesse der Zollverwaltung erforderlichen Beschränkungen), sollen sie nur erlassen werden, nachdem sich die zuständigen Behörden der angrenzenden Staaten, soweit die gemeinsamen Interessen in Frage stehen, über den Inhalt geeinigt haben.
+
+3. Die Überwachung des Betriebes und der Unterhaltung der Fähren auf obiger Rheinstrecke wird durch die beiderseits zuständigen Behörden von jeder für das Hoheitsgebiet des betreffenden Staates ausgeübt. Dabei werden sich die technischen Behörden der angrenzenden Staaten von Zeit zu Zeit, in der Regel einmal im Jahr, zum Zweck der Vornahme einer gemeinsamen Prüfung an Ort und Stelle miteinander ins Benehmen setzen.
