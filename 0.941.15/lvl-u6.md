@@ -1,0 +1,3 @@
+# Par. 6Ingangsetzung des Verfahrens
+
+Wendet sich ein teilnehmendes Mitglied oder ein Mitglied, dessen Institution Teilnehmer ist, an den Fonds wegen einer Ziehung oder einer Bereitschaftskredit-Vereinbarung oder einer Vereinbarung im Rahmen der Erweiterten Fondsfazilität und kommt der Geschäftsführende Direktor nach Beratung zu der Ansicht, dass die Ziehung oder die Bereitschaftskredit‑Vereinbarung oder die Vereinbarung im Rahmen der Erweiterten Fondsfazilität erforderlich ist, um einer Beeinträchtigung der internationalen Währungsordnung entgegenzuwirken oder sie abzuwenden, und dass die Mittel des Fonds zu diesem Zweck aufgestockt werden müssen, so setzt er das Abrufverfahren nach Paragraph 7 in Gang.

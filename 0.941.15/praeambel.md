@@ -1,0 +1,3 @@
+# Präambel
+
+Um den Internationalen Währungsfonds in die Lage zu versetzen, seine Rolle in der internationalen Währungsordnung wirkungsvoller zu erfüllen, haben die Hauptindustrieländer sich bereit erklärt, im Geiste weitgehender und bereitwilliger Zusammenarbeit den Fonds durch allgemeine Vereinbarungen zu stärken; sie sind danach bereit, ihm nach Artikel VII Abschnitt 1 des IWF-Übereinkommens Kredite bis zu bestimmten Höchstbeträgen zu gewähren, falls zusätzliche Mittel erforderlich sind, um einer Beeinträchtigung der internationalen Währungsordnung entgegenzuwirken oder sie abzuwenden. Um diese Absicht zu verwirklichen, werden aufgrund von Artikel VII Abschnitt 1 des IWF-Übereinkommens die folgenden Regeln und Bedingungen angenommen.

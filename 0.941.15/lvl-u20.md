@@ -1,0 +1,3 @@
+# Par. 20Auslegung
+
+Etwaige Auslegungsfragen, die im Zusammenhang mit diesem Beschluss auftreten und nicht in den Anwendungsbereich von Artikel XXIX des IWF‑Übereinkommens fallen, sind in gegenseitiger Übereinstimmung zwischen dem Fonds, dem die Frage aufwerfenden Teilnehmer und allen anderen Teilnehmer zu regeln. Im Sinne dieses Paragraphen 20 gelten als Teilnehmer auch jene früheren Teilnehmer, auf die die Paragraphen 8 bis einschliesslich 14, 17 und 18 b) nach Paragraph 19 c) weiterhin Anwendung finden, soweit ein derartiger früherer Teilnehmer durch eine sich ergebende Auslegungsfrage betroffen wird.

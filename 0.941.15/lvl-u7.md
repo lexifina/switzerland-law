@@ -1,0 +1,11 @@
+# Par. 7Abrufe
+
+a) Der Geschäftsführende Direktor schlägt Abrufe für eine Ziehung oder künftige Abrufe aufgrund einer Bereitschaftskredit-Vereinbarung oder einer Vereinbarung im Rahmen der Erweiterten Fondsfazilität nur nach Beratung mit Exekutivdirektoren und Teilnehmern vor. Ein Vorschlag wird nur wirksam, wenn er von den Teilnehmern angenommen und dann vom Exekutivdirektorium genehmigt worden ist. Jeder Teilnehmer teilt dem Fonds die Annahme des Vorschlags mit, der einen Abruf im Rahmen seiner Kreditvereinbarung betrifft.
+
+b) Die Währungen und Beträge, die im Rahmen einer oder mehrerer Kreditvereinbarungen abgerufen werden, sind zu bemessen nach der gegenwärtigen und voraussichtlichen Zahlungsbilanz‑ und Reserveposition der teilnehmenden Mitglieder oder der Mitglieder, deren Institutionen Teilnehmer sind, und nach den Beständen des Fonds in den betreffenden Währungen.
+
+c) Soweit in einem nach Paragraph 7 a) genehmigten Vorschlag für zukünftige Abrufe nichts anderes vorgesehen ist, werden Käufe aufgenommener Währungsbeträge im Rahmen einer Bereitschaftskredit-Vereinbarung oder einer Vereinbarung im Rahmen der Erweiterten Fondsfazilität in den Währungen der Teilnehmer im Verhältnis der im Vorschlag genannten Beträge getätigt.
+
+d) Teilt ein Teilnehmer, bei dem nach Paragraph 7 a) Beträge für die Käufe eines ziehenden Landes aufgrund einer Bereitschaftskredit-Vereinbarung oder einer Vereinbarung im Rahmen der Erweiterten Fondsfazilität abgerufen werden können, dem Fonds mit, dass nach seiner Ansicht aufgrund der gegenwärtigen und voraussichtlichen Zahlungsbilanz‑ und Reserveposition Abrufe bei ihm nicht mehr oder nur in geringerer Höhe getätigt werden sollten, so kann der Geschäftsführende Direktor anderen Teilnehmern vorschlagen, zum Ausgleich Mittel im Rahmen ihrer Kreditvereinbarungen zur Verfügung zu stellen; dieser Vorschlag unterliegt dann dem Verfahren nach Paragraph 7 a). Der ursprünglich nach Paragraph 7 a) genehmigte Vorschlag bleibt wirksam, bis ein Vorschlag zum Ausgleich der Beträge nach Paragraph 7 a) angenommen worden ist.
+
+e) Nimmt der Fonds einen Abruf nach diesem Paragraphen 7 vor, so hat der Teilnehmer die Überweisung nach den Angaben des Abrufs unverzüglich vorzunehmen.
