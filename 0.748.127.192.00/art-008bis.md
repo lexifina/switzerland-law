@@ -1,0 +1,7 @@
+# Art. 8bis Technische Sicherheit
+
+1. Jede Vertragspartei kann Beratungen über die von der anderen Vertragspartei aufrechterhaltenen Sicherheitsnormen bezüglich Luftfahrteinrichtungen, Besatzungen, Luftfahrzeuge und Betrieb des bezeichneten Unternehmens verlangen. Stellt eine Vertragspartei nach solchen Beratungen fest, dass in diesen Bereichen die andere Vertragspartei Sicherheitsstandards und Erfordernisse, die zumindest den Mindeststandards entsprechen, die aufgrund des Übereinkommens festgelegt werden können, nicht wirksam aufrechterhält und vollzieht, werden der anderen Vertragspartei diese Feststellungen und die notwendigen Schritte zur Erfüllung dieser Mindestnormen bekannt gegeben. Die andere Vertragspartei hat geeignete Massnahmen zur Abhilfe zu ergreifen. Unterlässt es die andere Vertragspartei, geeignete Massnahmen innerhalb vernünftiger Zeit zu ergreifen, und in jedem Fall innerhalb von fünfzehn (15) Tagen, berechtigt dies, Artikel 7 dieses Abkommens anzuwenden.
+
+2. Soweit für die Sicherheit des Flugbetriebes unmittelbarer Handlungsbedarf besteht, kann eine Vertragspartei nach Artikel 7 bereits vor solchen Beratungen Massnahmen ergreifen.
+
+3. Alle in Übereinstimmung mit den Absätzen 1 und 2 dieses Artikels von einer Vertragspartei ergriffenen Massnahmen werden aufgehoben, sobald sich die andere Vertragspartei gemäss den Sicherheitsbestimmungen dieses Artikels verhält.
