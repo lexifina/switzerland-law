@@ -1,0 +1,11 @@
+# Art. 13a
+
+(1) Dänische Staatsangehörige und ihre Hinterlassenen haben unter den gleichen Voraussetzungen wie schweizerische Staatsangehörige und deren Hinterlassene Anspruch auf die ordentlichen Renten und die Hilfslosenentschädigungen der schweizerischen Alters- und Hinterlassenenversicherung; die Absätze 2–4 bleiben vorbehalten.
+
+(2) Haben dänische Staatsangehörige oder deren Hinterlassene, die im Gebiet eines Staates, auf den die Verordnung Anwendung findet, wohnen, Anspruch auf eine ordentliche Teilrente, die höchstens 10 Prozent der entsprechenden ordentlichen Vollrente beträgt, so wird ihnen an Stelle der Teilrente eine einmalige Abfindung in der Höhe des Barwertes der Rente gewährt. Verlassen dänische Staatsangehörige oder deren Hinterlassene, die eine solche Teilrente bezogen haben, die Schweiz endgültig, um sich im Gebiet eines Staates, auf den die Verordnung Anwendung findet, niederzulassen, so wird ihnen ebenfalls eine entsprechende Abfindung gewährt, die dem Barwert der Rente im Zeitpunkt der Ausreise entspricht.
+
+(3) Beträgt die ordentliche Teilrente mehr als 10 Prozent, höchstens aber 20 Prozent der entsprechenden ordentlichen Vollrente, so können die dänischen Staatsangehörigen oder deren Hinterlassene, die im Gebiet eines Staates, auf den die Verordnung Anwendung findet, wohnen oder die die Schweiz endgültig verlassen, um sich im Gebiet eines Staates, auf den die Verordnung Anwendung findet, niederzulassen, zwischen der Ausrichtung der Rente oder einer Abfindung wählen. Diese Wahl ist im Verlaufe des Rentenfestsetzungsverfahrens zu treffen, falls sich die berechtigte Person bei Eintritt des Versicherungsfalles ausserhalb der Schweiz aufhält, oder bei Verlassen des Landes, falls sie in der Schweiz bereits eine Rente bezogen hat.
+
+(4) Nach Auszahlung der Abfindung durch die schweizerische Versicherung können gegenüber dieser Versicherung keine Ansprüche aus den bis dahin entrichteten Beiträgen mehr geltend gemacht werden.
+
+(5) Die Absätze 2–4 gelten sinngemäss für die ordentlichen Renten der schweizerischen Invalidenversicherung, soweit die rentenberechtigte Person das 55. Altersjahr zurückgelegt hat und in ihrem Fall keine Überprüfung der invaliditätsmässigen Voraussetzungen mehr vorgesehen ist.
