@@ -8,7 +8,7 @@
 
   - c. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
 
-  - cbis. vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329f Absatz 2;
+  - cbis. vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329f Absatz 2, höchstens aber während einer Verlängerung von 12 Wochen, oder während der Verlängerung des Urlaubs des andern Elternteils nach Artikel 329g Absatz 1bis;
 
   - cter. zwischen dem Beginn des Urlaubs nach Artikel 329f Absatz 3 und dem letzten bezogenen Urlaubstag, längstens aber während drei Monaten ab dem Ende der Sperrfrist nach Buchstabe c;
 
