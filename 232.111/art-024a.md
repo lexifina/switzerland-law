@@ -1,6 +1,6 @@
 # Art. 24a Form und Inhalt des Antrags
 
-Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke ist in zwei Exemplaren einzureichen und muss enthalten:
+Der Antrag auf Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke muss enthalten:
 
   - a. den Namen und Vornamen oder die Firma, die Adresse des Antragstellers und gegebenenfalls sein Zustellungsdomizil in der Schweiz;
 
