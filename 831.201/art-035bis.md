@@ -6,7 +6,7 @@
 
 2bis Minderjährige Versicherte, die sich zulasten einer Sozialversicherung in einer Heilanstalt aufhalten und nach Artikel 42bis Absatz 4 IVG Anspruch auf eine Hilflosenentschädigung haben, müssen die in dieser Bestimmung vorgesehene Bestätigung der Heilanstalt bei der Rechnungsstellung der IV-Stelle einreichen.
 
-2ter Minderjährige Versicherte, welche die Kosten für den Heimaufenthalt selber tragen, behalten ihren Anspruch auf eine Hilflosenentschädigung.
+2ter Minderjährige Versicherte, welche die Kosten für den Heimaufenthalt selber tragen, behalten ihren Anspruch auf die gesamte Hilflosenentschädigung.
 
 3 Als Aufenthalt in einer Institution gelten die Tage, für die die Invalidenversicherung die Kosten für den stationären Aufenthalt in einer Institution übernimmt.
 
