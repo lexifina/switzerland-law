@@ -6,4 +6,4 @@
 
 2bis Legen insbesondere Grösse, Struktur und Aufgaben eines Arbeitgebers den Zusammenschluss nach Absatz 1 oder einen Anschluss an das Vorsorgewerk Bund aus versicherungstechnischen oder vorsorgetechnischen Gründen nahe, so kann der Bundesrat den Zusammenschluss anordnen oder einem Anschlussbegehren zustimmen.
 
-3 Die Vorsorgewerke tragen die auf sie entfallenden Kosten selber. Bei gemeinschaftlichen Vorsorgewerken stellt PUBLICA nach Arbeitgebern getrennt Rechnung.
+3 Die Vorsorgewerke tragen die auf sie entfallenden Kosten selber. Bei gemeinschaftlichen Vorsorgewerken stellt Publica nach Arbeitgebern getrennt Rechnung.
