@@ -16,7 +16,7 @@
 
 5 Er muss auf Verlangen bekannt geben:
 
-  - a. der ElCom: die Mess- und Stammdaten sowie die Daten nach Absatz 4 in nicht anonymisierter Form für ihre Vollzugsaufgaben im Rahmen des StromVG;
+  - a. der ElCom: die Messdaten, die Stammdaten und die Daten nach Absatz 4 in nicht anonymisierter Form für ihre Vollzugsaufgaben im Rahmen des StromVG oder des Bundesgesetzes vom 21. März 2025 über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten;
 
   - b. dem Bundesamt für Energie (BFE): die Mess- und Stammdaten sowie die Daten nach Absatz 4 in pseudonymisierter Form für statistische Auswertungen;
 
