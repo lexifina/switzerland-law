@@ -1,0 +1,3 @@
+# Art. 2 Behandlung
+
+Schweizerische Staatsangehörige und Gesellschaften können sich nicht auf die Inländerbehandlung gemäss Artikel 4 Absatz 2 des Abkommens berufen, um in den Genuss von Förderungsmassnahmen zu kommen (Krediterleichterungen, Geschenke, Ausrüstungsbeihilfen, Garantien oder Versicherungen), die von der Regierung des Königreichs Marokko in Anwendung seiner Gesetzgebung im Bereich der nationalen Entwicklungspolitik den eigenen Staatsangehörigen und Gesellschaften gewährt werden, wobei Einvernehmen darüber besteht, dass solche Massnahmen die Investitionen von schweizerischen Staatsangehörigen und Gesellschaften in ihrem Daseinsgrund nicht beeinträchtigen dürfen.
