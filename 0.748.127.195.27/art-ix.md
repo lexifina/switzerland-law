@@ -1,0 +1,5 @@
+# Art. IX
+
+1. Die Lufttüchtigkeitsausweise, die Fähigkeitszeugnisse und Bewilligungen, welche durch die eine der Vertragsparteien ausgestellt oder anerkannt worden sind, werden während der Zeit, in der sie in Kraft sind, durch die andere Vertragspartei als gültig anerkannt.
+
+2. Jede Vertragspartei behält sich indessen das Recht vor, für den Verkehr über ihrem eigenen Gebiet die durch die andere Vertragspartei oder durch einen anderen Staat ihren eigenen Staatsangehörigen ausgestellten oder zu deren Gunsten anerkannten Fähigkeitszeugnisse und Bewilligungen nicht als gültig anzuerkennen.

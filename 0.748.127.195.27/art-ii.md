@@ -1,0 +1,11 @@
+# Art. II
+
+1. Jede Vertragspartei gewährt der anderen Vertragspartei die in diesem Abkommen festgelegten Rechte für die Errichtung von Luftverkehrslinien auf den in den Linienplänen des Anhangs zu diesem Abkommen festgelegten Strecken. Diese Linien und Strecken werden nachstehend «vereinbarte Linien» und «festgelegte Strecken» genannt.
+
+2. Unter Vorbehalt der Bestimmungen dieses Abkommens geniesst die von jeder Vertragspartei bezeichnete Unternehmung beim Betrieb einer internationalen Luftverkehrslinie die nachstehenden Vorrechte:
+
+  - a. das Recht, das Gebiet der anderen Vertragspartei ohne Landung zu überfliegen;
+
+  - b. das Recht, auf dem genannten Gebiet nichtkommerzielle Landungen vorzunehmen;
+
+  - c. das Recht, auf dem genannten Gebiet an den im Anhang festgelegten Punkten im internationalen Verkehr Fluggäste, Fracht und Postsendungen aufzunehmen und abzusetzen.

@@ -1,0 +1,3 @@
+# Art. VII
+
+Die Fluggäste, das Gepäck und die Fracht, die sich im direkten Durchgangsverkehr durch das Gebiet einer Vertragspartei befinden und die ihnen vorbehaltene Zone des Flughafens nicht verlassen, werden nur einem sehr vereinfachten Zollverfahren unterworfen. Das Gepäck und die Fracht im direkten Durchgangsverkehr sind von Zollgebühren und anderen ähnlichen Abgaben befreit.

@@ -1,0 +1,7 @@
+# Art. VI
+
+Brennstoffe, Schmierstoffe, Ersatzteile, Gegenstände der normalen Ausrüstung und Bordvorräte, welche von oder auf Rechnung der einen Vertragspartei oder ihrer bezeichneten Unternehmung in das Gebiet der anderen Vertragspartei eingeführt oder auf deren Gebiet an Bord genommen werden und ausschliesslich für den Verbrauch durch die Luftfahrzeuge oder an Bord der Luftfahrzeuge dieser Unternehmung bestimmt sind, sollen, was Zölle, Revisionsgebühren und andere ähnliche nationale und örtliche Abgaben und Gebühren betrifft, von dieser Vertragspartei wie folgt behandelt werden:
+
+  - a. für die Brennstoffe und Schmierstoffe, welche in dem vor Verlassen des genannten Gebietes zuletzt angeflogenen Flughafen an Bord der Luftfahrzeuge bleiben, Befreiung; und
+
+  - b. für die in Buchstabe a nicht eingeschlossenen Brennstoffe und Schmierstoffe sowie für die Ersatzteile, Gegenstände der normalen Ausrüstung und Bordvorräte eine nicht weniger günstige Behandlung als jene, welche gleichen Sachen gewährt wird, die in das genannte Gebiet eingeführt oder auf diesem Gebiet an Bord genommen werden und für den Verbrauch durch die Luftfahrzeuge oder an Bord der Luftfahrzeuge der nationalen Luftverkehrsunternehmung dieser anderen Vertragspartei oder der meistbegünstigten Unternehmung, die sich am internationalen Luftverkehr beteiligt, bestimmt sind. Diese Behandlung wird in Ergänzung und unbeschadet der Behandlung gewährt, zu welcher jede Vertragspartei nach Artikel 24 des Abkommens von Chikago verpflichtet ist.

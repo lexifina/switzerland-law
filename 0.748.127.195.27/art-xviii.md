@@ -1,0 +1,3 @@
+# Art. XVIII
+
+Jede Vertragspartei kann der anderen jederzeit anzeigen, dass sie dieses Abkommen zu beendigen wünsche. Eine solche Anzeige soll gleichzeitig an die Internationale Zivilluftfahrtorganisation gerichtet werden. Nach einer solchen Anzeige endigt dieses Abkommen zwölf Monate nach dem Zeitpunkt, an dem die andere Vertragspartei die Anzeige erhalten hat, es sei denn, die Kündigungsanzeige werde im Einvernehmen vor Ablauf dieser Frist zurückgezogen. Fehlt die Empfangsbestätigung der anderen Vertragspartei, so gilt die Anzeige als erhalten vierzehn Tage nach dem Empfang der Anzeige bei der Internationalen Zivilluftfahrtorganisation.
