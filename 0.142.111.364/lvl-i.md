@@ -1,0 +1,11 @@
+# I
+
+1. Deutsche haben nach einem ununterbrochenen ordnungsgemässen Aufenthalt von fünf Jahren in der Schweiz Anspruch auf Erteilung der Niederlassungsbewilligung im Sinne des Artikels 6 des schweizerischen Bundesgesetzes über Aufenthalt und Niederlassung der Ausländer vom 26. März 1931, abgeändert am 8. Oktober 1948. Diese Bewilligung gibt ihnen das unbefristete, an keine Bedingung geknüpfte Recht, sich im ganzen Gebiet der Schweiz aufzuhalten und unter den gleichen Voraussetzungen wie Schweizer jede berufliche Tätigkeit auszuüben sowie die Arbeitsstelle oder den Beruf zu wechseln, insbesondere von einer unselbständigen zu einer selbständigen Tätigkeit oder umgekehrt überzugehen. Die Freiheit der Berufsausübung erstreckt sich nicht auf Berufe, die auf Grund gesetzlicher Vorschrift Schweizern vorbehalten sind.
+
+2. Schweizer haben nach einem ununterbrochenen ordnungsgemässen Aufenthalt von fünf Jahren in der Bundesrepublik Deutschland Anspruch auf Erteilung eines unbefristeten und unbeschränkten Aufenthaltsrechts und, sofern sie Arbeitnehmer sind oder werden wollen, Anspruch auf Erteilung einer unbefristeten und unbeschränkten Arbeitserlaubnis. Sie erhalten hierdurch das Recht, sich im ganzen Gebiet der Bundesrepublik Deutschland aufzuhalten und unter den gleichen Voraussetzungen wie Deutsche jede berufliche Tätigkeit auszuüben sowie die Arbeitsstelle oder den Beruf zu wechseln, insbesondere von einer unselbständigen zu einer selbständigen Tätigkeit oder umgekehrt überzugehen. Die Freiheit der Berufsausübung erstreckt sich nicht auf Berufe, die auf Grund gesetzlicher Vorschrift Deutschen vorbehalten sind.
+
+3. Auf die in den Absätzen 1 und 2 erwähnten Rechte und Vorteile haben auch der Ehegatte und die Kinder unter 18 Jahren des Begünstigten Anspruch, sofern sie mit ihm in Haushaltsgemeinschaft leben. Sie behalten diese Rechte und Vorteile nach Auflösung der Haushaltsgemeinschaft.
+
+4. Die fünfjährige Frist nach den Absätzen 1 und 2 gilt nicht als unterbrochen, wenn der Ausländer aus einem seiner Natur nach vorübergehenden Grunde vom Aufenthaltsstaat abwesend ist.
+
+5. Angehörige des einen Staates, die sich nur aus einem seiner Natur nach vorübergehenden Grunde, z. B. zu Studien‑ oder Heilzwecken, in das Gebiet des anderen Staates begeben oder sich dort aufhalten, können die vorstehenden Vergünstigungen nicht in Anspruch nehmen.
