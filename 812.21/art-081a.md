@@ -12,7 +12,7 @@
 
   - c. die Wahl und die Abberufung der Revisionsstelle;
 
-  - d. die Genehmigung der Personal- und der Gebührenverordnung sowie des Anschlussvertrages mit der PUBLICA;
+  - d. die Genehmigung der Personal- und der Gebührenverordnung, des Anschlussvertrages mit Publica sowie der Bestimmungen über die Finanzierung der beruflichen Vorsorge;
 
   - e. die Genehmigung des Geschäftsberichts und den Beschluss über die Verwendung eines allfälligen Gewinns;
 

@@ -26,10 +26,12 @@
 
   - l. Er genehmigt die Geschäftsplanung und den Voranschlag.
 
-  - m. Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (PUBLICA) ab und unterbreitet ihn dem Bundesrat zur Genehmigung.
+  - m. Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (Publica) ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.
 
   - n. Er regelt die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs für das Vorsorgewerk.
 
   - o. Er erlässt reglementarische Bestimmungen, welche die Unabhängigkeit der vom Institut beauftragten Expertinnen und Experten gewährleisten.
+
+  - p. Er erlässt die Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.
 
 2 Die Mitglieder des Institutsrats müssen ihre Aufgaben und Pflichten mit aller Sorgfalt erfüllen und die Interessen des Instituts in guten Treuen wahren. Der Institutsrat trifft die organisatorischen Vorkehren zur Wahrung der Interessen des Instituts und zur Verhinderung von Interessenkollisionen.
