@@ -16,7 +16,9 @@
 
   - g. der Bewirtschafter oder die Bewirtschafterin eine bestimmte Altersgrenze nicht überschreitet;
 
-  - h. der Bewirtschafter oder die Bewirtschafterin über eine landwirtschaftliche Ausbildung verfügt.
+  - h. der Bewirtschafter oder die Bewirtschafterin über eine landwirtschaftliche Ausbildung verfügt;
+
+  - i. die Ehefrau, der Ehemann, die eingetragene Partnerin oder der eingetragene Partner des Bewirtschafters oder der Bewirtschafterin, sofern sie oder er regelmässig und in beträchtlichem Masse auf dem Betrieb mitarbeitet, über einen persönlichen Sozialversicherungsschutz verfügt.
 
 2 Der ökologische Leistungsnachweis umfasst:
 
@@ -46,7 +48,9 @@
 
   - e. kann für die Biodiversitäts- und für die Landschaftsqualitätsbeiträge Ausnahmen von Absatz 1 Buchstabe a festlegen;
 
-  - f. bestimmt Grenzwerte in Bezug auf die Fläche je Betrieb, ab denen die Beiträge abgestuft oder reduziert werden.
+  - f. bestimmt Grenzwerte in Bezug auf die Fläche je Betrieb, ab denen die Beiträge abgestuft oder reduziert werden;
+
+  - g. konkretisiert den Sozialversicherungsschutz nach Absatz 1 Buchstabe i.
 
 4 Der Bundesrat kann für die Ausrichtung der Direktzahlungen weitere Voraussetzungen und Auflagen festlegen.
 
