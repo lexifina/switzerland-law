@@ -1,0 +1,3 @@
+# Art. V (Zu Artikel 10 des Übereinkommens)
+
+Für die Unterbrechung der Verjährung sind allein die Rechtsvorschriften des ersuchenden Staates massgebend.

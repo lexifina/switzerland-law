@@ -1,0 +1,3 @@
+# Art. XV (Zu Artikel 23 des Übereinkommens)
+
+Übersetzungen von Ersuchen, die nach dem Übereinkommen oder diesem Vertrag gestellt werden, sowie von beigefügten Unterlagen können nicht gefordert werden.

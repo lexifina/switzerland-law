@@ -1,0 +1,9 @@
+# Art. X (Zu Artikel 16 des Übereinkommens)
+
+(1) Ersuchen um vorläufige Verhaftung können gestellt werden
+
+  - – auf schweizerischer Seite durch die Gerichte, die Strafverfolgungs‑ und Strafvollzugsbehörden sowie das Bundesamt für Justiz,
+
+  - – auf österreichischer Seite durch die Gerichte, die Staatsanwaltschaften sowie den Bundesminister für Justiz und den Bundesminister für Inneres.
+
+(2) Die Angabe der strafbaren Handlung im Ersuchen hat eine kurze Darstellung des Sachverhalts zu umfassen.
