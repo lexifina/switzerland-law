@@ -245,5 +245,3 @@ Vor allem in Anbetracht dessen, dass die Stetigkeit gerade nach dem Wortlaute de
 Demnach setzen die Schiedsrichter
 
 das beiliegende Reglement nebst Anlage für die Einfuhr der Erzeugnisse der Freizonen in die Schweiz fest.
-
-So geschehen und unterzeichnet am 1. Dezember 1933, in drei Ausfertigungen, von denen je eine der französischen und der schweizerischen Regierung zuzustellen sind.
