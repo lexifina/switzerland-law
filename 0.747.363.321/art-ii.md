@@ -6,7 +6,7 @@
 
   - a) Unterzeichnung ohne Vorbehalt hinsichtlich Ratifikation, Annahme oder Genehmigung;
 
-  - b) Unterzeichnung unter Vorbehalt der Ratifikation, Annahme oder Genehmigung, gefolgt von Ratifikation, Annahme oder Genehmigung, oder
+  - b) Unterzeichnung unter Vorbehalt der Ratifikation, Annahme oder Genehmigung, gefolgt von Ratifikation, Annahme oder Genehmigung; oder
 
   - c) Beitritt.
 
