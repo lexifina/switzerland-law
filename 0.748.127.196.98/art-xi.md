@@ -1,0 +1,3 @@
+# Art. XI
+
+Jede Vertragspartei kann jederzeit der andern Vertragspartei anzeigen, sie wünsche dieses Abkommen aufzuheben. Die gleiche Anzeige ist gleichzeitig an die Internationale Zivilluftfahrtorganisation zu richten. In solchen Fällen endigt das Abkommen zwölf Monate nach Empfang der Kündigungsanzeige durch die andere Vertragspartei, es sei denn, die Kündigung werde in gegenseitigem Einvernehmen vor Ablauf dieser Frist zurückgezogen. Erfolgt keine Empfangsbestätigung durch die andere Vertragspartei, so gilt die Kündigungsanzeige vierzehn Tage nach dem Datum ihres Empfanges bei der Internationalen Zivilluftfahrtorganisation als empfangen.
