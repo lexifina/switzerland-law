@@ -1,0 +1,5 @@
+# Art. VII
+
+(1) Kernmaterial, Material, Ausrüstungen und Technologie, welche diesem Abkommen unterstellt sind, werden nicht zur Herstellung oder sonstwie zum Erwerb von Kernwaffen oder anderen Kernsprengkörpern verwendet werden. Die Nutzung, Entwicklung oder Anwendung von Kernenergie für friedliche Zwecke werden die Entwicklung, Herstellung, der Erwerb oder die Sprengung von Kernsprengkörpern nicht einschliessen.
+
+(2) In bezug auf das Kernmaterial wird die in Absatz (1) dieses Artikels enthaltene Verpflichtung gemäss den Kontrollabkommen verifiziert werden, welche jede Partei mit der Internationalen Atomenergie Agentur im Zusammenhang mit dem Atomsperrvertrag abgeschlossen hat. Wenn jedoch die Agentur aus irgendeinem Grunde die Kontrollen auf dem Territorium der einen Partei nicht durchführt, wird diese Partei unverzüglich mit der andern Partei eine Vereinbarung treffen über die Einführung solcher Kontrollen oder eines solchen Kontrollsystems, das den Prinzipien und Verfahren des Kontrollsystems der Agentur entspricht und die Anwendung von Kontrollen auf alle Güter gewährleistet, welche diesem Abkommen unterliegen.
