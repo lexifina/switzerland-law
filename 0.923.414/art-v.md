@@ -1,0 +1,3 @@
+# Art. V
+
+In denjenigen Strecken der Nebenflüsse des Rheins, in welchen sich geeignete Laichstellen für den Lachs finden, und im oberen Stromlauf des Rheins selbst von Mannheim-Ludwigshafen an aufwärts bis zum Fall von Schaffhausen soll die Lachsfischerei während der Dauer von mindestens 6 Wochen innerhalb der Zeit vom 15. Oktober bis 31. Dezember nur mit ausdrücklicher obrigkeitlicher Genehmigung betrieben und diese nur erteilt werden dürfen, wenn die Benutzung der Fortpflanzungselemente (Rogen und Milch) der gefangenen laichreifen oder der Laichreife nahestehenden Lachse zum Zwecke der künstlichen Fischzucht gesichert ist. Unter dieser Voraussetzung darf die Lachsfischerei auch während der wöchentlichen Schonzeit (Artikel IV) obrigkeitlich gestattet werden.
