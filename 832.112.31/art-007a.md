@@ -1,10 +1,14 @@
 # Art. 7a Beiträge
 
-1 Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buchstaben a und b folgende Beiträge an die Kosten der Leistungen nach Artikel 7 Absatz 2 pro Stunde:
+1 Die Versicherung übernimmt für Leistungserbringer nach Artikel 7 Absatz 1 Buchstaben a und b pro Stunde folgende Beiträge an die Kosten der Leistungen:
 
   - a. für Leistungen nach Artikel 7 Absatz 2 Buchstabe a: 76.90 Franken;
 
+  - abis. für Leistungen nach Artikel 7 Absatz 2 Buchstabe abis: 112.90 Franken;
+
   - b. für Leistungen nach Artikel 7 Absatz 2 Buchstabe b: 63.00 Franken;
+
+  - bbis. für Leistungen nach Artikel 7 Absatz 2 Buchstabe bbis: 99.00 Franken;
 
   - c. für Leistungen nach Artikel 7 Absatz 2 Buchstabe c: 52.60 Franken.
 
@@ -35,5 +39,7 @@
   - k. bei einem Pflegebedarf von 201 bis 220 Minuten: 105.60 Franken;
 
   - l. bei einem Pflegebedarf von mehr als 220 Minuten: 115.20 Franken.
+
+3bis Der Beitrag nach Absatz 3 erhöht sich um 37.00 Franken pro Tag, wenn der Leistungserbringer nach Artikel 7 Absatz 1 Buchstabe c Leistungen der spezialisierten Palliativpflege nach Artikel 7 Absatz 2 Buchstaben abis und bbis erbringt.
 
 4 Die Versicherung übernimmt für Tages- oder Nachtstrukturen nach Artikel 7 Absatz 2ter die Beiträge nach Absatz 3 an die Kostender Leistungen nach Artikel 7 Absatz 2 pro Tag oder Nacht.
