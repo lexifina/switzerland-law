@@ -1,0 +1,5 @@
+# Art. III (Zu Artikel 7 Ziffer 1 und Artikel 8 des Übereinkommens)
+
+1 Der ersuchte Staat ist aufgrund dieses Vertrages berechtigt, die Auslieferung wegen Handlungen zu bewilligen, die auch seiner Gerichtsbarkeit unterliegen, wenn der Verfolgte wegen anderer strafbarer Handlungen ausgeliefert wird und seine gleichzeitige Aburteilung durch eine Justizbehörde des ersuchenden Staates angebracht erscheint. Das gilt auch für Nachtragsersuchen um Zustimmung zur weiteren Strafverfolgung.
+
+2 Unter den Voraussetzungen des Absatzes 1 ist der ersuchte Staat aufgrund dieses Vertrages ferner berechtigt, wegen strafbarer Handlungen, die auch seiner Gerichtsbarkeit unterliegen, einer Weiterlieferung zuzustimmen. Hat einer der beiden Staaten einen dritten Staat um die Auslieferung eines eigenen Staatsangehörigen wegen einer Handlung ersucht, die auch der Gerichtsbarkeit des andern Staates unterliegt, so ist dieser berechtigt, anstatt den dritten Staat um Auslieferung den Heimatstaat um Übernahme der Strafverfolgung zu ersuchen.
