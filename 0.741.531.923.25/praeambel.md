@@ -1,0 +1,19 @@
+# Präambel
+
+Übersetzung
+
+Sehr geehrter Herr Pillonel
+
+Als Leiter der Motorfahrzeugregistrierung der Provinz Neufundland und Labrador habe ich das Vergnügen, Sie über unseren Entscheid zu informieren, dass der Schweizer Führerausweis Kategorie B in der Provinz Neufundland und Labrador fortan zum Austausch gegen einen Führerausweis der entsprechenden Kategorie gemäss «The Highway Traffic» (Fahrzeugführer-Bestimmungen) zulässig ist.
+
+Einzelpersonen mit Wohnsitz in unserem Verwaltungsgebiet sind befugt, die Schweizer Kategorie B oder höher gegen den Class-5- oder «Grund»-Führerausweis (und nicht höher) von Neufundland und Labrador auszutauschen. Fahrzeugführer mit zusätzlicher Motorradzulassung erhalten zur Motorradzulassung nach erfolgreichem Sehtest einen «06»-Zusatz in ihrem Class-5-Ausweis.
+
+Schriftliche Theorieprüfung, Lernfahrzeit und praktische Prüfung sind dabei für Inhaber eines Schweizer Führerausweises der Kategorie B oder höher, sowie für Schweizer Motorradfahrer-Ausweisinhaber hinfällig. Bei Letzteren bleibt der Sehtest jedoch zwingend.
+
+Diese Bestimmungen zum Führerausweistausch treten nur in Kraft, falls sich die Schweiz einverstanden erklärt, Inhabern von Class-5- oder höheren Ausweisen von Neufundland und Labrador, die sich in der Schweiz niederlassen, prüfungsfrei einen Schweizer B-Ausweis auszustellen. Ebenso ist Inhabern eines Ausweises mit «06»-Zusatz prüfungsfrei ein Schweizer A-Ausweis auszustellen.
+
+Wir bitten Sie, Ihr Einverständnis mit diesen Vorgaben unterschriftlich zu bestätigen und ein Exemplar mittels des beigelegten Briefumschlags zu meinen Händen zurückzuschicken.
+
+Zur Kenntnis genommen und gutgeheissen am 2. November 2004:
+
+Werner Jeger, Vizedirektor, Bundesamt für Strassen, Bern
