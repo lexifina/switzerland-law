@@ -4,6 +4,6 @@
 
 2 Invalidenleistungen werden ausgerichtet, wenn die versicherte Person nach Artikel 23 BVG anspruchsberechtigt wird und die Lohnzahlungen des Arbeitgebers durch Beendigung des Anstellungsverhältnisses beziehungsweise die sie ersetzenden Versicherungsleistungen aufhören.
 
-2bis Liegt keine Invalidität nach Absatz 2 vor und besteht nach medizinischer Untersuchung durch den zuständigen ärztlichen Dienst lediglich eine Berufsinvalidität, so kann PUBLICA auf Antrag des Arbeitgebers Invalidenleistungen ausrichten, wenn Eingliederungsmassnahmen erfolglos geblieben sind. Der Arbeitgeber vergütet PUBLICA das dazu notwendige Deckungskapital.
+2bis Liegt keine Invalidität nach Absatz 2 vor und besteht nach medizinischer Untersuchung durch den zuständigen ärztlichen Dienst lediglich eine Berufsinvalidität, so kann Publica auf Antrag des Arbeitgebers Invalidenleistungen ausrichten, wenn Eingliederungsmassnahmen erfolglos geblieben sind. Der Arbeitgeber vergütet Publica das dazu notwendige Deckungskapital.
 
-3 Die Leistungen bei Invalidität und Tod basieren auf dem Altersguthaben, das bis zum Ende der Beitragspflicht gemäss AHVG erworben werden kann. Die Vorsorgereglemente können für die Ermittlung dieses Guthabens einen Projektionszins vorsehen.
+3 Die Leistungen bei Invalidität und Tod können nach dem Beitrags- oder Leistungsprimat oder einer Kombination davon definiert werden. Wenn die Leistungen nach dem Beitragsprimat definiert werden, können die Vorsorgereglemente für das Altersguthaben einen Projektionszins vorsehen.

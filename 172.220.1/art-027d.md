@@ -1,6 +1,6 @@
-# Art. 27d Dossier der Personal- und Sozialberatung
+# Art. 27d Datenbearbeitung durch die PSB
 
-1 Die Personal- und Sozialberatung der Bundesverwaltung (PSB) bearbeitet in Papierform und in einem Informationssystem die Daten der Personen, die an sie gelangen (Klientinnen und Klienten), für:
+1 Die PSB bearbeitet die Daten der Personen, die an sie gelangen (Klientinnen und Klienten), für:
 
   - a. die Beratung und Unterstützung der Klientinnen und Klienten in den Bereichen Arbeit, Soziales, Gesundheit und Finanzen;
 
@@ -8,21 +8,13 @@
 
   - c. die Mittelzuteilung für die berufliche Integration von Menschen mit Behinderungen in die Bundesverwaltung;
 
-  - d. die Fallführung (Case Management).
+  - d. das Case Management.
 
-2 Die PSB kann die folgenden zur Erfüllung ihrer Aufgaben notwendigen Personendaten der Klientinnen und Klienten, einschliesslich besonders schützenswerter Personendaten, bearbeiten:
+2 Sie kann zur Erfüllung ihrer Aufgaben die erforderlichen besonders schützenswerten Personendaten nach Artikel 5 Buchstabe c Ziffern 1, 2, 5 und 6 DSG der Klientinnen und Klienten bearbeiten.
 
-  - a. private Situation;
+3 …
 
-  - b. gesundheitliche Situation;
-
-  - c. Leistungsfähigkeit;
-
-  - d. Grund und Grad der Invalidität.
-
-3 Die Angestellten der PSB und die für den technischen Support verantwortlichen Dienststellen erhalten Zugriff auf das Informationssystem, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
-
-4 Die PSB kann den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten zugänglich machen, sofern sie diese zur Erfüllung ihrer Aufgaben benötigen:
+4 Sie darf den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten zugänglich machen, sofern sie diese für die Erfüllung ihrer Aufgaben benötigen:
 
   - a. den direkten Vorgesetzen;
 
@@ -30,20 +22,20 @@
 
   - c. den zuständigen Stellen der IV, der SUVA und der Militärversicherung;
 
-  - d. dem ärztlichen Dienst der Bundesverwaltung;
+  - d. den vom Arbeitgeber beigezogenen Ärztinnen und Ärzten;
 
   - e. dem Eidgenössischen Personalamt im Rahmen der Mittelzuteilung für die berufliche Integration von Menschen mit Behinderungen;
 
   - f. den Mitgliedern des Fondsrates des Unterstützungsfonds für das Bundespersonal.
 
-5 Die PSB ist verantwortlich für den Schutz der Daten und die Sicherheit des Informationssystems.
+5 Die PSB ist verantwortlich für den Schutz und die Sicherheit der Daten.
 
 6 Der Bundesrat erlässt Ausführungsbestimmungen über:
 
-  - a. die Organisation und den Betrieb des Informationssystems;
+  - a. die Verantwortlichkeit der Bearbeitungstätigkeit;
 
   - b. die Bearbeitung der Daten, insbesondere die Beschaffung, Aufbewahrung, Bekanntgabe, Archivierung und Vernichtung;
 
-  - c. die Berechtigungen zur Datenbearbeitung;
+  - c. …
 
   - d. die Datenkataloge.

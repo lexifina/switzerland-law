@@ -20,4 +20,4 @@
 
 5 Die Grundsätze nach den Absätzen 1–4 gelten auch für Unternehmen, welche von Unternehmen und Anstalten, die diesem Gesetz unterstellt sind, kapital- und stimmenmässig beherrscht werden und ihren Sitz in der Schweiz haben.
 
-6 Der Bundesrat sorgt dafür, dass die Grundsätze nach den Absätzen 1–5 für alle privatrechtlichen Unternehmen sinngemäss angewendet werden, die der Bund kapital- und stimmenmässig beherrscht und die ihren Sitz in der Schweiz haben. Ausgenommen sind Gesellschaften, deren Aktien an einer Börse kotiert sind. Für diese gelten die Artikel 663bbis und 663c Absatz 3 OR.
+6 Der Bundesrat sorgt dafür, dass die Grundsätze nach den Absätzen 1–5 für alle privatrechtlichen Unternehmen sinngemäss angewendet werden, die der Bund kapital- und stimmenmässig beherrscht und die ihren Sitz in der Schweiz haben. Ausgenommen sind Gesellschaften, deren Aktien an einer Börse kotiert sind; für diese gelten die Artikel 734–734f OR.
