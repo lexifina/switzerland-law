@@ -8,7 +8,7 @@
 
 4 Systemrelevante Banken reichen den Liquiditätsnachweis monatlich innert 15 Kalendertagen ab dem letzten Kalendertag des Monats bei der SNB ein.
 
-5 Die FINMA setzt gesonderte Meldepflichten für Banken fest, die:
+5 Die FINMA kann gesonderte Meldepflichten für Banken festsetzen, die:
 
   - a. Positionen in wesentlichen Fremdwährungen nach Artikel 17a Absatz 1 halten;
 

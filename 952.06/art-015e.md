@@ -2,7 +2,11 @@
 
 1 Besicherte Finanzierungsgeschäfte werden glattgestellt, wenn sie den Austausch von HQLA beinhalten und innert 30 Kalendertagen fällig werden.
 
-2 Als besicherte Finanzierungsgeschäfte gelten Sicherheitenswaps und Wertpapierfinanzierungen wie Repo-Geschäfte, Wertpapierleihgeschäfte und Wertpapierkredite.
+2 Als besicherte Finanzierungsgeschäfte gelten:
+
+  - a. Sicherheitenswaps;
+
+  - b. Wertpapierfinanzierungen wie Repo-Geschäfte, Wertpapierleihgeschäfte und Wertpapierkredite, mit Ausnahme von verpfändeten Wertpapierdepots im Privatkundengeschäft.
 
 3 Liquiditätsabschöpfende Geschäfte der SNB werden unabhängig von der Art der Besicherung glattgestellt, falls sie innert 30 Kalendertagen fällig werden. Liquiditätszuführende Geschäfte der SNB werden nur glattgestellt, wenn sie durch HQLA besichert sind und innert 30 Kalendertagen fällig werden.
 

@@ -1,6 +1,6 @@
 # Art. 17l Bestimmung der Restlaufzeit von Eigenkapitalinstrumenten und Verbindlichkeiten
 
-1 Bestehen bei Eigenkapitalinstrumenten und Verbindlichkeiten für die Anlegerinnen und Anleger oder die Gläubigerinnen und Gläubiger Optionen auf Kündigung, vorzeitigen Rückkauf oder Auflösung, so ist für die Bestimmung der Restlaufzeit davon auszugehen, dass die Optionen zum frühestmöglichen Zeitpunkt ausgeübt werden.
+1 Bestehen bei Eigenkapitalinstrumenten und Verbindlichkeiten für die Anlegerinnen und Anleger oder die Gläubigerinnen und Gläubiger Optionen auf Kündigung, vorzeitigen Rückkauf oder Auflösung, so ist für die Bestimmung der Restlaufzeit davon auszugehen, dass die Optionen zum frühestmöglichen Zeitpunkt ausgeübt werden. Bei durch die SNB gewährten Liquiditätsunterstützungen kann die FINMA auf Antrag der Bank und mit Einverständnis der SNB eine Restlaufzeit von einem Jahr oder mehr für anrechenbar erklären.
 
 2 Besteht die Markterwartung von Anlegerinnen und Anlegern oder Gläubigerinnen und Gläubigern, dass die Bank namentlich aus Reputationsgründen Optionen zum Rückkauf von Eigenkapitalinstrumenten und von Verbindlichkeiten vor der vertraglich vereinbarten Fälligkeit ausübt, so sind die Eigenkapitalinstrumente und Verbindlichkeiten der ASF-Kategorie nach Anhang 4 zuzuweisen, die der erwarteten verkürzten Restlaufzeit entspricht.
 

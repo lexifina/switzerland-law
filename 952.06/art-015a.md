@@ -26,7 +26,9 @@
 
   - cbis. marktgängige Wertpapiere, die von den Institutionen nach Buchstabe c garantiert werden;
 
-  - d. marktgängige Wertpapiere, die Forderungen gegenüber einer Zentralregierung oder einer Zentralbank in Landeswährung darstellen, die von der betreffenden Zentralregierung oder der Zentralbank in dem Land, in dem das Liquiditätsrisiko anfällt, oder im Herkunftsland der Bank begeben werden, wenn die Zentralregierung ein Risikogewicht von mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV aufweist; sowie
+  - d. marktgängige Wertpapiere, die Forderungen gegenüber einer Zentralregierung oder einer Zentralbank in Landeswährung darstellen, die von der betreffenden Zentralregierung oder der Zentralbank in dem Land, in dem das Liquiditätsrisiko anfällt, oder im Herkunftsland der Bank begeben werden, wenn die Zentralregierung ein Risikogewicht von mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV aufweist;
+
+  - dbis. marktgängige Wertpapiere, die Forderungen gegenüber Kantonen in Schweizerfranken darstellen; und
 
   - e. marktgängige Wertpapiere, die Forderungen gegenüber der Eidgenossenschaft oder der Schweizerischen Nationalbank (SNB) in Fremdwährung darstellen, bis zur Höhe des stressbedingten Nettomittelabflusses in der betreffenden Fremdwährung, in der das Liquiditätsrisiko eingegangen wird; dies gilt auch dann, wenn das Risikogewicht der Schweiz mehr als 0 Prozent nach Anhang 2 Ziffer 1.1 ERV beträgt.
 
@@ -37,5 +39,13 @@
   - b. Bei garantierten Forderungen ist entweder die Garantie einer Zentralregierung oder einer untergeordneten Gebietskörperschaft ausdrücklich, unwiderruflich und unbedingt oder eine solidarische Haftung mehrerer Gebietskörperschaften gegeben.
 
   - c. Es handelt sich nicht um eine Verbindlichkeit eines Finanzinstituts nach Anhang 1a oder einer mit einem Finanzinstitut verbundenen Gesellschaft. Ausgenommen hiervon sind Anleihen von Finanzinstituten, die von einer Zentralregierung oder von einer Regierung einer untergeordneten Gebietskörperschaft eingerichtet wurden, um in staatlichem Auftrag auf nicht-wettbewerblicher, nicht-gewinnorientierter Basis Förderdarlehen zu vergeben.
+
+2bis Marktgängige Wertpapiere, die Forderungen sind gegenüber untergeordneten Gebietskörperschaften oder sonstigen öffentlich-rechtlichen Körperschaften nach Absatz 1 Buchstabe c Ziffer 3 oder die von solchen Körperschaften garantiert werden nach Absatz 1 Buchstabe cbis, können zudem der Kategorie 1 zugerechnet werden, wenn sie die Voraussetzungen nach Absatz 2 Buchstaben b und c und zusätzlich die folgenden Voraussetzungen erfüllen:
+
+  - a. Die übergeordnete Zentralregierung weist ein Risikogewicht von 0 Prozent nach Anhang 2 Ziffer 1 ERV auf.
+
+  - b. Die Körperschaften besitzen Haushaltsautonomie, das Recht, Steuern zu erheben, Garantien der Zentralregierung oder besondere institutionelle Vorkehrungen, die ihr Ausfallrisiko reduzieren.
+
+  - c. Im Fall ausländischer Körperschaften wird bei der Berechnung der LCR für diese Wertpapiere auch nach dem entsprechenden ausländischen Recht auf das Risikogewicht der Zentralregierung abgestellt.
 
 3 Aktiva der Kategorie 1 werden zum aktuellen Marktwert bewertet.
