@@ -1,0 +1,7 @@
+# Präambel
+
+Artikel 15 des Übereinkommens über die Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (im folgenden als «Übereinkommen» bezeichnet) bestimmt, dass die (im folgenden als «Akte» bezeichneten) Beschlüsse, Empfehlungen und Resolutionen der Organisation für Europäische Wirtschaftliche Zusammenarbeit nach Inkrafttreten des Übereinkommens nur wirksam sind, wenn der Rat der Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (im folgenden als «Rat» bezeichnet) sie genehmigt.
+
+Auf Grund einer Resolution der Ministertagung vom 22. bis 23. Juli 1960 wurde ein Vorbereitender Ausschuss eingesetzt und damit beauftragt, die Überprüfung der Akte der Organisation für Europäische Wirtschaftliche Zusammenarbeit weiterzuführen, diejenigen Akte zu bestimmen, die dem Rat zur Genehmigung zu empfehlen seien, und – soweit notwendig – die Änderungen zu empfehlen, die erforderlich sind, um diese Akte den Aufgaben der Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung anzupassen.
+
+Während der erwähnten Ministertagung wurde vereinbart, dass möglichst weitgehend Sicherheit hinsichtlich der Genehmigung der Akte der Organisation für Europäische Wirtschaftliche Zusammenarbeit durch den Rat gemäss den Empfehlungen des Vorbereitenden Ausschusses bestehen soll; es wurde ferner vereinbart, dass Kanada und die Vereinigten Staaten als Nichtmitglieder der Organisation für Europäische Wirtschaftliche Zusammenarbeit hinsichtlich dieser Empfehlungen einen gewissen Ermessensspielraum haben sollen.
