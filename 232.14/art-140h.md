@@ -1,7 +1,3 @@
 # Art. 140h
 
-1 Für das Zertifikat sind eine Anmeldegebühr und Jahresgebühren zu bezahlen.
-
-2 Die Jahresgebühren sind für die gesamte Laufzeit des Zertifikats auf einmal und im Voraus zu bezahlen.
-
-3 …
+Das Erlangen und Aufrechterhalten eines Zertifikats sowie das Behandeln von besonderen Anträgen setzen die Bezahlung der Gebühren voraus, die vom IGE gestützt auf Artikel 13 des Bundesgesetzes vom 24. März 1995 über Statut und Aufgaben des Eidgenössischen Instituts für Geistiges Eigentum festgelegt werden.

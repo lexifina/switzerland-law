@@ -1,9 +1,11 @@
 # Art. 59c
 
-1 Innerhalb von neun Monaten nach der Veröffentlichung der Eintragung in das Patentregister kann jede Person beim IGE gegen ein von diesem erteiltes Patent Einspruch einlegen. Der Einspruch ist schriftlich einzureichen und zu begründen.
+1 Verfügungen des IGE in Patentsachen unterliegen der Beschwerde an das Bundespatentgericht.
 
-2 Der Einspruch kann nur darauf gestützt werden, dass der Gegenstand des Patents nach den Artikeln 1a, 1b und 2 von der Patentierung ausgeschlossen ist.
+2 Dritte sind zur Beschwerde berechtigt, wenn sie ihre Beschwerde darauf abstützen, dass der Gegenstand des Patentes nach den Artikeln 1a, 1b und 2 von der Patentierung ausgeschlossen ist.
 
-3 Heisst das IGE den Einspruch ganz oder teilweise gut, so kann es das Patent widerrufen oder in geändertem Umfang aufrechterhalten. Der Einspruchsentscheid unterliegt der Beschwerde an das Bundesverwaltungsgericht.
+3 Werden mit der Beschwerde andere Gründe geltend gemacht, richtet sich die Beschwerdeberechtigung nach Artikel 48 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968.
 
-4 Der Bundesrat regelt die Einzelheiten, namentlich das Verfahren.
+4 Für beschwerdeberechtigte Dritte beträgt die Beschwerdefrist vier Monate ab Veröffentlichung der Eintragung des Patentes.
+
+5 Die Beschwerden nach den Absätzen 2 und 3 haben keine aufschiebende Wirkung. Die Vorinstanz kann in ihrer Verfügung einer allfälligen Beschwerde die aufschiebende Wirkung gewähren; dieselbe Befugnis steht der Beschwerdeinstanz, ihrem Vorsitzenden oder dem Instruktionsrichter nach Einreichung der Beschwerde zu.

@@ -1,8 +1,8 @@
 # Art. 46a
 
-1 Hat der Patentbewerber oder der Patentinhaber eine gesetzliche oder vom IGE angesetzte Frist versäumt, so kann er beim IGE die Weiterbehandlung beantragen.
+1 Hat der Anmelder oder der Patentinhaber eine gesetzliche oder vom IGE angesetzte Frist versäumt, so kann er beim IGE die Weiterbehandlung beantragen.
 
-2 Er muss den Antrag innerhalb von zwei Monaten seit dem Zugang der Benachrichtigung des IGE über das Fristversäumnis einreichen, spätestens jedoch innerhalb von sechs Monaten nach Ablauf der versäumten Frist. Innerhalb dieser Fristen muss er zudem die unterbliebene Handlung vollständig nachholen, gegebenenfalls das Patentgesuch vervollständigen und die Weiterbehandlungsgebühr bezahlen.
+2 Er muss den Antrag innerhalb von zwei Monaten seit dem Zugang der Benachrichtigung des IGE über das Fristversäumnis einreichen, spätestens jedoch innerhalb von sechs Monaten nach Ablauf der versäumten Frist. Innerhalb dieser Fristen muss er zudem die unterbliebene Handlung vollständig nachholen, gegebenenfalls die Patentanmeldung vervollständigen und die Weiterbehandlungsgebühr bezahlen.
 
 3 Durch die Gutheissung des Weiterbehandlungsantrags wird der Zustand hergestellt, der bei rechtzeitiger Handlung eingetreten wäre. Vorbehalten bleibt Artikel 48.
 
@@ -14,9 +14,9 @@
 
   - c. der Fristen für die Einreichung des Wiedereinsetzungsgesuchs (Art. 47 Abs. 2);
 
-  - d. der Fristen für die Einreichung eines Patentgesuchs mit Beanspruchung des Prioritätsrechts und für die Prioritätserklärung (Art. 17 und 19);
+  - d. der Fristen für die Einreichung einer Patentanmeldung mit Beanspruchung des Prioritätsrechts und für die Prioritätserklärung (Art. 17 und 19);
 
-  - e. …
+  - e. der Fristen für die Einreichung des Prüfungsantrags (Art. 58b Abs. 3);
 
   - f. der Frist für die Änderung der technischen Unterlagen
 

@@ -6,4 +6,4 @@
 
   - b. innerhalb von sechs Monaten nach der Erteilung des Patents, wenn dieses später erteilt wird als die erste Zulassung.
 
-2 Wird die Frist nicht eingehalten, so weist das IGE das Gesuch zurück.
+2 Wird die Frist nicht eingehalten, so tritt das IGE nicht auf das Gesuch ein.
