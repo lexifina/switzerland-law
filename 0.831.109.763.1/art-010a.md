@@ -1,0 +1,9 @@
+# Art. 10a
+
+1. Türkische Staatsangehörige können in Abweichung von den Artikeln 8 und 12 des Abkommens verlangen, dass die zu ihren Gunsten an die schweizerische Alters- und Hinterlassenenversicherung entrichteten Beiträge an die türkische Sozialversicherung überwiesen werden, sofern ihnen noch keine Leistungen aus der schweizerischen Alters‑, Hinterlassenen- und Invalidenversicherung gewährt worden sind und vorausgesetzt, dass sie die Schweiz verlassen haben, um sich in der Türkei oder einem Drittstaat niederzulassen.
+
+Wurden bei Ehepaaren zugunsten beider Gatten Beiträge an die schweizerische Alters- und Hinterlassenenversicherung entrichtet, so kann jeder Ehegatte einzeln die Überweisung der zu seinen Gunsten entrichteten Beiträge verlangen. Wurden die Beiträge der Ehefrau allein überwiesen, so beschränkt sich der Anspruch des Ehemannes auf eine einfache Rente der Alters‑, Hinterlassenen- und Invalidenversicherung.
+
+2. Türkische Staatsangehörige, deren Beiträge nach Absatz 1 an die türkische Sozialversicherung überwiesen wurden, sowie ihre Hinterlassenen können gegenüber der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung auf Grund dieser Beiträge keinerlei Ansprüche mehr geltend machen.
+
+3. Die Beiträge werden an die türkische Sozialversicherungsanstalt überwiesen, die sie an den nach türkischer Gesetzgebung zuständigen Versicherungsträger weiterleitet. Diese Beiträge und die entsprechenden Versicherungszeiten werden für den Erwerb des Anspruchs auf eine türkische Rente sowie für deren Berechnung den türkischen Beiträgen und Zeiten gleichgestellt. Ergibt sich aus der Überweisung der Beiträge für den Versicherten oder seine Hinterlassenen kein Vorteil aus der türkischen Rentenversicherung, so zahlt der zuständige Träger den Berechtigten die überwiesenen Beiträge aus.
