@@ -6,4 +6,4 @@
 
 3 Der Arbeitgeber, bei dem der andere Elternteil während seines Urlaubs angestellt ist, oder die Arbeitslosenkasse des andern Elternteils bescheinigt den Bezug der Urlaubstage.
 
-4 Die zuständige Stelle stellt der Mutter, die als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter reicht diese Bescheinigung der Ausgleichkasse ein.
+4 Die zuständige Stelle stellt der Mutter oder dem andern Elternteil, die oder der als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter oder der andere Elternteil reicht diese Bescheinigung der Ausgleichkasse ein.

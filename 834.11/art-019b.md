@@ -8,7 +8,7 @@
 
   - c. die folgenden Daten zu den Kindern der dienstleistenden Person: die AHV-Nummer, den Familiennamen, die Vornamen, das Geburtsdatum, das Kindesverhältnis, den Ausbildungsnachweis und gegebenenfalls das Formular zu Pflegekindern und zu Kindern der Ehegattin oder des Ehegatten;
 
-  - d. die Angaben zu den zusätzlichen Kosten für die Kinderbetreuung;
+  - d. die Angaben zu den zusätzlichen Kosten für die institutionelle Kinderbetreuung;
 
   - e. die Angaben zur vordienstlichen Tätigkeit;
 
