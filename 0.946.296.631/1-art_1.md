@@ -1,0 +1,3 @@
+# Art. 1
+
+Im Hinblick darauf, dass das Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Rumänischen Volksrepublik vom 3. August 1951 betreffend den Warenaustausch und den Zahlungsverkehr am Tage des Inkrafttretens des heute unterzeichneten Abkommens über den Wirtschaftsverkehr aufgehoben wird und der gegenseitige Zahlungsverkehr sich in der Folge in Schweizerfranken oder andern frei konvertierbaren Währungen abwickelt, erklären die beiden Regierungen, dass sie die Zahlungen irgendwelcher Art keinesfalls einer ungünstigeren Regelung als der bei der Aufhebung des vorerwähnten Abkommens geltenden unterwerfen werden.
