@@ -1,0 +1,3 @@
+# Art. XVIII
+
+Die gegenwärtige Übereinkunft ist für den Zeitraum von zehn Jahren, von dem Tage der Auswechslung der Ratifikationen an gerechnet, abgeschlossen; und wenn ein Jahr vor Verfluss dieses Zeitraumes keiner der kontrahierenden Teile durch eine amtliche Mitteilung dem andern erklärt hat, die Wirksamkeit dieser Übereinkunft einzustellen, so soll ihre Verbindlichkeit zwölf Monate länger fortdauern, und so weiter von Jahr zu Jahr, bis zum Erlöschen derjenigen zwölf Monate, welche einer solchen Verzichterklärung nachfolgen, welches aus immerhin der Zeitpunkt gewesen sein mag, in welchem die amtliche Mitteilung stattgefunden hat.
