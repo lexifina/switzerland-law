@@ -1,0 +1,7 @@
+# Französische Note
+
+Das Ministerium für auswärtige Beziehungen empfiehlt sich der Schweizerischen Botschaft in Paris, und beehrt sich, indem es sich auf die Note bezieht, die die Botschaft ihm am 7. Oktober 1982 übergeben hat, bekanntzugeben, dass es von der Genehmigung durch den Bundesrat für fünf Jahre (1. Januar 1981 bis 31. Dezember 1985) der Liste der Kontingente für die in der Schweiz zollfrei zugelassenen industriellen Produkte der Freizonen Hochsavoyens und des Pays de Gex, wie sie für die genannte Zeitdauer anlässlich der Sitzung von Bern vom 22. und 23. April 1982 der Gemischten Kommission für die Freizonen im gemeinsamen Einvernehmen festgelegt worden sind, Kenntnis genommen hat.
+
+Es stellt anderseits fest, dass der Beschluss des Bundesrates auf Weiterführung der gegenwärtig geltenden Beträge der landwirtschaftlichen Kontingente auf interner Ebene in diesem Punkt die fehlende Übereinstimmung anlässlich der letzten Sitzung der Gemischten Kommission zeigt. Diese Weiterführung gilt indessen nur bis zur nächsten Zusammenkunft der schweizerisch‑französischen Kommission für die Freizonen, die eine Entscheidung über Beträge der landwirtschaftlichen Kontingente zu treffen haben wird. Die französische Seite wird diesbezüglich zu gegebener Zeit Vorschläge machen.
+
+Das Ministerium für auswärtige Beziehungen benützt auch diesen Anlass, um die Schweizerische Botschaft seiner ausgezeichneten Hochachtung zu versichern.
