@@ -1,0 +1,13 @@
+# Art. IV Schutz, Behandlung
+
+1. Investitionen und Erträge von Investoren jeder Vertragspartei sind jederzeit gerecht und billig zu behandeln und geniessen auf dem Hoheitsgebiet der anderen Vertragspartei vollen Schutz und volle Sicherheit. Keine Vertragspartei behindert auf irgendeine Weise, durch ungerechtfertigte oder diskriminierende Massnahmen, die Verwaltung, den Unterhalt, den Gebrauch, die Nutzung, die Erweiterung und die Veräusserung solcher Investitionen.
+
+2. Jede Vertragspartei gewährt auf ihrem Hoheitsgebiet Investitionen und Erträgen von Investoren der anderen Vertragspartei eine nicht weniger günstige Behandlung, als jene, welche sie Investitionen und Erträgen ihrer eigenen Investoren oder Investitionen und Erträgen von Investoren irgendeines Drittstaates angedeihen lässt, je nachdem welche für den betroffenen Investor günstiger ist.
+
+3. Jede Vertragspartei gewährt auf ihrem Hoheitsgebiet Investoren der anderen Vertragspartei hinsichtlich Verwaltung, Unterhalt, Gebrauch, Nutzung und Veräusserung ihrer Investitionen eine nicht weniger günstige Behandlung, als jene, welche sie ihren eigenen Investoren oder Investoren irgendeines Drittstaates angedeihen lässt, je nachdem welche für den betroffenen Investor günstiger ist.
+
+4. Die Meistbegünstigungsbehandlung gemäss diesem Artikel ist nicht so zu verstehen, dass sie eine Vertragspartei verpflichten würde, Investoren der anderen Vertragspartei eine Behandlung, Bevorzugung oder Begünstigung zu gewähren, die sich ergibt aus:
+
+  - (a) einer bestehenden oder zukünftigen Freihandelszone, einer Zollunion, einem Gemeinsamen Markt, einer Wirtschaftsunion oder einer ähnlichen regionalen Wirtschaftsorganisation, bei der die Vertragspartei Mitglied ist oder sein wird, oder
+
+  - (b) einem internationalen Übereinkommen, welches gänzlich oder hauptsächlich Steuerangelegenheiten betrifft.

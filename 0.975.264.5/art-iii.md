@@ -1,0 +1,5 @@
+# Art. III Förderung, Zulassung
+
+1. Jede Vertragspartei fördert auf ihrem Hoheitsgebiet nach Möglichkeit Investitionen von Investoren der anderen Vertragspartei und lässt diese Investitionen in Übereinstimmung mit ihren Gesetzen und übrigen Rechtsvorschriften zu.
+
+2. Hat eine Vertragspartei auf ihrem Hoheitsgebiet eine Investition zugelassen, so erteilt sie in Übereinstimmung mit ihren Gesetzen und übrigen Rechtsvorschriften die im Zusammenhang mit der Investition erforderlichen Bewilligungen, einschliesslich solcher für die Durchführung von Lizenzverträgen und Verträgen über die technische, kommerzielle oder administrative Unterstützung. Jede Vertragspartei ist bestrebt, die Bewilligungen zu erteilen, die gegebenenfalls für die Tätigkeit von Beratern und anderen qualifizierten Personen fremder Staatsangehörigkeit erforderlich sind.

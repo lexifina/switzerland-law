@@ -1,0 +1,3 @@
+# Art. II Anwendungsbereich
+
+Dieses Abkommen ist anwendbar auf Investitionen im Hoheitsgebiet einer Vertragspartei, die in Übereinstimmung mit deren Gesetzen und übrigen Rechtsvorschriften von Investoren der anderen Vertragspartei vor oder nach dem Inkrafttreten dieses Abkommens getätigt wurden.
