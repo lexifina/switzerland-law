@@ -54,4 +54,4 @@
 
 4 Auf die Impfungen und die Impfberatungen wird keine Franchise erhoben, sofern die Leistungen im Rahmen eines nationalen Präventionsprogramms durchgeführt werden.
 
-5 Die Kosten der Impfungen werden nur übernommen, wenn der verwendete Impfstoff für die betreffende Altersgruppe und Indikation in der Spezialitätenliste aufgeführt ist und die dort festgelegten Limitationen eingehalten sind; ausgenommen sind die Impfungen nach Absatz 1 Buchstaben m und r.
+5 Die Kosten der Impfungen werden nur übernommen, wenn der verwendete Impfstoff für die betreffende Altersgruppe und Indikation in der Spezialitätenliste aufgeführt ist und die dort festgelegten Limitationen eingehalten sind; ausgenommen ist die Impfung nach Absatz 1 Buchstabe r.
