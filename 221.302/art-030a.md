@@ -10,7 +10,7 @@ Der Verwaltungsrat hat folgende Aufgaben:
 
   - d. Er trifft die organisatorischen Vorkehren zur Wahrung der Interessen der Aufsichtsbehörde sowie zur Verhinderung von Interessenkonflikten.
 
-  - e. Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (PUBLICA) ab und unterbreitet ihn dem Bundesrat zur Genehmigung.
+  - e. Er schliesst den Anschlussvertrag mit der Pensionskasse des Bundes (Publica) ab und unterbreitet ihn dann dem Bundesrat zur Genehmigung.
 
   - f. Er regelt die Zusammensetzung, das Wahlverfahren und die Organisation des paritätischen Organs für das Vorsorgewerk.
 
@@ -27,3 +27,5 @@ Der Verwaltungsrat hat folgende Aufgaben:
   - l. Er verabschiedet das Budget.
 
   - m. Er erstellt und verabschiedet für jedes Geschäftsjahr einen Geschäftsbericht; er unterbreitet den revidierten Geschäftsbericht dem Bundesrat zur Genehmigung; gleichzeitig stellt er dem Bundesrat Antrag auf Entlastung und veröffentlicht den Geschäftsbericht nach der Genehmigung.
+
+  - n. Er erlässt die Bestimmungen über die Finanzierung der beruflichen Vorsorge und unterbreitet sie dann dem Bundesrat zur Genehmigung.
