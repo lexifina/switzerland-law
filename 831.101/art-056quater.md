@@ -4,7 +4,7 @@
 
   - a. Ist das massgebende durchschnittliche Jahreseinkommen tiefer als oder gleich hoch wie der Betrag der vierfachen minimalen jährlichen Altersrente nach Artikel 34 AHVG, so gelten die folgenden Kürzungssätze in Prozent der Rente:
 
-  - Vorbezugsdauerin Jahren | und Monaten
+  - Vorbezugsdauer in Jahren | und Monaten
 
   - 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
@@ -18,7 +18,7 @@
 
   - b. Ist das massgebende durchschnittliche Jahreseinkommen höher als der Betrag der vierfachen minimalen jährlichen Altersrente nach Artikel 34 AHVG, aber tiefer als oder gleich hoch wie der Betrag der fünffachen minimalen jährlichen Altersrente nach Artikel 34 AHVG, so gelten die folgenden Kürzungssätze in Prozent der Rente:
 
-  - Vorbezugsdauerin Jahren | und Monaten
+  - Vorbezugsdauer in Jahren | und Monaten
 
   - 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
@@ -32,7 +32,7 @@
 
   - c. Ist das massgebende durchschnittliche Jahreseinkommen höher als der Betrag der fünffachen minimalen jährlichen Altersrente nach Artikel 34 AHVG, so gelten die folgenden Kürzungssätze in Prozent der Rente:
 
-  - Vorbezugsdauerin Jahren | und Monaten
+  - Vorbezugsdauer in Jahren | und Monaten
 
   - 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 

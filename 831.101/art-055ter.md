@@ -2,7 +2,7 @@
 
 1 Beim Aufschub der Rente nach Artikel 39 AHVG gelten die folgenden Erhöhungssätze in Prozent der Altersrente:
 
-  - Aufschubsdauer inJahren | und 0–2 Monaten | und 3–5 Monaten | und 6–8 Monaten | und 9–11 Monaten
+  - Aufschubsdauer in Jahren | und 0–2 Monaten | und 3–5 Monaten | und 6–8 Monaten | und 9–11 Monaten
 
   - 1 | 5,2 | 6,6 | 8,0 | 9,4
 
