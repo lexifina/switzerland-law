@@ -1,0 +1,3 @@
+# Art. I
+
+Die Teilnehmer verpflichten sich, nach Massgabe dieser Vereinbarung die erste Phase eines Programms in Angriff zu nehmen, die die Entwicklung einschliesslich der Qualifizierung eines ARIANE genannten Satellitenträgers zum Ziel hat; dieser Träger soll Nutzlasten in der Grössenordnung von 1500 kg in einen Transferorbit und mit Hilfe eines geeigneten Apogäumtriebwerks Satelliten in der Grössenordnung von 750 kg in geostationäre Umlaufbahnen befördern. Das Programm umfasst eine zweite Phase, die die Produktion dieses Trägers zum Ziel hat und über die zu einem späteren Zeitpunkt entschieden wird.
