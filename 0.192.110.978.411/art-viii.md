@@ -1,0 +1,15 @@
+# Art. VIII
+
+  - Artikel 14 – Aufhebung – wird durch den folgenden Wortlaut ersetzt:
+
+## Art. 14 Aufhebung
+
+  - 1. Die in diesem Protokoll vorgesehenen Vorrechte, Befreiungen und Immunitäten werden nicht zum persönlichen Vorteil einzelner, sondern zur wirksamen Wahrnehmung ihrer amtlichen Aufgaben gewährt.
+
+  - 2. Wenn nach Ansicht der nachfolgend aufgeführten Stellen die Gefahr besteht, dass Vorrechte und Immunitäten verhindern, dass der Gerechtigkeit Genüge geschieht, und wenn sie ohne Beeinträchtigung der Zwecke, zu denen sie gewährt wurden, aufgehoben werden können, haben diese Stellen das Recht und die Pflicht, diese Vorrechte und Immunitäten aufzuheben:
+
+    - a) die Vertragsparteien des Protokolls hinsichtlich ihrer Vertreter;
+
+    - b) die Versammlung, die nötigenfalls zu einer ausserordentlichen Tagung einberufen wird, hinsichtlich der EUTELSAT oder des geschäftsführenden Sekretärs;
+
+    - c) der geschäftsführende Sekretär hinsichtlich der Mitglieder des Personals und der Sachverständigen.
