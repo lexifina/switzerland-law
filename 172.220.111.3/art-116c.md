@@ -4,12 +4,12 @@
 
 2 Bei Beginn des Vorruhestandsurlaubs nach Artikel 34 erhalten folgende Personen anstelle der Leistung nach Artikel 88h eine Abfindung in der Höhe von drei Vierteln des letzten Jahresgehalts:
 
-  - a. Angestellte nach Artikel 33 Absatz 1 Buchstaben a und b, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des PUBLICA-Gesetzes das 51. Altersjahr vollendet haben;
+  - a. Angestellte nach Artikel 33 Absatz 1 Buchstaben a und b, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des Publica-Gesetzes das 51. Altersjahr vollendet haben;
 
-  - b. Angestellte nach Artikel 33 Absatz 1 Buchstabe c, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des PUBLICA-Gesetzes das 53. Altersjahr vollendet haben.
+  - b. Angestellte nach Artikel 33 Absatz 1 Buchstabe c, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des Publica-Gesetzes das 53. Altersjahr vollendet haben.
 
-3 Angestellte nach Artikel 33 Absatz 2 erhalten mit ihrem letzten Lohn eine Abfindung in der Höhe von drei Vierteln des letzten Jahresgehalts, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des PUBLICA-Gesetzes das 55. Altersjahr vollendet haben.
+3 Angestellte nach Artikel 33 Absatz 2 erhalten mit ihrem letzten Lohn eine Abfindung in der Höhe von drei Vierteln des letzten Jahresgehalts, wenn sie im Zeitpunkt der vollständigen Inkraftsetzung des Publica-Gesetzes das 55. Altersjahr vollendet haben.
 
-4 Die Abfindung nach den Absätzen 2 und 3 wird im Rahmen des BVG zugunsten des Altersguthabens an PUBLICA überwiesen oder auf Verlangen der versicherten Person bar ausbezahlt.
+4 Die Abfindung nach den Absätzen 2 und 3 wird im Rahmen des BVG zugunsten des Altersguthabens an Publica überwiesen oder auf Verlangen der versicherten Person bar ausbezahlt.
 
 5 Für Angestellte nach Absatz 2 wird Artikel 34a Absatz 2 nicht angewendet.

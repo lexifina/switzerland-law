@@ -1,9 +1,15 @@
-# Art. 88d Urlaub
+# Art. 88d Ende der Versicherung
 
-1 Während eines unbezahlten oder teilweise bezahlten Urlaubs bleibt der Versicherungsschutz während mindestens zwei Monaten unverändert.
+1 Die Versicherung endet, wenn:
 
-2 Gewährt die zuständige Stelle nach Artikel 2 einen unbezahlten oder teilweise bezahlten Urlaub von mehr als zwei Monaten, so vereinbart sie mit der angestellten Person vor Urlaubsantritt, ob und wie die Versicherung und die Beitragspflicht ab dem dritten Urlaubsmonat weiter bestehen sollen.
+  - a. das Arbeitsverhältnis endet, es sei denn, es besteht in diesem Zeitpunkt ein Anspruch auf Alters- oder Invalidenleistungen und die Versicherung wird nach den reglementarischen Bestimmungen weitergeführt;
 
-3 Übernimmt die zuständige Stelle nach Artikel 2 ab dem dritten Urlaubsmonat die Arbeitgeberbeiträge oder die Risikoprämie nicht mehr, so meldet sie den Urlaub PUBLICA. Die angestellte Person kann den bisherigen Versicherungsschutz aufrechterhalten, indem sie nebst den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers und die Risikoprämie bezahlt, oder die Versicherung auf die Risiken Tod und Invalidität beschränken.
+  - b. das Referenzalter erreicht wird; Artikel 63d und die reglementarischen Bestimmungen bleiben vorbehalten.
 
-4 Die während des Urlaubs von der angestellten Person geschuldeten Beiträge werden ihr nach der Wiederaufnahme der Arbeit vom Lohn abgezogen.
+2 Für die Risiken Tod und Invalidität bleibt die betroffene Person für die folgende Dauer versichert:
+
+  - a. während eines Monats nach Beendigung des Arbeitsverhältnisses;
+
+  - b. während höchstens zehn Monaten nach Ende der Lohnfortzahlung, wenn das Arbeitsverhältnis noch andauert; der Risikobeitrag wird der angestellten Person anteilsmässig in Rechnung gestellt.
+
+3 Ist im Fall von Absatz 2 Buchstabe b die Beendigung des Arbeitsverhältnisses strittig, so bleibt Artikel 10 der Arbeitslosenversicherungsverordnung vom 31. August 1983 vorbehalten.
