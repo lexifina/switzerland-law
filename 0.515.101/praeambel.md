@@ -1,0 +1,27 @@
+# Präambel
+
+Nachdem auf Anregung des kaiserlich russischen Kabinetts eine internationale Militärkommission in St. Petersburg zum Zwecke der Prüfung der Frage, ob es nicht wünschbar wäre, den Gebrauch gewisser Projektile in Kriegszeiten zwischen den zivilisierten Nationen zu untersagen, zusammengetreten ist und einverständlich die technischen Grenzen festgesetzt hat, wo die Erfordernisse des Kriegs vor denjenigen der Humanität zurücktreten müssen,
+
+sind die Unterzeichneten durch Auftrag ihrer Regierungen ermächtigt worden,
+
+folgendes zu erklären:
+
+In Betracht, dass die Fortschritte der Zivilisation dahin zielen sollen, die Kalamitäten des Kriegs möglichst zu lindern;
+
+dass der einzige rechtmässige Zweck, den die Staaten während des Krieges sich vorzusetzen haben, die Schwächung der Militärkräfte des Feindes ist;
+
+dass es zu diesem Zwecke genügt, möglichst viele Mannschaft kampfunfähig zu machen;
+
+dass dieser Zweck durch den Gebrauch von Waffen überschritten würde, welche unnötigerweise die Leiden der ausser Kampf Gesetzten erhöhen oder ihren Tod unvermeidlich machen würden;
+
+dass demnach der Gebrauch solcher Waffen den Gesetzen der Humanität zuwiderliefe;
+
+verpflichten sich die vertragschliessenden Teile, für den Fall eines Krieges zwischen denselben, gegenseitig darauf zu verzichten, dass von seiten ihrer Land‑ oder Seetruppen Gebrauch gemacht werde von irgendeinem weniger als 400 Gramm schweren Projektil, welches entweder explodierbar oder mit Knall‑ oder entzündlichen Stoffen geladen ist.
+
+Sie werden alle Staaten, welche nicht durch Abordnungen an den Beratungen der in St. Petersburg zusammengetretenen internationalen Militärkommission teilgenommen haben, einladen, gegenwärtigem Engagement beizutreten.
+
+Dieses Engagement ist nur gültig für die vertragschliessenden oder beitretenden Parteien für den Fall eines Krieges zwischen zweien oder mehreren derselben, nicht aber gegenüber den Parteien, die nicht zu den vertragschliessenden oder zu den beitretenden gehören.
+
+Dasselbe würde auch ausser Wirksamkeit treten, wenn in einem Kriege zwischen vertragschliessenden oder beitretenden Parteien eine andere Partei, welche weder zu den vertragschliessenden noch zu den beitretenden gehört, sich einem der Kriegsführenden anschliessen sollte.
+
+Die vertragschliessenden oder beitretenden Parteien behalten sich vor, sooft, mit Rücksicht auf künftige, allfällig von der Technik an die Hand gegebene Vervollkommnungen in der Bewaffnung der Truppen, ein bestimmter Antrag gestellt würde, weitere Verständigungen zu treffen, um die Grundsätze aufrechtzuerhalten, welche sie hier aufgestellt haben, und die Anforderungen des Krieges mit den Gesetzen der Humanität zu vereinbaren.
