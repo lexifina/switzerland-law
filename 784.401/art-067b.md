@@ -1,14 +1,12 @@
 # Art. 67b Höhe der Abgabe
 
-1 Der jährliche Mindestumsatz für die Abgabepflicht eines Unternehmens beträgt 500 000 Franken.
+1 Der jährliche Mindestumsatz für die Abgabepflicht eines Unternehmens beträgt 1 200 000 Franken.
 
 2 Die jährliche Abgabe eines Unternehmens beträgt je Umsatzstufe pro Jahr:
 
   - Umsatz in Franken | Abgabe in Franken
 
-  - a. Stufe 1 | 500 000 bis 749 999 | 160
-
-  - b. Stufe 2 | 750 000 bis 1 199 999 | 235
+  - a. und b. … | … | …
 
   - c. Stufe 3 | 1 200 000 bis 1 699 999 | 325
 
