@@ -1,0 +1,7 @@
+# Präambel
+
+1. Die Vereinigten Staaten sind bereit, in Liste XX des Allgemeinen Zoll‑ und Handelsabkommens, die in Anhang II enthaltenen nach Käsesorten aufgeteilten Kontingente zu binden. Diese Kontingente werden aufgrund von Abschnitt 22 des Landwirtschaftsgesetzes (Agricultural Adjustment Act) von 1933 gemäss GATTWaiver von 1955 eingeführt.
+
+3. Die globale Kontingentsmenge, die der Schweiz für die dem Kontingentssystem unterworfenen Käsesorten gewährt wird, beträgt im Minimum 6500 metrische Tonnen (MT). Die Verteilung der Kontingente auf die verschiedenen Sorten ist in Anhang II dieser Vereinbarung aufgeführt. Die Vereinigten Staaten sind bereit, alle notwendigen Massnahmen zu treffen, um die maximale Ausnützung der Kontingente zu gestatten. Sollte die Schweiz nicht in der Lage sein, eine bestimmte jährliche Kontingentsmenge zu liefern, können die Vereinigten Staaten vereinbarungsgemäss für den Rest des Kontingentsjahres eine vorübergehende Änderung des Ursprungslandes anordnen, um es den amerikanischen Importeuren und Lizenznehmern zu ermöglichen, ihre Importlizenzen anderweitig zu verwenden.
+
+4. Die Schweiz erklärt sich bereit, keine Erstattungen oder andere staatliche Beiträge in einer Weise zu gewähren, dass der Preis für Käse schweizerischen Ursprungs Unter den Grosshandelspreisen für gleichartige, einheimische Käse der Vereinigten Staaten zu liegen kommt. Jeder mit dieser Vereinbarung in Widerspruch stehende staatliche Beitrag würde die Vereinigten Staaten zu Gegenmassnahmen veranlassen.
