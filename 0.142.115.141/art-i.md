@@ -1,0 +1,5 @@
+# Art. I
+
+Die Schweiz gewährt den Angehörigen des Fürstentums Liechtenstein, unter den Artikel II angeführten Bedingungen, das Recht, sich in der Schweiz zeitweilig aufzuhalten oder dauernd niederzulassen, Grundeigentum zu erwerben oder zu veräussern, auch jedes Gewerbe, dessen Ausübung überhaupt gestattet ist, auf eigene Rechnung zu betreiben oder betreiben zu lassen, ohne zu dem Eintritte in den Staats- oder Gemeindeverband genötigt und ohne anderen als den für die Schweizerbürger geltenden Lasten unterworfen zu sein.
+
+Andererseits gewährt das Fürstentum Liechtenstein den Angehörigen der Schweiz, unter den nämlichen Bedingungen, das Recht, sich im Fürstentum zeitweilig aufzuhalten oder dauernd niederzulassen, Grundeigentum zu erwerben oder zu veräussern, auch jedes Gewerbe, dessen Ausübung überhaupt gestattet ist, auf eigene Rechnung zu betreiben oder betreiben zu lassen, ohne zu dem Eintritte in den Staats- oder Gemeindeverband genötigt und ohne anderen als den für die Angehörigen des Fürstentums Liechtenstein geltenden Lasten unterworfen zu sein.
