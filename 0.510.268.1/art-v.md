@@ -1,0 +1,5 @@
+# Art. V Finanzielle Angelegenheiten
+
+1 Die Schweizerische Eidgenossenschaft trägt alle im Zusammenhang mit ihrer Teilnahme an der Operation anfallenden Kosten selbst, ausser die unter die gemeinsame Finanzierung fallenden Kosten, wie vorgesehen in der unter Artikel 1 Absatz 1 dieses Abkommens erwähnten rechtlichen Mitteln sowie im Beschluss 2004/197/GASP des Rates, vom 23. Februar 2004, über einen Mechanismus zur Verwaltung der Finanzierung der gemeinsamen Kosten der Operationen der Europäischen Union mit militärischen oder verteidigungspolitischen Bezügen.
+
+2 Im Falle von Tod, Körperverletzung, Verlust oder Schaden bei natürlichen oder juristischen Personen des Staates oder der Staaten, in dem oder in denen die Operation durchgeführt wird, leistet die Schweizerische Eidgenossenschaft, wenn ihre Verantwortlichkeit festgestellt wurde Schadenersatz entsprechend den Bedingungen der in Artikel 2 Absatz 1 genannten Bestimmungen über die Rechtsstellung der Truppen, sofern solche Bestimmungen vorliegen.
