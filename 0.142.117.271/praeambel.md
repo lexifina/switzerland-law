@@ -1,0 +1,3 @@
+# Präambel
+
+Durch Notenaustausch vom 3. Dezember 1945 zwischen der schweizerischen Gesandtschaft in Paris und der dortigen syrischen Gesandtschaft hat der Bundesrat die Unabhängigkeit und Souveränität Syriens anerkannt und die Zusicherung gegeben, dass in der Schweiz die syrischen Staatsangehörigen auch weiterhin die gleiche Behandlung geniessen sollen wie bis anhin, bis zum Zeitpunkt, in dem zweiseitige Verträge durch direkte Vereinbarung zwischen der Schweiz und Syrien abgeschlossen werden können. Die syrische Regierung hat hinsichtlich der Behandlung, die in Syrien die schweizerischen Staatsangehörigen geniessen sollen, die gleiche Zusicherung gegeben.
