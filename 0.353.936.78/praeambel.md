@@ -1,0 +1,27 @@
+# Präambel
+
+Übersetzung
+
+Exzellenz,
+
+Ich habe die Ehre, den Empfang Ihres Briefes vom 9. Januar 1996 zu bestätigen, der wie folgt lautet:
+
+«Ich habe die Ehre, Bezug auf das Europäische Auslieferungsübereinkommen zu nehmen, das am 13. Dezember 1957 für Mitglieder des Europarates zur Unterzeichnung aufgelegt worden ist und gemäss den Bestimmungen von Artikel 27 Absatz 4 vorzuschlagen, den Geltungsbereich des Übereinkommens auf die Gebiete auszudehnen, welche im Anhang zum vorliegenden Brief aufgeführt sind und für deren internationale Beziehungen das Vereinigte Königreich verantwortlich ist.
+
+Die Vorbehalte zu den Artikeln 27 und 28 sowie die vom Vereinigten Königreich bei der Ratifikation des Übereinkommens vorgenommene Notifikation werden keine Anwendung auf das im vorstehenden Umfang erweiterte Übereinkommen finden.
+
+Die anderen vom Vereinigten Königreich angebrachten Vorbehalte werden auf die im Anhang zu diesem Brief aufgeführten Gebiete anwendbar sein, ausser dass die Bestimmungen von Artikel 3 Absatz 3 nur zwischen der Schweizerischen Eidgenossenschaft und jenen Gebieten anwendbar sein werden, für welche auch das Europäische Übereinkommen zur Bekämpfung des Terrorismus Geltung hat.
+
+Jede Bezugnahme auf das Vereinigte Königreich in den anwendbaren Vorbehalten wird so zu verstehen sein, dass damit auch jedes im Anhang zum vorliegenden Brief aufgeführte Gebiet gemeint ist.
+
+Die von der Regierung der Schweizerischen Eidgenossenschaft angebrachten Vorbehalte und Erklärungen werden ebenfalls auf das im vorstehenden Umfang erweiterte Übereinkommen anwendbar sein.
+
+Ein Auslieferungsersuchen betreffend einen Verfolgten, der sich in einem der im Anhang zum vorliegenden Brief aufgeführten Gebiet befindet, wird an den Gouverneur oder an eine andere Behörde gerichtet werden können, die in diesem Gebiet zur selbständigen Entscheidfällung oder zur Weiterleitung zum Entscheid an die Regierung des Vereinigten Königreiches zuständig ist.
+
+Falls die vorstehenden Ausführungen für die Regierung der Schweizerischen Eidgenossenschaft annehmbar sind, werden der vorliegende Brief und Ihre gleichlautende Antwort eine Vereinbarung zwischen unseren beiden Regierungen bilden und in dem Zeitpunkt in Kraft treten, da jede unserer beiden Regierungen der anderen den Abschluss ihrer zu diesem Zweck notwendigen internen Verfahren notifiziert haben wird.»
+
+Ich habe die Ehre, Ihnen in Beantwortung Ihres Vorschlages zu bestätigen, dass die vorstehenden Ausführungen die Zustimmung des Schweizerischen Bundesrates finden. Folglich werden Ihr Brief und die vorliegende Antwort eine Vereinbarung zwischen unseren beiden Regierungen bilden, welche in dem Zeitpunkt in Kraft treten wird, da jede unserer beiden Regierungen der anderen den Vollzug ihrer zu diesem Zweck notwendigen internen Verfahren notifiziert haben wird.
+
+Genehmigen Sie, Herr Botschafter, die erneute Versicherung meiner ausgezeichneten Hochachtung.
+
+Flavio Cotti
