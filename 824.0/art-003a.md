@@ -12,4 +12,4 @@
 
   - e. die schulische Bildung und Erziehung zu unterstützen.
 
-2 Er leistet Beiträge im Rahmen der Aufgaben des Sicherheitsverbundes Schweiz.
+2 Er leistet Beiträge zur Erfüllung der Aufgaben des Sicherheitsverbunds Schweiz und zur Unterstützung der Aufgaben des Zivilschutzes in Kantonen mit einem Unterbestand an Schutzdienstpflichtigen.

@@ -6,7 +6,7 @@
 
   - b. den Ausbildungsinstitutionen zur Durchführung von Ausbildungskursen;
 
-  - c. den Vertrauensärzten und -ärztinnen sowie dem Militärärztlichen Dienst zur Abklärung der Arbeitsfähigkeit und der Militärdiensttauglichkeit;
+  - c. den Vertrauensärzten und -ärztinnen sowie dem Militärärztlichen Dienst zur Abklärung der Arbeitsfähigkeit, der Militärdiensttauglichkeit und der Tauglichkeit und der Fähigkeit, Zivildienstleistungen in Zivilschutzorganisationen zu erbringen;
 
   - d. den zuständigen Militärbehörden zur Kontrolle über die Erfüllung der Militärdienstpflicht nach den Artikeln 7–27 des Militärgesetzes vom 3. Februar 1995 und der Arbeitsleistung infolge Militärdienstverweigerung nach Artikel 81 des Militärstrafgesetzes vom 13. Juni 1927;
 
@@ -14,13 +14,13 @@
 
   - f. den Strafbehörden zur Beurteilung von Widerhandlungen gegen dieses Gesetz;
 
-  - g. dem Bundesamt für Polizei zur Ausschreibung von zivildienst- und von arbeitspflichtigen Personen im automatisierten Fahndungssystem zwecks Ermittlung ihres Aufenthalts und zur Revokation der Ausschreibung nach erfolgter Ermittlung;
+  - g. dem Bundesamt für Polizei zur Ausschreibung von zivildienstpflichtigen Personen im automatisierten Fahndungssystem zwecks Ermittlung ihres Aufenthalts und zur Revokation der Ausschreibung nach erfolgter Ermittlung;
 
   - h. dem Eidgenössischen Finanzdepartement, der Schweizerischen Post, den SBB und dem ETH-Rat zur Behandlung von Schadenersatzbegehren;
 
   - i. den kantonalen Arbeitsmarktbehörden zur Stellungnahme zu Gesuchen um Anerkennung als Einsatzbetrieb und zu Anerkennungsentscheiden;
 
-  - j. den Zivilschutzstellen der Wohngemeinden zur Koordination von Aufgeboten für arbeitspflichtige Personen;
+  - j. …
 
   - k. den kantonalen Behörden für die Wehrpflichtersatzabgabe zur Veranlagung und zur Rückerstattung der Wehrpflichtersatzabgabe;
 
