@@ -1,0 +1,19 @@
+# Präambel
+
+Anmerkung: Der nachstehende Text wurde unbeschadet des Standpunktes der einzelnen Delegationen bezüglich seiner endgültigen Rechtsform erarbeitet. Einige Delegationen sind der Auffassung, dass dieser Text als neuer Artikel oder als ein Satz neuer Bestimmungen in das Allgemeine Abkommen aufgenommen werden sollte. Andere vertreten die Auffassung, dass der Text von den Vertragsparteien als Erklärung oder Beschluss angenommen werden sollte. Je nach Entscheidung könnten entsprechende Textänderungen notwendig werden.
+
+1. Ungeachtet des Artikels 1 des Allgemeinen Abkommens können die Vertragsparteien den Entwicklungsländern eine differenzierte und günstigere Behandlung gewähren, ohne diese Behandlung den anderen Vertragsparteien zu gewähren.
+
+3. Jede im Rahmen dieser Klausel vorgesehene differenzierte und günstigere Behandlung
+
+4. Jede Vertragspartei, die Vorkehrungen trifft, um eine Regelung nach den Absätzen 1, 2 und 3 einzuführen, oder zu einem späteren Zeitpunkt Vorkehrungen trifft, um die differenzierte und günstigere Behandlung zu ändern oder zurückzunehmen, hat
+
+5. Die entwickelten Länder erwarten keine Gewährung der Gegenseitigkeit für die von ihnen in Handelsverhandlungen übernommenen Verpflichtungen zum Abbau oder zur Beseitigung von Zöllen und sonstigen Hemmnissen für den Handel der Entwicklungsländer, das heisst, die entwickelten Länder erwarten von den Entwicklungsländern nicht, dass sie bei Handelsverhandlungen Leistungen erbringen, die mit ihren Entwicklungs-, Finanz- und Handelsbedürfnissen unvereinbar sind. Die entwickelten Vertragsparteien versuchen folglich von den weniger entwickelten Vertragsparteien keine Zugeständnisse zu erwirken, die mit deren Entwicklungs-, Finanz- und Handelsbedürfnissen unvereinbar sind, ebenso wenig sind die weniger entwickelten Vertragsparteien verpflichtet, solche Zugeständnisse zu machen.
+
+6. Mit Rücksicht auf die besonderen wirtschaftlichen Schwierigkeiten und die besonderen Entwicklungs-, Finanz- und Handelsbedürfnisse der am wenigsten entwickelten Länder üben die entwickelten Länder äusserste Zurückhaltung bei dem Streben nach Zugeständnissen oder Leistungen für Verpflichtungen, die sie zum Abbau oder zur Beseitigung von Zöllen und sonstigen Hemmnissen für den Handel dieser Länder eingehen; ebenso wenig werden von den am wenigsten entwickelten Ländern Zugeständnisse oder Leistungen erwartet, die mit ihren anerkannten besonderen Verhältnissen und Problemen unvereinbar sind.
+
+7. Die von den entwickelten und den weniger entwickelten Vertragsparteien im Rahmen der Bestimmungen des Allgemeinen Abkommens gewährten Zugeständnisse, erbrachten Leistungen und übernommenen Verpflichtungen sollten die Grundziele des Allgemeinen Abkommens einschliesslich der in der Präambel und in Artikel XXXVI aufgestellten Ziele erreichen helfen. Die weniger entwickelten Vertragsparteien erwarten, dass ihre Fähigkeit, Leistungen zu erbringen oder ausgehandelte Zugeständnisse zu gewähren oder andere gegenseitig vereinbarte Massnahmen im Rahmen der Bestimmungen und Verfahren des Allgemeinen Abkommens zu treffen, mit der fortschreitenden Entwicklung ihrer Wirtschaft und Verbesserung ihrer Handelssituation zunimmt, und erwarten folglich, verstärkt an den Rechten und Verpflichtungen aus dem Allgemeinen Abkommen teilzunehmen.
+
+8. Besonders zu berücksichtigen ist, dass die am wenigsten entwickelten Länder auf Grund ihrer besonderen wirtschaftlichen Lage und ihrer Entwicklungs-, Finanz- und Handelsbedürfnisse ernste Schwierigkeiten haben, Zugeständnisse zu gewähren und Leistungen zu erbringen.
+
+9. Die Vertragsparteien arbeiten an Vereinbarungen zur Überprüfung des Funktionierens dieser Bestimmungen mit, wobei sie die Notwendigkeit individueller und gemeinsamer Bemühungen der Vertragsparteien, den Entwicklungsbedürfnissen der Entwicklungsländer und den Zielen des Allgemeinen Abkommens zu entsprechen, im Auge behalten.
