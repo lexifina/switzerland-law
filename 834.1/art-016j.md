@@ -15,3 +15,5 @@
   - d. wenn das Kind stirbt; oder
 
   - e. wenn das Kindesverhältnis zum andern Elternteil aberkannt wird.
+
+4 In Abweichung von Absatz 3 Buchstabe d endet der Anspruch auf die Entschädigung nicht, wenn das Kind tot geboren wird oder bei der Geburt oder in den 14 Tagen nach der Geburt stirbt. In Abweichung von Absatz 1 müssen die verbleibenden Taggelder ab dem Folgetag des Todestags am Stück bezogen werden.

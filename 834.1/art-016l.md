@@ -4,4 +4,6 @@
 
 2 Für die Ermittlung des Einkommens nach Absatz 1 ist Artikel 11 Absatz 1 sinngemäss anwendbar.
 
-3 Für den Höchstbetrag gilt Artikel 16f sinngemäss.
+3 Für den Höchstbetrag der Entschädigung des andern Elternteils gilt Artikel 16 Absätze 1 und 2 sinngemäss.
+
+4 Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Entschädigung des andern Elternteils ausgerichtet.

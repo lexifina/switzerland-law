@@ -10,9 +10,11 @@
 
   - d. der Militärversicherung;
 
-  - e. der Entschädigung nach den Artikeln 9 und 10.
+  - e. der Entschädigung nach den Artikeln 9 und 10;
 
-2 Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elternteils Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Entschädigung des andern Elternteils mindestens dem bisher bezogenen Taggeld:
+  - f. der Betreuungsentschädigung nach den Artikeln 16n–16sbis des andern Elternteils.
+
+2 Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elternteils Anspruch auf ein Taggeld nach diesem oder einem der folgenden Gesetze, so entspricht die Entschädigung des andern Elternteils mindestens dem bisher bezogenen Taggeld:
 
   - a. Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung;
 

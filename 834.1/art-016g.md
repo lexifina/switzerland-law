@@ -12,9 +12,9 @@
 
   - e. der Entschädigung nach den Artikeln 9 und 10;
 
-  - f. der Betreuungsentschädigung nach den Artikeln 16n–16s für dasselbe Kind.
+  - f. der Betreuungsentschädigung nach den Artikeln 16n–16sbis der Mutter.
 
-2 Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Mutterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
+2 Bestand bis zum Beginn des Anspruchs auf die Mutterschaftsentschädigung Anspruch auf ein Taggeld nach diesem oder einem der folgenden Gesetze, so entspricht die Mutterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
 
   - a. Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung;
 

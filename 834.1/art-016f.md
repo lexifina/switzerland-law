@@ -1,5 +1,5 @@
 # Art. 16f Höchstbetrag
 
-1 Die Mutterschaftsentschädigung beträgt höchstens 220 Franken im Tag. Artikel 16a Absatz 2 gilt sinngemäss.
+1 Für den Höchstbetrag der Mutterschaftsentschädigung gilt Artikel 16 Absätze 1 und 2 sinngemäss.
 
-2 Die Mutterschaftsentschädigung wird gekürzt, soweit sie den Höchstbetrag nach Absatz 1 übersteigt.
+2 Zulagen für Betreuungskosten und Betriebszulagen werden immer ungekürzt zusätzlich zur Mutterschaftsentschädigung ausgerichtet.

@@ -14,6 +14,12 @@
 
     - 3. im Betrieb des Ehemannes oder der Ehefrau mitarbeiten und einen Barlohn beziehen.
 
+1bis Der Bundesrat regelt die Anspruchsvoraussetzungen für Personen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit:
+
+  - a. während der neun Monate unmittelbar vor der Aufnahme des Kindes nicht mindestens fünf Monate eine Erwerbstätigkeit ausgeübt haben;
+
+  - b. im Zeitpunkt der Aufnahme des Kindes nicht Arbeitnehmende oder Selbstständigerwerbende sind.
+
 2 Bei einer gemeinschaftlichen Adoption:
 
   - a. müssen beide Elternteile die Voraussetzungen nach Absatz 1 erfüllen;

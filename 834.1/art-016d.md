@@ -2,6 +2,6 @@
 
 1 Der Anspruch endet am 98. Tag nach seinem Beginn.
 
-2 Bei Hospitalisierung des Neugeborenen endet der Anspruch mit dem Ende der Verlängerung nach Artikel 16c Absatz 3.
+2 Bei einem Spitalaufenthalt des Neugeborenen oder der Mutter endet der Anspruch mit dem Ende der Verlängerung nach Artikel 16c Absatz 3.
 
 3 Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt; er endet jedoch nicht vorzeitig, wenn die Mutter als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.
