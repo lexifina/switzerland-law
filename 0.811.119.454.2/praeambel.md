@@ -1,0 +1,5 @@
+# Präambel
+
+In Anbetracht dessen, dass die schweizerischen Staatsangehörigen in Italien bei Vorweisung der italienischen (oder der validierten ausländischen) akademischen Ausweise zum medizinischen, pharmazeutischen oder tierärztlichen Staatsexamen zugelassen werden und nach Erhalt des italienischen Diploms über die Ermächtigung zur Berufsausübung das Recht besitzen, sich in das entsprechende Berufsregister (albo) eintragen zu lassen, werden die italienischen Staatsangehörigen in der Schweiz zu den eidgenössischen Prüfungen für Ärzte, Apotheker und Tierärzte zugelassen und können das entsprechende eidgenössische Diplom erwerben gemäss den Bedingungen, die bestunden vor dem Bundesratsbeschluss vom 4. Dezember 1933, der die Ausländer mangels Gegenseitigkeit von der Zulassung zu den oben genannten Prüfungen ausschliesst.
+
+Der Zeitpunkt des Inkrafttretens der gegenwärtigen Erklärung wird durch die beiden Regierungen gemeinsam mittels Notenaustausches festgesetzt. Sie bleibt bis zum Ablauf von drei Monaten nach dem Zeitpunkt der Kündigung durch die eine oder andere der Parteien in Kraft.
