@@ -1,0 +1,3 @@
+# Art. XVI
+
+Jede Vertragspartei kann der andern Vertragspartei jederzeit schriftlich ihren Wunsch anzeigen, dieses Abkommen aufzuheben; der Inhalt dieser Anzeige wird gleichzeitig der Internationalen Zivilluftfahrtorganisation zur Kenntnis gebracht. In diesem Fall endigt das Abkommen ein Jahr nach dem Zeitpunkt des Empfanges der Anzeige durch die Vertragspartei, sofern die genannte Anzeige nicht in gegenseitigem Einvernehmen vor Fristablauf zurückgezogen wird. Wenn die andere Vertragspartei den Empfang der Anzeige nicht bestätigt, gilt diese vierzehn (14) Tage nach dem Zeitpunkt ihres Empfanges durch die Internationale Zivilluftfahrtorganisation als erhalten.

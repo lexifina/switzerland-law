@@ -1,0 +1,3 @@
+# Art. IX
+
+Jede Vertragspartei behält sich das Recht vor, nach Beratung mit der andern Vertragspartei, die Annahme der Bezeichnung einer Unternehmung zu verweigern, die Betriebsbewilligung vorzuenthalten, zu widerrufen oder sie an angemessene Bedingungen zu knüpfen, die ihr notwendig erscheinen, wenn sie nicht den Beweis besitzt, dass ein bedeutender Teil des Eigentums und die tatsächliche Verfügungsgewalt über diese Unternehmung in Händen der anderen Vertragspartei oder ihrer Staatsangehörigen liegt, oder wenn die Unternehmungen sich den Gesetzen und Verordnungen der erstgenannten Vertragspartei nicht unterziehen oder die Pflichten gemäss diesem Abkommen nicht erfüllen.

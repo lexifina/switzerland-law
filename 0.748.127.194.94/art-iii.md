@@ -1,0 +1,9 @@
+# Art. III
+
+1. Jede Vertragspartei ist berechtigt, der andern Vertragspartei schriftlich eine Luftverkehrsunternehmung oder mehrere Luftverkehrsunternehmungen zu bezeichnen, die in Anwendung dieses Abkommens bezwecken, Luftverkehrslinien auf den Strecken, die im entsprechenden Abschnitt des Linienplanes des Anhanges zu diesem Abkommen aufgeführt sind (nachstehend vereinbarte Linien und aufgeführte Strecken genannt), zu betreiben. Sobald die andere Vertragspartei die Mitteilung von der Bezeichnung einer Unternehmung erhalten hat, muss sie, unter Vorbehalt der Bestimmungen des Absatzes 2 dieses Artikels und des Artikels IX dieses Abkommens, dieser bezeichneten Unternehmung ohne Aufschub die erforderliche Betriebsbewilligung erteilen.
+
+2. Bevor der bezeichneten Unternehmung gestattet wird, die im Absatz 1 dieses Artikels erwähnten vereinbarten Linien zu eröffnen, kann sie indessen angehalten werden, sich bei den Luftfahrtbehörden der andern Vertragspartei darüber auszuweisen, dass sie in der Lage ist, die Voraussetzungen der Gesetze und Verordnungen zu erfüllen, welche diese Behörden für den Betrieb internationaler Luftverkehrslinien üblicherweise anwenden.
+
+3. Nachdem den Bestimmungen des Absatzes 1 dieses Artikels Genüge getan ist, kann eine auf diese Weise bezeichnete und ermächtigte Unternehmung zu jeder Zeit den Betrieb der vereinbarten Linien aufnehmen.
+
+4. Die Lufttüchtigkeitsausweise, Fähigkeitszeugnisse, Bewilligungen und Ausweise, die von einer Vertragspartei ausgestellt oder anerkannt worden sind und noch in Kraft stehen, werden von der andern Vertragspartei für den Betrieb der im Anhang festgelegten Strecken und Linien anerkannt. Jede Vertragspartei behält sich indessen das Recht vor, die Fähigkeitszeugnisse, Bewilligungen und Ausweise, welche ihren eigenen Staatsangehörigen durch den andern Staat ausgestellt wurden, für den Verkehr über ihrem eigenen Gebiet nicht anzuerkennen.
