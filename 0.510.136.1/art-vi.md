@@ -1,0 +1,5 @@
+# Art. VI Verhältnis zu bestehenden Vereinbarungen
+
+1 Auf diese Vereinbarung finden die Bestimmungen des Übereinkommens vom 19. Juni 1995 zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen und des Zusatzprotokolls vom 19. Juni 1995 zu dem Übereinkommen zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen Anwendung.
+
+2 Die Vereinbarung vom 30. September 2002 zwischen dem Departement für Verteidigung, Bevölkerungsschutz und Sport der Schweizerischen Eidgenossenschaft und dem Bundesministerium der Verteidigung der Bundesrepublik Deutschland über die Zusammenarbeit zwischen der Gemischten Heeresflieger Abteilung der Multinationalen Brigade Süd und dem Schweizerischen Luftwaffendetachement im Zusammenhang mit der Internationalen Sicherheitspräsenz im Kosovo (KFOR) bleibt in Kraft. Sie wird als Durchführungsvereinbarung im Sinne des Artikels 1 Absatz 2 angesehen.
