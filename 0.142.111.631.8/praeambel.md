@@ -1,0 +1,3 @@
+# Präambel
+
+Im Grenzverkehr zwischen der Schweiz und Österreich steht jedem der beiden Staaten das Recht zu, Angehörige des andern Staates, denen der Aufenthalt nach Massgabe des bestehenden Niederlassungsvertrages untersagt werden kann, oder Personen, die keinem der beiden Teile angehören, ohne vorausgehendes Übernahmeverfahren in das Gebiet des andern Teiles zurückzuschaffen, wenn sie aus diesem Gebiete auf der Eisenbahnstrecke Bregenz–St. Margrethen bzw. St. Margrethen–Bregenz in den Nachbarstaat gelangt sind und dort in dem von ihnen zum Grenzübertritte benützten Eisenbahnzuge selbst oder unmittelbar nach dem Verlassen desselben angehalten werden.
