@@ -1,3 +1,13 @@
-# Art. 33a Freiwillige Leistungen
+# Art. 33a Schuldzinsen bei erstmals erworbenen selbstbewohnten Liegenschaften
 
-Von den Einkünften abgezogen werden auch die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 56 Bst. g), wenn diese Leistungen im Steuerjahr 100 Franken erreichen und insgesamt 20 Prozent der um die Aufwendungen (Art. 26–33) verminderten Einkünfte nicht übersteigen. Im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an Bund, Kantone, Gemeinden und deren Anstalten (Art. 56 Bst. a–c).
+1 Steuerpflichtige, die erstmals eine dauernd und ausschliesslich selbstbewohnte Liegenschaft in der Schweiz erwerben, können im ersten Steuerjahr nach dem Erwerb die auf diese Liegenschaft entfallenden privaten Schuldzinsen wie folgt abziehen:
+
+  - a. Ehepaare in rechtlich und tatsächlich ungetrennter Ehe: bis zu 10 000 Franken;
+
+  - b. übrige Steuerpflichtige: bis zu 5000 Franken.
+
+2 Dieser Abzug ist nur so weit zulässig, als die Schuldzinsen nicht bereits nach Artikel 33 Absatz 1 Buchstabe a erster Satz berücksichtigt worden sind.
+
+3 In den nachfolgenden Steuerjahren vermindert sich der maximal abziehbare Betrag jährlich um 10 Prozent des Höchstbetrags nach Absatz 1.
+
+4 Wird die Liegenschaft veräussert oder anders genutzt, so entfällt die Abzugsmöglichkeit ab dem ersten Steuerjahr nach der Veräusserung oder Nutzungsänderung. Erwirbt die steuerpflichtige Person innert angemessener Frist eine gleichgenutzte Ersatzliegenschaft in der Schweiz, so richtet sich die Abzugsmöglichkeit ab dem Jahr des Erwerbs der Liegenschaft für die verbleibenden Steuerjahre nach Absatz 3.
