@@ -1,0 +1,9 @@
+# Art. XVIII
+
+Der gegenwärtige Vertrag ist auf fünf Jahre abgeschlossen.
+
+Der Zeitpunkt seiner Vollziehung wird in dem Protokolle über die Auswechslung der Ratifikationen festgestellt werden.
+
+Findet sechs Monate vor Ablauf dieser fünf Jahre keine Aufkündung von Seite einer der beiden Regierungen statt, so wird der Vertrag für fünf weitere Jahre gültig sein, und so weiter, von je fünf zu fünf Jahren.
+
+Er soll ratifiziert und die Ratifikationsurkunden sollen ausgetauscht werden, sobald es möglich sein wird.

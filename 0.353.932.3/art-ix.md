@@ -1,0 +1,5 @@
+# Art. IX
+
+Die Auslieferung kann nur für die Verfolgung und Bestrafung der im Artikel I vorgesehenen Verbrechen oder Vergehen stattfinden. Sie berechtigt jedoch zur Prüfung und folgeweise zur Bestrafung von solchen strafbaren Handlungen, welche als mit dem eingeklagten Verbrechen oder Vergehen in Verbindung stehend (als konnex) gleichzeitig verfolgt werden, und entweder einen erschwerenden Umstand bilden oder sonstwie die Hauptanklage beeinflussen.
+
+Dagegen ist es nicht gestattet, das ausgelieferte Individuum für irgendeine andere Gesetzesverletzung in Untersuchung zu ziehen oder im kontradiktorischen Verfahren zu bestrafen, als für diejenige, wegen weicher die Auslieferung bewilligt wurde, es wäre denn, dass der Angeklagte ausdrücklich und freiwillig seine Zustimmung gegeben und die ausliefernde Regierung davon Kenntnis erhalten hätte, oder dass, falls jene Gesetzesverletzung in dem Vertrage enthalten ist, vorher die Einwilligung derjenigen Regierung, welche die Auslieferung gewährt hat, eingeholt würde.

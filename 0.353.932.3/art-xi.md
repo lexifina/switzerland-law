@@ -1,0 +1,5 @@
+# Art. XI
+
+Wenn das Auslieferungsbegehren begründet ist, so sollen alle sequestrierten Gegenstände, welche geeignet sind, das Verbrechen oder Vergehen zu konstatieren, sowie diejenigen Gegenstände, welche vom Diebstahl herrühren, der die Auslieferung begehrenden Regierung zugestellt werden, gleichviel, ob die Auslieferung infolge Verhaftung des Angeklagten wirklich stattfinden kann oder ob letzteres nicht möglich ist, indem der Angeklagte oder der Verurteilte sich aufs neue geflüchtet hat, oder gestorben ist.
+
+Ebenso sollen alle Gegenstände ausgeliefert werden, die der Angeklagte in dem Lande, in das er sich geflüchtet, versteckt oder in Verwahrung gegeben hat und die später aufgefunden werden. Immerhin bleiben die Rechte vorbehalten, welche dritte, in die Untersuchung nicht verwickelte Personen auf die im gegenwärtigen Artikel bezeichneten Gegenstände erworben haben.
