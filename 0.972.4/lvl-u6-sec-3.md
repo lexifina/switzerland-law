@@ -1,0 +1,9 @@
+# Abschnitt 3 Aufrechterhaltung des Wertes der Währungsbestände der Bank
+
+a) Wird im Internationalen Währungsfonds die Parität der Währung eines Mitglieds herabgesetzt oder ist nach Auffassung der Bank der Devisenwert der Währung eines Mitglieds in beträchtlichem Masse gesunken, so zahlt das Mitglied der Bank binnen angemessener Frist einen zusätzlichen Betrag in seiner eigenen Währung, der ausreicht, um den Wert aller im Besitz der Bank in ihren ordentlichen Kapitalmitteln, … oder den Mitteln des Fonds befindlichen Währungsbestände des Mitglieds aufrechtzuerhalten, mit Ausnahme der Währungsbestände aus den von der Bank aufgenommenen Krediten. Für diesen Zweck gilt als Wertmassstab der US-Dollar mit dem Gewicht und Feingehalt vom 1. Januar 1959.
+
+b) Wird im Internationalen Währungsfonds die Parität der Währung eines Mitglieds heraufgesetzt oder ist nach Auffassung der Bank der Devisenwert der Währung des Mitglieds in beträchtlichem Masse gestiegen, so zahlt die Bank dem Mitglied binnen angemessener Frist in der Währung des Mitglieds einen Betrag zurück, welcher der Wertsteigerung des Währungsbetrags entspricht, der sich im Besitz der Bank in ihren ordentlichen Kapitalmitteln, … oder den Mitteln des Fonds befindet; ausgenommen sind Währungsbeträge aus den von der Bank aufgenommenen Krediten. Für diesen Zweck gilt derselbe Wertmassstab wie unter Buchstabe a.
+
+c) Die Bank kann auf die Anwendung dieses Abschnitts verzichten, wenn der Internationale Währungsfonds eine gleichmässige Änderung der Parität der Währungen aller Mitglieder der Bank vornimmt.
+
+d) Ungeachtet sonstiger Bestimmungen dieses Abschnitts können die Bedingungen für eine Erhöhung der Mittel des Fonds nach Artikel IV Abschnitt 3 Buchstabe g andere Bestimmungen über die Aufrechterhaltung des Wertes als die in diesem Abschnitt enthaltenen Bestimmungen, die sich auf die auf eine derartige Erhöhung zurückzuführenden Mittel des Fonds beziehen, umfassen.

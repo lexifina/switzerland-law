@@ -1,0 +1,3 @@
+# Abschnitt 7 Vorrechte für den Nachrichtenverkehr
+
+Jedes Mitglied gewährt dem amtlichen Nachrichtenverkehr der Bank dieselbe Behandlung, die es dem amtlichen Nachrichtenverkehr anderer Mitglieder gewährt.
