@@ -8,7 +8,7 @@
 
 4 Für die Annullierung oder den Widerruf bereits erteilter ETIAS-Reisegenehmigungen ist das SEM zuständig. Wird eine ETIAS-Reisegenehmigung verweigert, annulliert oder widerrufen, so erlässt das SEM eine Verfügung mit einem Standardformular.
 
-5 Das Verfahren zur Erteilung, Verweigerung, Annullierung oder Widerruf der ETIAS-Reisegenehmigung richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968 (VwVG). Die Artikel 11b Absatz 1, 22a und 24 VwVG sind nicht anwendbar. Der Bundesrat kann zur Umsetzung der Verordnung (EU) 2018/1240 und der Rechtsakte, welche die Europäischen Kommission gestützt auf diese EU‑Verordnung erlässt, vom VwVG abweichende Bestimmungen erlassen über:
+5 Das Verfahren zur Erteilung, Verweigerung, Annullierung oder Widerruf der ETIAS-Reisegenehmigung richtet sich nach dem VwVG. Die Artikel 11b Absatz 1, 22a und 24 VwVG sind nicht anwendbar. Der Bundesrat kann zur Umsetzung der Verordnung (EU) 2018/1240 und der Rechtsakte, welche die Europäischen Kommission gestützt auf diese EU‑Verordnung erlässt, vom VwVG abweichende Bestimmungen erlassen über:
 
   - a. elektronische Eingaben und Zustellungen (Art. 11b Abs. 2, 21a und 34 Abs. 1bis VwVG);
 

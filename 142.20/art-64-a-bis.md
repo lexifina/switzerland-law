@@ -10,4 +10,6 @@
 
 5 Offensichtlich begründete oder unbegründete Beschwerden werden durch die Einzelrichterin oder den Einzelrichter mit Zustimmung eines zweiten Richters oder einer zweiten Richterin innerhalb von fünf Arbeitstagen nach Eingang der Beschwerde oder nach dem Entscheid über die Erteilung der aufschiebenden Wirkung entschieden, wenn eine solche beantragt wurde. Auf die Durchführung des Schriftenwechsels kann verzichtet werden. Die Beschwerdeentscheide werden nur summarisch begründet.
 
+5bis Auf die Erhebung eines Kostenvorschusses nach Artikel 63 Absatz 4 VwVG wird verzichtet, ausser eine Beschwerde ist von vornherein aussichtslos.
+
 6 Der Kanton zieht für das Beschwerdeverfahren nötigenfalls eine Dolmetscherin oder einen Dolmetscher bei.
