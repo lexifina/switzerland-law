@@ -1,6 +1,6 @@
 # Art. 37a ETH-Beschwerdekommission
 
-1 Der Bundesrat wählt die sieben Mitglieder der ETH-Beschwerdekommission. Mindestens vier Mitglieder müssen dem ETH-Bereich angehören.
+1 Der Bundesrat wählt die sieben Mitglieder der ETH-Beschwerdekommission. Mindestens vier Mitglieder dürfen nicht dem ETH-Bereich angehören.
 
 2 Die Amtsdauer beträgt jeweils vier Jahre, wobei Wiederwahl möglich ist.
 
