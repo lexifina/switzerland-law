@@ -1,0 +1,3 @@
+# Art. XXVII Aussetzung oder Zurücknahme von Zugeständnissen
+
+Jedem Vertragspartner steht es frei, jederzeit ein in der dem vorliegenden Abkommen beigefügten entsprechenden Liste aufgenommenes Zugeständnis ganz oder teilweise auszusetzen oder zurückzuziehen, wenn festgestellt wird, dass es ursprünglich mit einer Regierung vereinbart worden ist, die kein Vertragspartner geworden oder als solcher ausgeschieden ist. Eine Vertragspartei, die eine solche Massnahme trifft, notifiziert dies den Vertragsparteien und führt auf Antrag Konsultationen mit den Vertragsparteien, die an der betreffenden Ware wesentlich interessiert sind.

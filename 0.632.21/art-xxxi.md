@@ -1,0 +1,3 @@
+# Art. XXXI Rücktritt
+
+Unbeschadet der Bestimmungen in Artikel XVIII Ziffer 12, in Artikel XXIII oder in Ziffer 2 des Artikels XXX kann jeder Vertragspartner von diesem Abkommen zurücktreten oder den gesonderten Rücktritt eines oder mehrerer bestimmter Zollgebiete erklären, für die er völkerrechtlich verantwortlich ist und die zu diesem Zeitpunkte in der Durchführung ihrer Aussenhandelsbeziehungen und hinsichtlich der anderen in diesem Abkommen behandelten Fragen vollständige Handlungsfreiheit haben. Der Rücktritt kann erfolgen und wird nach Ablauf von sechs Monaten nach dem Tage wirksam, an dem der Generalsekretär der Vereinten Nationen die schriftliche Mitteilung über diesen Rücktritt erhalten hat.

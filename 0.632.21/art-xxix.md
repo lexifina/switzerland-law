@@ -1,0 +1,13 @@
+# Art. XXIX Zusammenhang dieses Abkommens mit der Havanna-Charta
+
+1. Die Vertragspartner verpflichten sich, in dem vollen mit den ihnen zur Verfügung stehenden Verwaltungsmitteln zu vereinbarendem Masse die in den Kapiteln I–IV einschliesslich und in Kapitel IX der Havanna-Charta niedergelegten allgemeinen Grundsätze bis zu dem Zeitpunkt zu beachten, an dem sie die Charta gemäss ihren verfassungsmässigen Bestimmungen angenommen haben werden.
+
+2. Die Anwendung des Teils II des vorliegenden Abkommens wird mit dem Tage des Inkrafttretens der Havanna-Charta ausgesetzt.
+
+3. Sollte die Havanna-Charta bis zum 30. September 1949 nicht in Kraft getreten sein, so werden die Vertragspartner vor dem 31. Dezember 1949 zusammentreten, um darüber zu befinden, ob das vorliegende Abkommen geändert, ergänzt oder beibehalten werden soll.
+
+4. Sollte die Havanna-Charta zu irgendeinem Zeitpunkt ausser Kraft treten, so sollen die Vertragspartner sobald wie möglich danach zusammentreten, um darüber zu befinden, ob das vorliegende Abkommen ergänzt, geändert oder beibehalten werden soll. Bis zum Abschluss einer Vereinbarung über diese Frage soll Teil II des vorliegenden Abkommens von neuem in Kraft treten, wobei Einverständnis darüber herrscht, dass die Bestimmungen des Teils II, mit Ausnahme des Artikels XXIII mutatis mutandis durch den zu diesem Zeitpunkt in der Havanna-Charta enthaltenen Text ersetzt werden und dass ferner kein Vertragspartner durch Bestimmungen gebunden sein soll, die ihn zum Zeitpunkt des Ausserkrafttretens der Havanna-Charta nicht banden.
+
+5. Sollte ein Vertragspartner die Havanna-Charta bis zum Zeitpunkt ihres Inkrafttretens nicht angenommen haben, so sollen die Vertragspartner zusammentreten, um darüber zu befinden, ob und in welcher Weise das vorliegende Abkommen, soweit es die Beziehungen zwischen dem Vertragspartner, der die Charta nicht angenommen hat und den übrigen Vertragspartnern berührt, ergänzt oder geändert werden soll. Bis zum Zeitpunkt einer Vereinbarung hierüber sollen die Bestimmungen des Teils 11 des vorliegenden Abkommens weiterhin zwischen diesem Vertragspartner und den übrigen Vertragspartnern, unbeschadet der Bestimmungen der Ziffer 2 des vorliegenden Artikels, Anwendung finden.
+
+6. Vertragspartner, die Mitglied der Internationalen Handelsorganisation sind, sollen sich nicht auf die Bestimmungen des vorliegenden Abkommens berufen können, um irgendeine Bestimmung der Havanna-Charta unwirksam zu machen. Die Anwendung des in dieser Ziffer behandelten Grundsatzes auf einen Vertragspartner, der nicht Mitglied der Internationalen Handelsorganisation ist, soll Gegenstand einer Vereinbarung gemäss den Bestimmungen der Ziffer 5 dieses Artikels sein.
