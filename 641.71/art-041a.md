@@ -1,6 +1,10 @@
 # Art. 41a Förderung von elektrischen Antriebstechnologien
 
-1 Der Bund richtet bis 2030 in der konzessionierten Personenbeförderung Beiträge von höchstens 47 Millionen Franken pro Jahr an die Beschaffung von Fahrzeugen mit elektrischem Antrieb und an die Umrüstung von Schiffen auf einen elektrischen Antrieb aus.
+1 Der Bund richtet bis 2030 für die konzessionierte Personenbeförderung Beiträge von höchstens 40 Millionen Franken pro Jahr aus an:
+
+  - a. die Beschaffung von Strassenfahrzeugen und Schiffen mit elektrischem Antrieb;
+
+  - b. die Umrüstung von Schiffen auf einen elektrischen Antrieb.
 
 2 Die Beiträge decken die Kosten in folgendem Umfang:
 
