@@ -22,6 +22,6 @@
 
   - c. in der Schweiz nicht zugelassen sind.
 
-4 Er kann die Aufgaben nach den Absätzen 1−3 dem Eidgenössischen Departement des Innern (EDI) oder dem Bundesamt für Sozialversicherungen (BSV) übertragen.
+4 Er kann die Aufgaben nach den Absätzen 1–3 dem Eidgenössischen Departement des Innern (EDI) oder dem BSV übertragen.
 
 5 Das zuständige Bundesamt erstellt eine Liste der Arzneimittel zur Behandlung von Geburtsgebrechen nach Artikel 13, einschliesslich der Höchstpreise, sofern sie nicht bereits auf der Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b KVG aufgeführt sind.
