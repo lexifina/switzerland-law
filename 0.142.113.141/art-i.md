@@ -1,0 +1,3 @@
+# Art. I
+
+Die Schweizer Bürger, welche sich im Königreich Dänemark niederlassen oder daselbst kürzern oder längern Aufenthalt nehmen, sollen den dänischen Untertanen gleichgehalten werden in allem, was auf die Wahl ihres Wohnortes, das Recht, Eigentum durch Kauf oder Erbschaft zu erwerben und bewegliches wie unbewegliches Eigentum zu veräussern, den freien Zutritt zu den Gerichten, die Entrichtung der Abgaben und Steuern usw. Bezug hat. Diese Gleichbehandlung kommt ihnen auch zu in den Kolonien, mit Ausnahme von Grönland, wo gemäss bestehenden Vorschriften kein Schweizer Bürger ohne eine besondere Bewilligung der dänischen Regierung sich niederlassen oder Handel treiben darf.
