@@ -1,0 +1,5 @@
+# Art. 15a
+
+1 Die aufzubewahrenden Akten können mit Zustimmung der kantonalen Aufsichtsbehörde auf Bild- oder Datenträgern aufgezeichnet und die Originalakten hierauf vernichtet werden.
+
+2 Die kantonale Aufsichtsbehörde sorgt dafür, dass die Vorschriften der bundesrätlichen Verordnung vom 2. Juni 1976 über die Aufzeichnung von aufzubewahrenden Unterlagen sinngemäss befolgt werden.
