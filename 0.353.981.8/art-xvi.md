@@ -1,0 +1,5 @@
+# Art. XVI
+
+Wenn im Laufe eines Strafverfahrens das persönliche Erscheinen eines Zeugen notwendig ist, so soll derselbe von seiner Landesregierung eingeladen werden, der an ihn ergangenen Vorladung Folge zu leisten. Wenn der Zeuge erscheinen will, so werden ihm die Kosten für die Reise und den Aufenthalt ausser Hause, von seinem Aufenthaltsorte an gerechnet, nach den in dem Lande, wo die Abhörung stattfinden soll, in Kraft bestehenden Tarifen und Verordnungen vergütet. Auf sein Verlangen können ihm die Gerichtsbeamten seines Wohnortes die Reisekosten ganz oder teilweise vorstrecken, und es werden dieselben dann durch die Regierung, welche die Abhörung verlangt hat, zurückerstattet.
+
+Kein Zeuge, welchem Lande er immer angehöre, der in einem der beiden Länder zitiert worden ist und freiwillig vor dem Richter des andern Landes erscheint, darf für zivil‑ oder strafrechtliche Handlungen oder Verurteilungen, die der Einvernahme vorangegangen sind, oder unter dein Vorwande der Mitschuld an den Handlungen, welche den Gegenstand des Prozesses bilden, in dem er als Zeuge erscheint, verfolgt oder verhaftet werden.

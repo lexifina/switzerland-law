@@ -1,0 +1,9 @@
+# Art. IV
+
+Die Auslieferung wird nur bewilligt auf die Beibringung eines verurteilenden Erkenntnisses oder eines gegen den Angeschuldigten nach den gesetzlichen Formen des requirierenden Staates erlassenen Verhaftsbefehles oder endlich einer jeden andern Urkunde, die einem solchen Verhaftsbefehl gleichsteht und zugleich die Natur und die Schwere des eingeklagten Verbrechens sowie den Zeitpunkt, in welchem es begangen worden ist, angibt.
+
+Diese Akten sollen, soweit möglich, das Signalement des auszuliefernden Individuums sowie eine Abschrift der auf die eingeklagte Handlung anwendbaren Strafbestimmungen enthalten.
+
+Wenn über die Frage Zweifel entsteht, ob das Verbrechen oder Vergehen, welches Gegenstand der Verfolgung ist, unter die Bestimmungen dieses Vertrages fällt, so werden nähere Aufschlüsse begehrt werden, nach deren Prüfung die Regierung, an welche das Auslieferungsbegehren gerichtet ist, darüber entscheidet, ob demselben Folge zu geben sei.
+
+Die in einer andern Sprache abgefassten Schriftstücke müssen von gehörig beglaubigten deutschen oder französischen Übersetzungen begleitet sein.
