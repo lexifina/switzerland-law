@@ -1,0 +1,9 @@
+# Präambel
+
+Vom 5. bis 19. August 1954 haben in Bern zwischen einer ägyptischen und einer schweizerischen Delegation Verhandlungen stattgefunden.
+
+Bei diesem Anlass hat die ägyptische Delegation die Pläne für die industrielle Entwicklung ihres Landes dargelegt, welche einen erhöhten Einfuhrbedarf für Rechnung der Regierung und an Ausrüstungsgütern für die Privatindustrie zur Folge haben werden. Um die schweizerische Industrie an der Verwirklichung dieser Pläne teilnehmen zu lassen, beantragte die ägyptische Delegation eine gewisse Lockerung des geltenden vertraglichen Zahlungssystems, insbesondere die Beseitigung des in Ziffer 2 des Protokolls vom 26. Dezember 1951 festgesetzten Plafonds von fünf Millionen Franken für Zahlungen aus schweizerischen Lieferungen für Assuan sowie die Gewährung der Möglichkeit, Zahlungen aus Regierungskontrakten und Zahlungen für Ausrüstungsgüter der Industrie über Konto «A» und – nach Erschöpfung dieses Kontos – in Pfundsterling zu leisten.
+
+Die schweizerische Delegation war ihrerseits bestrebt, in möglichst weitgehendem Masse zu einer Ausdehnung des Warenaustausches zwischen den beiden Ländern beizutragen; sie musste aber darauf hinweisen, dass die Ausweitung der Zahlungsmöglichkeiten über Konto «A» und die Annahme von Pfundsterling das gute Funktionieren des die Grundlage des Abkommens bildenden Systems des Kontos «B» beeinträchtigen könnte und dass die Annahme von Pfundsterling im besonderen für die Schweiz eine Erhöhung ihrer Vorschüsse an die Europäische Zahlungsunion bedeuten würde. Bei dieser Sachlage erachtet es die schweizerische Delegation im Interesse beider Länder als angezeigt, nur schrittweise und unter Berücksichtigung der obenerwähnten Überlegungen vorzugehen.
+
+In diesem Sinne haben die beiden Delegationen folgendes vereinbart:
