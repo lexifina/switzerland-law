@@ -1,0 +1,5 @@
+# Die Schweiz als «ersuchender Staat» und Manitoba als «ersuchter Staat»
+
+8. Die Schweiz kann beantragen, dass Manitoba die erforderlichen rechtlichen und verfahrensrechtlichen Schritte unternimmt, um eine schweizerische Unterhaltsentscheidung oder vollstreckbare Unterhaltsvereinbarung nach den Rechtsvorschriften von Manitoba über die Registrierung und Vollstreckung von ausländischen Unterhaltsverpflichtungen zu registrieren und zu vollstrecken.
+
+9. Die Schweiz kann zudem beantragen, dass Manitoba Schritte einleitet, um in Manitoba - in Übereinstimmung mit den Rechtsvorschriften von Manitoba über den Erlass oder die Abänderung von Unterhaltsverpflichtungen zwischen verschiedenen Gerichtsbarkeiten - eine Unterhaltsentscheidung zu Gunsten eines in der Schweiz ansässigen Anspruchstellers oder einer öffentlich-rechtlichen Körperschaft im Sinne von Ziffer 5 zu erlassen oder um eine Unterhaltsentscheidung oder -vereinbarung abzuändern, sofern die andere Partei im Verfahren in Manitoba ansässig ist.
