@@ -10,6 +10,8 @@
 
   - b. deren Lohn den Höchstbetrag der Lohnklasse 38 erreicht hat.
 
-4 Die Reallohnerhöhung wird auf dem Lohn nach Artikel 36 und den Funktionszulagen nach Artikel 46 ausgerichtet. Die Höchstbeträge der Lohnklassen 1–37 erhöhen sich jeweils im Umfang der Reallohnerhöhungen.
+4 Die Reallohnerhöhung wird auf dem Lohn nach Artikel 36 und den Funktionszulagen nach Artikel 46 ausgerichtet. Die Mindestbeträge, die Ziellöhne und die Höchstbeträge der Lohnklassen 1–37 erhöhen sich jeweils im Umfang der Reallohnerhöhungenen.
 
 5 Ein zum gleichen Zeitpunkt des Inkrafttretens einer Reallohnerhöhung ausgerichteter Teuerungsausgleich nach Artikel 44 wird vor der Reallohnerhöhung vollzogen.
+
+6 Das EFD passt die Mindestbeträge, die Ziellöhne und die Höchstbeträge nach Artikel 36 entsprechend der Reallohnerhöhung an.

@@ -14,4 +14,4 @@
 
 3 Der Lohn für Hochschulpraktikanten und -praktikantinnen wird durch das EFD festgelegt. Er ist von einer Lohnentwicklung (Art. 39) ausgenommen. Monatlich wird ein Zwölftel des Jahreslohns ausbezahlt.
 
-4 Die Hochschulpraktikanten und -praktikantinnen erhalten weder einen Ortszuschlag (Art. 43) noch einen Teuerungsausgleich (Art. 44).
+4 Die Hochschulpraktikanten und -praktikantinnen erhalten keinen Teuerungsausgleich (Art. 44).

@@ -1,6 +1,12 @@
 # Art. 52a Tieferbewertung einer Funktion
 
-1 Muss aus Gründen, die nicht bei der angestellten Person liegen, eine Funktion tiefer bewertet oder eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Übersteigt der Lohn den Höchstbetrag der neuen Lohnklasse, so bleibt er während zwei Jahren unverändert. Er wird während dieser Frist vom Teuerungsausgleich und von einer Lohnerhöhung nach Artikel 39 ausgenommen, bis er den Betrag nicht mehr übersteigt, der aufgrund der Funktionsbewertung gerechtfertigt ist. Nach spätestens zwei Jahren wird der Lohn an die neue Lohnklasse angepasst.
+1 Muss aus Gründen, die nicht bei der angestellten Person liegen, eine Funktion tiefer bewertet oder der Person eine tiefer bewertete Funktion zugewiesen werden, so wird die Lohnklasse im Arbeitsvertrag angepasst. Der bisherige Lohn bleibt während zwei Jahren garantiert (Lohngarantie).
+
+1bis Der Lohn bleibt während der Lohngarantie von der Lohnentwicklung, dem Teuerungsausgleich und der Reallohnerhöhung ausgenommen.
+
+1ter Nach Ablauf der Lohngarantie wird der Lohn an die neue Lohnklasse angepasst. Das Verhältnis des neuen Lohns zum Höchstbetrag der neuen Lohnklasse entspricht dem Verhältnis des bisherigen Lohns zum Höchstbetrag der bisherigen Lohnklasse im Zeitpunkt der Tieferbewertung.
+
+1quater Führt ein Teuerungsausgleich oder eine Reallohnerhöhung dazu, dass die Lohnposition in der neuen Lohnklasse nach Absatz 1ter den garantierten Lohn vor Ablauf der Lohngarantie übersteigt, so wird der Lohn an die neue Lohnklasse angepasst.
 
 2 Abweichend von Absatz 1 beträgt die Frist für die Anpassung des Lohnes an die neue Lohnklasse für Angestellte:
 
