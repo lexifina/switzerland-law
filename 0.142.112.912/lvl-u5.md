@@ -1,0 +1,3 @@
+# Art. 5
+
+  - Im Falle der Einführung neuer Pässe werden sich beide Vertragsparteien, wenn möglich mindestens dreissig Tage im voraus, darüber auf diplomatischem Wege unterrichten und entsprechende Spezimen zur Verfügung stellen.

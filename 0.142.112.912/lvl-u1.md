@@ -1,0 +1,3 @@
+# Art. 1
+
+  - Angehörige beider Staaten, die einen gültigen heimatlichen Diplomaten-, Dienst- oder Sonderpass besitzen und die sich in offizieller Mission als Mitglied einer diplomatischen oder konsularischen Vertretung ihres Staats oder als Mitarbeiter bei einer internationalen Organisation in den anderen Staat begeben, sind während der Dauer ihrer Funktion von der Visumpflicht befreit. Deren Entsendung und Funktion wird dem anderen Staat im voraus auf diplomatischem Wege notifiziert. Sie erhalten eine Legitimationskarte des Aufenthaltsstaats. Diese Bestimmung gilt auch für ihre Familienangehörigen, die im gemeinsamen Haushalt leben und die einen gültigen offiziellen oder gewöhnlichen Pass besitzen.

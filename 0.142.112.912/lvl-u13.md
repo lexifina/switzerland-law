@@ -1,0 +1,3 @@
+# Art. 13
+
+  - Dieses Abkommen gilt auch für das Gebiet des Fürstentums Liechtenstein und für liechtensteinische Landesbürger.

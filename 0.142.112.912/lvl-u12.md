@@ -1,0 +1,3 @@
+# Art. 12
+
+  - Jede Vertragspartei kann aus Gründen der öffentlichen Ordnung, Sicherheit oder Gesundheit die Anwendung der Bestimmungen dieses Abkommens, ausgenommen Artikel 8 Absatz 1, vorübergehend ganz oder teilweise suspendieren. Die Suspendierung und deren Aufhebung soll der anderen Vertragspartei unverzüglich auf diplomatischem Wege notifiziert werden.
