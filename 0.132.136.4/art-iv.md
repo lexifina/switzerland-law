@@ -1,0 +1,3 @@
+# Art. IV
+
+Die gegenüber von Büsingen am linken Ufer des Rheins liegenden sogenannten Scharrenwiesen, ein Komplex von beiläufig 17 Jucharten, werden dem thurgauischen Gemeindebann Unterschlatt zugeteilt. Den Einwohnern der Gemeinde Büsingen, welche in den Scharrenwiesen Liegenschaften besitzen, werden mit Hinsicht auf dieselben die gleichen Rechte gegenüber dem Kanton Thurgau und der Gemeinde Unterschlatt eingeräumt, welche nach Art. III den Einwohnern der Stadt Diessenhofen mit Beziehung auf ihr Grundeigentum in der Säze gegenüber dem Grossherzogtum Baden und der Gemeinde Gailingen zugesichert sind.
