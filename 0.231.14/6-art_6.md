@@ -1,0 +1,3 @@
+# Art. 6
+
+Jedes Land, das durch dieses Protokoll gebunden ist und das nach Artikel 31 Absatz 1) dieser Übereinkunft eine Erklärung oder eine Notifikation für Hoheitsgebiete abgegeben hat, die im Zeitpunkt der Unterzeichnung dieser Übereinkunft ihre auswärtigen Beziehungen nicht selbst wahrnehmen und die als in gleichen Verhältnissen befindlich zu betrachten sind wie die unter Artikel 1 dieses Protokolls fallenden Länder, kann dem Generaldirektor notifizieren, dass dieses Protokoll auf alle oder einzelne dieser Hoheitsgebiete anzuwenden ist, und es kann in dieser Notifikation erklären, dass ein solches Hoheitsgebiet einzelne oder alle der in diesem Protokoll zugelassenen Vorbehalte in Anspruch nimmt.
