@@ -1,0 +1,9 @@
+# Präambel
+
+Der Präsident des Deutschen Reichs; der Präsident des Bundesstaats Österreich; Seine Majestät der König der Belgier; der Präsident der Vereinigten Staaten von Brasilien; der Präsident der Republik Kuba; Seine Majestät der König von Dänemark; der Präsident der Republik Spanien; der Präsident der Vereinigten Staaten von Amerika; der Präsident der Republik Finnland; der Präsident der Französischen Republik; Seine Majestät der König von Grossbritannien, von Irland und der Britischen überseeischen Besitzungen, Kaiser von Indien; Seine Durchlaucht der Reichsverweser von Ungarn; Seine Majestät der König von Italien; Seine Majestät der Kaiser von Japan; Seine Durchlaucht der Fürst von Liechtenstein; Seine Majestät der Sultan von Marokko; der Präsident der Vereinigten Staaten von Mexiko; Seine Majestät der König von Norwegen; Ihre Majestät die Königin der Niederlande; der Präsident der Polnischen Republik (namens Polen und der Freien Stadt Danzig); der Präsident der Portugiesischen Republik; Seine Majestät der König von Schweden, der Bundesrat der Schweizerischen Eidgenossenschaft; der Präsident der Tschechoslowakischen Republik; Seine Hoheit der Bey von Tunis; der Präsident der Türkischen Republik; Seine Majestät der König von Jugoslawien,
+
+haben es als zweckmässig erachtet, an der internationalen Übereinkunft vom 20. März 1883, durch welche ein internationaler Verband zum Schutz des gewerblichen Eigentums gegründet und die in Brüssel am 14. Dezember 1900, in Washington am 2. Juni 1911 und in Den Haag am 6. November 1925 revidiert worden ist, gewisse Änderungen und Ergänzungen anzubringen, und haben zu ihren Bevollmächtigten ernannt:
+
+(Es folgen die Namen der Bevollmächtigten)
+
+welche, nach gegenseitiger Mitteilung ihrer in guter und gehöriger Form befundenen Vollmachten, folgende Bestimmungen vereinbart haben:

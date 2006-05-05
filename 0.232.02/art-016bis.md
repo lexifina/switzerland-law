@@ -1,0 +1,7 @@
+# Art. 16bis
+
+(1) Jedes Verbandsland kann jederzeit der Regierung der Schweizerischen Eidgenossenschaft schriftlich anzeigen, dass die gegenwärtige Übereinkunft auf seine Kolonien, Protektorate, Mandatsgebiete oder andere seiner Hoheit oder Oberherrlichkeit unterworfene Gebiete, sei es auf sämtliche oder nur auf einzelne, anwendbar sei, und die Übereinkunft findet auf alle in der Anzeige bezeichneten Gebiete Anwendung nach Ablauf eines Monats seit der Absendung der Mitteilung durch die Regierung der Schweizerischen Eidgenossenschaft an die übrigen Verbandsländer, sofern in der Anzeige kein späteres Datum angegeben wurde. Mangels dieser Anzeige ist die Übereinkunft auf diese Gebiete nicht anwendbar.
+
+(2) Jedes Verbandsland kann jederzeit der Regierung der Schweizerischen Eidgenossenschaft anzeigen, dass die gegenwärtige Übereinkunft für alle oder für einzelne der Gebiete, welche den Gegenstand der im vorangegangenen Absatz vorgesehenen Anzeige bildeten, nicht mehr anwendbar sein soll, und die Übereinkunft tritt in den in dieser Anzeige bezeichneten Gebieten zwölf Monate nach Empfang der an die Regierung der Schweizerischen Eidgenossenschaft gerichteten Anzeige ausser Kraft.
+
+(3) Alle gemäss den Bestimmungen der Absätze (1) und (2) des gegenwärtigen Artikels der Regierung der Schweizerischen Eidgenossenschaft gemachten Anzeigen werden von dieser Regierung allen Verbandsländern mitgeteilt.
