@@ -1,0 +1,3 @@
+# Art. 7bis
+
+Die Dauer des Urheberrechts, das den Miturhebern eines Werkes gemeinschaftlich zusteht, wird vom Zeitpunkt des Todes des letzten überlebenden Miturhebers an gerechnet.
