@@ -1,0 +1,11 @@
+# Art. XVI
+
+1. Entsteht irgendeine Meinungsverschiedenheit zwischen den Vertragsparteien über die Auslegung oder die Anwendung dieses Abkommens, bemühen sich die Vertragsparteien, dieselbe in erster Linie durch unmittelbare Verhandlungen oder auf diplomatischem Weg zu schlichten.
+
+2. Erzielen die Vertragsparteien keine Verständigung durch Verhandlungen oder auf diplomatischem Weg, können sie die Meinungsverschiedenheit einem aus drei Mitgliedern zusammengesetzten Schiedsgericht zur Entscheidung unterbreiten, wobei von jeder Vertragspartei ein Schiedsrichter ernannt wird und die beiden Schiedsrichter einen dritten Schiedsrichter bezeichnen. Jede der Vertragsparteien ernennt einen Schiedsrichter innerhalb einer Frist von sechzig (60) Tagen vom Zeitpunkt des Empfangs des Gesuchs der einen oder anderen Vertragspartei um schiedsgerichtliche Erledigung der Meinungsverschiedenheit, und der dritte Schiedsrichter wird innerhalb einer weiteren Frist von sechzig (60) Tagen ernannt. Wenn die eine oder andere der Vertragsparteien innerhalb der aufgeführten Frist keinen Schiedsrichter ernennt oder wenn der dritte Schiedsrichter nicht innerhalb der aufgeführten Frist ernannt wird, kann jede der Vertragsparteien den Präsidenten des Rates der Internationalen Zivilluftfahrt‑Organisation ersuchen, einen Schiedsrichter oder Schiedsrichter je nach dem Erfordernis des Falles zu bezeichnen. In allen Fällen ist der dritte Schiedsrichter ein Angehöriger eines dritten Staates, er wirkt als Vorsitzender des Gerichtes und bestimmt seine Verfahrensvorschriften und den Tagungsort des Gerichtes selbst.
+
+3. Die Vertragsparteien verpflichten sich, sich jedem gestützt auf Absatz 2 dieses Artikels gefällten Entscheid zu unterziehen.
+
+4. Das Schiedsgericht entscheidet über die Verteilung der aus dem Verfahren entstandenen Kosten.
+
+5. Wenn und so lange die eine oder andere der Vertragsparteien oder ein bezeichnetes Unternehmen der einen oder anderen Vertragspartei sich nicht einem gestützt auf Absatz 2 dieses Artikels gefällten Entscheid unterzieht, kann die andere Vertragspartei alle Rechte oder Vorrechte, die sie auf Grund dieses Abkommens der fehlbaren Vertragspartei oder dem fehlbaren bezeichneten Unternehmen gewährt hat, beschränken, vorenthalten oder widerrufen.
