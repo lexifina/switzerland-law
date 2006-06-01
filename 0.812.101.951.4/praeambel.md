@@ -1,0 +1,49 @@
+# Präambel
+
+Originaltext
+
+Das Eidgenössische Departement für auswärtige Angelegenheiten entbietet der Botschaft des Fürstentums Liechtenstein seine Hochachtung und beehrt sich, ihr den Empfang ihrer Note vom 11. Dezember 2001 anzuzeigen, welche folgenden Wortlaut hat:
+
+«Die Botschaft des Fürstentums Liechtenstein entbietet dem Eidgenössischen Departement für auswärtige Angelegenheiten ihre Hochachtung und beehrt sich, dem Departement die folgende Angelegenheit zu unterbreiten:
+
+Aufgrund von Artikel 4, 7 und 10 des Vertrages vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (Zollvertrag) und der Vereinbarung vom 2. November 1994 zwischen der Schweiz und Liechtenstein zum Zollvertrag sowie in Anbetracht dessen, dass in der Schweiz am 1. Januar 2002 eine neue Heilmittelgesetzgebung in Kraft treten wird, durch welche die Interkantonale Vereinbarung vom 3. Juni 1971 über die Kontrolle der Heilmittel und damit die liechtensteinische Beteiligung daran hinfällig wird, schlägt die Regierung des Fürstentums Liechtenstein – unter Bezugnahme auf die in dieser Angelegenheit geführten Gespräche – dem Schweizerischen Bundesrat vor, dass der Notenwechsel zwischen der Schweiz und Liechtenstein vom 27. Februar 1973 betreffend die Geltung der interkantonalen Vereinbarung über die Kontrolle der Heilmittel für das Fürstentum Liechtenstein sowie der Notenaustausch vom 1. Mai 1995 zwischen dem Eidgenössischen Departement für auswärtige Angelegenheiten und der Botschaft des Fürstentums Liechtenstein betreffend die Änderung des Notenaustausches vom 27. Februar 1973 aufgehoben und durch nachstehende Regelungen ersetzt werden:
+
+1. Anwendbarkeit der schweizerischen Heilmittelgesetzgebung
+
+Die vorbehaltlich untenstehender Regelungen aufgrund des Zollvertrags anwendbare und im Zeitpunkt des Inkrafttretens dieser Vereinbarung im Fürstentum Liechtenstein massgebende schweizerische Heilmittelgesetzgebung ist im Anhang zu dieser Vereinbarung aufgeführt. Das Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz; HMG) ist in dem gemässs Anhang festgelegten Umfang anwendbar. Die Prüfung des Umfanges der Anwendbarkeit und die Definierung der artikelbezogenen Anwendbarkeit der übrigen angeführten schweizerischen Erlasse sowie bei Änderungen des HMG erfolgen im Rahmen des regulären Bereinigungsverfahrens der Anlagen zum Zollvertrag. Der Anhang dieser Vereinbarung wird in dessen Anlage I überführt und bestimmt sich daraufhin gemäss Anlage I zum Zollvertrag.
+
+2. EWR-Recht
+
+Betreffend die Zulässigkeit des Verkehrs von Heilmitteln im Fürstentum Liechtenstein nach EWR-Recht finden die Bestimmungen der Vereinbarung vom 2. November 1994 zwischen der Schweiz und Liechtenstein zum Zollvertrag Anwendung.
+
+3. Zuständigkeiten der liechtensteinischen Behörden
+
+3.1 Bewilligungserteilung
+
+Die liechtensteinische Kontrollstelle für Arzneimittel ist zuständig für die Erteilung von Bewilligungen nach Artikel 5 Absatz 1, Artikel 18 Absatz 1 und Artikel 28 Absatz 1, HMG. Die Bewilligungen werden im Einvernehmen mit Swissmedic, Schweizerisches Heilmittelinstitut, erteilt. Für Bewilligungen nach Artikel 34 Absatz 1 und Artikel 35 Absatz 1 HMG ist die liechtensteinische Kontrollstelle für Arzneimittel nur insoweit zuständig, als die Produkte ausschliesslich für den liechtensteinischen Markt bestimmt sind. Die von der liechtensteinischen Kontrollstelle für Arzneimittel auf der Grundlage der schweizerischen Heilmittelgesetzgebung erteilten Bewilligungen werden von den schweizerischen Behörden anerkannt.
+
+3.2 Inspektionen und Marktüberwachung
+
+Die liechtensteinische Kontrollstelle für Arzneimittel ist zuständig für die Durchführung von Inspektionen nach Artikel 6 Absatz 2, Artikel 19 Absatz 3, Artikel 28 Absatz 4 und Artikel 34 Absatz 3, HMG. Inspektionen werden durch von Swissmedic, Schweizerisches Heilmittelinstitut, anerkannte Inspektorate durchgeführt.
+
+Die Zuständigkeit für die behördliche Marktüberwachung nach Artikel 58 HMG liegt bei der liechtensteinischen Kontrollstelle für Arzneimittel. Sie arbeitet dabei eng mit Swissmedic, Schweizerisches Heilmittelinstitut, zusammen, insbesondere was die Meldepflicht nach Artikel 58 Absatz 5 HMG betrifft.
+
+3.3 Verwaltungsmassnahmen
+
+Im Rahmen ihrer Zuständigkeit ergreift die liechtensteinische Kontrollstelle für Arzneimittel Massnahmen nach Artikel 66 HMG. Die zuständige schweizerische Behörde informiert die Zollorgane, dass im Fall eines liechtensteinischen Empfängers oder Absenders die liechtensteinische Kontrollstelle für Arzneimittel nach Artikel 66 Absatz 4 HMG beizuziehen ist.
+
+4. Zusammenarbeit zwischen den zuständigen schweizerischen und liechtensteinischen Behörden und Datenaustausch
+
+Die zuständigen Behörden der Schweiz und Liechtensteins geben einander Daten bekannt, soweit dies für den Vollzug dieser Vereinbarung notwendig ist.
+
+5. Inkrafttreten und Kündigung
+
+Falls der Schweizerische Bundesrat dem Vorstehenden zustimmt, bilden die vorliegende Note und die schweizerische Antwortnote eine Vereinbarung zwischen den beiden Regierungen, die am 1. Januar 2002 in Kraft tritt.
+
+Die Vereinbarung kann von jeder Vertragspartei jederzeit auf ein Jahr gekündigt werden.
+
+Gerne benützt die Botschaft des Fürstentums Liechtenstein auch diesen Anlass, um das Eidgenössische Departement für auswärtige Angelegenheiten ihrer ausgezeichneten Hochachtung zu versichern.»
+
+Das Eidgenössische Departement für auswärtige Angelegenheiten beehrt sich, der Botschaft des Fürstentums Liechtenstein mitzuteilen, dass der Schweizerische Bundesrat mit der vorgeschlagenen Regelung einverstanden ist und dass die Note der Botschaft in dieser Angelegenheit und die Antwort des Departements eine Vereinbarung zwischen den beiden Regierungen bilden, welche am 1. Januar 2002 in Kraft tritt.
+
+Das Eidgenössische Departement für auswärtige Angelegenheiten benützt auch diesen Anlass um die Botschaft des Fürstentums Liechtenstein seiner ausgezeichneten Hochachtung zu versichern.
