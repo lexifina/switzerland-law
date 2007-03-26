@@ -1,0 +1,3 @@
+# Art. 11bis Technische Sicherheit
+
+Jede Vertragspartei kann Beratungen über die von der anderen Vertragspartei aufrechterhaltenen Sicherheitsnormen bezüglich Luftfahrteinrichtungen, Besatzungen, Luftfahrzeugen und den Betrieb der bezeichneten Unternehmen verlangen. Stellt eine Vertragspartei nach solchen Beratungen fest, dass die andere Vertragspartei Sicherheitsstandards, welche in diesem Bereich nach dem am 7. Dezember 1944 in Chikago zur Unterzeichnung aufgelegten Übereinkommen über die Internationale Zivilluftfahrt festgelegt wurden, nicht aufrechterhält und vollzieht, werden der anderen Vertragspartei diese Feststellungen und die notwendigen Schritte zur Erfüllung der Standards bekannt gegeben und diese hat geeignete Massnahmen zur Abhilfe zu ergreifen.

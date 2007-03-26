@@ -1,0 +1,3 @@
+# Art. 14bis Anerkennung von Zeugnissen und Ausweisen
+
+Die von einer Vertragspartei ausgestellten oder von ihr als gültig anerkannten und noch in Kraft befindlichen Lufttüchtigkeitszeugnisse, die Fähigkeitszeugnisse und Ausweise werden von der anderen Vertragspartei für den Betrieb der vereinbarten Linien als gültig anerkannt, vorausgesetzt, dass solche Zeugnisse oder Ausweise nach und in Übereinstimmung mit den Mindestanforderungen des am 7. Dezember 1944 in Chikago zur Unterzeichnung aufgelegten Übereinkommens über die Internationale Zivilluftfahrt ausgestellt oder als gültig anerkannt worden sind.
