@@ -1,0 +1,13 @@
+# Regel 28Währung, in der die Zahlungen zu entrichten sind
+
+1) [Verpflichtung zur Zahlung in Schweizer Währung] Alle Zahlungen, die nach dieser Ausführungsordnung an das Internationale Büro geleistet werden, sind in Schweizer Währung zu entrichten, unabhängig davon, ob die Gebühren im Falle einer Zahlung durch ein Amt von diesem Amt in einer anderen Währung entgegengenommen worden sind.
+
+2) [Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung]
+
+  - a) Erklärt eine Vertragspartei nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1, dass sie eine individuelle Bestimmungsgebühr zu erhalten wünscht, so ist die Höhe der Gebühr dem Internationalen Büro in der von ihrem Amt verwendeten Währung anzugeben.
+
+  - b) Wird die Gebühr in der unter Buchstabe a genannten Erklärung nicht in Schweizer Währung angegeben, so setzt der Generaldirektor nach Beratung mit dem Amt der betreffenden Vertragspartei den Gebührenbetrag in Schweizer Währung auf der Basis des amtlichen Wechselkurses der Vereinten Nationen fest.
+
+  - c) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Bestimmungsgebühr angegeben hat, länger als drei Monate in Folge mindestens 5 % unter oder über dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so kann das Amt dieser Vertragspartei den Generaldirektor auffordern, einen neuen Betrag dieser Gebühr in Schweizer Währung auf der Grundlage des am Vortag der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen festzusetzen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages im Bulletin liegen muss.
+
+  - d) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die Währung, in der eine Vertragspartei den Betrag einer individuellen Bestimmungsgebühr angegeben hat, länger als drei Monate in Folge mindestens 10 % unter dem letzten Wechselkurs, der bei der Festsetzung des Gebührenbetrages in Schweizer Währung zugrunde gelegt wurde, so setzt der Generaldirektor einen neuen Betrag der Gebühr in Schweizer Währung entsprechend dem aktuellen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, welches jedoch zwischen einem und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrages im Bulletin liegen muss.

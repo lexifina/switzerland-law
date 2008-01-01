@@ -1,0 +1,15 @@
+# Regel 15Eintragung des gewerblichen Musters oder Modells in das internationale Register
+
+1) [Eintragung des gewerblichen Musters oder Modells in das internationale Register] Stellt das Internationale Büro fest, dass die internationale Anmeldung den geltenden Erfordernissen entspricht, so trägt es das gewerbliche Muster oder Modell in das internationale Register ein und übersendet dem Inhaber eine Bescheinigung.
+
+2) [Inhalt der Eintragung] Die internationale Eintragung enthält:
+
+  - i) alle Angaben der internationalen Anmeldung mit Ausnahme von Prioritätsansprüchen nach Regel 7 Absatz 5 Buchstabe c, wenn die frühere Einreichung mehr als sechs Monate vor dem Anmeldedatum der internationalen Anmeldung erfolgte;
+
+  - ii) die Abbildungen des gewerblichen Musters oder Modells;
+
+  - iii) das Datum der internationalen Eintragung;
+
+  - iv) die Nummer der internationalen Eintragung;
+
+  - v) die massgebliche Klasse der Internationalen Klassifikation entsprechend der Festlegung durch das Internationale Büro.

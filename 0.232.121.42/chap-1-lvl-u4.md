@@ -1,0 +1,9 @@
+# Regel 4Berechnung der Fristen
+
+1) [Nach Jahren bemessene Fristen] Jede nach Jahren bemessene Frist endet im massgeblichen folgenden Jahr in dem Monat, der dieselbe Bezeichnung, und an dem Tag, der dieselbe Zahl trägt wie der Monat und der Tag des Ereignisses, an dem die Frist begann; hat sich das Ereignis jedoch am 29. Februar zugetragen und endet der Monat Februar des massgeblichen folgenden Jahres am 28., so endet die Frist am 28. Februar.
+
+2) [Nach Monaten bemessene Fristen] Jede nach Monaten bemessene Frist endet in dem massgeblichen folgenden Monat an dem Tag, der dieselbe Zahl trägt wie der Tag des Ereignisses, an dem die Frist begann; hat der massgebliche folgende Monat jedoch keinen Tag mit der entsprechenden Zahl, so endet die Frist am letzten Tag des betreffenden Monats.
+
+3) [In Tagen bemessene Fristen] Jede in Tagen bemessene Frist beginnt an dem auf den Eintritt des betreffenden Ereignisses folgenden Tag und endet entsprechend.
+
+4) [Ablauf an einem Tag, an dem das Internationale Büro oder ein Amt für die Öffentlichkeit nicht geöffnet ist] Endet eine Frist an einem Tag, an dem das Internationale Büro oder das betreffende Amt für die Öffentlichkeit nicht geöffnet ist, so endet die Frist, unbeschadet der Absätze 1 bis 3, am ersten darauf folgenden Tag, an dem das Internationale Büro oder das betreffende Amt für die Öffentlichkeit geöffnet ist.

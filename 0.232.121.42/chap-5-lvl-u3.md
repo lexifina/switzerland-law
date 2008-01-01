@@ -1,0 +1,5 @@
+# Regel 25Eintragung der Verlängerung; Bescheinigung
+
+1) [Eintragung und Datum des Wirksamwerdens der Verlängerung] Die Verlängerung wird mit dem Datum ihrer Fälligkeit in das internationale Register eingetragen, selbst wenn die für die Verlängerung erforderlichen Gebühren innerhalb der Nachfrist nach Regel 24 Absatz 1 Buchstabe c entrichtet worden sind.
+
+2) [Bescheinigung] Das Internationale Büro übersendet dem Inhaber eine Verlängerungsbescheinigung.
