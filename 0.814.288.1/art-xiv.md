@@ -1,0 +1,13 @@
+# Art. XIV
+
+(1) Dieses Übereinkommen liegt für die Dauer von drei Monaten, vom heutigen Tage an gerechnet, zur Unterzeichnung und sodann zur Annahme auf.
+
+(2) Vorbehaltlich des Artikels XV können die Regierungen von Mitgliedstaaten der Vereinten Nationen oder ihrer Sonderorganisationen sowie die Vertragsparteien der Satzung des Internationalen Gerichtshofs Vertragsparteien dieses Übereinkommen werden,
+
+  - a) indem sie es ohne Vorbehalt der Annahme unterzeichnen;
+
+  - b) indem sie es vorbehaltlich der Annahme unterzeichnen und später annehmen; oder
+
+  - c) indem sie es annehmen.
+
+(3) Die Annahme erfolgt durch Hinterlegung einer Annahmeurkunde bei dem Büro; dieses setzt alle Regierungen, die das Übereinkommen bereits unterzeichnet oder angenommen haben, von jeder Unterzeichnung und Hinterlegung einer Annahmeurkunde sowie von dem Zeitpunkt der Unterzeichnung oder Hinterlegung in Kenntnis.
