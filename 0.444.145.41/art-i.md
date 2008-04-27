@@ -1,0 +1,5 @@
+# Art. I
+
+(1) Diese Vereinbarung regelt die Einfuhr, die Durchfuhr und die Rückführung von Kulturgütern im Verhältnis beider Vertragsparteien.
+
+(2) Diese Vereinbarung findet ausschliesslich Anwendung auf die Kategorien von Kulturgütern, die im Anhang zu dieser Vereinbarung aufgeführt sind.
