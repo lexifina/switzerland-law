@@ -1,0 +1,3 @@
+# Art. XI Beteiligung von Drittstaaten
+
+Möchte der Es Personal von Streitkräften eines Drittstaates an Aktivitäten, die in Anwendung dieser Vereinbarung im Hoheitsgebiet des As stattfinden, mit einbeziehen, unterbreitet hierzu der Es dem As während der Übungsplanung frühmöglichst einen Vorschlag zur Beurteilung und möglichen Zustimmung. Stimmt der As einer solchen Teilnahme zu, ist der Es für Vereinbarungen und Verpflichtungen betreffend die Rechtsstellung, die dem Personal des Drittstaates innerhalb des Hoheitsgebietes des As zukommt, nicht verantwortlich. Dafür kann eine separate Vereinbarung zwischen dem As und dem Drittstaat nötig werden.
