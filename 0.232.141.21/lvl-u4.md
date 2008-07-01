@@ -1,0 +1,9 @@
+# Regel 4Verfügbarkeit einer früheren Anmeldung nach Artikel 6 Absatz 5 und Regel 2 Absatz 4 oder einer zuvor eingereichten Anmeldung nach Regel 2 Absatz 5 Buchstabe b
+
+1. Vorbehaltlich des Absatzes 3 kann eine Vertragspartei verlangen, dass dem Amt eine Kopie der früheren Anmeldung nach Artikel 6 Absatz 5 innerhalb einer Frist von mindestens 16 Monaten ab dem Anmeldedatum dieser früheren Anmeldung oder, im Falle von mehreren Anmeldungen, ab dem frühesten Anmeldedatum dieser früheren Anmeldungen übermittelt wird.
+
+2. Vorbehaltlich des Absatzes 3 kann eine Vertragspartei verlangen, dass die Kopie nach Absatz 1 sowie das Anmeldedatum der früheren Anmeldung vom Amt, bei dem die frühere Anmeldung eingereicht wurde, bescheinigt werden.
+
+3. Keine Vertragspartei kann verlangen, dass eine Kopie oder eine beglaubigte Kopie der früheren Anmeldung, eine Bescheinigung des Anmeldedatums, wie in den Absätzen 1 und 2 und in Regel 2 Absatz 4 vorgesehen, oder eine beglaubigte Kopie der zuvor eingereichten Anmeldung, wie in Regel 2 Absatz 5 Buchstabe b vorgesehen, eingereicht wird, sofern die frühere Anmeldung oder die zuvor eingereichte Anmeldung bei ihrem Amt eingereicht wurde oder bei diesem Amt in einer digitalen, von ihm zu diesem Zweck akzeptierten Datensammlung verfügbar ist.
+
+4. Ist die frühere Anmeldung nicht in einer vom Amt akzeptierten Sprache abgefasst und ist die Gültigkeit des Prioritätsanspruchs für die Beurteilung der Patentfähigkeit der betreffenden Erfindung relevant, kann die Vertragspartei verlangen, dass der Anmelder nach Aufforderung durch das Amt oder eine andere zuständige Behörde eine Übersetzung der früheren Anmeldung nach Absatz 1 innerhalb einer Frist von mindestens zwei Monaten ab dem Zeitpunkt dieser Aufforderung, mindestens aber innerhalb der gegebenenfalls nach Absatz 1 anwendbaren Frist, einreicht.
