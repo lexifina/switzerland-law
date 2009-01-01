@@ -1,6 +1,6 @@
 # Regel 37Übergangsbestimmungen
 
-(In Kraft seit dem 1. Januar 2008)
+(In Kraft seit dem 1. Januar 2009)
 
 I. Internationale Anmeldungen, die ausschliesslich oder teilweise durch das Abkommen in der Fassung von 1960 oder das Abkommen in der Fassung von 1999 geregelt sind
 

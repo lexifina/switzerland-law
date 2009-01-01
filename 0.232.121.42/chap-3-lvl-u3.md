@@ -1,15 +1,25 @@
 # Regel 19Nicht vorschriftsmässige Schutzverweigerungen
 
-1) [Inhalt der Mitteilung der Ungültigerklärung] Werden die Wirkungen einer internationalen Eintragung innerhalb einer bestimmten Vertragspartei für ungültig erklärt und kann die Ungültigerklärung nicht mehr Gegenstand einer Überprüfung oder einer Beschwerde sein, so unterrichtet das Amt der Vertragspartei, deren zuständige Behörde die Ungültigerklärung ausgesprochen hat, wenn es von der Ungültigerklärung Kenntnis hat, das Internationale Büro entsprechend. Die Mitteilung hat folgendes anzugeben:
+1) [Mitteilung, die nicht also solche betrachtet wird]
 
-  - i) die Behörde, welche die Ungültigerklärung ausgesprochen hat;
+  - a) Eine Mitteilung der Schutzverweigerung wird vom Internationalen Büro nicht als solche betrachtet und nicht in das internationale Register eingetragen,
 
-  - ii) die Tatsache, dass die Ungültigerklärung keinem Rechtsmittel mehr unterliegt;
+    - i) wenn sie die Nummer der betreffenden internationalen Eintragung nicht angibt, es sei denn, andere in der Mitteilung enthaltene Angaben erlauben die Identifizierung der Eintragung;
 
-  - iii) die Nummer der internationalen Eintragung;
+    - ii) wenn sie keine Gründe für die Schutzverweigerung nennt; oder
 
-  - iv) falls die Ungültigerklärung sich nicht auf alle gewerblichen Muster oder Modelle bezieht, die Gegenstand der internationalen Eintragung sind, diejenigen, auf die sie sich bezieht oder nicht bezieht;
+    - iii) wenn sie dem Internationalen Büro nach Ablauf der nach Regel 18 Absatz 1 geltenden Frist zugesandt wird.
 
-  - v) das Datum, an dem die Ungültigerklärung ausgesprochen wurde und das Datum des Wirksamwerdens der Erklärung.
+  - b) Findet Buchstabe a Anwendung, so übermittelt das Internationale Büro – es sei denn, es kann die betreffende internationale Eintragung nicht identifizieren – dem Inhaber eine Kopie der Mitteilung und benachrichtigt gleichzeitig den Inhaber und das mitteilende Amt davon, dass die Mitteilung der Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird und nicht in das internationale Register eingetragen worden ist, und gibt die Gründe hierfür an.
 
-2) [Eintragung der Ungültigerklärung] Das Internationale Büro trägt die Ungültigerklärung zusammen mit den in der Mitteilung der Ungültigerklärung enthaltenen Angaben in das internationale Register ein.
+2) [Nicht vorschriftsmässige Mitteilung] Falls die Mitteilung der Schutzverweigerung:
+
+  - i) nicht im Namen des Amtes unterzeichnet ist, welches die Schutzverweigerung mitgeteilt hat, oder nicht den Erfordernissen der Regel 2 entspricht;
+
+  - ii) gegebenenfalls nicht den Erfordernissen der Regel 18 Absatz 2 Buchstabe b Ziffer iv entspricht;
+
+  - iii) gegebenenfalls nicht angibt, welche Behörde für ein Gesuch um Überprüfung oder eine Beschwerde zuständig ist und welches die unter den Umständen angemessene massgebliche Frist zur Einreichung dieses Antrags oder dieser Beschwerde ist (Regel 18 Absatz 2 Buchstabe b Ziffer vi);
+
+  - iv) nicht das Datum angibt, an dem die Schutzverweigerung ausgesprochen wurde (Regel 18 Absatz 2 Buchstabe b Ziffer vii), so trägt das Internationale Büro dennoch die Schutzverweigerung in das internationale Register ein und übermittelt dem Inhaber eine Kopie der Mitteilung.
+
+Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die Schutzverweigerung übermittelt hat, auf, seine Mitteilung unverzüglich zu berichtigen.

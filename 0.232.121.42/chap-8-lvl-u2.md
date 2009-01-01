@@ -8,11 +8,11 @@
 
   - b) Ungeachtet Regel 21 Absatz 3 wird eine Änderung des Inhabers in Bezug auf eine bestimmte Vertragspartei nicht eingetragen, falls aufgrund der Angaben nach Regel 21 Absatz 2 Ziffer iv das Abkommen in der Fassung von 1934 nicht mehr anwendbar sein sollte oder in Bezug auf diese Vertragspartei anwendbar würde.
 
-  - c) In Bezug auf die Vertragsparteien, welche nach dem Abkommen in der Fassung von 1934 in einer internationalen Anmeldung oder in einer daraus hervorgehenden internationalen Eintragung bestimmt sind,
+  - c) In Bezug auf die Vertragsparteien, welche nach dem Abkommen in der Fassung von 1934 in einer internationalen Anmeldung nach Absatz 1) oder in einer daraus hervorgehenden internationalen Eintragung bestimmt sind,
 
   - i) sind die Gebühren nach Regel 12 Absatz 1 Buchstabe a Ziffern ii bis iv nicht einzutreiben;
 
-  - ii) können die Wirkungen der betreffenden internationalen Eintragung nicht Gegenstand einer Schutzverweigerung nach Regel 18 sein;
+  - ii) können die Wirkungen der betreffenden internationalen Eintragung nicht Gegenstand einer Schutzverweigerung nach Regel 18 oder einer Erklärung über die Schutzerteilung nach Regel 18bis sein;
 
   - iii) sind die Verlängerungsgebühren nach Regel 24 Absatz 1 Buchstabe a Ziffern ii und iii nicht einzutreiben;
 

@@ -1,25 +1,29 @@
 # Regel 18bis Erklärung über die Schutzerteilung
 
-1) [Mitteilung, die nicht also solche betrachtet wird]
+1) [Erklärung über die Schutzerteilung, wenn keine Mitteilung über die vorläufige Schutzverweigerung übermittelt wurde]
 
-  - a) Eine Mitteilung der Schutzverweigerung wird vom Internationalen Büro nicht als solche betrachtet und nicht in das internationale Register eingetragen,
+  - a) Ein Amt, das keine Mitteilung über eine Schutzverweigerung übermittelt hat, kann innerhalb der nach Regel 18 Absatz 1 Buchstabe a oder b geltenden Frist dem Internationalen Büro eine Erklärung übersenden, dass der Schutz der gewerblichen Muster oder Modelle, die Gegenstand der internationalen Eintragung sind, in der fraglichen Vertragspartei gewährt wird. Wenn Regel 12 Absatz 3 anwendbar ist, untersteht die Schutzerteilung der Bezahlung des zweiten Teils der individuellen Bestimmungsgebühr.
 
-    - i) wenn sie die Nummer der betreffenden internationalen Eintragung nicht angibt, es sei denn, andere in der Mitteilung enthaltene Angaben erlauben die Identifizierung der Eintragung;
+  - b) Die Erklärung hat Folgendes anzugeben:
 
-    - ii) wenn sie keine Gründe für die Schutzverweigerung nennt; oder
+    - i) das Amt, das die Erklärung abgibt;
 
-    - iii) wenn sie dem Internationalen Büro nach Ablauf der nach Regel 18 Absatz 1 geltenden Frist zugesandt wird.
+    - ii) die Nummer der internationalen Eintragung; und
 
-  - b) Findet Buchstabe a Anwendung, so übermittelt das Internationale Büro – es sei denn, es kann die betreffende internationale Eintragung nicht identifizieren – dem Inhaber eine Kopie der Mitteilung und benachrichtigt gleichzeitig den Inhaber und das mitteilende Amt davon, dass die Mitteilung der Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird und nicht in das internationale Register eingetragen worden ist, und gibt die Gründe hierfür an.
+    - iii) das Datum der Erklärung.
 
-2) [Nicht vorschriftsmässige Mitteilung] Falls die Mitteilung der Schutzverweigerung:
+2) [Erklärung über die Schutzerteilung nach einer Schutzverweigerung]
 
-  - i) nicht im Namen des Amtes unterzeichnet ist, welches die Schutzverweigerung mitgeteilt hat, oder nicht den Erfordernissen der Regel 2 entspricht;
+  - a) Ein Amt, das eine Mitteilung über eine Schutzverweigerung übermittelt und entschieden hat, diese Schutzverweigerung ganz oder teilweise zurückzunehmen, kann anstelle einer Mitteilung über die Zurücknahme der Schutzverweigerung nach Regel 18 Absatz 4 Buchstabe a dem Internationalen Büro eine Erklärung übersenden, dass der Schutz der gewerblichen Muster oder Modelle oder bestimmter gewerblicher Muster oder Modelle, die Gegenstand der internationalen Eintragung sind, in der fraglichen Vertragspartei gewährt wird. Wenn Regel 12 Absatz 3 anwendbar ist, untersteht die Schutzerteilung der Bezahlung des zweiten Teils der individuellen Bestimmungsgebühr.
 
-  - ii) gegebenenfalls nicht den Erfordernissen der Regel 18 Absatz 2 Buchstabe b Ziffer iv entspricht;
+  - b) Die Erklärung hat Folgendes anzugeben:
 
-  - iii) gegebenenfalls nicht angibt, welche Behörde für ein Gesuch um Überprüfung oder eine Beschwerde zuständig ist und welches die unter den Umständen angemessene massgebliche Frist zur Einreichung dieses Antrags oder dieser Beschwerde ist (Regel 18 Absatz 2 Buchstabe b Ziffer vi);
+    - i) das Amt, das die Erklärung abgibt;
 
-  - iv) nicht das Datum angibt, an dem die Schutzverweigerung ausgesprochen wurde (Regel 18 Absatz 2 Buchstabe b Ziffer vii), so trägt das Internationale Büro dennoch die Schutzverweigerung in das internationale Register ein und übermittelt dem Inhaber eine Kopie der Mitteilung.
+    - ii) die Nummer der internationalen Eintragung;
 
-Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die Schutzverweigerung übermittelt hat, auf, seine Mitteilung unverzüglich zu berichtigen.
+    - iii) falls die Erklärung sich nicht auf alle gewerblichen Muster oder Modelle bezieht, die Gegenstand der internationalen Eintragung sind, diejenigen, auf die sie sich bezieht oder nicht bezieht; und
+
+    - iv) das Datum der Erklärung.
+
+3) [Eintragung, Benachrichtigung des Inhabers und Übermittlung von Kopien] Das Internationale Büro trägt alle nach dieser Regel erhaltenen Erklärungen ins internationale Register ein, unterrichtet den Inhaber entsprechend und übersendet, sofern die Erklärung in Form eines getrennten Dokuments übermittelt wurde oder wiedergegeben werden kann, dem Inhaber eine Kopie dieses Dokuments.

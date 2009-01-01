@@ -4,11 +4,11 @@
 
   - i) internationale Eintragungen nach Regel 17;
 
-  - ii) die nach Regel 18 Absatz 5 eingetragenen Schutzverweigerungen mit einem Hinweis, ob die Möglichkeit einer Überprüfung oder Beschwerde besteht, aber ohne Angabe der Gründe für die Schutzverweigerung;
+  - ii) die Schutzverweigerungen mit einem Hinweis, ob die Möglichkeit einer Überprüfung oder Beschwerde besteht, aber ohne Angabe der Gründe für die Schutzverweigerung, sowie die übrigen gemäss Regel 18 Absatz 5 und Regel 18bis Absatz 3 eingetragenen Mitteilungen;
 
   - iii) nach Regel 20 Absatz 2 eingetragene Ungültigerklärungen;
 
-  - iv) Inhaberwechsel, Änderungen des Namens oder der Anschrift des Inhabers, nach Regel 21 eingetragene Einschränkungen oder Verzichtserklärungen;
+  - iv) nach Regel 21 eingetragene Inhaberwechsel, Änderungen des Namens oder der Anschrift des Inhabers, Verzichtserklärungen und Einschränkungen;
 
   - v) nach Regel 22 vorgenommene Berichtigungen;
 

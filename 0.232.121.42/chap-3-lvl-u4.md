@@ -1,0 +1,15 @@
+# Regel 20Ungültigerklärung in den bestimmten Vertragsparteien
+
+1) [Inhalt der Mitteilung der Ungültigerklärung] Werden die Wirkungen einer internationalen Eintragung innerhalb einer bestimmten Vertragspartei für ungültig erklärt und kann die Ungültigerklärung nicht mehr Gegenstand einer Überprüfung oder einer Beschwerde sein, so unterrichtet das Amt der Vertragspartei, deren zuständige Behörde die Ungültigerklärung ausgesprochen hat, wenn es von der Ungültigerklärung Kenntnis hat, das Internationale Büro entsprechend. Die Mitteilung hat folgendes anzugeben:
+
+  - i) die Behörde, welche die Ungültigerklärung ausgesprochen hat;
+
+  - ii) die Tatsache, dass die Ungültigerklärung keinem Rechtsmittel mehr unterliegt;
+
+  - iii) die Nummer der internationalen Eintragung;
+
+  - iv) falls die Ungültigerklärung sich nicht auf alle gewerblichen Muster oder Modelle bezieht, die Gegenstand der internationalen Eintragung sind, diejenigen, auf die sie sich bezieht oder nicht bezieht;
+
+  - v) das Datum, an dem die Ungültigerklärung ausgesprochen wurde und das Datum des Wirksamwerdens der Erklärung.
+
+2) [Eintragung der Ungültigerklärung] Das Internationale Büro trägt die Ungültigerklärung zusammen mit den in der Mitteilung der Ungültigerklärung enthaltenen Angaben in das internationale Register ein.

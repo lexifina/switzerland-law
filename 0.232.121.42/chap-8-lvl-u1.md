@@ -22,7 +22,7 @@
 
   - i) Ungeachtet Regel 17 Absatz 2 Ziffer ii werden Abbildungen der gewerblichen Muster und Modelle, die in einer internationalen Eintragung enthalten sind, welche aus einer ausschliesslich durch das Abkommen in der Fassung von 1934 geregelten internationalen Anmeldung hervorgeht, nicht im Bulletin veröffentlicht.
 
-  - j) Ungeachtet Regel 18 können die Wirkungen einer internationalen Eintragung, die aus einer ausschliesslich durch das Abkommen in der Fassung von 1934 geregelten internationalen Anmeldung hervorgeht, nicht Gegenstand einer Schutzverweigerung sein.
+  - j) Ungeachtet der Regeln 18 und 18bis können die Wirkungen einer internationalen Eintragung, die aus einer ausschliesslich durch das Abkommen in der Fassung von 1934 geregelten internationalen Anmeldung hervorgeht, nicht Gegenstand einer Schutzverweigerung oder einer Erklärung über die Schutzerteilung sein.
 
   - k) Ungeachtet Regel 21 Absatz 3 wird eine Änderung des Inhabers in Bezug auf eine nach dem Abkommen in der Fassung von 1934 bestimmte Vertragspartei nicht eingetragen, falls aufgrund der Angaben nach Regel 21 Absatz 2 Ziffer iv das Abkommen in der Fassung von 1934 in Bezug auf diese Vertragspartei nicht mehr anwendbar sein sollte.
 
