@@ -1,0 +1,3 @@
+# Art. IV
+
+Dieses Protokoll liegt für alle Staaten, die Vertragsparteien des Übereinkommens werden, bis zum 31. Dezember 1970 am Sitz der Vereinten Nationen in New York zur Unterzeichnung auf.
