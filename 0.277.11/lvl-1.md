@@ -1,0 +1,5 @@
+# 1.
+
+Jeder der vertragsschliessenden Staaten erkennt Schiedsabreden und Schiedsklauseln, durch welche sich in Handelssachen und anderen Angelegenheiten, bei denen eine Regelung durch vertraglich vereinbartes Schiedsverfahren zulässig ist, die Parteien eines Vertrages verpflichten, Streitfragen aus diesem Vertrage ganz oder zum Teil einem Schiedsverfahren zu unterwerfen, zwischen Personen, die der Gerichtsbarkeit verschiedener vertragsschliessender Staaten unterworfen sind, als gültig an, und zwar auch dann, wenn das Schiedsverfahren in einem anderen Staate stattfindet als dem, dessen Gerichtsbarkeit jede der Parteien unterworfen ist.
+
+Jeder vertragsschliessende Staat behält sich die Freiheit vor, die oben genannte Verpflichtung auf diejenigen Verträge zu beschränken, die durch seine Landesgesetzgebung als Handelsangelegenheiten behandelt werden. Wenn einer der vertragsschliessenden Teile von dieser Befugnis Gebrauch macht, so wird er hiervon dem Generalsekretär des Völkerbundes zum Zwecke der Benachrichtigung der anderen vertragsschliessenden Staaten Mitteilung machen.

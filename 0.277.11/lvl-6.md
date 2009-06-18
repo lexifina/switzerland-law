@@ -1,0 +1,3 @@
+# 6.
+
+Das gegenwärtige Protokoll soll in Kraft treten, sobald zwei Ratifikationsurkunden hinterlegt sind. Späterhin soll das Protokoll für jeden vertragsschliessenden Staat einen Monat nach der Mitteilung des Generalsekretärs des Völkerbundes über die Niederlegung seiner Ratifikationsurkunde in Kraft treten.
