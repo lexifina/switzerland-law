@@ -1,15 +1,15 @@
 # Regel 37Übergangsbestimmungen
 
-(In Kraft seit dem 1. Januar 2009)
+1) [Übergangsbestimmung zum Abkommen in der Fassung von 1934]
 
-I. Internationale Anmeldungen, die ausschliesslich oder teilweise durch das Abkommen in der Fassung von 1960 oder das Abkommen in der Fassung von 1999 geregelt sind
+  - a) Zum Zwecke dieser Bestimmung bedeutet:
 
-II. Internationale Anmeldungen, die ausschliesslich durch das Abkommen in der Fassung von 1934 geregelt sind
+    - i) «Fassung von 1934» die am 2. Juni 1934 in London unterzeichnete Fassung des Haager Abkommens;
 
-III. Verlängerung einer internationalen Eintragung, die aus einer internationalen Anmeldung hervorgegangen ist, die ausschliesslich oder teilweise durch das Abkommen in der Fassung von 1960 oder das Abkommen in der Fassung von 1999 geregelt ist
+    - ii) «bestimmte Vertragspartei in der Fassung von 1934» eine als solche im internationalen Register eingetragene Vertragspartei;
 
-IV. Verlängerung einer internationalen Eintragung, die aus einer ausschliesslich durch das Abkommen in der Fassung von 1934 geregelten Anmeldung hervorgegangen ist
+    - iii) ein Verweis auf die Ausdrücke «internationale Anmeldung» oder «internationale Eintragung» gegebenenfalls einen Verweis auf den Ausdruck «internationale Hinterlegung» nach dem Abkommen in der Fassung von 1934.
 
-V. Verschiedene Eintragungen
+  - b) Die vor dem 1. Januar 2010 anwendbare Gemeinsame Ausführungsordnung zur Fassung von 1999, der Fassung von 1960 und der Fassung von 1934 des Haager Abkommens bleibt anwendbar auf eine vor diesem Datum eingereichte und zu jenem Zeitpunkt noch hängige internationale Anmeldung sowie auf jede nach dem Abkommen in der Fassung von 1934 in einer internationalen Eintragung aus einer vor diesem Datum eingereichten Anmeldung bestimmten Vertragspartei.
 
-VI. Informationen betreffend die veröffentlichten internationalen Eintragungen
+2) [Übergangsbestimmung in Bezug auf die Sprachen] Regel 6 in ihrer Anwendung vor dem 1. April 2010 bleibt anwendbar auf eine vor diesem Zeitpunkt eingereichte internationale Anmeldung und die daraus entstandene internationale Eintragung.

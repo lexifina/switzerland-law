@@ -12,6 +12,6 @@
 
   - i) die in das internationale Register eingetragenen Angaben;
 
-  - ii) die Abbildunge(n) des gewerblichen Musters oder Modells;
+  - ii) die Abbildung(en) des gewerblichen Musters oder Modells;
 
   - iii) bei Aufschub der Veröffentlichung eine Angabe des Datums, an dem die Aufschiebungsfrist abgelaufen ist oder als abgelaufen gilt.

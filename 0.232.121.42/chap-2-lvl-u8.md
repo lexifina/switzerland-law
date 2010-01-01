@@ -8,13 +8,13 @@
 
   - b) in der internationalen Anmeldung fehlt einer der folgenden Bestandteile:
 
-    - i) eine ausdrückliche Angabe oder ein Hinweis, der erkennen lässt, dass eine internationale Eintragung nach dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 oder dem Abkommen in der Fassung von 1934 beantragt wird,
+    - i) eine ausdrückliche Angabe oder ein Hinweis, der erkennen lässt, dass eine internationale Eintragung nach dem Abkommen in der Fassung von 1999 oder dem Abkommen in der Fassung von 1960 beantragt wird,
 
     - ii) Angaben, die eine Feststellung der Identität des Anmelders erlauben,
 
-    - iii) ausreichende Angaben, die erlauben, den Anmelder oder gegebenenfalls. seinen Vertreter zu erreichen,
+    - iii) ausreichende Angaben, die erlauben, den Anmelder oder gegebenenfalls seinen Vertreter zu erreichen,
 
-    - iv) eine Wiedergabe des gewerblichen Musters oder Modells oder, nach Artikel 5 Absatz 1 Ziffer iii des Abkommens in der Fassung von 1999, ein Musterabschnitt jedes gewerblichen Musters, das Gegenstand der internationalen Anmeldung ist,
+    - iv) eine Abbildung des gewerblichen Musters oder Modells oder, nach Artikel 5 Absatz 1 Ziffer iii des Abkommens in der Fassung von 1999, ein Musterabschnitt jedes gewerblichen Musters, das Gegenstand der internationalen Anmeldung ist,
 
     - v) die Bestimmung mindestens einer Vertragspartei.
 
