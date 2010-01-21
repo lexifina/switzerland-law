@@ -1,0 +1,5 @@
+# VI. Beilegung von Streitigkeiten
+
+Streitigkeiten zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieser Erklärung, die nicht durch Vermittlung des Rates der Organisation beigelegt werden können, werden nach Artikel XVII des ESA-Übereinkommens beigelegt.
+
+Die Urschrift dieser Erklärung, geschehen zu Paris am 30. März 2007, deren deutscher, englischer und französischer Wortlaut gleichermassen verbindlich ist, wird im Archiv der Europäischen Weltraumorganisation hinterlegt; diese übermittelt allen Vertragsparteien beglaubigte Abschriften.
