@@ -1,0 +1,3 @@
+# Art. XV
+
+Jede Streitfrage zwischen zwei oder mehreren vertragschliessenden Staaten über die Auslegung oder Anwendung des vorliegenden Abkommens, die nicht auf dem Verhandlungswege beigelegt wird, soll zur Entscheidung vor den Internationalen Gerichtshof gebracht werden, sofern die beteiligten Staaten nicht eine andere Regelung vereinbaren.

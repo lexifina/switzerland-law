@@ -1,0 +1,3 @@
+# Art. XIX
+
+Das vorliegende Abkommen lässt den Bestand der mehrseitigen oder zweiseitigen Abkommen oder Vereinbarungen über das Urheberrecht unberührt, die zwischen zwei oder mehreren vertragschliessenden Staaten in Kraft sind. Weichen die Bestimmungen eines solchen Abkommens oder einer solchen Vereinbarung von den Bestimmungen des vorliegenden Abkommens ab, so haben die Bestimmungen des vorliegenden Abkommens den Vorrang. Unberührt bleiben die Rechte an einem Werk, die in einem vertragschliessenden Staat auf Grund bestehender Abkommen oder Vereinbarungen erworben wurden, bevor das vorliegende Abkommen für diesen Staat in Kraft getreten ist. Die Bestimmungen der Artikel XVII und XVIII des vorliegenden Abkommens werden durch diesen Artikel in keiner Weise berührt.
