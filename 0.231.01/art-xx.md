@@ -1,0 +1,3 @@
+# Art. XX
+
+Vorbehalte zu diesem Abkommen sind nicht zulässig.
