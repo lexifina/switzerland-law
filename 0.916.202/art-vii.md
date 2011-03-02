@@ -1,0 +1,3 @@
+# Art. VII Beziehungen zu anderen Organisationen
+
+Zur Erreichung der im vorliegenden Übereinkommen gesetzten Ziele arbeitet die Organisation mit der FAO und den anderen regionalen Pflanzenschutzorganisationen zusammen; sie kann sich auch an entsprechenden Aktivitäten der WTO und anderer Instanzen mit ähnlichen Verantwortlichkeiten beteiligen. Diese Aktivitäten betreffen die Festsetzung von Normen für phytosanitarische und andere amtliche Massnahmen zum Pflanzenschutz, sowie die allfällige Umwandlung regionaler Normen der Organisation in internationale Normen.Die Organisation bemüht sich nach Kräften, Doppelspurigkeiten zu vermeiden.
