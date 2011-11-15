@@ -1,0 +1,3 @@
+# Art. XX
+
+Dieses Protokoll liegt bis zu dem Zeitpunkt seines Inkrafttretens nach den Bestimmungen des Artikels XXII Absatz 1 für jeden Staat zur Unterzeichnung auf, der das Abkommen ratifiziert hat oder ihm beigetreten ist sowie für jeden Staat, der an der Konferenz teilgenommen hat, auf der das Protokoll angenommen worden ist.

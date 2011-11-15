@@ -1,0 +1,3 @@
+# Art. XVIII
+
+Das durch dieses Protokoll geänderte Abkommen gilt für internationale Beförderungen im Sinne des Artikels 1 des Abkommens, sofern der Abgangs- und Bestimmungsort in den Gebieten von zwei Vertragsstaaten dieses Protokolls oder in dem Gebiet nur eines Vertragsstaates dieses Protokolls liegen, jedoch eine Zwischenlandung im Gebiet eines anderen Staates vorgesehen ist.
