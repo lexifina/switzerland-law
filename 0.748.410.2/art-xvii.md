@@ -1,0 +1,3 @@
+# Art. XVII
+
+Ein Vorbehalt zu diesem Abkommen ist nicht zulässig.

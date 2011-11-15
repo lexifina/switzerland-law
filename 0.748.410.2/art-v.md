@@ -1,0 +1,3 @@
+# Art. V
+
+Bezüglich der von dem ausführenden Luftfrachtführer ausgeführten Beförderung kann sich jeder der Leute dieses Luftfrachtführers oder des vertraglichen Luftfrachtführers, sofern er beweist, dass er in Ausführung seiner Verrichtungen gehandelt hat, auf die Haftungsbeschränkungen berufen, die nach diesem Abkommen für den Luftfrachtführer gelten, zu dessen Leuten er gehört; dies gilt nicht, wenn bewiesen wird, dass er in einer Weise gehandelt hat, die nach dem Warschauer Abkommen die Berufung auf Haftungsbeschränkungen ausschliesst.

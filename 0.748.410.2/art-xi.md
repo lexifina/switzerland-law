@@ -1,0 +1,3 @@
+# Art. XI
+
+Dieses Abkommen liegt bis zum Zeitpunkt seines Inkrafttretens nach den Bestimmungen des Artikels XIII für jeden Staat zur Unterzeichnung auf, der zu diesem Zeitpunkt Mitglied der Vereinten Nationen oder einer der Spezialorganisationen ist.

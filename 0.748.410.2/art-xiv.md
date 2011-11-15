@@ -1,0 +1,5 @@
+# Art. XIV
+
+1. Dieses Abkommen liegt nach seinem Inkrafttreten für jeden Mitgliedstaat der Vereinten Nationen oder einer der Spezialorganisationen zum Beitritt auf.
+
+2. Der Beitritt wird durch Hinterlegung einer Beitrittsurkunde bei der Regierung der Vereinigten Staaten von Mexiko vollzogen und wird am neunzigsten Tag nach dem Zeitpunkt der Hinterlegung wirksam.
