@@ -4,4 +4,10 @@
 
 2 Die Löschung kann auf Grund einer Aufhebungsvereinbarung und ohne solche von einem Stockwerkeigentümer, der alle Anteile in seiner Hand vereinigt, verlangt werden, bedarf jedoch der Zustimmung der an den einzelnen Stockwerken dinglich berechtigten Personen, deren Rechte nicht ohne Nachteil auf das ganze Grundstück übertragen werden können.
 
-3 Die Aufhebung kann von jedem Stockwerkeigentümer verlangt werden, wenn das Gebäude zu mehr als der Hälfte seines Wertes zerstört und der Wiederaufbau nicht ohne eine für ihn schwer tragbare Belastung durchführbar ist; doch können die Stockwerkeigentümer, welche die Gemeinschaft fortsetzen wollen, die Aufhebung durch Abfindung der übrigen abwenden.
+3 Die Aufhebung kann von jedem Stockwerkeigentümer verlangt werden, wenn das Gebäude:
+
+  - 1. zu mehr als der Hälfte des Wertes zerstört und der Wiederaufbau nicht ohne eine für ihn schwer tragbare Belastung möglich ist; oder
+
+  - 2. seit mehr als 50 Jahren in Stockwerkeigentum aufgeteilt ist und wegen des schlechten baulichen Zustandes nicht mehr bestimmungsgemäss genutzt werden kann.
+
+4 Die Stockwerkeigentümer, welche die Gemeinschaft fortsetzen wollen, können die Aufhebung durch Abfindung der übrigen abwenden.

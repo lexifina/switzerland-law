@@ -1,3 +1,5 @@
 # Art. 779a
 
-Der Vertrag über die Begründung eines selbständigen und dauernden Baurechtes bedarf zu seiner Gültigkeit der öffentlichen Beurkundung.
+1 Das Rechtsgeschäft über die Errichtung eines Baurechts bedarf zu seiner Gültigkeit der öffentlichen Beurkundung.
+
+2 Sollen der Baurechtszins und allfällige weitere vertragliche Bestimmungen im Grundbuch vorgemerkt werden, so bedürfen sie zu ihrer Gültigkeit ebenfalls der öffentlichen Beurkundung.
