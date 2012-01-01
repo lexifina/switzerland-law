@@ -13,5 +13,3 @@ IV. …
 V. Verschiedene Eintragungen
 
 VI. Informationen betreffend die veröffentlichten internationalen Eintragungen
-
-(Stand am 1. Januar 2010)

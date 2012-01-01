@@ -2,7 +2,7 @@
 
 1) [Höhe der Gebühren] Mit Ausnahme der individuellen Bestimmungsgebühren nach Regel 12 Absatz 1 Buchstabe a Ziffer iii ergeben sich die Beträge der nach dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 und dieser Ausführungsordnung zu entrichtenden Gebühren aus dem Gebührenverzeichnis, das im Anhang dieser Ausführungsordnung erscheint und Bestandteil derselben ist.
 
-2) [Zahlung]
+2) [Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung]
 
   - a) Vorbehaltlich des Buchstabens b und der Regel 12 Absatz 3 Buchstabe c sind die Gebühren unmittelbar an das Internationale Büro zu entrichten.
 
