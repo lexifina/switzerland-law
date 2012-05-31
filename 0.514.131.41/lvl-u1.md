@@ -1,0 +1,3 @@
+# Einleitung
+
+Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport und das Verteidigungsministerium des Königreichs Dänemark, nachstehend Vertragsparteien genannt, vom Wunsche geleitet, im Interesse der nationalen Sicherheit im Bereich Verteidigung den Schutz klassifizierter militärisch- und verteidigungsrelevanter Informationen zu gewährleisten, die zwischen den beiden Ministerien oder zwischen juristischen oder natürlichen Personen unter der Gesetzgebung der beiden Vertragsparteien ausgetauscht werden, sind gemäss dem vorliegenden allgemeinen Sicherheitsabkommen wie folgt übereingekommen:
