@@ -1,0 +1,5 @@
+# Art. 8.3 Recht auf Regulierungstätigkeit und Schutzniveau
+
+1. Unter Anerkennung des Rechts jeder Vertragspartei, ihr eigenes Umweltschutzniveau zu bestimmen und ihre innerstaatlichen Gesetze und Politiken entsprechend im Einklang mit diesem Abkommen festzulegen oder zu ändern, bemüht sich jede Vertragspartei sicherzustellen, dass ihr innerstaatliches Recht, ihre innerstaatlichen Politiken und ihre innerstaatlichen Praktiken ein hohes Umweltschutzniveau vorsehen und fördern, welches mit den in Artikel 8.5 genannten Normen, Grundsätzen und Abkommen in Einklang steht, und ist bestrebt, das in ihrem innerstaatlichen Recht und in ihren innerstaatlichen Politiken vorgesehene Schutzniveau weiter zu erhöhen.
+
+2. Die Vertragsparteien anerkennen die Bedeutung der Berücksichtigung der einschlägigen wissenschaftlichen, technischen und sonstigen Informationen sowie der einschlägigen internationalen Normen, Richtlinien und Empfehlungen bei der Vorbereitung und Umsetzung von Umweltschutzmassnahmen, die Auswirkungen auf den Handel und die Investitionen zwischen den Vertragsparteien haben.

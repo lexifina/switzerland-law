@@ -1,0 +1,3 @@
+# Art. 1.7 Vertraulichkeit
+
+Stellt eine Vertragspartei einer anderen Vertragspartei in Übereinstimmung mit diesem Abkommen Informationen zur Verfügung und bezeichnet diese als vertraulich, so behandelt die Vertragspartei, welche die Informationen erhält, die Informationen gemäss ihrem innerstaatlichen Recht und ihrer innerstaatlichen Praxis als vertraulich. Solche Informationen sind nur für den Zweck zu verwenden, für den sie zur Verfügung gestellt werden, und dürfen sonst nicht ohne besondere schriftliche Erlaubnis der Vertragspartei, welche die Informationen zur Verfügung stellt, offengelegt werden.
