@@ -8,4 +8,4 @@
 
   - 3. im Verfahren zur Änderung von Eheschutzmassnahmen; die Vorschriften über die Ehescheidung sind sinngemäss anwendbar.
 
-2 In den übrigen Fällen sind die vormundschaftlichen Behörden zuständig.
+2 In den übrigen Fällen ist die Kindesschutzbehörde zuständig.
