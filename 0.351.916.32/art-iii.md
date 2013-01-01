@@ -1,0 +1,5 @@
+# Art. III (Zu Artikel 4 des Übereinkommens)
+
+(1) Auf Ersuchen der am Strafverfahren beteiligten Behörden wird deren Vertretern sowie den sonstigen Beteiligten und ihren Rechtsbeiständen die Anwesenheit bei der Vornahme von Rechtshilfehandlungen im ersuchten Staat gestattet. Sie können ergänzende Fragen oder Massnahmen anregen. Der Schutz nach Artikel 12 Ziffer 1 und 3 des Übereinkommens gilt sinngemäss für alle diese Personen.
+
+(2) Zur Dienstverrichtung der Behördenvertreter des anderen Staates bedarf es in der Schweiz der Zustimmung des Eidgenössischen Justiz‑ und Polizeidepartements und der Justizdirektion des Kantons, in dem die Rechtshilfe geleistet werden soll, in der Republik Österreich der Zustimmung des Bundesministers für Justiz.
