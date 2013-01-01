@@ -1,0 +1,3 @@
+# Art. XV
+
+Dieser Vertrag gilt auch für das Land Berlin, sofern nicht die Regierung der Bundesrepublik Deutschland gegenüber dem Schweizerischen Bundesrat innerhalb von drei Monaten nach Inkrafttreten des Vertrages eine gegenteilige Erklärung abgibt.
