@@ -1,0 +1,5 @@
+# 16. Salvatorische Klausel
+
+Sollte(n) eine oder mehrere der Bestimmungen dieses Abkommens oder eines im Zusammenhang mit diesem Abkommen ausgefertigten Dokuments von einem zuständigen Gericht oder einer zuständigen Behörde nach einem anwendbaren Recht, einschliesslich des Wettbewerbsrechts, in irgendeiner Hinsicht für unwirksam, rechtswidrig oder nicht durchsetzbar befunden werden, so werden die Wirksamkeit, Rechtsmässigkeit und Durchsetzbarkeit der übrigen Bestimmungen dieses Abkommens oder Dokuments keinesfalls berührt oder beeinträchtigt; dies gilt jedoch nur, soweit sich die Parteien in diesem Fall verpflichten, alle wirtschaftlich vertretbaren Anstrengungen zu unternehmen, um die Zielsetzung der unwirksamen Bestimmung durch eine neue, rechtsgültige Bestimmung zu erfüllen, die den gleichen (oder einen im Wesentlichen ähnlichen) wirtschaftlichen Nutzen oder die gleiche (oder eine im Wesentlichen ähnliche) wirtschaftliche Belastung bewirkt.
+
+Verfasst in zwei Urschriften in englischer Sprache.
