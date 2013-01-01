@@ -1,0 +1,3 @@
+# Präambel
+
+Die Kontoeröffnung von österreichischen Kunden bei schweizerischen Banken wird vereinfacht und die grenzüberschreitende Erbringung von Bankdienstleistungen soll im Verhältnis zwischen der Schweizerischen Eidgenossenschaft (Schweiz) und der Republik Österreich (Österreich) wechselseitig zulässig sein und, soweit sie gegenwärtig eingeschränkt ist, ermöglicht werden (vorbehalten bleibt übergeordnetes Recht). Die Durchführung des Bewilligungsverfahrens (Konzessionserteilung durch die Finanzmarktaufsicht, FMA) für schweizerische Banken in Österreich wird vereinfacht und zeitlich begrenzt, und der Vertrieb von Effektenfonds wird wechselseitig vereinfacht.
