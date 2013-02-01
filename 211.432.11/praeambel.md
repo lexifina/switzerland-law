@@ -1,0 +1,7 @@
+# Präambel
+
+Das Eidgenössische Justiz- und Polizeidepartement (EJPD) und das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
+
+gestützt auf Artikel 949a Absatz 3 des Zivilgesetzbuches, die Artikel 19 Absatz 4, 40 Absatz 2 und 41 Absatz 1 der Grundbuchverordnung vom 23. September 2011 (GBV) und Artikel 6a Absatz 2 der Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV),
+
+verordnen:
