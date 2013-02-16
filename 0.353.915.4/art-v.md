@@ -1,0 +1,3 @@
+# Art. V
+
+Wenn das Strafgesetz des ersuchenden Staates für die strafbare Handlung, um derentwillen die Auslieferung verlangt wird, eine körperliche Strafe androht, so wird die Auslieferung nur unter der Bedingung gewährt, dass jene Strafe gegebenen Falles in eine Freiheitsoder Geldstrafe umgewandelt werde.

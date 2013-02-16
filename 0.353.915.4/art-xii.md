@@ -1,0 +1,3 @@
+# Art. XII
+
+Wenn die reklamierte Person nicht Angehöriger des ersuchenden Staates ist und wegen desselben Deliktes auch von der Regierung ihres Heimatstaates verlangt würde, so steht es im Belieben der ersuchten Regierung, den Verfolgten an den einen oder den andern der beiden ersuchenden Staaten auszuliefern.

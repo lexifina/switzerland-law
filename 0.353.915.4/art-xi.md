@@ -1,0 +1,3 @@
+# Art. XI
+
+Wenn die Person, deren Auslieferung auf Grund des gegenwärtigen Vertrages verlangt wird, gleichzeitig von einer oder mehreren andern Regierungen wegen auf deren Gebieten begangener Verbrechen reklamiert wird, so soll die Auslieferung an denjenigen Staat bewilligt werden, auf dessen Gebiet das schwerste Delikt verübt wurde, und bei gleicher Schwere an den Staat, dessen Auslieferungsbegehren zuerst eingegangen ist.

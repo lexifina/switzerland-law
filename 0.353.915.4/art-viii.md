@@ -1,0 +1,7 @@
+# Art. VIII
+
+Die Personen, deren Auslieferung gewährt worden ist können für Verbrechen oder Vergehen, welche früher als die der Auslieferung zugrunde liegenden Delikte begangen worden sind, oder für Handlungen, welche mit solchen Verbrechen und Vergehen in Verbindung stehen, nur verfolgt und bestraft werden, wenn der Auslieferungsstaat hierzu seine Zustimmung erteilt, und es sich um Straftaten handelt, die in Artikel II aufgeführt sind.
+
+Sie können auch nicht an einen dritten Staat ausgeliefert werden, der sie wegen anderer Straftaten, als diejenigen, welche die Auslieferung begründet haben, verlangen würde.
+
+Diese Einschränkungen kommen jedoch nicht zur Geltung, wenn der Ausgelieferte ausdrücklich einwilligt, für eine früher begangene und im Auslieferungsbegehren nicht erwähnte Straftat verfolgt oder bestraft oder an einen dritten Staat ausgeliefert zu werden, oder endlich wenn der Ausgelieferte in dem Staate, in welchem er abgeurteilt worden ist, von dem Tage an, da er seine Strafe verbüsst hat oder zufolge Begnadigung in Freiheit gesetzt wurde, während drei Monaten verbleibt, oder wenn er in der Folge freiwillig auf das Gebiet des betreffenden Staates zurückkehrt.

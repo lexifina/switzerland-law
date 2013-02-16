@@ -1,0 +1,3 @@
+# Art. VII
+
+Die reklamierten Personen, welche wegen eines andern Deliktes als dasjenige, das dem Auslieferungsbegehren zugrunde liegt, verfolgt werden oder eine Strafe verbüssen, werden erst ausgeliefert, nachdem sie im ersuchten Staate endgültig abgeurteilt sind und im Falle ihrer Verurteilung die Strafe verbüsst haben oder begnadigt worden sind.
