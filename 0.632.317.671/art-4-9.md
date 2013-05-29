@@ -1,0 +1,3 @@
+# Art. 4.9 Transparenz
+
+Gesetze, Vorschriften sowie allgemein gültige Gerichts- und Verwaltungsentscheide, die in einer Vertragspartei in Kraft sind, sowie zwischen Vertragsparteien geltende Abkommen, welche die von diesem Kapitel erfassten Angelegenheiten betreffen, werden umgehend veröffentlicht oder anderweitig öffentlich so zugänglich gemacht, dass Vertragsparteien und Investoren davon Kenntnis nehmen können. Die Bestimmungen dieses Artikels verpflichten eine Vertragspartei nicht zur Offenlegung vertraulicher Informationen, welche die Durchsetzung von Rechtsvorschriften behindern, dem öffentlichen Interesse sonst zuwiderlaufen oder die berechtigten Geschäftsinteressen eines Investors beeinträchtigen würden.

@@ -1,0 +1,5 @@
+# Art. 2.8 Gesundheitspolizeiliche und pflanzenschutzrechtliche Massnahmen
+
+1. Die Rechte und Pflichten der Vertragsparteien in Bezug auf gesundheitspolizeiliche und pflanzenschutzrechtliche Massnahmen richten sich nach dem WTO-Übereinkommen über die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen.
+
+2. Die Vertragsparteien tauschen Namen und Adressen von Kontaktstellen mit gesundheitspolizeilichen und pflanzenschutzrechtlichen Fachkenntnissen aus, um die Kommunikation und den Informationsaustausch zu erleichtern.
