@@ -12,7 +12,7 @@
 
   - v) «Mitteilung» eine internationale Anmeldung oder einen Antrag, eine Erklärung, Aufforderung, Benachrichtigung oder Information, die sich auf eine internationale Anmeldung oder eine internationale Eintragung bezieht oder einer solchen beigefügt ist und in einer nach der vorliegenden Ausführungsordnung oder den Verwaltungsvorschriften zulässigen Weise an das Amt einer Vertragspartei, an das Internationale Büro, den Anmelder oder Inhaber gerichtet ist;
 
-  - vi) «amtliches Formblatt» ein vom Internationalen Büro erstelltes Formblatt oder jedes Formblatt gleichen Inhalts und gleichen Formats;
+  - vi) «amtliches Formblatt» bedeutet ein vom Internationalen Büro erstelltes Formblatt oder eine vom Internationalen Büro auf der Website der Organisation bereitgestellte elektronische Schnittstelle oder jedes Formblatt oder jede elektronische Schnittstelle gleichen Inhalts und gleichen Formats;
 
   - vii) «Internationale Klassifikation» die durch das Abkommen von Locarno zur Errichtung einer internationalen Klassifikation für gewerbliche Muster und Modelle geschaffene Klassifikation;
 

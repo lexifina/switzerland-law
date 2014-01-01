@@ -24,11 +24,11 @@
 
 4) [Zusätzlicher zwingend vorgeschriebener Inhalt einer internationalen Anmeldung]
 
-  - a) Hinsichtlich der in einer internationalen Anmeldung nach dem Abkommen in der Fassung von 1999 bestimmten Vertragsparteien hat diese Anmeldung nebst den Angaben nach Absatz 3 die Angabe der Vertragspartei des Anmelders zu enthalten.
+  - a) Hinsichtlich der in einer internationalen Anmeldung nach dem Abkommen in der Fassung von 1999 bestimmten Vertragsparteien hat diese Anmeldung nebst den Angaben nach Absatz 3 Ziffer iii) die Angabe der Vertragspartei des Anmelders zu enthalten.
 
-  - b) Hat eine Vertragspartei nach dem Abkommen in der Fassung von 1999 den Generaldirektor nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 davon in Kenntnis gesetzt hat, dass nach ihrem Recht ein oder mehrere Bestandteile erforderlich sind, auf die in Artikel 5 Absatz 2 Buchstabe b des Abkommens in der Fassung von 1999 verwiesen wird, so hat die internationale Anmeldung diesen Bestandteil oder diese Bestandteile wie in Regel 11 vorgeschrieben, zu enthalten.
+  - b) Hat eine Vertragspartei nach dem Abkommen in der Fassung von 1999 den Generaldirektor nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 davon in Kenntnis gesetzt, dass nach ihrem Recht ein oder mehrere Bestandteile erforderlich sind, auf die in Artikel 5 Absatz 2 Buchstabe b des Abkommens in der Fassung von 1999 verwiesen wird, so hat die internationale Anmeldung diesen Bestandteil oder diese Bestandteile wie in Regel 11 vorgeschrieben zu enthalten.
 
-  - c) Findet Regel 8 Anwendung, so hat die internationale Anmeldung die Angaben nach Regel 8 Absatz 2 zu enthalten; gegebenenfalls ist die in dieser Regel genannte Erklärung oder das genannte Schriftstück beizufügen.
+  - c) Ist Regel 8 anwendbar, so muss die internationale Anmeldung je nach Fall Angaben nach Regel 8 Absätze 2 und 3 enthalten und mit jeglicher darin erwähnter Erklärung, Eidesaussage oder Bestätigung einhergehen.
 
   - 5) [Fakultativer Inhalt einer internationalen Anmeldung]
 

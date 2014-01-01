@@ -14,7 +14,11 @@
 
   - vi) nach Regel 25 Absatz 1 eingetragene Verlängerungen;
 
-  - vii) nicht verlängerte internationale Eintragungen.
+  - vii) nicht verlängerte internationale Eintragungen;
+
+  - viii) nach Regel 12 Absatz 3 Buchstabe d eingetragene Streichungen;
+
+  - ix) Erklärungen zur Unwirksamkeit des Inhaberwechsels und zur Rücknahme solcher Erklärungen nach Regel 21bis.
 
 2) [Informationen über Erklärungen; weitere Informationen] Das Internationale Büro veröffentlicht auf der Internetseite der Organisation alle nach dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 oder dieser Ausführungsordnung abgegebenen Erklärungen einer Vertragspartei sowie eine Aufstellung der Tage, an denen das Internationale Büro im laufenden und im folgenden Kalenderjahr für die Öffentlichkeit geschlossen ist.
 
