@@ -1,0 +1,3 @@
+# 13.2 Liquidation
+
+Im Falle der Beendigung dieser Vereinbarung wird das EMBL mit der Liquidation der Vermögenswerte und Sachanlagen von ELIXIR beauftragt. Eine Ausnahme bilden die Vermögenswerte und Sachanlagen, die das EMBL ELIXIR zur Verfügung gestellt hat und die nicht für die Zwecke von ELIXIR erworben wurden (sie gehen wieder in den Besitz des EMBL über). Mit dem Erlös einer solchen Liquidation sind vorrangig ausstehende Verbindlichkeiten von ELIXIR zu begleichen. Alle verbleibenden Vermögenswerte und Gelder werden unter den verbleibenden ELIXIR-Mitgliedern im Verhältnis zu ihrem finanziellen Gesamtbeitrag zum Zeitpunkt der Liquidation aufgeteilt. Verbleibende Verbindlichkeiten oder Fehlbeträge werden unter den verbleibenden Mitgliedern von ELIXIR aufgeteilt.

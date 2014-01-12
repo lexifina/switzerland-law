@@ -1,0 +1,3 @@
+# 9.3 Aufteilung der Verluste auf die ELIXIR-Mitgliedstaaten
+
+Die Haftung beginnt mit dem Tag, an dem der Verlust oder Schaden entstanden ist, und endet mit der Behebung des Verlustes oder Schadens. Die von den einzelnen ELIXIR-Mitgliedstaaten getragene finanzielle Haftung wird anteilig auf der Grundlage der ordentlichen Beiträge des Mitgliedstaats für das Jahr berechnet, in dem der Verlust bzw. Schaden entstanden ist. Erstreckt sich der Verlust oder Schaden über mehrere Jahre, wird die Haftung für jedes Jahr einzeln berechnet, allerdings nur für jene Staaten, die bei Eintreten des Schadens bzw. Verlustes Mitglieder waren.

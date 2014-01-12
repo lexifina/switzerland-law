@@ -1,0 +1,3 @@
+# 5.1.6 Zahlungsverzug oder Vorauszahlung
+
+Versäumt es ein ELIXIR-Mitgliedstaat, eine gemäss dieser Vereinbarung fällige Zahlung an ELIXIR zu leisten, so ist der ELIXIR-Vorstand berechtigt, auf den fälligen Betrag innerhalb von vier Wochen ab dem nach Absatz 5.1.3 festgelegten Zahlungstermin Verzugszinsen zu erheben. Im Falle einer Vorauszahlung werden an den betreffenden ELIXIR-Mitgliedstaat Zinsen gezahlt. Der Zinssatz wird von der ELIXIR-Direktorin bzw. dem ELIXIR-Direktor jährlich zusammen mit dem ELIXIR-Budget vorgeschlagen und deckt die Kosten für Zahlungsverzüge. Die Zinsen für Zahlungsverzüge werden unbeschadet der Bestimmungen dieser Vereinbarung über die Beitragszahlung erhoben.

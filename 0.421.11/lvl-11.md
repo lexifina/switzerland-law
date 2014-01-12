@@ -1,0 +1,3 @@
+# 11. Ethikkodex
+
+Der ELIXIR-Vorstand legt einen Ethikkodex fest, der mit den relevanten Gesetzen und Vorschriften im Einklang steht und Best Practices berücksichtigt. Er trifft Massnahmen, um sicherzustellen, dass die im Rahmen des Auftrags des ELIXIR-Hubs erforderlichen Aktivitäten dem Ethikkodex entsprechen. Der ELIXIR-Vorstand stellt mit geeigneten Mechanismen sicher, dass die ELIXIR-Knotenpunkte und alle anderen ELIXIR-Partner über ihre Pflicht in Kenntnis gesetzt werden, bei der Verwendung, Speicherung und Verarbeitung personenbezogener Daten aus der biomedizinischen Forschung die Einhaltung aller relevanten Gesetze und Vorschriften (und gegebenenfalls lokaler ethischer Richtlinien) sicherzustellen.
