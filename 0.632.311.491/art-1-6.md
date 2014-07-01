@@ -1,0 +1,5 @@
+# Art. 1.6 Transparenz
+
+1. Die Vertragsparteien veröffentlichen oder machen anderweitig ihre Gesetze, Vorschriften, Gerichts- und Verwaltungsentscheide von allgemeiner Tragweite sowie ihre jeweiligen internationalen Abkommen, welche die Durchführung dieses Abkommens berühren können, öffentlich zugänglich.
+
+2. Die Vertragsparteien antworten unverzüglich auf konkrete Fragen und stellen einander auf Ersuchen Informationen zu Angelegenheiten nach Absatz 1 zur Verfügung.

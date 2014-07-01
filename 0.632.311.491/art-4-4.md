@@ -1,0 +1,3 @@
+# Art. 4.4 Konsultationen
+
+Eine Vertragspartei kann bezüglich allen dieses Kapitel betreffenden Angelegenheiten um Konsultationen ersuchen. Das Gesuch um Konsultationen nennt die hierzu den Anlass gebenden Gründe. Konsultationen werden unverzüglich durchgeführt. Jede Vertragspartei kann die Fortführung der Konsultationen im Rahmen des Gemischten Ausschusses verlangen, um dessen Empfehlungen zur fraglichen Angelegenheit zu erhalten. Die Vertragspartei, an die das Gesuch gerichtet ist, bietet jede Unterstützung, die zur Untersuchung der Angelegenheit und bei der Suche nach einer entsprechenden Lösung erforderlich ist.
