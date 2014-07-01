@@ -1,0 +1,5 @@
+# Art. 1.3 Verhältnis zu anderen Abkommen
+
+1. Die Vertragsparteien bestätigen ihre Rechte und Pflichten, die sich aus dem WTO-Abkommen und den anderen im WTO-Rahmen ausgehandelten Abkommen, denen sie als Vertragsparteien angehören, sowie unter anderen internationalen Abkommen, bei denen sie Vertragsparteien sind, ergeben.
+
+2. Ist eine Vertragspartei der Auffassung, dass die Aufrechterhaltung oder die Errichtung von Zollunionen, Freihandelszonen, Grenzverkehrsregelungen oder anderen präferenziellen Abkommen der anderen Vertragspartei die in diesem Abkommen geregelten Handelsbeziehungen beeinträchtigt, oder dass eine Unvereinbarkeit zwischen diesem Abkommen und anderen Abkommen, bei denen beide Vertragsparteien sind, besteht, kann sie um Konsultationen ersuchen. Die andere Vertragspartei räumt der ersuchenden Vertragspartei angemessen Gelegenheit für Konsultationen ein, um in Übereinstimmung mit den gewohnheitsrechtlichen Auslegungsregeln des Völkerrechts eine gegenseitig zufriedenstellende Lösung zu finden.

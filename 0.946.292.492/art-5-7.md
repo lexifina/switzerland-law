@@ -1,0 +1,5 @@
+# Art. 5.7 Vorläufige Schutzmassnahmen
+
+1. Liegen kritische Umstände vor, unter denen ein Aufschub einen schwer wiedergutzumachenden Schaden verursachen würde, so kann eine Vertragspartei eine vorläufige Schutzmassnahme ergreifen, nachdem zuvor festgestellt wurde, dass eindeutige Beweise dafür vorliegen, dass der Anstieg der Einfuhren ernsthaften Schaden zugefügt haben oder zuzufügen drohen.
+
+2. Die Dauer der vorläufigen Schutzmassnahme darf 200 Tage nicht überschreiten. Während dieses Zeitraums müssen die entsprechenden Anforderungen nach Artikel 5.4, Artikel 5.5, Artikel 5.6 und Artikel 5.8 erfüllt sein. Eine solche vorläufige Schutzmassnahme erfolgt in Form einer Erhöhung des Zollansatzes, die jedoch den niedrigeren der beiden Werte nach Artikel 5.4 nicht überschreiten darf. Diese Erhöhung wird unverzüglich zurückerstattet, falls die nachfolgende Untersuchung nicht feststellt, dass erhöhte Einfuhren einem inländischen Wirtschaftszweig ernsthaften Schaden zugefügt haben oder zuzufügen drohen. Die Dauer der vorläufigen Schutzmassnahme wird als Teil der Dauer der Massnahme nach Artikel 5.5 gezählt.

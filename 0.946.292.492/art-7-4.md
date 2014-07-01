@@ -1,0 +1,3 @@
+# Art. 7.4 Harmonisierung
+
+In der Absicht, ihre gesundheitspolizeilichen und pflanzenschutzrechtlichen Massnahmen so weit wie möglich zu harmonisieren, treffen die Vertragsparteien ihre gesundheitspolizeilichen und pflanzenschutzrechtlichen Massnahmen auf der Grundlage von Normen, Richtlinien und Empfehlungen der Codex Alimentarius Kommission (CAC), der Weltorganisation für Tiergesundheit (OIE) und der zuständigen internationalen regionalen Organisationen unter dem Internationalen Pflanzenschutzübereinkommen (IPPC), sofern solche Normen, Richtlinien und Empfehlungen bestehen oder ihre Fertigstellung unmittelbar bevorsteht.

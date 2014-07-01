@@ -1,0 +1,7 @@
+# Art. 8.9 Transparenz
+
+1. Jede Vertragspartei veröffentlicht umgehend und, ausser in Notlagen, spätestens zum Zeitpunkt ihres Inkrafttretens alle einschlägigen allgemeingültigen Massnahmen, die sich auf die Anwendung dieses Kapitels beziehen oder sie betreffen. Internationale Abkommen, die für den Dienstleistungshandel gelten oder ihn betreffen und die eine Vertragspartei unterzeichnet hat, sind ebenfalls zu veröffentlichen.
+
+2. Soweit eine Veröffentlichung nach Absatz 1 nicht möglich ist, wird die Information auf andere Weise öffentlich zugänglich gemacht.
+
+3. Keine Vertragspartei ist nach diesem Kapitel verpflichtet, vertrauliche Informationen preiszugeben, deren Offenlegung die Durchsetzung von Rechtsvorschriften behindern oder sonst dem öffentlichen Interesse zuwiderlaufen oder die berechtigten Wirtschaftsinteressen bestimmter öffentlicher und privater Unternehmen beeinträchtigen würde.
