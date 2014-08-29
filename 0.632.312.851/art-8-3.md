@@ -1,0 +1,3 @@
+# Art. 8.3 Konsultationen
+
+Zur Förderung des gegenseitigen Verständnisses zwischen den Vertragsparteien oder zur Behandlung von unter dieses Kapitel fallenden Angelegenheiten kann eine Vertragspartei um Konsultationen im Rahmen des Gemischten Ausschusses ersuchen. Das Ersuchen gibt die Gründe für die Konsultationen an. Konsultationen werden ohne Verzug mit dem Zweck abgehalten, eine mit diesem Kapitel übereinstimmende Entscheidung zu treffen. Die betroffenen Vertragsparteien stellen dem Gemischten Ausschuss jegliche erforderliche Unterstützung und nötigen Informationen zur Verfügung. Keine Vertragspartei ist verpflichtet, Informationen offenzulegen, die nach ihrem Recht vertraulich sind.

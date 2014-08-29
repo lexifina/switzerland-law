@@ -1,0 +1,5 @@
+# Art. 9.8 Handel mit forstwirtschaftlichen Erzeugnissen
+
+1. Zur Förderung der nachhaltigen Bewirtschaftung von Waldressourcen und dadurch unter anderem zur Reduktion von Treibhausgasemissionen infolge der Abholzung und der Schädigung von Naturwäldern durch Tätigkeiten ausserhalb des Forstsektors verpflichten sich die Vertragsparteien, in den einschlägigen multilateralen Foren, denen sie angehören, zusammenzuarbeiten, um die Rechtsdurchsetzung und Politikgestaltung im Forstsektor zu verbessern und den Handel mit legalen und nachhaltigen forstwirtschaftlichen Erzeugnissen zu fördern.
+
+2. Nützliche Instrumente zur Erreichung dieses Ziel sind unter anderem: die wirksame Anwendung des Übereinkommens über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen («CITES») in Bezug auf gefährdete Holzarten; Zertifizierungsprogramme für nachhaltig gewonnene Walderzeugnisse; regionale oder bilaterale freiwillige Partnerschaftsabkommen über Rechtsdurchsetzung, Politikgestaltung und Handel im Forstsektor («FLEGT»).
