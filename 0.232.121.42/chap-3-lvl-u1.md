@@ -38,15 +38,19 @@
 
   - a) Die Mitteilung einer Zurücknahme der Schutzverweigerung bezieht sich auf eine einzige internationale Eintragung; sie ist von dem mitteilenden Amt zu datieren und zu unterzeichnen.
 
-  - b) Die Mitteilung hat folgendes zu enthalten oder anzugeben:
+  - b) Die Mitteilung hat Folgendes zu enthalten oder anzugeben:
 
     - i) das mitteilende Amt;
 
     - ii) die Nummer der internationalen Eintragung;
 
-    - iii) bezieht sich die Zurücknahme nicht auf alle gewerblichen Muster oder Modelle, für die die Schutzverweigerung galt, diejenigen, auf die sich die Zurücknahme bezieht oder nicht bezieht, und
+    - iii) bezieht sich die Zurücknahme nicht auf alle gewerblichen Muster oder Modelle, für die die Schutzverweigerung galt, diejenigen, auf die sich die Zurücknahme bezieht oder nicht bezieht;
 
-    - iv) das Datum der Zurücknahme der Schutzverweigerung.
+    - iv) das Datum, von dem an die internationale Eintragung dieselbe Wirkung wie ein nach dem anwendbaren Recht erteiltes Schutzrecht hat; und
+
+    - v) das Datum der Zurücknahme der Schutzverweigerung.
+
+  - c) Wurde die internationale Eintragung in einem Verfahren vor dem Amt geändert, so hat die Mitteilung auch alle Änderungen zu enthalten oder anzugeben.
 
 5) [Eintragung] Das Internationale Büro trägt die nach Absatz 1 Buchstabe c Ziffer ii, Absatz 2 oder 4 bei ihm eingegangenen Mitteilungen in das internationale Register ein, im Falle einer Mitteilung der Schutzverweigerung unter Angabe des Datums, an dem diese Mitteilung dem Internationalen Büro übersandt wurde.
 
