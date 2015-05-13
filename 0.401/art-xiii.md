@@ -1,0 +1,5 @@
+# Art. XIII Abänderungen
+
+1. Vorschläge auf Abänderung dieser Verfassung treten in Kraft, sobald sie von der Generalkonferenz mit Zweidrittelmehrheit angenommen worden sind. Falls diese Vorschläge jedoch grundsätzliche Änderungen der Ziele der Organisation oder neue Verpflichtungen für die Mitgliedstaaten mit sich bringen, so ist zu ihrer Inkraftsetzung eine nachträgliche Annahme durch zwei Drittel der Mitgliedstaaten erforderlich. Der Wortlaut der Abänderungsvorschläge soll den Mitgliedstaaten durch den Generaldirektor mindestens sechs Monate vor der Unterbreitung der Vorschläge an die Generalkonferenz mitgeteilt werden.
+
+2. Die Generalkonferenz ist berechtigt, Verfahrensregeln über die Anwendung der Bestimmungen dieses Artikels mit Zweidrittelmehrheit anzunehmen.

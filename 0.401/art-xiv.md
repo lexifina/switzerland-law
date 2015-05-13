@@ -1,0 +1,5 @@
+# Art. XIV Auslegung
+
+1. Der englische und der französische Text dieser Verfassung sind in gleicher Weise massgebend.
+
+2. Jede Frage und jeder Streitfall betreffend die Auslegung dieser Verfassung sollen der Entscheidung des Internationalen Gerichtshofes oder eines Schiedsgerichtes unterbreitet werden, je nachdem, welche Entscheidung die Generalkonferenz im Einklang mit ihrer Geschäftsordnung trifft.
