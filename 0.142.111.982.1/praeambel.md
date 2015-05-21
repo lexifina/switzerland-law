@@ -1,0 +1,53 @@
+# Präambel
+
+Exzellenz,
+
+Ich beehre mich, den Empfang Ihrer unterzeichneten Kommunikation vom 21. April 2015 anzuzeigen, die vorschlägt dass, im Hinblick auf die Weiterentwicklung der freundschaftlichen Beziehungen zwischen unseren Ländern, im Bestreben, den Grundsatz der Gegenseitigkeit zu wahren und unseren Staatsangehörigen das Reisen zu erleichtern, die Regierung der Föderativen Republik Brasiliens (Brasilien) und die Regierung der Schweizerischen Eidgenossenschaft (Schweiz) (im Folgenden zusammen «die Parteien» und einzeln «die Partei» genannt) die folgenden Massnahmen beschliessen, welche vorsehen, dass Staatsangehörige der Schweiz, die in das Hoheitsgebiet von Brasilien einreisen, sowie Staatsangehörige von Brasilien, die in das Hoheitsgebiet der Schweiz einreisen, von der Visumpflicht befreit sind, sofern die Reise einzig touristischen oder geschäftlichen Zwecken dient und die Aufenthaltsdauer maximal neunzig (90) Tage innerhalb eines Zeitraums von hundertachtzig (180) Tagen beträgt:
+
+«1.1 Schweizer Staatsangehörige, die einen gültigen, von der Schweiz ausgestellten gewöhnlichen Reisepass besitzen, dürfen ohne Visum in das Hoheitsgebiet von Brasilien einreisen und sich dort für die in Absatz 2.1 genannte Dauer aufhalten.
+
+1.2 Staatsangehörige von Brasilien, die einen gültigen, von Brasilien ausgestellten gewöhnlichen Reisepass besitzen, dürfen ohne Visum in das Hoheitsgebiet der Schweiz einreisen und sich dort für die in Absatz 2.2 genannte Dauer aufhalten.
+
+1.3 Die in der vorliegenden Kommunikation genannten Pässe haben die Gültigkeitskriterien gemäss der innerstaatlichen Gesetzgebung der Parteien zu erfüllen.
+
+1.5 Die Absätze 1.1 und 1.2 der vorliegenden Kommunikation sind nicht auf Personen anwendbar, deren Reise dem Zweck der Erwerbstätigkeit dient. Für diese Personenkategorie können die Parteien die Visumpflicht für Staatsangehörige der anderen Vertragspartei gemäss ihrer innerstaatlichen Gesetzgebung festlegen.
+
+1.6 Die mit der vorliegenden Kommunikation eingeführte Befreiung von der Visumpflicht findet unbeschadet der Rechtsvorschriften der Parteien über die Bedingungen für Einreise und kurzfristigen Aufenthalt Anwendung. Die Parteien behalten sich vor, die Einreise in ihr jeweiliges Hoheitsgebiet und den kurzfristigen Aufenthalt in diesem Gebiet zu verweigern, wenn eine oder mehrere dieser Bedingungen nicht erfüllt sind.
+
+1.7 Die Staatsangehörigen der beiden Parteien, denen die vorliegende Kommunikation zugutekommt, beachten während ihres Aufenthalts die im Hoheitsgebiet der anderen Partei geltenden Rechtsvorschriften.
+
+1.8 Die Staatsangehörigen der beiden Parteien dürfen an allen Grenzübergangsstellen, die für den internationalen Reiseverkehr offen sind, in das Hoheitsgebiet der anderen Partei einreisen, dieses durchreisen oder daraus ausreisen.
+
+2.1 Die Staatsangehörigen der Schweiz dürfen sich nach dem Datum der ersten Einreise in das Hoheitsgebiet Brasiliens höchstens 90 Tage innerhalb eines Zeitraums von 180 Tagen in diesem Hoheitsgebiet aufhalten.
+
+2.2 Die Staatsangehörigen von Brasilien dürfen sich höchstens 90 Tage innerhalb eines Zeitraums von 180 Tagen im Hoheitsgebiet der Schweiz aufhalten. Bei der Einreise in das Hoheitsgebiet der Schweiz nach der Durchreise durch das Hoheitsgebiet eines oder mehrerer Staaten, für welche die Bestimmungen über Grenzübertritt und Visa gemäss Schengen-Besitzstand vollumfänglich anwendbar sind, gilt das Datum, an dem die Aussengrenze des durch die genannten Staaten gebildeten Raums überschritten wird, als erster Tag des Aufenthalts (von maximal 90 Tagen) in diesem Raum; das Datum der Ausreise gilt als letzter Tag des Aufenthalts in diesem Raum.
+
+2.3 Der in den Absätzen 2.1 und 2.2 genannte Zeitraum von 90 Tagen innerhalb eines Zeitraums von 180 Tagen wird entweder auf der Basis eines ununterbrochenen Besuchs oder auf der Basis von mehreren aufeinanderfolgenden Besuchen berechnet, wobei die Gesamtdauer des Aufenthalts nicht länger als 90 Tage innerhalb eines Zeitraums von 180 Tagen betragen darf.
+
+3. Bei Bedarf treten auf Verlangen einer der beiden Parteien Vertreterinnen und Vertreter der Parteien zusammen, um die Durchführung und Anwendung der in der vorliegenden Kommunikation enthaltenen Massnahmen zu besprechen und, wenn nötig, Vorschläge zu Änderungen der vorliegenden Kommunikation zu unterbreiten.
+
+4. Die Umsetzung der in der vorliegenden Kommunikation enthaltenen Massnahmen lassen die Rechte, Pflichten und Verantwortlichkeiten der Parteien, die sich aus dem Völkerrecht ergeben, unberührt.
+
+5.1 Die zuständigen Behörden der Parteien tauschen spätestens 30 Tage nach Inkrafttreten der in der vorliegenden Kommunikation enthaltenen Massnahmen auf diplomatischem Weg personalisierte Muster ihrer gültigen gewöhnlichen Reisepässe aus.
+
+5.2 Werden neue gewöhnliche Reisepässe eingeführt oder die bisherigen Reisepässe geändert, so stellen die Parteien einander auf diplomatischem Weg spätestens 30 Tage vor deren Anwendung personalisierte Muster dieser neuen oder geänderten Reisepässe sowie detaillierte Angaben über deren Anwendbarkeit zur Verfügung.
+
+6. Falls das Abkommen zwischen der Europäischen Union und der Föderativen Republik Brasilien vom 8. November 2010 über die Befreiung der Inhaberinnen und Inhaber gewöhnlicher Reisepässe von der Visumpflicht bei kurzfristigen Aufenthalten und/oder das Abkommen zwischen der Europäischen Union, der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft vom 26. Oktober 2004 über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands gemäss den massgeblichen Bestimmungen dieser Abkommen gekündigt, ausgesetzt oder geändert wird, sind die Parteien verpflichtet, gemeinsam die notwendigen Massnahmen zu treffen, um die Vereinbarkeit ihrer Verpflichtungen aus den in der vorliegenden Kommunikation enthaltenen Massnahmen mit ihren Verpflichtungen aus den oben genannten Vereinbarungen vollumfänglich sicherzustellen.
+
+7. Die in der vorliegenden Kommunikation enthaltenen Massnahmen werden auf unbegrenzte Zeit geschlossen, ausser sie werden durch eine Partei gemäss Absatz 6 durch schriftliche Notifikation an die andere Partei beendet. Die in der vorliegenden Kommunikation enthaltenen Massnahmen treten neunzig (90) Tage nach dem Datum einer solchen Notifikation ausser Kraft.
+
+8. Die in der vorliegenden Kommunikation enthaltenen Massnahmen können durch schriftliche Vereinbarung zwischen den Parteien gemäss Absatz 6 geändert werden. Änderungen treten 30 Tage nachdem die Parteien einander den Abschluss der dafür erforderlichen innerstaatlichen Verfahren notifiziert haben in Kraft.
+
+9. Jede Partei kann die in der vorliegenden Kommunikation enthaltenen Massnahmen gemäss Absatz 6 ganz oder teilweise aussetzen. Die Aussetzungsentscheidung wird der anderen Partei spätestens zwei Monate vor deren Inkrafttreten notifiziert. Die Partei, welche die Anwendung der in der vorliegenden Kommunikation enthaltenen Massnahmen ausgesetzt hat, unterrichtet unverzüglich die andere Partei, sobald die für die Aussetzung ausschlaggebenden Gründe nicht mehr bestehen.
+
+10. Die in der vorliegenden Kommunikation enthaltenen Massnahmen treten 30 Tage nach dem Empfang der Kommunikation, mit welcher die Regierung der Föderativen Republik Brasilien ihre Zustimmung zu den besagten Massnahmen kundtut, in Kraft.
+
+Ich beehre mich vorzuschlagen, dass die vorliegende Kommunikation und die Bestätigungskommunikation Ihrer Exzellenz eine gegenseitige Vereinbarung zur Aufhebung der Visumpflicht für Staatsangehörige beider Parteien bilden.
+
+Die vorliegende Kommunikation wird Ihrer Exzellenz in französischer, portugiesischer und englischer Sprache überreicht, wobei jeder Wortlaut geleichermassen authentisch ist. Bei Meinungsverschiedenheiten über die Auslegung der vorliegenden Kommunikation wird die englische Version verwendet.»
+
+Ich beehre mich, zu informieren, dass die Regierung der Föderativen Republik Brasilien mit dem vorstehenden Vorschlag einverstanden ist, und zu bestätigen, dass die vorliegende Kommunikation sowie die Kommunikation Ihrer Exzellenz vom 21. April 2015 eine gegenseitige Vereinbarung zur Aufhebung der Visumpflicht für Staatsangehörige beider Parteien bilden. Diese Vereinbarung tritt 30 Tage nach Empfang der vorliegenden Kommunikation in Kraft.
+
+Die vorliegende Kommunikation wird Ihrer Exzellenz in portugiesischer, französischer und englischer Sprache überreicht, wobei jeder Wortlaut geleichermassen authentisch ist. Bei Meinungsverschiedenheiten über die Auslegung der vorliegenden Kommunikation wird die englische Version verwendet.
+
+Bitte genehmigen Sie, Exzellenz, die Versicherung meiner vorzüglichen Hochachtung.
