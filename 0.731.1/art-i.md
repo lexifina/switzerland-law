@@ -1,0 +1,5 @@
+# Art. I Gründung der Organisation
+
+  - A. Die Vertragsparteien dieser Satzung gründen hiermit die Internationale Organisation für erneuerbare Energien (im Folgenden als «Organisation» bezeichnet) nach Massgabe der folgenden Bestimmungen.
+
+  - B. Die Organisation beruht auf dem Grundsatz der Gleichheit aller ihrer Mitglieder und achtet bei der Durchführung ihrer Tätigkeit in gebührender Weise die Hoheitsrechte und Zuständigkeiten ihrer Mitglieder.

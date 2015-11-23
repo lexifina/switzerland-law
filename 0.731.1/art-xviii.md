@@ -1,0 +1,3 @@
+# Art. XVIII Sitz der Organisation
+
+Der Sitz der Organisation wird von der Versammlung auf ihrer ersten Tagung festgelegt.

@@ -1,0 +1,11 @@
+# Art. VIII Organe
+
+  - A. Hiermit werden die folgenden Hauptorgane der Organisation eingesetzt:
+
+    - 1. die Versammlung;
+
+    - 2. der Rat; und
+
+    - 3. das Sekretariat.
+
+  - B. Die Versammlung und, vorbehaltlich der Genehmigung durch die Versammlung, der Rat können die Nebenorgane einsetzen, die sie zur Wahrnehmung ihrer Aufgaben nach dieser Satzung für notwendig erachten.
