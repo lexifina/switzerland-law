@@ -1,0 +1,13 @@
+# Präambel
+
+Die gehörig bevollmächtigten Vertreter der Regierung Seiner Majestät des Königs der Belgier, der Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland, der Regierung von Kanada, der Regierung des Australischen Commonwealth, der Regierung von Neuseeland, der Regierung der Südafrikanischen Union, der Regierung von Indien, der Regierung der Französischen Republik, der Regierung Seiner Majestät des Königs der Hellenen, der Regierung Seiner Majestät des Königs von Italien, der Regierung Seiner Majestät des Kaisers von Japan, der Regierung der Polnischen Republik, der Regierung der Portugiesischen Republik, der Regierung Seiner Majestät des Königs von Rumänien, der Regierung der Schweizerischen Eidgenossenschaft, der Regierung Seiner Majestät des Königs von Jugoslawien
+
+sind in der Erwägung,
+
+dass ihre jeweiligen Regierungen (mit Ausnahme der Regierung der Schweizerischen Eidgenossenschaft), gemäss Artikel X Absatz 2 der am 20. Januar 1930 in Den Haag unterzeichneten und ordnungsgemäss in Kraft getretenen Vereinbarung mit Deutschland, der Bank für Internationalen Zahlungsausgleich, deren Errichtung im Plan der Sachverständigen vom 7. Juni 1929 vorgesehen worden war, gewisse Immunitäten hinsichtlich der Vermögenswerte und Guthaben der Bank sowie bezüglich derjenigen, die ihr späterhin anvertraut werden, eingeräumt haben;
+
+dass sich die Regierung der Schweizerischen Eidgenossenschaft durch ein gleichzeitig in Den Haag unterzeichnetes Abkommen, das in der Schweiz Gesetzeskraft erlangt hat, gegenüber den Regierungen Deutschlands, Belgiens, Frankreichs, des Vereinigten Königreichs von Grossbritannien und Nordirland, Italiens und Japans verpflichtet hat, der genannten Bank für Internationalen Zahlungsausgleich für den Fall ihrer Errichtung in Basel ein Grundgesetz zu gewähren, das der Bank gemäss Artikel X Immunitäten einräumt, die den in Artikel X Absatz 2 der Vereinbarung mit Deutschland vorgesehenen Immunitäten gleichartig sind;
+
+dass es mit Rücksicht darauf, dass Artikel X Absatz 2 der Vereinbarung mit Deutschland und Artikel X des auf Grund des Abkommens mit der Schweizerischen Eidgenossenschaft erlassenen Grundgesetzes die Absicht der Vertragschliessenden Parteien nur unvollkommen zum Ausdruck bringen und möglicherweise zu Auslegungsschwierigkeiten Anlass geben, von Wichtigkeit ist, die Tragweite der genannten Artikel genauer zu bestimmen und an die Stelle der verwendeten Ausdrucksweise Ausdrücke treten zu lassen, die klarer sind und in höherem Masse geeignet, den Geschäften der Bank für Internationalen Zahlungsausgleich die für die Erfüllung ihrer Aufgaben unerlässlichen Immunitäten zu garantieren;
+
+über folgende Bestimmungen übereingekommen:
