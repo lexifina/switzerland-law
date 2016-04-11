@@ -1,0 +1,9 @@
+# Art. VI Struktur der EUTELSAT
+
+  - a) Die EUTELSAT hat folgende Organe:
+
+    - i) die Versammlung der Vertragsparteien;
+
+    - ii) das Sekretariat unter der Leitung des geschäftsführenden Sekretärs.
+
+  - b) Jedes Organ handelt im Rahmen der Befugnisse, die ihm durch das Übereinkommen übertragen sind.

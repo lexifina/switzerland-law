@@ -1,0 +1,7 @@
+# Art. XII Sitz, Vorrechte, Befreiungen und Immunitäten der EUTELSAT
+
+  - a) Sitz der EUTELSAT ist Frankreich.
+
+  - b) Im Rahmen der nach dem Übereinkommen zulässigen Tätigkeiten sind die EUTELSAT und ihre Vermögenswerte im Hoheitsgebiet aller Vertragsparteien von Einkommensteuern und direkten Vermögensteuern sowie von Zöllen befreit.
+
+  - c) Jede Vertragspartei gewährt gemäss dem unter diesem Buchstaben genannten Protokoll der EUTELSAT, ihren Funktionären und den in diesem Protokoll aufgeführten Angestelltenkategorien, den Vertragsparteien und ihren Vertretern sowie den an Schiedsverfahren beteiligten Personen die erforderlichen Vorrechte, Befreiungen und Immunitäten. Insbesondere gewährt jede Vertragspartei diesen Personen in den Grenzen und in den Fällen, wie sie in dem unter diesem Buchstaben genannten Protokoll vorgesehen sind, Immunität von Gerichtsverfahren in Bezug auf die in Ausübung ihrer Tätigkeit und im Rahmen ihres Aufgabenbereichs begangenen Handlungen und abgegebenen schriftlichen und mündlichen Äusserungen. Die Vertragspartei, in deren Hoheitsgebiet sich der Sitz der EUTELSAT befindet, handelt so bald wie möglich mit der EUTELSAT ein Sitzabkommen – oder gegebenenfalls eine Erneuerung des Sitzabkommens – über die Vorrechte, Befreiungen und Immunitäten aus. Die übrigen Vertragsparteien schliessen ebenfalls so bald wie möglich ein Protokoll über Vorrechte, Befreiungen und Immunitäten. Das Sitzabkommen und das Protokoll regeln jeweils die Voraussetzungen für ihr Ausserkrafttreten, sie sind von dem Übereinkommen unabhängig.
