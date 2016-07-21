@@ -1,0 +1,3 @@
+# Art. VI
+
+Dieses Protokoll bedarf der Ratifizierung. Die Ratifikationsurkunden sind beim Generalsekretär der Vereinten Nationen zu hinterlegen.

@@ -1,0 +1,3 @@
+# Art. VII
+
+Dieses Protokoll liegt zum Beitritt für alle Staaten auf, die Vertragsparteien des Übereinkommens werden. Die Beitrittsurkunden sind beim Generalsekretär der Vereinten Nationen zu hinterlegen.
