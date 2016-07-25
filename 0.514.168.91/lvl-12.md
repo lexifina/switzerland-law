@@ -1,0 +1,3 @@
+# 12. Kosten
+
+Jede Vertragspartei trägt die Kosten, die ihr aus der Anwendung des vorliegenden Abkommens anfallen, selbst.
