@@ -1,0 +1,3 @@
+# Art. I Allgemeine Verpflichtungen
+
+Die Vertragsparteien dieses Protokolls verpflichten sich, diesem Protokoll und seiner Anlage, die Bestandteil des Protokolls ist, Wirksamkeit zu verleihen. Jede Bezugnahme auf das Protokoll ist gleichzeitig eine Bezugnahme auf seine Anlage.

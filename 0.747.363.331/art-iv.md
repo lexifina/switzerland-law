@@ -1,0 +1,13 @@
+# Art. IV Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt
+
+(1) Dieses Protokoll liegt vom 1. Juni 1978 bis zum 1. März 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Vorbehältlich des Absatzes 3 können Staaten Vertragsparteien des Protokolls werden,
+
+  - a) in dem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
+
+  - b) in dem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen oder
+
+  - c) indem sie ihm beitreten.
+
+(2) Die Ratifikation, die Annahme, die Genehmigung oder der Beitritt erfolgt durch Hinterlegung einer entsprechenden Urkunde beim Generalsekretär der Organisation.
+
+(3) Nur Staaten, die das Übereinkommen ohne Vorbehalt unterzeichnet oder ratifiziert, angenommen oder genehmigt haben oder ihm beigetreten sind, können dieses Protokoll ohne Vorbehalt unterzeichnen oder ratifizieren, annehmen oder genehmigen oder ihm beitreten.
