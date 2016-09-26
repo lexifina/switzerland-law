@@ -1,0 +1,3 @@
+# Art. IV
+
+Keine Bestimmung dieses Vertrags darf so ausgelegt werden, als stütze oder beeinträchtige sie die Stellung eines Vertragsstaats im Hinblick auf bestehende internationale Übereinkommen, einschliesslich des Abkommens von 1958 über das Küstenmeer und die Anschlusszone, oder im Hinblick auf Rechte oder Ansprüche, die ein solcher Vertragsstaat geltend machen könnte, oder im Hinblick auf Anerkennung oder Nichtanerkennung von Rechten oder Ansprüchen, die ein anderer Staat bezüglich der Gewässer vor seinen Küsten geltend macht; dies gilt unter anderem auch für Küstenmeere und Anschlusszonen oder den Meeresboden, Festlandsockel eingeschlossen.

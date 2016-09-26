@@ -1,0 +1,3 @@
+# Art. VIII
+
+Jeder Vertragsstaat ist in Ausübung seiner staatlichen Souveränität berechtigt, diesen Vertrag für sich zu kündigen, wenn er entscheidet, dass durch aussergewöhnliche, mit dem Inhalt dieses Vertrags zusammenhängende Ereignisse eine Gefährdung der höchsten Interessen seines Landes eingetreten ist. Er teilt die Kündigung mit einer Frist von drei Monaten allen anderen Vertragsstaaten sowie dem Sicherheitsrat der Vereinten Nationen mit. Diese Mitteilung hat eine Darlegung der aussergewöhnlichen Ereignisse zu enthalten, durch die seiner Ansicht nach eine Gefährdung seiner höchsten Interessen eingetreten ist.
