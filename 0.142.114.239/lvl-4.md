@@ -1,0 +1,3 @@
+# 4. Datenschutz
+
+Personendaten dürfen nur für die Umsetzung der vorliegenden Vereinbarung durch die zuständigen Behörden und einzig für den in dieser Vereinbarung vorgesehenen Zweck verwendet werden. Auf Ersuchen wird die betroffene Person von der zuständigen Behörde darüber informiert, welche Daten über sie bestehen und wozu sie verwendet werden. Die Weitergabe von Personendaten an Dritte ist ohne Zustimmung der zuständigen Behörde, welche die Informationen bereitgestellt hat, untersagt. Die nationale Datenschutzgesetzgebung jeder Seite bleibt für die Bearbeitung von Personendaten und für die Rechte der betroffenen Personen anwendbar.
