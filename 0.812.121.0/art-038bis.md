@@ -1,0 +1,3 @@
+# Art. 38bis Vereinbarungen zur Schaffung von regionalen Zentren
+
+Wenn eine Vertragspartei es für ihre Bekämpfung des unerlaubten Verkehrs mit Betäubungsmitteln und unter Berücksichtigung ihrer Verfassungs-, Rechts- und Verwaltungsordnung als wünschenswert erachtet, bemüht sie sich in Konsultation mit den anderen interessierten Vertragsparteien der Region um den Abschluss von Vereinbarungen zur Errichtung von Regionalzentren für die wissenschaftliche Forschung und die Erziehung im Hinblick auf die Lösung der sich aus der unerlaubten Verwendung der Betäubungsmittel und dem unerlaubten Verkehr damit ergebenden Probleme, wobei sie je nach Wunsch die technischen Ansichten des Organs oder der spezialisierten Institutionen einholt.
