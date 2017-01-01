@@ -14,4 +14,8 @@
 
   - ii) dass Einzelheiten der Versendung zum Zeitpunkt der Aufgabe vom Zustelldienst eingetragen worden sind.
 
-3) [Einschränkung der Entschuldigung] Ein Fristversäumnis wird nach dieser Regel nur entschuldigt, wenn der in Absatz 1 oder 2 bezeichnete Nachweis und die Mitteilung oder ein Duplikat davon innerhalb von sechs Monaten nach Fristablauf beim Internationalen Büro eingehen.
+3) [Auf elektronischem Weg übersandte Mitteilungen] Versäumt ein Beteiligter, die Frist für eine Mitteilung, die an das Internationale Büro gerichtet ist und auf elektronischem Weg übersandt wird, einzuhalten, so wird dies entschuldigt, wenn der Beteiligte gegenüber dem Internationalen Büro überzeugend beweist, dass die Frist wegen eines Ausfalls der elektronischen Kommunikation mit dem Internationalen Büro oder in Bezug auf den Standort des Beteiligten aufgrund von ausserordentlichen, vom Willen des Beteiligten unabhängigen Umständen nicht eingehalten wurde und dass die Mitteilung innerhalb von fünf Tagen nach Wiederaufnahme der elektronischen Kommunikation erfolgt ist.
+
+4) [Einschränkung der Entschuldigung] Ein Fristversäumnis wird nach dieser Regel nur entschuldigt, wenn der in Absatz 1), 2) oder 3) bezeichnete Nachweis und die Mitteilung oder gegebenenfalls ein Duplikat davon innerhalb von sechs Monaten nach Fristablauf beim Internationalen Büro eingehen.
+
+5) [Ausnahme] Diese Regel ist nicht auf die Bezahlung des zweiten Teilbetrags der individuellen Bestimmungsgebühr über das Internationale Büro nach Regel 12 Absatz 3 Buchstabe c anwendbar.
