@@ -1,0 +1,3 @@
+# Art. 14a Einreichungsdatum bei Postsendungen
+
+Als Einreichungsdatum gilt bei Postsendungen der Zeitpunkt, in dem eine Sendung der Schweizerischen Post zuhanden des IGE übergeben wird.
