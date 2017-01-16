@@ -1,0 +1,7 @@
+# Art. XI Rechte und Pflichten der Vertragsparteien
+
+a. Die Vertragsparteien werden ihre Rechte und Pflichten auf Grund dieses Übereinkommens so ausüben und erfüllen, dass die in seiner Präambel, den Kerngrundsätzen nach Artikel III und seinen sonstigen Bestimmungen niedergelegten Grundsätze voll gewahrt und gefördert werden.
+
+b. Alle Vertragsparteien dürfen auf allen Konferenzen und Tagungen, auf denen sie nach einer Bestimmung dieses Übereinkommens vertreten zu sein befugt sind sowie auf jeder sonstigen unter der Schirmherrschaft der ITSO einberufenen oder abgehaltenen Tagung im Einklang mit den von der ITSO für diese Tagungen getroffenen Regelungen und unabhängig vom Tagungsort anwesend sein und an den Arbeiten teilnehmen. Das geschäftsführende Organ sorgt dafür, dass die Vereinbarungen mit der gastgebenden Vertragspartei für jede Konferenz oder Tagung eine Bestimmung umfassen, die den Vertretern aller zur Teilnahme berechtigten Vertragsparteien die Einreise in das Gastland und den Aufenthalt während der Dauer der Konferenz oder Tagung gestattet.
+
+c. Alle Vertragsparteien veranlassen in transparenter, nichtdiskriminierender und wettbewerbshinsichtlich neutraler Weise die nach geltendem nationalem Verfahren und einschlägigen internationalen Übereinkommen, denen sie beigetreten sind, erforderlichen Massnahmen, um dem Unternehmen die Einhaltung der Kerngrundsätze zu ermöglichen.
