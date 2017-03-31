@@ -1,0 +1,3 @@
+# Art. XV
+
+Anstände, die sich zwischen den Vertragsstaaten über die Auslegung oder Anwendung des Übereinkommens ergeben sollten, sind dem Ständigen Internationalen Gerichtshof zur Entscheidung vorzulegen, sofern sie nicht durch unmittelbare Verhandlungen erledigt werden können. Sollten die Vertragsparteien, unter denen ein solcher Anstand besteht, oder eine derselben das Unterzeichnungsprotokoll des Ständigen Internationalen Gerichtshofes nicht unterzeichnet oder angenommen haben, so ist der Anstand nach Gutfinden der Parteien entweder dem Ständigen Internationalen Gerichtshof oder einem Schiedsgericht zu unterbreiten.
