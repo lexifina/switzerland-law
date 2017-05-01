@@ -1,0 +1,7 @@
+# Art. 32b Einsprache
+
+1 Verfügungen des BLV können mit Einsprache angefochten werden.
+
+2 Der Einsprache kann die aufschiebende Wirkung entzogen werden.
+
+3 Die Einsprachefrist beträgt 10 Tage.
