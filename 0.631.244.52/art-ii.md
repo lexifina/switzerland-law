@@ -1,0 +1,5 @@
+# Art. II Einfuhrzollfreiheit für Muster von geringem Wert
+
+1. Jede Vertragspartei gewährt für die in ihr Gebiet eingeführten Muster von Waren aller Art Zollfreiheit, wenn der Wert der Muster nur gering ist und sie nur zur Aufnahme von Bestellungen für Waren der bemusterten Art zwecks Einfuhr Verwendung finden können. Bei der Entscheidung, ob der Wert der Muster gering ist oder nicht, können die Zollbehörden des Einfuhrgebietes den Wert jedes einzelnen Musters oder den Gesamtwert aller zu einer Sendung gehörenden Muster in Betracht ziehen. Der Wert mehrerer vom selben Absender an verschiedene Empfänger gerichteten Sendungen darf bei Anwendung dieses Abschnittes nicht zusammen erfasst werden, auch wenn die verschiedenen Sendungen gleichzeitig eingeführt werden.
+
+2. Die Zollbehörden des Einfuhrgebietes können verlangen, dass die Muster, um auf Grund von Abschnitt 1 dieses Artikels in den Genuss der Zollfreiheit zu kommen, durch Markierung, Zerreissen, Durchlochen oder auf andere Weise als Handelsware unbrauchbar gemacht werden, jedoch ohne dass sie dadurch ihres Musterwertes beraubt werden.

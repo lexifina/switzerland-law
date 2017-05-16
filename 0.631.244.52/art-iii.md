@@ -1,0 +1,23 @@
+# Art. III Vorübergehende zollfreie Zulassung anderer Muster
+
+1. Bei Anwendung dieses Artikels sind unter «Mustern» Artikel zu verstehen, die eine bestimmte Gattung von Waren verkörpern, welche bereits erzeugt sind oder Modelle von Waren, deren Fabrikation in Aussicht genommen ist, vorausgesetzt,
+
+  - a. dass sie einer im Auslande ansässigen Person gehören und ausschliesslich eingeführt werden, um im Einfuhrgebiet zwecks Aufnahme von Bestellungen auf Waren gezeigt oder vorgeführt zu werden, die aus dem Auslande eingeführt werden sollen,
+
+  - b. dass sie, solange sie sich im Einfuhrgebiet befinden.. weder verkauft, noch, ausser zu Vorführungszwecken, zu ihrem normalen Gebrauch oder auf irgendeine Weise vermietet oder gegen Entschädigung verwendet werden;
+
+  - c. dass sie zur Wiederausfuhr innert nützlicher Frist bestimmt sind und
+
+  - d. dass sie sich bei ihrer Wiederausfuhr wieder erkennen lassen.
+
+Dabei sind gleiche Artikel ausgeschlossen, die von derselben Person in solchen Mengen eingeführt oder an denselben Empfänger spediert werden, dass sie in ihrer Gesamtheit nach normalem Handelsgebrauch nicht mehr als Muster bezeichnet werden können.
+
+2. Die einfuhrzollpflichtigen Muster, die von im Gebiete irgendeiner Vertragspartei ansässigen Personen mit oder ohne Zutun eines Handelsreisenden aus dem Gebiete einer Vertragspartei eingeführt werden, werden im Gebiete jeder Vertragspartei zur vorübergehenden Einfuhr zollfrei zugelassen, wenn der Betrag des Einfuhrzolles und alle übrigen gegebenenfalls zu erhebenden Beträge hinterlegt oder ihre etwaige Zahlung durch Bürgschaftsverpflichtung sichergestellt wird. Die hinterlegten Beträge (mit Ausnahme der gemäss Artikel VI dieses Abkommens möglicherweise zu erhebenden) dürfen jedoch den um zehn Prozent erhöhten Betrag des Einfuhrzolles nicht überschreiten.
+
+3. Um in den Genuss der in diesem Artikel vorgesehenen Erleichterungen zu kommen, müssen die in Betracht kommenden Personen sich den von den Behörden des Einfuhrlandes in diesem Zusammenhang erlassenen Gesetzen und Reglementen und den in diesem Gebiete zu Recht bestehenden Zollformalitäten unterziehen. Was Industrie‑ und Landwirtschaftsmaterial und Transportfahrzeuge anbetrifft, deren Verzollungswert 1000 USA‑Dollar (oder den Gegenwert in anderer Währung) übersteigt, können die Importeure zur Angabe des Bestimmungsortes dieses Materials bzw. dieser Fahrzeuge verpflichtet werden; sie können von den Zollbehörden des Einfuhrlandes überdies ersucht werden, jederzeit nachzuweisen, dass sich dieses Material bzw. diese Fahrzeuge am angegebenen Orte befinden. Die Zollbehörden des Einfuhrlandes können während der für die vorübergehende zollfreie Einfuhr festgesetzten Frist dieses Material bzw. diese Fahrzeuge plombieren oder sie auf andere Weise am Funktionieren hindern und die Orte begrenzen, wo sie zwecks Vorführung funktionieren dürfen.
+
+4. Im allgemeinen werden die Zollbehörden des Einfuhrlandes die von den Zollbehörden einer Vertragspartei zwecks späterer Wiedererkennung der Muster daran angebrachten Kennzeichen als genügend betrachten, wenn diese Muster von einer beschreibenden Aufstellung begleitet sind, die von den Zollbehörden jener Vertragspartei beglaubigt ist. Zusätzliche Kennzeichen sind an den Mustern nur dann anzubringen, wenn die Zollbehörden des Einfuhrlandes dies zur Wiedererkennung der Muster bei ihrer Wiederausfuhr als notwendig erachten. Durch die an den Mustern angebrachten Kennzeichen dürfen die Muster nicht unbrauchbar werden.
+
+5. Die für die Wiederausfuhr der nach diesem Artikel einfuhrzollfreien Muster angesetzte Frist darf nicht kürzer als sechs Monate sein. Nach Ablauf der zur Wiederausfuhr eingeräumten Frist können der Einfuhrzoll und die anderen möglicherweise geschuldeten Beträge auf den nicht wieder ausgeführten Mustern erhoben werden. Desgleichen können sie ohne Rücksicht auf den Ablauf dieser Frist auf Mustern erhoben werden, die den im Abschnitt 1 dieses Artikels festgesetzten Bedingungen nicht mehr genügen.
+
+6. Bei der fristgemässen Wiederausfuhr der Muster, welche auf Grund der in diesem Artikel gestellten Bedingungen eingeführt wurden, sind die bei ihrer Einfuhr gemäss Abschnitt 2 dieses Artikels hinterlegten Beträge und bestellten Sicherheiten von einem dazu ermächtigten Zollamt an der Grenze oder im Innern des Gebietes unverzüglich zurückzuerstatten, gegebenenfalls unter Abzug des Zolles und anderer Beträge für nicht zur Wiederausfuhr deklarierte Muster. Unter gewissen besonderen Umständen können die Hinterlagen auf andere Weise zurückerstattet werden, wenn diese Rückerstattung rasch erfolgt. Jede Vertragspartei hat eine Liste der hiezu ermächtigten Zollämter zu veröffentlichen.
