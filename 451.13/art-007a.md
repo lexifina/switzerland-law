@@ -1,0 +1,5 @@
+# Art. 7a Behebung von Beeinträchtigungen
+
+1 Die zuständigen Behörden prüfen bei jeder sich bietenden Gelegenheit, inwieweit bestehende Beeinträchtigungen vermindert oder behoben werden können.
+
+2 Dabei bleiben der Bestand und die Nutzung von rechtmässig erstellten Bauten und Anlagen gewährleistet.
