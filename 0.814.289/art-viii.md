@@ -1,0 +1,5 @@
+# Art. VIII
+
+1. Jede Streitigkeit zwischen den Vertragsparteien darüber, ob nach Artikel I getroffene Massnahmen gegen dieses Übereinkommen verstossen haben, ob nach Artikel VI eine Entschädigung zu zahlen ist und wie hoch diese Entschädigung sein muss, wird, sofern eine Beilegung durch Verhandlungen zwischen den beteiligten Vertragsparteien oder zwischen der Vertragspartei, welche die Massnahmen getroffen hat, und den ansprucherhebenden natürlichen oder juristischen Personen nicht möglich war und sofern die Vertragsparteien nicht etwas anderes vereinbaren, auf Antrag einer der betroffenen Vertragsparteien einem Vergleichsverfahren oder, wenn der Vergleich scheitert, einem Schiedsverfahren nach Massgabe der Anlage zu diesem Übereinkommen unterworfen.
+
+2. Die Vertragspartei, welche die Massnahmen getroffen hat, ist nicht berechtigt, den Antrag auf Vergleichs‑ oder Schiedsverfahren nach Absatz 1 lediglich deshalb abzulehnen, weil nicht alle innerstaatlichen Rechtsmittel vor den eigenen Gerichten erschöpft sind.
