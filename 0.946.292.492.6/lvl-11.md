@@ -1,0 +1,3 @@
+# 11. Verbote und Beschränkungen der Einfuhr, Ausfuhr oder Durchfuhr von Waren
+
+Die Bestimmungen dieses Abkommens stehen Verboten und Beschränkungen der Einfuhr, Ausfuhr oder Durchfuhr von Waren nicht entgegen, die von den Vertragsparteien aus Gründen der öffentlichen Sittlichkeit, öffentlichen Ordnung und Sicherheit, des Schutzes der Gesundheit und des Lebens von Menschen, Tieren oder Pflanzen oder der Umwelt, des nationalen Kulturguts von künstlerischem, geschichtlichem oder archäologischem Wert und des gewerblichen und kommerziellen Eigentums gerechtfertigt sind.
