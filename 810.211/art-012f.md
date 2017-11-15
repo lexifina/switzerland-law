@@ -1,0 +1,9 @@
+# Art. 12f Sonderfälle der Kostentragung
+
+1 Wer einer lebenden Person in der Schweiz ein Organ entnimmt, das für eine Empfängerin oder einen Empfänger bestimmt ist, die oder der bei einem ausländischen Versicherer versichert ist, hat sicherzustellen, dass dieser Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt oder dafür eine Kostengutsprache leistet.
+
+2 Werden einer lebenden Person in der Schweiz Blut-Stammzellen für eine Empfängerin oder einen Empfänger im Ausland entnommen, so fordert die Lebendspende-Nachsorgestelle die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders beim ausländischen Stammzellenregister oder bei der ausländischen Lebendspende-Nachsorgestelle ein und überweist die erhaltenen finanziellen Mittel dem Lebendspende-Nachsorgefonds.
+
+3 Stellt ein anderes Land die Nachverfolgung des Gesundheitszustands der spendenden Person sicher und ist die Empfängerin oder der Empfänger in der Schweiz der obligatorischen Krankenpflegeversicherung unterstellt, so entspricht die Pauschale den von diesem Land für die Nachverfolgung des Gesundheitszustands ausgewiesenen Kosten, höchstens aber dem Betrag für die Pauschale nach Anhang 3.
+
+4 Erfolgt eine Überkreuz-Lebendspende zwischen einem inkompatiblen Paar in der Schweiz und einem inkompatiblen Paar im Ausland und stellt eine ausländische Stelle die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders des ausländischen Paars sicher, so entrichtet der Versicherer der Schweizer Empfängerin oder des Schweizer Empfängers die Pauschale für die Nachverfolgung des Gesundheitszustands der spendenden Person, die mit dieser Empfängerin oder diesem Empfänger ein inkompatibles Paar bildet.
