@@ -1,0 +1,3 @@
+# Art. 4.7 Zusätzliche Verpflichtungen
+
+Zusätzliche Verpflichtungen richten sich nach Artikel XVIII GATS, der hiermit zum Bestandteil dieses Kapitels erklärt wird.

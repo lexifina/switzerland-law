@@ -1,0 +1,5 @@
+# Art. 6.3 Weitere Verhandlungen
+
+1. Nach Abschluss der bilateralen Verhandlungen zwischen den Vertragsparteien über die weitere Liberalisierung ihrer öffentlichen Beschaffungsmärkte im Rahmen der Verhandlungen zur Revision des GPA wird diese Liberalisierung in dieses Abkommen übernommen, einschliesslich der Bestimmungen des Abkommens über die Änderungen des Hauptteils des GPA, sofern diese für die zusätzliche Liberalisierung relevant sind. Der Gemischte Ausschuss fällt innerhalb von drei Monaten nach Abschluss der bilateralen Verhandlungen einen entsprechenden Beschluss. Dieser Beschluss untersteht der Ratifizierung oder Annahme durch die Vertragsparteien.
+
+2. Gewährt eine Vertragspartei nach Inkrafttreten dieses Abkommens einer Nichtvertragspartei zusätzliche Vorteile für den Zugang zu ihren öffentlichen Beschaffungsmärkten, so erklärt sie sich einverstanden, mit einer anderen Vertragspartei Verhandlungen über die mögliche Ausdehnung dieser Vorteile auf der Grundlage der Gegenseitigkeit aufzunehmen.

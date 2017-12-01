@@ -1,0 +1,5 @@
+# Art. 2.9 Subventionen und Ausgleichsmassnahmen
+
+1. Unter Vorbehalt von Absatz 2 richten sich die Rechte und Pflichten der Vertragsparteien in Bezug auf Subventionen und Ausgleichsmassnahmen nach den Artikeln VI und XVI des GATT 1994 und nach dem WTO-Übereinkommen über Subventionen und Ausgleichsmassnahmen.
+
+2. Bevor ein EFTA-Staat oder Korea eine Untersuchung einleitet mit dem Ziel, das Vorliegen, die Höhe und die Auswirkungen einer angeblichen Subvention in einem EFTA-Staat oder Korea entsprechend den Bestimmungen von Artikel 11 des Übereinkommens über Subventionen und Ausgleichsmassnahmen festzustellen, muss die Vertragspartei, welche eine Untersuchung einleiten will, diejenige Vertragspartei, deren Waren untersucht werden sollen, schriftlich benachrichtigen und ihr eine Frist von 30 Tagen gewähren, um eine beiderseits annehmbare Lösung zu finden. Die Konsultationen finden im Rahmen des Gemischten Ausschusses statt, falls eine der Vertragsparteien dies innerhalb von zehn Tagen nach Empfang der Notifikation verlangt.

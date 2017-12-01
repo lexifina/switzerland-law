@@ -1,0 +1,5 @@
+# Art. 3.1 Geltungsbereich
+
+1. Dieses Kapitel findet Anwendung auf Massnahmen zentraler, regionaler oder lokaler Regierungen und Behörden sowie auf die Massnahmen nichtstaatlicher Stellen, die in Ausübung der ihnen von zentralen, regionalen oder lokalen Regierungen oder Behörden übertragenen Befugnisse handeln. Es gilt, vorbehaltlich der Ausnahmen nach Artikel 4.1, für Massnahmen in allen Dienstleistungssektoren. Es gilt nicht für Massnahmen, welche Luftverkehrsrechte oder Dienstleistungen betreffen, die unmittelbar mit der Ausübung von Luftverkehrsrechten zusammenhängen, vorbehaltlich der Bestimmungen von Absatz 3 des GATS-Anhangs über Luftverkehrsdienstleistungen.
+
+2. Die Artikel 3.4, 3.5 und 3.6 finden keine Anwendung auf Gesetze, Vorschriften oder Anforderungen bei der öffentlichen Beschaffung von Dienstleistungen, die von Behördenstellen für staatliche Zwecke und nicht für den kommerziellen Wiederverkauf oder den Einsatz in der Bereitstellung von Dienstleistungen für den kommerziellen Verkauf erworben werden.
