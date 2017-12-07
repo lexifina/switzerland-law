@@ -1,0 +1,7 @@
+# Art. 11bis Benützungsgebühren
+
+1. Jede Vertragspartei stellt nach besten Kräften sicher, dass Benützungsgebühren, die den bezeichneten Luftverkehrsunternehmen der anderen Vertragspartei von ihren zuständigen Behörden auferlegt werden oder zur Erhebung zugelassen werden, gerecht und vernünftig sind. Diese Gebühren beruhen auf gesunden Wirtschaftlichkeitsgrundsätzen und dürfen nicht höher sein als diejenigen, die von anderen Luftverkehrsunternehmen für solche Dienste bezahlt werden.
+
+2. Keine Vertragspartei räumt ihren eigenen oder irgendwelchen anderen Luftverkehrsunternehmen, die gleichartige internationale Luftverkehrslinien betreiben, bezüglich Benützungsgebühren eine Vorzugsstellung ein und auferlegt den bezeichneten Luftverkehrsunternehmen der anderen Vertragspartei höhere Benützungsgebühren oder lässt solche zu als diejenigen, welche sie ihren eigenen bezeichneten Luftverkehrsunternehmen belastet, welche vergleichbare internationale Luftverkehrslinien betreiben, vergleichbare Luftfahrzeuge einsetzen und damit verbundene Einrichtungen und Dienste beanspruchen.
+
+3. Jede Vertragspartei fördert Beratungen zwischen ihren für Gebühren zuständigen Stellen und den bezeichneten Luftverkehrsunternehmen, welche die Dienstleistungen und Einrichtungen in Anspruch nehmen. Diesen Benutzern ist möglichst rechtzeitig jeder Änderungsvorschlag betreffend Benutzungsgebühren zur Kenntnis zu bringen, zusammen mit entsprechenden unterstützenden Informationen und Daten, um ihnen zu ermöglichen, ihre Ansichten vor der Umsetzung der Änderungen bekannt zu geben.
