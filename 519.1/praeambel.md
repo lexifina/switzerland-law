@@ -1,0 +1,7 @@
+# Präambel
+
+Der Schweizerische Bundesrat,
+
+gestützt auf Artikel 37 Absatz 1 des Bundespersonalgesetzes vom 24. März 2000 (BPG) und auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995 (MG),
+
+verordnet:
