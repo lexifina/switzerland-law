@@ -1,7 +1,5 @@
 # Art. 264a
 
-1 Ehegatten können nur gemeinschaftlich adoptieren; anderen Personen ist die gemeinschaftliche Adoption nicht gestattet.
+1 Ehegatten dürfen ein Kind gemeinschaftlich adoptieren, wenn sie seit mindestens drei Jahren einen gemeinsamen Haushalt führen und beide mindestens 28 Jahre alt sind.
 
-2 Die Ehegatten müssen 5 Jahre verheiratet sein oder das 35. Altersjahr zurückgelegt haben.
-
-3 Eine Person darf das Kind ihres Ehegatten adoptieren, wenn die Ehegatten seit mindestens fünf Jahren verheiratet sind.
+2 Vom Mindestalter kann abgewichen werden, wenn dies zur Wahrung des Kindeswohls nötig ist. Die Ehegatten haben die Abweichung zu begründen.

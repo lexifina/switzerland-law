@@ -1,7 +1,7 @@
 # Art. 268c
 
-1 Hat das Kind das 18. Lebensjahr vollendet, so kann es jederzeit Auskunft über die Personalien seiner leiblichen Eltern verlangen; vorher kann es Auskunft verlangen, wenn es ein schutzwürdiges Interesse hat.
+1 Die Adoptiveltern haben das Kind entsprechend seinem Alter und seiner Reife über die Tatsache seiner Adoption in Kenntnis zu setzen.
 
-2 Bevor die Behörde oder Stelle, welche über die gewünschten Angaben verfügt, Auskunft erteilt, informiert sie wenn möglich die leiblichen Eltern. Lehnen diese den persönlichen Kontakt ab, so ist das Kind darüber zu informieren und auf die Persönlichkeitsrechte der leiblichen Eltern aufmerksam zu machen.
+2 Das minderjährige Kind hat Anspruch auf Auskunft über seine leiblichen Eltern, soweit dadurch keine Rückschlüsse auf deren Identität möglich sind. Identifizierende Informationen erhält es nur, wenn es ein schutzwürdiges Interesse nachweisen kann.
 
-3 Die Kantone bezeichnen eine geeignete Stelle, welche das Kind auf Wunsch beratend unterstützt.
+3 Das volljährige Kind kann jederzeit verlangen, dass ihm die Personalien seiner leiblichen Eltern und weitere Informationen über diese bekannt gegeben werden. Ausserdem kann es verlangen, dass ihm Informationen über direkte Nachkommen seiner leiblichen Eltern bekannt gegeben werden, wenn die Nachkommen volljährig sind und der Bekanntgabe zugestimmt haben.
