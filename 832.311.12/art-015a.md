@@ -1,0 +1,3 @@
+# Art. 15a Besondere Bestimmungen für Taucheinsätze von Polizei- und Rettungstaucherinnen und -tauchern
+
+Bei forensischen, Rettungs-, Such- und Bergungstaucheinsätzen, namentlich dynamischen Taucheinsätzen, der Polizei- und Rettungstaucherinnen und -taucher, bei der dazugehörigen Tauchgrundausbildung, bei der Weiterbildung und bei Trainingstauchgängen der Polizei- und Rettungstaucherinnen und -taucher übernimmt eine Einsatzleiterin oder ein Einsatzleiter die Verantwortung vor Ort. Wo nichts anderes bestimmt ist, gilt bei der Vorbereitung und Durchführung von solchen Taucheinsätzen die Einsatzleiterin oder der Einsatzleiter als leitende und als fachkundige Person. Diese kann auch Teil des Tauchteams sein.
