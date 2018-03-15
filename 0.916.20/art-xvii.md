@@ -1,0 +1,7 @@
+# Art. XVII Ratifikation und Beitritt
+
+(1) Dieses Übereinkommen liegt für alle Staaten bis zum 1. Mai 1952 zur Unterzeichnung auf; es ist so bald wie möglich zu ratifizieren. Die Ratifikationsurkunden werden beim Generaldirektor der FAO hinterlegt; dieser benachrichtigt alle Unterzeichnerstaaten vom Zeitpunkt der Hinterlegung.
+
+(2) Die Staaten, welche dieses Übereinkommen nicht unterzeichnet haben, und Mitgliedsorganisationen der FAO können ihm nach seinem Inkrafttreten in Übereinstimmung mit Artikel XXII beitreten. Der Beitritt erfolgt durch Hinterlegung einer Beitrittsurkunde beim Generaldirektor der FAO; dieser benachrichtigt alle Vertragsparteien.
+
+(3) Wird eine Mitgliedsorganisation der FAO Vertragspartei dieses Übereinkommens, so notifiziert die Mitgliedsorganisation nach Artikel II Absatz 7 der Satzung der FAO zum Zeitpunkt ihres Beitritts gegebenenfalls Änderungen oder Klarstel-lungen zu ihrer nach Artikel II Absatz 5 der Satzung der FAO abgegebenen Zuständigkeitserklärung, die im Hinblick auf ihre Annahme dieses Übereinkommens notwendig sein können. Jede Vertragspartei dieses Übereinkommens kann jederzeit eine Mitgliedsorganisation der FAO, die Vertragspartei dieses Übereinkommens ist, um Auskunft ersuchen, wer von der Mitgliedsorganisation beziehungsweise ihren Mitgliedstaaten für die Durchführung bestimmter durch dieses Übereinkommen erfasster Angelegenheiten zuständig ist. Die Mitgliedsorganisation erteilt diese Auskunft innerhalb eines angemessenen Zeitraums.
