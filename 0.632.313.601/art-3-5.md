@@ -1,0 +1,3 @@
+# Art. 3.5 Weitere Liberalisierung
+
+Die Vertragsparteien verpflichten sich, ihre Bemühungen zur Erreichung einer weiteren Liberalisierung des Handels mit landwirtschaftlichen Erzeugnissen fortzuführen, wobei sie die Vereinbarungen betreffend landwirtschaftliche Verarbeitungserzeugnisse, die Struktur des Handels mit landwirtschaftlichen Erzeugnissen zwischen den Vertragsparteien, die besondere Sensitivität solcher Erzeugnisse, die Entwicklung der Landwirtschaftspolitik jeder Vertragspartei sowie die Entwicklungen in bilateralen und multilateralen Gremien berücksichtigen. Im Hinblick auf die Erreichung dieses Ziels können sich die Vertragsparteien in den Sitzungen des Gemischten Ausschusses konsultieren.

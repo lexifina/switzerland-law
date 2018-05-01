@@ -1,0 +1,11 @@
+# Art. 2.9 Technische Handelshemmnisse
+
+1. Sofern in diesem Artikel nicht anders bestimmt, ist in Bezug auf technische Vorschriften, Normen und Konformitätsbewertungen das WTO-Übereinkommen über die technischen Handelshemmnisse (nachfolgend als das «TBT-Übereinkommen» bezeichnet) anwendbar, das hiermit mutatis mutandis in dieses Abkommen übernommen und zu dessen Bestandteil erklärt wird.
+
+2. Jede Vertragspartei bezeichnet einen Kontaktpunkt, um die Kommunikation und den Informationsaustausch im Bereich technischer Handelshemmnisse zu erleichtern.
+
+3. Unbeschadet von Absatz 1 vereinbaren die Vertragsparteien die Abhaltung von technischen Konsultationen, um eine geeignete Lösung in Übereinstimmung mit dem TBT-Übereinkommen zu finden, wenn eine Vertragspartei der Ansicht ist, dass eine andere Vertragspartei eine mit dem TBT-Übereinkommen unvereinbare Massnahme getroffen hat oder erwägt. Diese Konsultationen finden innerhalb von 40 Tagen nach dem Erhalt des Gesuchs statt. Die Konsultationen finden im Gemischten Ausschuss statt, wenn eine Vertragspartei dies verlangt. Werden die Konsultationen ausserhalb des Gemischten Ausschusses durchgeführt, so wird dieser darüber informiert. Die Konsultationen können nach beliebig vereinbarter Methode durchgeführt werden.
+
+4. Die Vertragsparteien informieren sich gegenseitig im Voraus über mögliche erhebliche Änderungen bei der Behandlung, die sie der EU gewähren. Sofern zwischen der EU und jeder Vertragspartei in Bezug auf technische Vorschriften, Normen und Konformitätsbewertungen einvernehmlich eine gleichwertige Behandlung vereinbart wurde, einigen sich die Vertragsparteien ohne unangemessenen Verzug auf eine Übereinkunft zur gegenseitigen Ausweitung dieser Behandlung.
+
+5. Die Vertragsparteien informieren sich gegenseitig im Voraus über mögliche erhebliche Änderungen bei der Behandlung, die die anderen Vertragsparteien in anderen Bereichen als den in Absatz 4 genannten betreffen. Auf Ersuchen einer anderen Vertragspartei und unter Vorbehalt von Artikel 6 Absatz 1 des TBT-Übereinkommens erwägt eine Vertragspartei unverzüglich, Erzeugnissen aus der ersuchenden Vertragspartei, die die EU-Vorschriften erfüllen, eine ähnliche Behandlung wie Erzeugnissen aus der EU zu gewähren.

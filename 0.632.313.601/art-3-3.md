@@ -1,0 +1,3 @@
+# Art. 3.3 Andere Bestimmungen
+
+In Bezug auf den Handel mit landwirtschaftlichen Erzeugnissen finden mutatis mutandis die folgenden Bestimmungen von Kapitel 2 Anwendung: die Artikel 2.2. zu Ursprungsregeln und Methoden der Zusammenarbeit der Verwaltungen, 2.4 zu Ausfuhrzöllen, 2.5 zur Zollwertermittlung, 2.6. zu mengenmässigen Beschränkungen, 2.7 zu Gebühren und Formalitäten, 2.8 zu internen Steuern und Regelungen, 2.9 zu technischen Handelshemmnissen, 2.10 zur Handelserleichterung, 2.12 zu staatlichen Handelsunternehmen, 2.14 zu Antidumping, 2.15 zu allgemeinen Schutzmassnahmen, 2.16 zu vorübergehenden Schutzmassnahmen, 2.17 zu allgemeinen Ausnahmen, 2.18 zu Ausnahmen zur Wahrung der Sicherheit und 2.19 zur Zahlungsbilanz.

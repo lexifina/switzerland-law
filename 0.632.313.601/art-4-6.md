@@ -1,0 +1,3 @@
+# Art. 4.6 Zertifikate
+
+Die Vertragsparteien vereinbaren zusammenzuarbeiten, um die Zahl der SPS-Musterzertifikate möglichst gering zu halten. Werden offizielle Zertifikate verlangt, sollten sie den in den internationalen Normen festgelegten Grundsätzen entsprechen. Führt eine Vertragspartei ein Zertifikat ein oder ändert sie ein Zertifikat ab, so notifiziert sie das vorgeschlagene neue oder geänderte Zertifikat so früh wie möglich den anderen Vertragsparteien in englischer Sprache. Die Vertragspartei gibt für das neue oder geänderte Zertifikat die sachbezogene Grundlage und Rechtfertigung an. Der ausführenden Vertragspartei ist genügend Zeit zur Anpassung an die neuen Anforderungen einzuräumen.
