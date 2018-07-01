@@ -1,0 +1,29 @@
+# Art. 53b Stellenmeldung und Informationsbeschränkung
+
+1 Die Arbeitgeber müssen offene Stellen in den Berufsarten nach Artikel 53a Absatz 1 der für sie örtlich zuständigen Stelle der öffentlichen Arbeitsvermittlung melden.
+
+2 Sie müssen die folgenden Angaben übermitteln:
+
+  - a. gesuchter Beruf;
+
+  - b. Tätigkeit, einschliesslich spezieller Anforderungen;
+
+  - c. Arbeitsort;
+
+  - d. Arbeitspensum;
+
+  - e. Datum des Stellenantritts;
+
+  - f. Art des Arbeitsverhältnisses: befristet oder unbefristet;
+
+  - g. Kontaktadresse;
+
+  - h. Name des Unternehmens.
+
+3 Die Meldung muss über die Internetplattform der öffentlichen Arbeitsvermittlung, telefonisch oder durch persönliche Vorsprache erfolgen.
+
+4 Die öffentliche Arbeitsvermittlung bestätigt den Eingang der Meldungen.
+
+5 Der Arbeitgeber darf die Stellen, die er nach Absatz 1 melden muss, frühestens nach Ablauf von fünf Arbeitstagen nach Erhalt der Bestätigung anderweitig ausschreiben.
+
+6 Zugriff auf die gemeldeten Stelleninformationen haben während fünf Arbeitstagen einzig die Mitarbeitenden der öffentlichen Arbeitsvermittlung sowie Personen, die bei der öffentlichen Arbeitsvermittlung als Stellensuchende angemeldet sind.
