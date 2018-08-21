@@ -1,0 +1,3 @@
+# Art. III
+
+Die Vertragsregierungen verpflichten sich, zusammenzuarbeiten, um eine möglichst weitgehende Vereinheitlichung der Förmlichkeiten, Dokumentenerfordernisse und Verfahren auf allen Gebieten zu erreichen, auf denen diese Vereinheitlichung den internationalen Seeverkehr erleichtern und verbessern würde, und Änderungen der Förmlichkeiten, Dokumentenerfordernisse und Verfahren, die aufgrund besonderer innerstaatlicher Verhältnisse notwendig werden, auf ein Mindestmass zu beschränken.
