@@ -1,0 +1,27 @@
+# 1……..1 Art. 3Anwendungsbereiche
+
+1 Im JANUS werden Daten bearbeitet, die im Rahmen der Aufgaben der Bundeskriminalpolizei (BKP) in ihrer Funktion als Zentralstelle nach Artikel 2 ZentG erforderlich sind:
+
+  - a. zur Verhinderung und Bekämpfung des illegalen Drogenhandels nach Artikel 29 des Betäubungsmittelgesetzes vom 3. Oktober 1951 sowie der Artikel 9 und 10 des ZentG;
+
+  - b. zur Erkennung und Bekämpfung des organisierten Verbrechens nach den Artikeln 7 und 8 des ZentG sowie Artikel 337 Absatz 1 des Strafgesetzbuches (StGB);
+
+  - c. zur Bekämpfung der Falschmünzerei nach dem Internationalen Abkommen vom 20. April 1929 zur Bekämpfung der Falschmünzerei;
+
+  - d. zur Bekämpfung des Menschenhandels nach dem Internationalen Übereinkommen vom 18. Mai 1904 zur Gewährleistung eines wirksamen Schutzes gegen das unter dem Namen «Mädchenhandel» bekannte verbrecherische Treiben, dem Internationalen Übereinkommen vom 4. Mai 1910 zur Bekämpfung des Mädchenhandels, dem Internationalen Übereinkommen vom 30. September 1921 zur Unterdrückung des Frauen- und Kinderhandels und dem Internationalen Abkommen vom 11. Oktober 1933 über die Unterdrückung des Handels mit volljährigen Frauen;
+
+  - e. zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen nach dem Internationalen Übereinkommen vom 4. Mai 1910 zur Bekämpfung der Verbreitung unzüchtiger Veröffentlichungen und dem Internationalen Übereinkommen vom 12. September 1923 zur Bekämpfung der Verbreitung und des Vertriebes von unzüchtigen Veröffentlichungen;
+
+  - f. zur Bekämpfung der Wirtschaftskriminalität nach Artikel 337 Absatz 2 StGB sowie den Artikeln 7 und 8 des ZentG;
+
+  - g. zur Bekämpfung der Geldwäscherei nach Artikel 337 Absatz 1 StGB sowie den Artikeln 7 und 8 des ZentG;
+
+  - h. zur Bekämpfung der Korruptionsdelikte nach Artikel 337 Absatz 1 StGB sowie den Artikeln 7 und 8 des ZentG.
+
+2 Im JANUS werden auch Daten bearbeitet, die zur Erfüllung der Aufgaben der Bundeskriminalpolizei zur Bekämpfung sowie zur Verfolgung der übrigen unter die allgemeine Bundesgerichtsbarkeit gemäss Artikel 336 StGB fallenden Delikte notwendig sind, soweit diese in die Zuständigkeit des Bundes fallen und vor Hängigkeit der Strafverfahren bearbeitet werden. Diese Daten werden von den Daten gemäss den Absätzen 1 und 5 getrennt bearbeitet.
+
+3 Im JANUS werden auch Daten bearbeitet, die vom Europäischen Polizeiamt (Europol) übermittelt werden. Die Bearbeitung dieser Daten richtet sich nach dem Abkommen vom 24. September 2004 zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
+
+4 Im JANUS werden Daten bearbeitet, die im Rahmen der Zusammenarbeit mit anderen Schengen-Staaten übermittelt wurden. Die Erfassung und Bearbeitung dieser Daten richtet sich nach der N-SIS-Verordnung vom 7. Mai 2008.
+
+5 Die kantonalen Strafverfolgungsbehörden und die kriminalpolizeilichen Dienste der Kantone können in den Unterkategorien «Journal» und «Personen und Vorgänge» des JANUS Daten zur Bekämpfung der strafbaren Handlungen bearbeiten, für welche keine Bundesstrafgerichtsbarkeit gegeben ist und die nicht in den Anwendungsbereich der Strafprozessordnung, des ZentG, des BWIS und des NDG fallen. Diese Daten werden von den Daten gemäss den Absätzen 1–4 getrennt bearbeitet. Die Bearbeitung dieser Daten richtet sich nach den kantonalen Vorschriften.
