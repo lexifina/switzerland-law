@@ -10,7 +10,7 @@
 
 2) [Bestellung des Vertreters]
 
-  - a) Die Bestellung eines Vertreters kann in der internationalen Anmeldung erfolgen, sofern die Anmeldung vom Anmelder unterzeichnet ist.
+  - a) Die Bestellung eines Vertreters kann in der internationalen Anmeldung erfolgen. Die Angabe des Namens des Vertreters in der internationalen Anmeldung zum Zeitpunkt der Einreichung gilt als Bestellung dieses Vertreters durch den Anmelder.
 
   - b) Die Bestellung eines Vertreters kann auch in einer gesonderten Mitteilung erfolgen, die sich auf eine oder mehrere bestimmte internationale Anmeldungen oder internationale Eintragungen desselben Anmelders oder Inhabers beziehen kann. Diese Mitteilung ist vom Anmelder oder Inhaber zu unterzeichnen.
 
@@ -24,9 +24,9 @@
 
 4) [Wirkung der Bestellung eines Vertreters]
 
-  - a) Sofern diese Ausführungsordnung nicht ausdrücklich etwas anderes vorsieht, ersetzt die Unterschrift eines nach Absatz 3 Buchstabe a eingetragenen Vertreters die Unterschrift des Anmelders oder Inhabers.
+  - a) Die Unterschrift eines nach Absatz 3 Buchstabe a eingetragenen Vertreters ersetzt die Unterschrift des Anmelders oder Inhabers.
 
-  - b) Sofern diese Ausführungsordnung nicht ausdrücklich vorsieht, dass eine Mitteilung sowohl an den Anmelder oder Inhaber als auch an den Vertreter zu richten ist, richtet das Internationale Büro Mitteilungen, die in Ermangelung eines Vertreters an den Anmelder oder Inhaber hätten gerichtet werden müssen, an den nach Absatz 3 Buchstabe a eingetragenen Vertreter; jede auf diese Weise an den genannten Vertreter gerichtete Mitteilung hat dieselbe Wirkung, als sei sie an den Anmelder oder Inhaber gerichtet worden.
+  - b) Sofern diese Ausführungsordnung nicht ausdrücklich vorsieht, dass eine Mitteilung sowohl an den Anmelder oder Inhaber als auch an den Vertreter zu richten ist, richtet das Internationale Büro Mitteilungen, die in Ermangelung eines Vertreters an den Anmelder oder Inhaber hätten gerichtet werden müssen, an den nach Absatz 3 Buchstabe a eingetragenen Vertreter; jede auf diese Weise an den genannten Vertreter gerichtete Mitteilung hat dieselbe Wirkung, als sei sie an den Anmelder oder Inhaber gerichtet worden
 
   - c) Jede von dem nach Absatz 3 Buchstabe a eingetragenen Vertreter an das Internationale Büro gerichtete Mitteilung hat dieselbe Wirkung, als sei sie von dem Anmelder oder Inhaber an dieses Büro gerichtet worden.
 
