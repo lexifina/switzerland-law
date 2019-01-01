@@ -1,0 +1,7 @@
+# Art. 11a Verkehrsregeln
+
+Mit Ausnahme der Vorschriften über die Mindestflughöhen gelten für Drachen, Drachenfallschirme und Fesselballone folgende Verkehrsregeln:
+
+  - a. in erster Linie diejenigen nach der Durchführungsverordnung (EU) Nr. 923/2012;
+
+  - b. ergänzend diejenigen nach der vorliegenden Verordnung.
