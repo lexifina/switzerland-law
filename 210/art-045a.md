@@ -1,15 +1,25 @@
 # Art. 45a
 
-1 Der Bund betreibt für die Kantone eine zentrale Datenbank.
+1 Der Bund betreibt und entwickelt für die Führung des Personenstandsregisters ein zentrales Personen-Informationssystem.
 
-2 Die Datenbank wird von den Kantonen finanziert. Die Kosten werden nach der Einwohnerzahl aufgeteilt.
+2 Er trägt die Betriebs- und die Entwicklungskosten.
 
-3 Der Bundesrat regelt im Rahmen des Gesetzes und unter Mitwirkung der Kantone:
+3 Die Kantone bezahlen dem Bund jährlich eine Gebühr für die Anwendung des Systems für Zwecke des Zivilstandswesens.
 
-  - 1. das Verfahren der Zusammenarbeit;
+4 Der Bund bezieht die Kantone in die Entwicklung des Systems ein. Er unterstützt sie fachlich bei dessen Anwendung.
 
-  - 2. die Zugriffsrechte der Zivilstandsbehörden;
+5 Der Bundesrat regelt unter Mitwirkung der Kantone:
 
-  - 3. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen;
+  - 1. die Einzelheiten des Einbezuges der Kantone in die Entwicklung des Systems;
 
-  - 4. die Archivierung.
+  - 2. die Höhe der Gebühr der Kantone für die Anwendung;
+
+  - 3. die Zugriffsrechte der Zivilstandsbehörden und der weiteren Stellen, die Zugriff haben;
+
+  - 4. die betriebliche Zusammenarbeit zwischen Bund und Kantonen;
+
+  - 5. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen technischen und organisatorischen Massnahmen;
+
+  - 6. die Archivierung der Daten.
+
+6 Er kann vorsehen, dass Kosten von Dienstleistungen für Dritte für Zwecke ausserhalb des Zivilstandswesens diesen Dritten in Rechnung gestellt werden.
