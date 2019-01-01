@@ -1,0 +1,17 @@
+# 11. Geheimhaltungspflicht
+
+(1) Die Vertragsparteien kommen überein, geeignete Massnahmen zu treffen, um die Vertraulichkeit aller Daten, Dokumente und sonstiger Materialien sicherzustellen, die während der Dauer des AuL-Programms und bis zehn Jahre nach dessen Abschluss als vertraulich gekennzeichnet werden. Alle im Zusammenhang mit der Bewertung der Projektvorschläge empfangenen Informationen sind streng vertraulich.
+
+(2) Die Geheimhaltungspflicht umfasst die Verpflichtung, vertrauliche Informationen ausschliesslich für die Zwecke zu nutzen, für die sie offengelegt wurden und einer Drittpartei vertrauliche Informationen nicht ohne vorherige schriftliche Genehmigung der Partei, die die Informationen offengelegt hat, preiszugeben. Ferner ist sicherzustellen, dass die interne Weitergabe der vertraulichen Informationen durch eine empfangende Partei ausschliesslich an Personen erfolgt, die von diesen Informationen unbedingt Kenntnis haben müssen. Der offen legenden Partei sind zudem auf Verlangen sämtliche vertraulichen Informationen zurückzugeben, die der empfangenden Partei zur Verfügung gestellt oder von dieser erlangt wurden – einschliesslich aller davon angefertigten Kopien –, und alle in maschinenlesbarer Form gespeicherten Informationen sind zu löschen. Die empfangende Partei kann jedoch verlangen, eine ausschliesslich zu Archivierungszwecken dienende Kopie der Informationen zurückzubehalten, wenn diese für die Erfüllung laufender Verpflichtungen notwendig ist.
+
+(3) Werden vertrauliche Informationen mündlich übermittelt, so hat die offen legende Partei die Vertraulichkeit dieser Informationen innerhalb von 15 Tagen nach ihrer Offenlegung schriftlich zu bestätigen.
+
+(4) Die empfangende Partei ist dafür verantwortlich, dass sich auch ihre Mitarbeitenden an die vorgängig genannten Verpflichtungen halten und sie stellt sicher, dass ihre Mitarbeitenden, soweit dies rechtlich möglich ist, während der Dauer und nach Beendigung dieses Abkommens und/oder nach Beendigung ihres Arbeitsverhältnisses an diese Verpflichtungen gebunden bleiben.
+
+(5) Die Geheimhaltungspflicht entfällt, wenn die vertraulichen Informationen ohne eine Verletzung der Geheimhaltungspflicht öffentlich zugänglich werden; die offen legende Partei der empfangenden Partei zu einem späteren Zeitpunkt mitteilt, dass die vertraulichen Informationen nicht mehr vertraulich sind; die vertraulichen Informationen der empfangenden Partei zu einem späteren Zeitpunkt ohne Geheimhaltungspflicht von einem Dritten mitgeteilt werden, der rechtmässiger Besitzer dieser Informationen ist und keiner Geheimhaltungspflicht unterliegt oder das nationale Recht einer der Vertragsparteien die Offenlegung oder Mitteilung der vertraulichen Informationen verlangt.
+
+(6) Die Vertragsparteien treffen alle erforderlichen Vorkehrungen, um Situationen zu vermeiden, die die unparteiische und objektive Durchführung des AuL-Programms aus wirtschaftlichem Interesse, politischer Affinität oder nationalen Bindungen, familiären oder freundschaftlichen Beziehungen sowie sonstigen Interessenverknüpfungen beeinträchtigen («Interessenkonflikt»).
+
+Die jeweils andere Partei ist unverzüglich schriftlich über jede Situation zu informieren, die während der Umsetzung des AuL-Programms einen Interessenkonflikt darstellt oder zu einem solchen führen könnte.
+
+Beide Vertragsparteien treffen unverzüglich alle notwendigen Massnahmen, um eine solche Situation zu korrigieren.
