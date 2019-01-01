@@ -1,0 +1,3 @@
+# Art. 45h Aufbewahrungsdauer
+
+Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang des letzten Antrags auf Herausgabe einer Probe aufzubewahren, mindestens jedoch fünf Jahre über die maximale gesetzliche Schutzdauer aller Ausschliesslichkeitsrechte, die für das hinterlegte biologische Material gelten, hinaus.
