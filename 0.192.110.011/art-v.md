@@ -1,0 +1,7 @@
+# Art. V Zustimmung, gebunden zu sein
+
+1. Dieses Protokoll bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichnerstaaten. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär der Vereinten Nationen hinterlegt.
+
+2. Dieses Protokoll steht nach dem 16. Januar 2007 allen Nichtunterzeichnerstaaten zum Beitritt offen. Die Beitrittsurkunden werden beim Generalsekretär der Vereinten Nationen hinterlegt.
+
+3. Jeder Staat, der nicht Vertragsstaat des Übereinkommens ist, kann dieses Protokoll ratifizieren, annehmen, genehmigen oder ihm beitreten, sofern er gleichzeitig das Übereinkommen in Übereinstimmung mit dessen Artikeln 25 und 26 ratifiziert, annimmt, genehmigt oder ihm beitritt.

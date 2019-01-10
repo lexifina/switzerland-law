@@ -1,0 +1,5 @@
+# Art. VII Kündigung
+
+1. Ein Vertragsstaat kann dieses Protokoll durch eine an den Generalsekretär der Vereinten Nationen gerichtete schriftliche Notifikation kündigen.
+
+2. Die Kündigung wird ein Jahr nach Eingang der Notifikation beim Generalsekretär der Vereinten Nationen wirksam.

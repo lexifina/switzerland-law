@@ -1,0 +1,3 @@
+# Art. III Verpflichtung eines Vertragsstaats in Bezug auf Artikel 8 des Übereinkommens
+
+Die Verpflichtung eines Vertragsstaats dieses Protokolls in Bezug auf die Anwendung des Artikels 8 des Übereinkommens auf die Einsätze der Vereinten Nationen im Sinne des Artikels II dieses Protokolls berührt nicht sein Recht, Massnahmen in Ausübung seiner innerstaatlichen Gerichtsbarkeit über Personal der Vereinten Nationen und beigeordnetes Personal zu ergreifen, die gegen die Gesetze und sonstigen Vorschriften dieses Staates verstossen, sofern diese Massnahmen nicht gegen andere völkerrechtliche Verpflichtungen des Vertragsstaats verstossen.

@@ -1,0 +1,5 @@
+# Art. VI Inkrafttreten
+
+1. Dieses Protokoll tritt dreissig Tage nach Hinterlegung von zweiundzwanzig Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden beim Generalsekretär der Vereinten Nationen in Kraft.
+
+2. Für jeden Staat, der dieses Protokoll nach Hinterlegung der zweiundzwanzigsten Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde ratifiziert, annimmt, genehmigt oder ihm beitritt, tritt es am dreissigsten Tag nach Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde durch diesen Staat in Kraft.
