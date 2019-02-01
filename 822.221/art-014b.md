@@ -1,0 +1,19 @@
+# Art. 14b Bedienung des digitalen Fahrtschreibers
+
+1 Der Führer oder die Führerin hat das Land des Beginns und des Endes der beruflichen Tätigkeit in den Fahrtschreiber einzugeben. Diese Eingabe ist nicht erforderlich, wenn der Fahrtschreiber mit einem Positionsbestimmungsdienst auf der Basis eines Satellitennavigationssystems verbunden ist und diese Angaben automatisch aufzeichnet.
+
+2 Die Fahrer- und die Beifahrerkarte müssen während der gesamten beruflichen Tätigkeit eingesteckt bleiben. Beim Einstecken und bei der Entnahme der Fahrerkarte muss der Führer oder die Führerin die Eingabeaufforderungen des Fahrtschreibers mit Ja oder Nein beantworten.
+
+3 Befindet sich der Führer oder die Führerin nicht in der Nähe des Fahrzeugs und ist dadurch nicht in der Lage, den Fahrtschreiber zu bedienen, so hat er oder sie die Angaben über die Arbeits-, Bereitschafts- und Ruhezeiten vor der Weiterfahrt manuell in das Gerät einzugeben.
+
+4 Bei einer Betriebsstörung oder bei einem mangelhaften Funktionieren des Fahrtschreibers hat der Führer oder die Führerin, sofern die entsprechenden Angaben über die Arbeits-, Lenk-, Bereitschafts- und Ruhezeiten nicht mehr einwandfrei aufgezeichnet, ausgedruckt oder heruntergeladen werden, diese auf einem besonderen Blatt zu vermerken. Das Blatt muss zusätzlich mit den Angaben zur Person (Name, Vorname, Nummer der Fahrerkarte oder des Führerausweises), der Kontrollschildnummer des benutzten Fahrzeugs, dem Ort des Beginns und des Endes der beruflichen Tätigkeit sowie dem Datum und der Unterschrift versehen werden. Artikel 14c gilt sinngemäss.
+
+5 Wenn die Fahrerkarte beschädigt ist, Fehlfunktionen aufweist, gestohlen wurde oder sich nicht im Besitz des Führers oder der Führerin befindet, muss der Führer oder die Führerin zu Beginn der beruflichen Tätigkeit die Angaben zum verwendeten Fahrzeug ausdrucken und den Ausdruck mit Namen, Vornamen, Führerausweisnummer, Datum und Unterschrift versehen. Am Ende der beruflichen Tätigkeit muss der Führer oder die Führerin die vom Fahrtschreiber aufgezeichneten Daten ausdrucken und diesen Ausdruck ebenfalls mit Namen, Vornamen, Führerausweisnummer, Datum und Unterschrift versehen. Vom Fahrtschreiber nicht erfasste Zeiten, in denen der Führer oder die Führerin seit dem Erstellen des Ausdrucks zu Beginn der beruflichen Tätigkeit andere Arbeiten als die Lenktätigkeit ausgeübt hat, Bereitschaft hatte, eine Pause oder eine Ruhezeit eingelegt hat, sind ebenfalls zu vermerken. Findet während der beruflichen Tätigkeit ein Fahrzeugwechsel statt, so ist für jedes Fahrzeug ein entsprechender Ausdruck anzufertigen. Artikel 14c gilt sinngemäss.
+
+5bis Das in Absatz 5 genannte Vorgehen findet auch Anwendung bei Führern und Führerinnen, die an einer Praxiserprobung eines Fahrtschreibers teilnehmen, für den noch keine Typengenehmigung vorliegt.
+
+6 In den Fällen nach Absatz 5 darf der Führer oder die Führerin die Fahrt ohne Fahrerkarte während eines Zeitraums von höchstens 15 Kalendertagen fortsetzen; für einen längeren Zeitraum nur, wenn das für die Rückkehr des Fahrzeuges an seinen Standort erforderlich ist.
+
+7 Der Führer oder die Führerin muss auf dem Fahrzeug genügend Druckerpapier mitführen. Er oder sie darf kein beschmutztes, beschädigtes oder nicht für den Fahrtschreiber zugelassenes Druckerpapier verwenden und muss das Druckerpapier sachgemäss schützen.
+
+8 Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin das Druckerpapier sowie die für das Herunterladen der Daten von der Fahrerkarte notwendigen Hilfsmittel unentgeltlich zur Verfügung zu stellen und ihnen auf Verlangen unentgeltlich eine Kopie der Ausdrucke oder der übrigen Daten auszuhändigen.
