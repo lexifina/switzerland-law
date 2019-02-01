@@ -1,0 +1,3 @@
+# 5 Inkrafttreten
+
+  - Diese Verordnung tritt am 1. Januar 2003 in Kraft.
