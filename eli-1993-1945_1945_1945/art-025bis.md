@@ -1,0 +1,3 @@
+# Art. 25bis Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten
+
+Solange ein Verfahren betreffend den Zugang zu amtlichen Dokumenten im Sinne des Öffentlichkeitsgesetzes vom 17. Dezember 2004, welche Personendaten enthalten, im Gange ist, kann die betroffene Person im Rahmen dieses Verfahrens die Rechte geltend machen, die ihr aufgrund von Artikel 25 des vorliegenden Gesetzes bezogen auf diejenigen Dokumente zustehen, die Gegenstand des Zugangsverfahrens sind.
