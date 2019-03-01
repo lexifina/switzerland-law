@@ -1,0 +1,17 @@
+# Art. 80b Teilnahme am Verfahren und Akteneinsicht
+
+1 Die Berechtigten können am Verfahren teilnehmen und Einsicht in die Akten nehmen, soweit dies für die Wahrung ihrer Interessen notwendig ist.
+
+2 Die Rechte nach Absatz 1 können nur eingeschränkt werden:
+
+  - a. im Interesse des ausländischen Verfahrens;
+
+  - b. zum Schutz eines wesentlichen rechtlichen Interesses, sofern der ersuchende Staat es verlangt;
+
+  - c. wegen der Natur oder der Dringlichkeit der zu treffenden Massnahme;
+
+  - d. zum Schutz wesentlicher privater Interessen;
+
+  - e. im Interesse eines schweizerischen Verfahrens.
+
+3 Die Einsichtnahme oder die Teilnahme am Verfahren darf nur für Aktenstücke und Verfahrenshandlungen verweigert werden, für die Geheimhaltungsgründe bestehen.
