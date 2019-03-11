@@ -1,0 +1,3 @@
+# Art. I Gründung der Konferenz
+
+Hiermit wird eine Europäische Konferenz für Molekularbiologie gegründet (im folgenden als «Konferenz» bezeichnet).

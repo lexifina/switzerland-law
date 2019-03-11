@@ -1,0 +1,3 @@
+# Art. VIII Beilegung von Streitigkeiten
+
+Jede Streitigkeit zwischen zwei oder mehr Mitgliedstaaten über die Auslegung oder Anwendung dieses Übereinkommens, die nicht durch die guten Dienste der Konferenz beigelegt werden kann, ist auf Ersuchen einer der Streitparteien dem Internationalen Gerichtshof vorzulegen, sofern sich die betreffenden Mitgliedstaaten nicht binnen einer angemessenen Frist auf eine andere Art der Beilegung einigen.

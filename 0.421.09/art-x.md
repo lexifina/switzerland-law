@@ -1,0 +1,3 @@
+# Art. X Auflösung
+
+Vorbehaltlich einer zwischen den Mitgliedstaaten über die Auflösung der Konferenz getroffenen Übereinkunft wird der Generalsekretär mit der Regelung aller Auflösungsfragen beauftragt. Sofern die Konferenz nichts anderes beschliesst, werden Überschüsse unter den Mitgliedstaaten im Verhältnis der Beiträge verteilt, die sie seit dem Tag geleistet haben, an dem sie Vertragsstaaten wurden. Ein etwaiger Fehlbetrag wird von diesen Mitgliedstaaten im Verhältnis der für das anlaufende Rechnungsjahr festgesetzten Beiträge gedeckt.
