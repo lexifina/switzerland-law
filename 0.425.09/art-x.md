@@ -1,0 +1,3 @@
+# Art. X Organe
+
+Die Organe der Organisation sind der Rat und der Generaldirektor, dem ein Mitarbeiterstab zur Seite steht.

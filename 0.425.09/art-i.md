@@ -1,0 +1,9 @@
+# Art. I Gründung der Organisation
+
+1. Hiermit wird eine europäische Organisation mit dem Namen Europäische Weltraumorganisation gegründet, sie wird im Folgenden als «Organisation» bezeichnet.
+
+2. Mitglieder der Organisation, im Folgenden als «Mitgliedstaaten» bezeichnet, sind die Staaten, die nach den Artikeln XX und XXII Vertragsparteien dieses Übereinkommens sind.
+
+3. Alle Mitgliedstaaten beteiligen sich an den in Artikel V Absatz 1 Buchstabe (a) aufgeführten obligatorischen Tätigkeiten und leisten einen Beitrag zu den in Anlage 11 genannten fest zugeordneten gemeinsamen Kosten der Organisation.
+
+4. Der Sitz der Organisation befindet sich im Raum Paris.

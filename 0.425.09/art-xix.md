@@ -1,0 +1,3 @@
+# Art. XIX Fortbestehen von Rechten und Pflichten
+
+Mit Inkrafttreten dieses Übereinkommens übernimmt die Organisation alle Rechte und Pflichten der Europäischen Weltraumforschungs‑Organisation und der Europäischen Organisation für die Entwicklung und den Bau von Raumfahrzeugträgern.
