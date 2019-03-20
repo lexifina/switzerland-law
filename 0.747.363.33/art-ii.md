@@ -1,0 +1,3 @@
+# Art. II Anwendungsbereich
+
+Dieses Übereinkommen gilt für Schiffe, die berechtigt sind, die Flagge eines Staates zu führen, dessen Regierung Vertragsregierung ist.
