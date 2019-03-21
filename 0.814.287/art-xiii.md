@@ -1,0 +1,3 @@
+# Art. XIII
+
+Dieses Übereinkommen greift der Kodifizierung und Entwicklung des Seerechts durch die mit Entschliessung 2750 C (XXV) der Generalversammlung der Vereinten Nationen einberufene Seerechtskonferenz der Vereinten Nationen sowie den gegenwärtigen oder künftigen Ansprüchen und Rechtsauffassungen eines Staates über das Seerecht und die Art und Ausdehnung der Hoheitsgewalt eines Küsten- oder Flaggenstaats nicht vor. Die Vertragsparteien kommen überein, auf einer von der Organisation nach der Seerechtskonferenz, spätestens jedoch 1976, einzuberufenden Sitzung Konsultationen zur Abgrenzung der Art und Ausdehnung der Rechte und Pflichten eines Küstenstaats hinsichtlich der Anwendung des Übereinkommens in einer an seine Küste angrenzenden Zone durchzuführen.
