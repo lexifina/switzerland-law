@@ -1,0 +1,3 @@
+# Art. I Errichtung der Organisation
+
+Die Welthandelsorganisation (im folgenden «WTO» genannt) wird hiermit errichtet.
