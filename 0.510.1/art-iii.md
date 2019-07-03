@@ -1,0 +1,3 @@
+# Art. III
+
+Zur Durchführung dieses Übereinkommens im Hinblick auf Angelegenheiten, die Vertragsparteien betreffen, welche nicht Vertragsparteien des NATO-Truppenstatuts sind, werden die Bestimmungen des NATO-Truppenstatuts, die vorsehen, dass Anträge oder Meinungsverschiedenheiten dem Nordatlantikrat, dem Vorsitzenden der Nordatlantikratsstellvertreter oder einem Schiedsrichter zu unterbreiten sind, so ausgelegt, dass die betroffenen Vertragsparteien diese Angelegenheiten untereinander durch Verhandlungen ohne Inanspruchnahme aussenstehender Gerichte regeln.

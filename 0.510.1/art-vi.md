@@ -1,0 +1,3 @@
+# Art. VI
+
+Dieses Übereinkommen kann von jeder Vertragspartei desselben durch schriftliche Kündigungsanzeige an die Regierung der Vereinigten Staaten von Amerika gekündigt werden; diese wird allen Unterzeichnerstaaten jede Kündigung notifizieren. Die Kündigung wird ein Jahr nach Eingang der Anzeige bei der Regierung der Vereinigten Staaten von Amerika wirksam. Nach Ablauf dieses Jahres tritt das Übereinkommen für die kündigende Vertragspartei ausser in Bezug auf die Regelung offener Ansprüche, die vor dem Wirksamwerden der Kündigung entstanden sind, ausser Kraft, bleibt jedoch für die übrigen Vertragsparteien weiterhin in Kraft.

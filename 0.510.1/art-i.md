@@ -1,0 +1,3 @@
+# Art. I
+
+Soweit in diesem Übereinkommen und in einem etwaigen Zusatzprotokoll in Bezug auf dessen Vertragsparteien nichts anderes bestimmt ist, wenden alle Vertragsstaaten dieses Übereinkommens die Bestimmungen des am 19. Juni 1951 in London beschlossenen Abkommens zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen, im folgenden als NATO-Truppenstatut bezeichnet, so an, als seien alle Vertragsstaaten dieses Übereinkommens Vertragsparteien des NATO-Truppenstatuts.
