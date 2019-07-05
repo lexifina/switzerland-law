@@ -1,0 +1,3 @@
+# Art. XIX Austritt
+
+Jeder Mitgliedstaat kann nach Ablauf von vier Jahren, vom Zeitpunkt seiner Annahme dieser Verfassung an gerechnet, jederzeit seinen Austritt aus der Organisation notifizieren. Der Austritt eines assoziierten Mitglieds wird von dem für seine internationalen Beziehungen verantwortlichen Mitgliedstaat oder der für diese Beziehungen verantwortlichen Behörde notifiziert. Die Notifizierung wird ein Jahr nach ihrer Übermittlung an den Generaldirektor wirksam. Ein Mitgliedstaat, der seinen Austritt notifiziert hat, oder ein assoziiertes Mitglied, in dessen Namen der Austritt notifiziert worden ist, schuldet der Organisation seinen Beitrag für das volle Kalenderjahr, in dem der Austritt wirksam wird.
