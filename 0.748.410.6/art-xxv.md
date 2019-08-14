@@ -1,0 +1,3 @@
+# Art. XXV
+
+Dieses Protokoll liegt bis zum 1. Januar 1976 am Sitz der Internationalen Zivilluftfahrt-Organisation zur Unterzeichnung auf; danach liegt es bis zu seinem Inkrafttreten nach Artikel XVIII im Ministerium der Auswärtigen Angelegenheiten der Regierung der Volksrepublik Polen zur Unterzeichnung auf. Die Internationale Zivilluftfahrt-Organisation benachrichtigt umgehend die Regierung der Volksrepublik Polen von jeder Unterzeichnung und deren Zeitpunkt während des Zeitraums, innerhalb dessen das Protokoll am Sitz der Internationalen Zivilluftfahrt-Organisation zur Unterzeichnung aufliegt.

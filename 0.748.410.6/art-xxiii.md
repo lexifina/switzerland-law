@@ -1,0 +1,3 @@
+# Art. XXIII
+
+Zwischen den Vertragsparteien dieses Protokolls, die auch Vertragsparteien des am 18. September 1961 in Guadalajara unterzeichneten Zusatzabkommens zum Warschauer Abkommen zur Vereinheitlichung von Regeln über die von einem anderen als dem vertraglichen Luftfrachtführer ausgeführte Beförderung im internationalen Luftverkehr (im Folgenden als «Abkommen von Guadalajara» bezeichnet) sind, bedeutet jede in dem Abkommen von Guadalajara enthaltene Bezugnahme auf das «Warschauer Abkommen» eine Bezugnahme auf das Warschauer Abkommen in der Fassung von Den Haag 1955 und des Protokolls Nr. 4 von Montreal 1975, sofern die Beförderung aufgrund eines Vertrags im Sinne des Artikels 1 Buchstabe b des Abkommens von Guadalajara unter dieses Protokoll fällt.
