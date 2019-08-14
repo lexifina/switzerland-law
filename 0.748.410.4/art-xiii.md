@@ -1,0 +1,3 @@
+# Art. XIII
+
+Dieses Protokoll liegt bis zum 1. Januar 1976 am Sitz der Internationalen Zivilluftfahrt-Organisation zur Unterzeichnung auf; danach liegt es bis zu seinem Inkrafttreten nach Artikel VII im Ministerium der Auswärtigen Angelegenheiten der Regierung der Volksrepublik Polen zur Unterzeichnung auf. Die Internationale Zivilluftfahrt-Organisation benachrichtigt umgehend die Regierung der Volksrepublik Polen von jeder Unterzeichnung und deren Zeitpunkt während des Zeitraumes, innerhalb dessen das Protokoll am Sitz der Internationalen Zivilluftfahrt-Organisation zur Unterzeichnung aufliegt.
