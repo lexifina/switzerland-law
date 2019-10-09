@@ -1,0 +1,3 @@
+# Art. X Beziehungen zu anderen internationalen Organisationen
+
+Der Fonds arbeitet im Rahmen der Bestimmungen dieses Übereinkommens mit allen allgemeinen internationalen Organisationen und mit öffentlichen internationalen Organisationen zusammen, die auf verwandten Gebieten besondere Aufgaben haben. Soweit die einer solchen Zusammenarbeit dienenden Regelungen eine Änderung einer Bestimmung dieses Übereinkommens mit sich bringen würden, können sie erst nach Änderung des Übereinkommens nach Artikel XXVIII getroffen werden.
