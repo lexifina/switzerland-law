@@ -1,0 +1,35 @@
+# Art. II
+
+  - Artikel 1 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
+
+## «Art. 1
+
+  - 1. Eine strafbare Handlung begeht, wer widerrechtlich und vorsätzlich durch Gewalt oder Drohung mit Gewalt, durch Nötigung oder durch eine andere Form der Einschüchterung oder durch technische Mittel ein im Einsatz befindliches Luftfahrzeug in Besitz nimmt oder die Herrschaft darüber ausübt.
+
+  - 2. Eine strafbare Handlung begeht auch, wer:
+
+    - (a) damit droht, die in Absatz 1 genannte strafbare Handlung zu begehen; oder
+
+    - (b) widerrechtlich und vorsätzlich bewirkt, dass eine Person eine solche Drohung erhält,
+
+  - wenn dies unter Umständen geschieht, welche die Drohung glaubwürdig erscheinen lassen.
+
+  - 3. Eine strafbare Handlung begeht ferner, wer:
+
+    - (a) versucht, die in Absatz 1 genannte strafbare Handlung zu begehen; oder
+
+    - (b) eine in Absatz 1, 2 oder 3 Buchstabe a dieses Artikels genannte strafbare Handlung organisiert oder andere Personen anweist, eine solche strafbare Handlung zu begehen; oder
+
+    - (c) als Mittäter oder Gehilfe an einer in Absatz 1, 2 oder 3 Buchstabe a dieses Artikels genannten strafbaren Handlung teilnimmt; oder
+
+    - (d) widerrechtlich und vorsätzlich einer anderen Person dabei hilft, sich Ermittlungen, einer Strafverfolgung oder einer Bestrafung zu entziehen, und dabei weiss, dass diese Person eine Handlung begangen hat, die eine strafbare Handlung nach Absatz 1, 2 oder 3 Buchstabe a, b oder c dieses Artikels darstellt, oder dass diese Person wegen einer solchen strafbaren Handlung von den Strafverfolgungsbehörden zum Zweck der Strafverfolgung gesucht wird oder wegen einer solchen strafbaren Handlung verurteilt wurde.
+
+  - 4. Ferner umschreibt jeder Vertragsstaat eine der folgenden Handlungen oder beide, wenn vorsätzlich begangen und unabhängig davon, ob die Begehung oder der Versuch einer der in Absatz 1 oder 2 genannten strafbaren Handlungen tatsächlich erfolgt, als strafbare Handlungen:
+
+    - (a) die Verabredung mit einer oder mehreren Personen, eine in Absatz 1 oder 2 genannte strafbare Handlung zu begehen, verbunden, wenn das nationale Recht dies verlangt, mit einer von einem Beteiligten zur Förderung dieser Verabredung vorgenommenen Handlung; oder
+
+    - (b) jeden anderweitigen Beitrag zur Begehung einer oder mehrerer der in Absatz 1 oder 2 genannten strafbaren Handlungen durch eine Gruppe von mit einem gemeinsamen Ziel handelnden Personen; dieser Beitrag muss geleistet werden:
+
+      - (i) entweder zu dem Zweck, die allgemeine kriminelle Tätigkeit oder das allgemeine kriminelle Ziel der Gruppe zu fördern, wenn diese Tätigkeit oder dieses Ziel die Begehung einer in Absatz 1 oder 2 genannten strafbaren Handlung einschliesst, oder
+
+      - (ii) in Kenntnis des Vorsatzes der Gruppe, eine in Absatz 1 oder 2 genannte strafbare Handlung zu begehen.»

@@ -1,0 +1,7 @@
+# Art. XII
+
+  - Folgender Wortlaut wird als Artikel 8bis des Übereinkommens eingefügt:
+
+## «Art. 8bis
+
+  - Für die Zwecke der Auslieferung oder der Rechtshilfe wird keine der in Artikel 1 genannten strafbaren Handlungen als politische Straftat, als eine mit einer politischen Straftat zusammenhängende oder als eine auf politischen Beweggründen beruhende Straftat angesehen. Folglich darf ein Ersuchen um Auslieferung oder Rechtshilfe, das auf einer solchen strafbaren Handlung beruht, nicht allein mit der Begründung verweigert werden, dass es sich um eine politische Straftat, um eine mit einer politischen Straftat zusammenhängende oder um eine auf politischen Beweggründen beruhende Straftat handle.»

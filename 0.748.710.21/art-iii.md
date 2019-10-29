@@ -1,0 +1,7 @@
+# Art. III
+
+  - Artikel 2 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
+
+## «Art. 2
+
+  - Jeder Vertragsstaat verpflichtet sich, die in Artikel 1 genannten strafbaren Handlungen mit schweren Strafen zu bedrohen.»
