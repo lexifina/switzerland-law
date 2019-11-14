@@ -1,0 +1,7 @@
+# Art. VI Zeichnung und Annahme der Vereinbarung
+
+Die unterzeichneten Abgeordneten an der auf den 1. November 1944 nach Chicago einberufenen Konferenz für internationale Zivilluftfahrt haben ihre Unterschriften dieser Vereinbarung beigefügt in der Meinung, dass die Regierung der Vereinigten Staaten von Amerika zu dem frühest möglichen Zeitpunkt durch jede der Regierungen, in deren Namen die Vereinbarung unterzeichnet worden ist, unterrichtet werden soll, ob die Unterschrift in deren Namen eine Annahme der Vereinbarung durch diese Regierung und eine bindende Verpflichtung begründe.
+
+Jeder Mitgliedstaat der Internationalen Zivilluftfahrtsorganisation kann die vorliegende Vereinbarung als eine bindende Verpflichtung annehmen durch Mitteilung ihrer Annahme an die Regierung der Vereinigten Staaten, und diese Annahme soll rechtswirksam werden auf den Zeitpunkt des Empfangs dieser Mitteilung durch die vorgenannte Regierung.
+
+Diese Vereinbarung soll zwischen den Vertragsstaaten mit ihrer Annahme durch jeden von ihnen in Kraft treten. Hierauf soll die Vereinbarung gegenüber jedem andern Staat als bindend gelten, welcher ihre Annahme der Regierung der Vereinigten Staaten mitteilt, und zwar auf den Zeitpunkt des Empfangs der Annahmeerklärung durch die vorgenannte Regierung. Die Regierung der Vereinigten Staaten soll alle Staaten, welche die Vereinbarung unterzeichnet oder angenommen haben werden, über den Zeitpunkt aller Annahmen derselben und über den Zeitpunkt des Inkrafttretens für jeden annehmenden Staat benachrichtigen.
