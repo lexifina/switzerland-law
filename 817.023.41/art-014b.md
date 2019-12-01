@@ -1,0 +1,3 @@
+# Art. 14b Trinkflaschen
+
+Trinkflaschen für Säuglinge und Kleinkinder müssen eine Warnaufschrift tragen, die vor Zahnschäden durch Dauerkonsum («Dauernuckeln») gezuckerter oder süss-saurer Getränke warnt. …
