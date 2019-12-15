@@ -1,0 +1,31 @@
+# Art. 27e Ausschreibungsverfahren
+
+1 Der Kanton erstellt die Ausschreibungsunterlagen. Diese enthalten:
+
+  - a. die für die Einreichung der Ausschreibungsofferten massgebenden Angaben;
+
+  - b. die Anforderungen an die Ausschreibungsofferten;
+
+  - c. die Kriterien zur Bewertung der Eignung der offerierenden Unternehmen;
+
+  - d. die Kriterien zur Bewertung der Ausschreibungsofferten;
+
+  - e. die Fristen für die Einreichung der Ausschreibungsofferten und des Konzessionsgesuchs;
+
+  - f. die Dauer, während welcher die Unternehmen an ihre Offerten gebunden sind.
+
+2 Die Frist für die Einreichung der Ausschreibungsofferten und der Konzessionsgesuche beträgt mindestens 60 Tage nach der Ausschreibung. Die Unternehmen sind während höchstens 12 Monaten ab Ende der Einreichungsfrist an ihre Ausschreibungsofferten gebunden.
+
+3 Der Kanton unterbreitet die Ausschreibungsunterlagen sowie Änderungen dieser Unterlagen dem BAV sowie den Beteiligten Kantonen zur Genehmigung und schreibt danach das Verkehrsangebot aus.
+
+4 Nach der Ausschreibung veröffentlicht der Kanton:
+
+  - a. Änderungen der Ausschreibungsunterlagen unverzüglich nach deren Genehmigung;
+
+  - b. die Fragen der interessierten Unternehmen und die Antworten der Besteller in anonymisierter Form.
+
+5 Er stellt die Ausschreibungsunterlagen interessierten Unternehmen auf Verlangen zu und gibt diesen Unternehmen auch die Angaben nach Absatz 4 bekannt.
+
+6 Beteiligen sich mehrere Kantone an einer Ausschreibung, so unterbreitet der federführende Kanton die Ausschreibungsunterlagen sowie Änderungen dieser Unterlagen den beteiligten Kantonen zur Genehmigung.
+
+7 Die Besteller legen fest, ob die Unternehmen in den Ausschreibungsofferten die ungedeckten Kosten (Nettoausschreibungen) oder die geplanten Kosten ausweisen müssen (Bruttoausschreibungen).
