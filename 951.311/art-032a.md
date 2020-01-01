@@ -20,4 +20,4 @@
 
 4 Im Jahresbericht der kollektiven Kapitalanlage werden die bewilligten Geschäfte mit nahestehenden Personen erwähnt.
 
-5 Für Immobilienwerte, an denen die Fondsleitung, die SICAV oder diesen nahestehende Personen Bauprojekte durchführen liessen, darf die FINMA keine Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen bewilligen.
+5 Für Immobilienwerte, an denen die Fondsleitung, die SICAV oder diesen nahestehende Personen Bauprojekte durchführen lassen, darf die FINMA keine Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen bewilligen.

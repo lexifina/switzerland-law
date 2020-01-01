@@ -2,7 +2,7 @@
 
 1 Der Fondsvertrag enthält insbesondere folgende Angaben:
 
-  - a. die Bezeichnung des Anlagefonds sowie die Firma und den Sitz der Fondsleitung, der Depotbank und des Vermögensverwalters kollektiver Kapitalanlagen;
+  - a. die Bezeichnung des Anlagefonds sowie die Firma und den Sitz der Fondsleitung, der Depotbank und des Verwalters von Kollektivvermögen;
 
   - b. den Anlegerkreis;
 
@@ -28,7 +28,7 @@
 
   - m. die Voraussetzungen des Rückzahlungsaufschubs sowie des Zwangsrückkaufs;
 
-  - n. die Stellen, bei denen der Fondsvertrag, der Prospekt, die wesentlichen Informationen für die Anlegerinnen und Anleger, der vereinfachte Prospekt sowie der Jahres- und Halbjahresbericht kostenlos bezogen werden können;
+  - n. die Stellen, bei denen der Fondsvertrag, der Prospekt, das Basisinformationsblatt nach den Artikeln 58–63 und 66 FIDLEG sowie der Jahres- und Halbjahresbericht kostenlos bezogen werden können;
 
   - o. die Rechnungseinheit;
 
@@ -36,6 +36,6 @@
 
 2 Bei der Genehmigung des Fondsvertrags prüft die FINMA ausschliesslich die Bestimmungen nach Absatz 1 Buchstaben a–g und stellt deren Gesetzeskonformität fest.
 
-3 Auf Antrag der Fondsleitung prüft die FINMA bei der Genehmigung eines vertraglichen Anlagefonds sämtliche Bestimmungen des Fondsvertrags und stellt deren Gesetzeskonformität fest, sofern dieser im Ausland vertrieben werden soll und das ausländische Recht es verlangt.
+3 Auf Antrag der Fondsleitung prüft die FINMA bei der Genehmigung eines vertraglichen Anlagefonds sämtliche Bestimmungen des Fondsvertrags und stellt deren Gesetzeskonformität fest, sofern dieser im Ausland angeboten werden soll und das ausländische Recht es verlangt.
 
 4 Die FINMA kann den Inhalt des Fondsvertrags unter Berücksichtigung der internationalen Entwicklungen konkretisieren.

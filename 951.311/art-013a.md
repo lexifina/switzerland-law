@@ -4,7 +4,7 @@ Für ausländische kollektive Kapitalanlagen müssen der FINMA folgende Dokument
 
   - a. der Prospekt;
 
-  - b. der vereinfachte Prospekt oder die wesentlichen Informationen für die Anlegerinnen und Anleger;
+  - b. das Basisinformationsblatt nach den Artikeln 58–63 und 66 FIDLEG;
 
   - c. der Kollektivanlagevertrag der vertraglichen kollektiven Kapitalanlagen;
 
