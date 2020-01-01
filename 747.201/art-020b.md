@@ -4,7 +4,7 @@
 
   - a. den Schiffsverkehr schwer gefährdet;
 
-  - b. in angetrunkenem Zustand mit einer qualifizierten Blutalkoholkonzentration (Art. 24b Abs. 6 Bst. a oder b) ein Schiff führt, sich an dessen Führung beteiligt oder einen nautischen Dienst an Bord des Schiffs ausübt;
+  - b. in angetrunkenem Zustand mit einer qualifizierten Atemalkohol- oder Blutalkoholkonzentration (Art. 24b Abs. 6) ein Schiff führt, sich an dessen Führung beteiligt oder einen nautischen Dienst an Bord des Schiffs ausübt;
 
   - c. wegen Betäubungs- oder Arzneimitteleinfluss oder aus anderen Gründen fahrunfähig ist und in diesem Zustand ein Schiff führt, sich an dessen Führung beteiligt oder einen nautischen Dienst an Bord des Schiffs ausübt;
 

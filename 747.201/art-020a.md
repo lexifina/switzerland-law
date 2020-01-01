@@ -4,7 +4,7 @@
 
   - a. Verkehrsregeln verletzt und dadurch eine Gefahr für die Sicherheit anderer hervorruft oder in Kauf nimmt;
 
-  - b. in angetrunkenem Zustand, jedoch nicht mit einer qualifizierten Blutalkoholkonzentration (Art. 24b Abs. 6 Bst. a oder b), ein Schiff führt, sich an dessen Führung beteiligt oder einen nautischen Dienst an Bord des Schiffs ausübt und dabei zusätzlich eine leichte Widerhandlung gegen Verkehrsregeln begeht;
+  - b. in angetrunkenem Zustand, jedoch nicht mit einer qualifizierten Atemalkohol- oder Blutalkoholkonzentration (Art. 24b Abs. 6) ein Schiff führt, sich an dessen Führung beteiligt oder einen nautischen Dienst an Bord des Schiffs ausübt und dabei zusätzlich eine leichte Widerhandlung gegen Verkehrsregeln begeht;
 
   - c. ein Schiff zum Gebrauch entwendet;
 
