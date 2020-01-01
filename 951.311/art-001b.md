@@ -1,25 +1,25 @@
-# Art. 1b Nicht unterstellte Vermögensverwalter kollektiver Kapitalanlagen
+# Art. 1b Operative Gesellschaften
 
-1 Für die Berechnung der Schwellenwerte der vom Vermögensverwalter kollektiver Kapitalanlagen verwalteten Vermögenswerte im Sinne von Artikel 2 Absatz 2 Buchstabe h Ziffern 1 und 2 des Gesetzes gelten folgende Grundsätze:
+1 Als operative Gesellschaften, die eine unternehmerische Tätigkeit ausüben, gelten für die Zwecke der Anwendung des Gesetzes und unabhängig von ihrer Rechtsform Unternehmen:
 
-  - a. Als verwaltete Vermögenswerte gelten sämtliche schweizerischen und ausländischen kollektiven Kapitalanlagen, die vom selben Vermögensverwalter kollektiver Kapitalanlagen verwaltet werden, unabhängig davon, ob er diese direkt oder über eine Delegation verwaltet oder über eine Gesellschaft, mit der er verbunden ist:
+  - a. die ihren satzungsmässigen oder tatsächlichen Sitz in der Schweiz haben
 
-    - 1. über eine einheitliche Geschäftsführung;
+  - oder in der Schweiz niedergelassen sind, soweit sich ihr satzungsmässiger Sitz in einem anderen Staat befindet;
 
-    - 2. über ein gemeinsames Kontrollverhältnis; oder
+  - b. die eine Tätigkeit gewerbsmässig oder in einem Umfang betreiben, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert; und
 
-    - 3. durch eine wesentliche direkte oder indirekte Beteiligung.
+  - c. deren Hauptzweck die Führung eines Dienstleistungs-, Fabrikations- oder Handelsgewerbes ist.
 
-  - b. Der Wert wird unter Berücksichtigung einer allfälligen Hebelwirkung mindestens auf Quartalsbasis errechnet.
+2 Insbesondere als operative Gesellschaften gelten Unternehmen, die:
 
-  - c. Für kollektive Kapitalanlagen, die vor mehr als zwölf Monaten aufgesetzt wurden, kann der Schwellenwert auf der Basis des Durchschnittswerts der Vermögenswerte der letzten vier Quartale errechnet werden.
+  - a. Immobilien entwickeln oder errichten;
 
-  - d. Der Wert der kollektiven Kapitalanlagen gemäss Artikel 2 Absatz 2 Buchstabe h Ziffer 2 des Gesetzes berechnet sich aufgrund der Kapitalzusagen oder des Nominalwertes der betreffenden Kollektivanlagengefässe, sofern die diesen zugrunde liegenden Anlagen keinen Preis haben, der sich aus dem Handel an einem geregelten Markt ergibt.
+  - b. Güter und Handelswaren produzieren, kaufen, verkaufen oder tauschen;
 
-2 Die FINMA regelt die Einzelheiten zur Berechnung der Vermögenswerte und der Hebelwirkung nach Absatz 1.
+  - c. sonstige Dienstleistungen ausserhalb des Finanzsektors anbieten.
 
-3 Überschreitet ein Vermögensverwalter kollektiver Kapitalanlagen ein Schwellenwert gemäss Artikel 2 Absatz 2 Buchstabe h Ziffern 1 und 2 des Gesetzes, so muss er dies innerhalb von 10 Tagen der FINMA melden und ihr innerhalb von 90 Tagen ein Bewilligungsgesuch gemäss Artikel 14 ff. des Gesetzes einreichen.
+3 Als operative Gesellschaften gelten auch Unternehmen, die sich im Rahmen ihrer operativen Tätigkeit fremder Dienstleister oder gruppeninterner Gesellschaften bedienen, soweit die unternehmerischen Entscheidungen dauerhaft im laufenden Geschäftsbetrieb durch die ausdrückliche Vereinbarung von Gestaltungs-, Lenkungs- und Weisungsrechten bei dem Unternehmen selbst verbleiben.
 
-4 Als Konzerngesellschaften der Unternehmensgruppe im Sinne von Artikel 2 Absatz 2 Buchstabe h Ziffer 3 des Gesetzes gelten unabhängig von ihrer Rechtsform öffentlich- oder privatrechtliche Unternehmen, die durch eine wirtschaftliche Einheit untereinander verbunden sind.
+4 Nicht als operative Gesellschaften gelten Gesellschaften nach Artikel 13 Absatz 2 Buchstaben c und d des Gesetzes, welche die Kontrolle der Stimmrechte an Unternehmen übernehmen oder Einsitz im Organ für die Oberleitung, Aufsicht und Kontrolle ihrer Beteiligungen nehmen.
 
-5 Unternehmen bilden eine wirtschaftliche Einheit, wenn das eine Unternehmen direkt oder indirekt mit mehr als der Hälfte der Stimmen oder des Kapitals am anderen beteiligt ist oder dieses auf andere Weise beherrscht.
+5 Operative Gesellschaften können zusätzlich zu ihren unternehmerischen Tätigkeiten auch Investitionen zu Anlagezwecken tätigen. Diese dürfen jedoch zum Hauptzweck lediglich eine untergeordnete Neben- oder Hilfstätigkeit darstellen.

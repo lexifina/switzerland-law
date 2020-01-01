@@ -1,6 +1,6 @@
 # Art. 105a Aufgaben bei Delegation der Verwahrung
 
-Überträgt die Depotbank die Aufbewahrung des Fondsvermögens einem Dritt- oder Sammelverwahrer im In- oder Ausland, so prüft und überwacht sie, ob dieser:
+Überträgt die Depotbank die Aufbewahrung des Fondsvermögens einem Dritt- oder Zentralverwahrer im In- oder Ausland, so prüft und überwacht sie, ob dieser:
 
   - a. über eine angemessene Betriebsorganisation, finanzielle Garantien und die fachlichen Qualifikationen verfügt, die für die Art und die Komplexität der Vermögensgegenstände, die ihm anvertraut wurden, erforderlich sind;
 
