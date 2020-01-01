@@ -1,0 +1,9 @@
+# Art. 4a
+
+1 Erwirbt eine Gesellschaft oder eine Genossenschaft gestützt auf einen Beschluss über die Herabsetzung des Kapitals oder im Hinblick auf eine Herabsetzung ihres Kapitals eigene Beteiligungsrechte (Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Anteilscheine von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine oder Genussscheine), so unterliegt die Differenz zwischen dem Erwerbspreis und dem einbezahlten Nennwert dieser Beteiligungsrechte der Verrechnungssteuer. Dasselbe gilt, soweit der Erwerb eigener Beteiligungsrechte den Rahmen der Artikel 659 oder 783 des Obligationenrechts überschreitet.
+
+2 Erwirbt eine Gesellschaft oder eine Genossenschaft im Rahmen der Artikel 659 oder 783 des Obligationenrechts eigene Beteiligungsrechte, ohne anschliessend ihr Kapital herabzusetzen, so gilt Absatz 1 sinngemäss, wenn die Gesellschaft oder die Genossenschaft diese Beteiligungsrechte nicht innerhalb von sechs Jahren wieder veräussert.
+
+3 Hat eine Gesellschaft oder Genossenschaft eigene Beteiligungsrechte aus Anlass von Verpflichtungen erworben, die auf einer Wandelanleihe, einer Optionsanleihe oder einem Mitarbeiterbeteiligungsplan beruhen, so steht die Frist zur Wiederveräusserung nach Absatz 2 bis zum Erlöschen der betreffenden Verpflichtungen, im Falle des Mitarbeiterbeteiligungsplans jedoch längstens sechs Jahre, still.
+
+4 Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben beim Erwerb eigener Beteiligungsrechte nach den Absätzen 1–3 den Liquidationsüberschuss mindestens zur Hälfte den Reserven aus Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen) zu belasten. Ist diese Bedingung nicht erfüllt, so wird der Bestand an Reserven aus Kapitaleinlagen dementsprechend korrigiert, höchstens aber im Umfang der vorhandenen Reserven aus Kapitaleinlagen.
