@@ -1,0 +1,5 @@
+# Art. 76b Datenbekanntgabe
+
+1 Die Eidgenössische Finanzkontrolle hat zur Erfüllung ihrer gesetzlichen Aufgaben nach Artikel 10 des Finanzkontrollgesetzes vom 28. Juni 1967 Zugang zum Informationssystem der ESTV.
+
+2 Die ESTV darf den in der EZV mit der Erhebung und dem Einzug der Mehrwertsteuer sowie mit der Durchführung von Straf- und Administrativverfahren betrauten Personen die Daten nach Artikel 76a Absatz 3 bekannt geben oder im Abrufverfahren zugänglich machen, sofern dies für die Erfüllung von deren Aufgaben nötig ist.
