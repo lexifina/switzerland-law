@@ -1,3 +1,3 @@
 # Art. 173b
 
-Betrifft das Konkursbegehren eine Bank, einen Effektenhändler, ein Versicherungsunternehmen, eine Pfandbriefzentrale, eine Fondsleitung, eine Investmentgesellschaft mit variablem Kapital (SICAV), eine Kommanditgesellschaft für kollektive Kapitalanlagen oder eine Investmentgesellschaft mit festem Kapital (SICAF), so überweist das Konkursgericht die Akten an die Eidgenössische Finanzmarktaufsicht (FINMA). Diese verfährt nach den spezialgesetzlichen Regeln.
+Betrifft das Konkursbegehren einen Schuldner, der nach den Finanzmarktgesetzen nach Artikel 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007 der Konkurszuständigkeit der Eidgenössischen Finanzmarktaufsicht (FINMA) untersteht, so überweist das Konkursgericht die Akten an die FINMA. Diese verfährt nach den spezialgesetzlichen Regeln.
