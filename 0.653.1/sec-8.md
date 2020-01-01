@@ -1,0 +1,7 @@
+# Abschnitt 8: Sekretariat des Koordinierungsgremiums
+
+1. Sofern in der Vereinbarung nichts anderes vorgesehen ist, wird das Sekretariat des Koordinierungsgremiums sämtliche zuständigen Behörden über alle nach dieser Vereinbarung bei ihm eingegangenen Notifikationen unterrichten und sämtliche Unterzeichner der Vereinbarung in Kenntnis setzen, wenn eine neue zuständige Behörde die Vereinbarung unterzeichnet.
+
+2. Alle Unterzeichner der Vereinbarung werden sich jährlich zu gleichen Teilen an den Kosten der Verwaltung der Vereinbarung durch das Sekretariat des Koordinierungsgremiums beteiligen. Ungeachtet des Satzes 1 werden berechtigte Länder nach Artikel X der Geschäftsordnung des Koordinierungsgremiums des Amtshilfeübereinkommens von der Kostenbeteiligung befreit sein.
+
+Geschehen in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.

@@ -1,0 +1,5 @@
+# Abschnitt 5: Vertraulichkeit und Datenschutzvorkehrungen
+
+1. Alle ausgetauschten Informationen unterliegen den im Amtshilfeübereinkommen vorgesehenen Vertraulichkeitsvorschriften und sonstigen Schutzvorkehrungen einschliesslich der Bestimmungen, welche die Verwendung der ausgetauschten Informationen einschränken, und werden, soweit für die Gewährleistung des notwendigen Schutzes personenbezogener Daten erforderlich, im Einklang mit den gegebenenfalls von der übermittelnden zuständigen Behörde nach Massgabe ihres innerstaatlichen Rechts festgelegten und in Anhang C aufgeführten Schutzvorkehrungen ausgetauscht.
+
+2. Eine zuständige Behörde wird das Sekretariat des Koordinierungsgremiums unverzüglich über alle Verstösse gegen die Vertraulichkeitsvorschriften und jedes Versagen der Schutzvorkehrungen sowie alle daraufhin verhängten Sanktionen und ergriffenen Gegenmassnahmen unterrichten. Das Sekretariat des Koordinierungsgremiums wird sämtliche zuständigen Behörden unterrichten, für die diese Vereinbarung eine wirksame Vereinbarung mit der erstgenannten zuständigen Behörde darstellt.
