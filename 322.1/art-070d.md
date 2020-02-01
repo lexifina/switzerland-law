@@ -1,0 +1,7 @@
+# Art. 70d Teilnehmeridentifikation, Standortermittlung und technische Merkmale des Verkehrs
+
+1 Besteht der dringende Verdacht, ein Verbrechen oder ein Vergehen sei begangen worden, und sind die Voraussetzungen nach Artikel 70 Absatz 1 Buchstaben b und c erfüllt, so kann der Untersuchungsrichter die Randdaten des Fernmeldeverkehrs gemäss Artikel 8 Buchstabe b des Bundesgesetzes vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) und die Randdaten des Postverkehrs gemäss Artikel 19 Absatz 1 Buchstabe b BÜPF der überwachten Person verlangen.
+
+2 Die Anordnung bedarf der Genehmigung durch den Präsidenten des Militärkassationsgerichts.
+
+3 Auskünfte nach Absatz 1 können unabhängig von der Dauer der Überwachung und bis 6 Monate rückwirkend verlangt werden.

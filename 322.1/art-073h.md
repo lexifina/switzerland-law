@@ -1,0 +1,9 @@
+# Art. 73h Mass der zulässigen Einwirkung
+
+1 Verdeckte Ermittlerinnen und Ermittler dürfen keine allgemeine Tatbereitschaft wecken und die Tatbereitschaft nicht auf schwerere Straftaten lenken. Sie haben sich auf die Konkretisierung eines vorhandenen Tatentschlusses zu beschränken.
+
+2 Ihre Tätigkeit darf für den Entschluss zu einer konkreten Straftat nur von untergeordneter Bedeutung sein.
+
+3 Wenn erforderlich, dürfen sie zur Anbahnung des Hauptgeschäftes Probekäufe tätigen oder ihre wirtschaftliche Leistungsfähigkeit dokumentieren.
+
+4 Überschreitet eine verdeckte Ermittlerin oder ein verdeckter Ermittler das Mass der zulässigen Einwirkung, so ist dies bei der Zumessung der Strafe für die beeinflusste Person gebührend zu berücksichtigen oder es ist von einer Strafe abzusehen.

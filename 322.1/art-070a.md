@@ -1,0 +1,11 @@
+# Art. 70a Gegenstand der Überwachung
+
+Es dürfen Post- und Fernmeldeverkehr folgender Personen überwacht werden:
+
+  - a. der beschuldigten Person;
+
+  - b. von Drittpersonen, wenn aufgrund bestimmter Tatsachen angenommen werden muss, dass:
+
+    - 1. die beschuldigte Person die Postadresse oder den Fernmeldedienst der Drittperson benutzt, oder
+
+    - 2. die Drittperson für die beschuldigte Person bestimmte Mitteilungen entgegennimmt oder von dieser stammende Mitteilungen an eine weitere Person weiterleitet.

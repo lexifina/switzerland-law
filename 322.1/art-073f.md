@@ -1,0 +1,13 @@
+# Art. 73f Führungsperson
+
+1 Die verdeckte Ermittlerin oder der verdeckte Ermittler unterstehen während des Einsatzes der direkten Weisungsbefugnis der Führungsperson. Während des Einsatzes erfolgt der Kontakt zwischen dem Untersuchungsrichter und der verdeckten Ermittlerin oder dem verdeckten Ermittler ausschliesslich über die Führungsperson.
+
+2 Die Führungsperson hat insbesondere folgende Aufgaben:
+
+  - a. Sie instruiert die verdeckte Ermittlerin oder den verdeckten Ermittler detailliert und fortlaufend über Auftrag und Befugnisse sowie über den Umgang mit der Legende.
+
+  - b. Sie leitet und betreut die verdeckte Ermittlerin oder den verdeckten Ermittler und beurteilt laufend die Risikosituation.
+
+  - c. Sie hält mündliche Berichte der verdeckten Ermittlerin oder des verdeckten Ermittlers schriftlich fest und führt ein vollständiges Dossier über den Einsatz.
+
+  - d. Sie informiert den Untersuchungsrichter laufend und vollständig über den Einsatz.

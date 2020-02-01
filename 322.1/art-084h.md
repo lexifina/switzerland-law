@@ -1,0 +1,21 @@
+# Art. 84h Besondere Massnahmen zum Schutz von Kindern
+
+1 Als Kind im Sinne dieses Artikels gilt das Opfer, das im Zeitpunkt der Einvernahme oder Gegenüberstellung weniger als 18 Jahre alt ist.
+
+2 Die erste Einvernahme des Kindes hat so rasch als möglich stattzufinden.
+
+3 Die Behörde kann die Vertrauensperson vom Verfahren ausschliessen, wenn diese einen bestimmenden Einfluss auf das Kind ausüben könnte.
+
+4 Ist erkennbar, dass die Einvernahme oder die Gegenüberstellung für das Kind zu einer schweren psychischen Belastung führen könnte, so gelten die folgenden Regeln:
+
+  - a. Eine Gegenüberstellung mit der beschuldigten Person darf nur angeordnet werden, wenn das Kind die Gegenüberstellung ausdrücklich verlangt oder der Anspruch der beschuldigten Person auf rechtliches Gehör auf andere Weise nicht gewährleistet werden kann.
+
+  - b. Das Kind darf während des ganzen Verfahrens nicht mehr als zweimal einvernommen werden.
+
+  - c. Eine zweite Einvernahme findet nur statt, wenn die Parteien bei der ersten Einvernahme ihre Rechte nicht ausüben konnten oder dies im Interesse der Ermittlungen oder des Kindes unumgänglich ist; soweit möglich erfolgt die Befragung durch die gleiche Person, welche die erste Einvernahme durchgeführt hat.
+
+  - d. Einvernahmen werden im Beisein einer Spezialistin oder eines Spezialisten von einer zu diesem Zweck ausgebildeten Ermittlungsbeamtin oder einem entsprechenden Ermittlungsbeamten durchgeführt; findet keine Gegenüberstellung statt, so werden die Einvernahmen mit Bild und Ton aufgezeichnet.
+
+  - e. Die Parteien üben ihre Rechte durch die befragende Person aus.
+
+  - f. Die befragende Person und die Spezialistin oder der Spezialist halten ihre besonderen Beobachtungen in einem Bericht fest.
