@@ -1,0 +1,3 @@
+# Art. XIX Unterzeichnung
+
+Dieses Übereinkommen liegt bis zum 30. April 1973 in Washington und danach bis zum 31. Dezember 1974 in Bern zur Unterzeichnung auf.

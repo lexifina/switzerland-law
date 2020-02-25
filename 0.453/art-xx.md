@@ -1,0 +1,3 @@
+# Art. XX Ratifikation, Annahme, Genehmigung
+
+Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations‑, Annahme- oder Genehmigungsurkunden sind bei der Regierung der Schweizerischen Eidgenossenschaft zu hinterlegen, welche die Aufgabe der Verwahrregierung übernimmt.
