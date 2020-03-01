@@ -1,0 +1,31 @@
+# Text
+
+I
+
+Das Bundesgesetz vom 25. Juni 1976 über die Gewährung von Bürgschaften und Zinskostenbeiträgen im Berggebiet und im weiteren ländlichen Raum wird aufgehoben.
+
+II
+
+Übergangsbestimmungen zur Aufhebung vom 14. Dezember 2018
+
+1 Bürgschaftsverträge, die im Zeitpunkt der Aufhebung des vorliegenden Gesetzes bestehen, werden von den regionalen gewerblichen Bürgschaftsorganisationen, die nach dem Bundesgesetz vom 6. Oktober 2006 über die Finanzhilfen an Bürgschaftsorganisationen für KMU anerkannt sind, nach bisherigem Recht bis zum ordentlichen Auslaufen weitergeführt.
+
+2 Bis zum 31. Dezember 2016 gewährte Zinskostenbeiträge werden vom Staatssekretariat für Wirtschaft nach bisherigem Recht weiter ausgerichtet.
+
+3 Der Bund übernimmt die Verwaltungskosten für die Verträge nach Absatz 1 gemäss Artikel 5 des vorliegenden Gesetzes.
+
+4 Er trägt Verluste für Bürgschaften nach Absatz 1 gemäss Artikel 6 des vorliegenden Gesetzes.
+
+III
+
+Koordination mit dem Bundesgesetz über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen
+
+…
+
+IV
+
+1 Dieses Gesetz untersteht dem fakultativen Referendum.
+
+2 Der Bundesrat bestimmt das Inkrafttreten.
+
+Datum des Inkrattretens: 1. März 2020
