@@ -1,0 +1,3 @@
+# Art. 4a Vereinbarungen mit ausländischen Behörden
+
+Bis zum Abschluss einer Vereinbarung über die Rückübernahme und den Transit von Personen mit unbefugtem Aufenthalt in der Schweiz im Sinne von Artikel 100 Absatz 2 Buchstabe b des AIG kann das Eidgenössische Justiz- und Polizeidepartement (EJPD) mit ausländischen Behörden und im Einvernehmen mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) Vereinbarungen abschliessen, in denen einerseits organisatorische Fragen im Zusammenhang mit der Rückkehr von Ausländerinnen und Ausländern in ihren Heimatstaat und andererseits die Rückkehrhilfe und die Wiedereingliederung geregelt werden.
