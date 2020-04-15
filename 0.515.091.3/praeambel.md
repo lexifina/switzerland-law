@@ -1,0 +1,19 @@
+# Präambel
+
+Die Vertragsstaaten des Übereinkommens haben an der zweiten Überprüfungskonferenz, welche vom 11. bis 21. Dezember 2001 statt fand, entschieden, den Artikel 1 des Übereinkommens wie folgt zu ändern, um seinen Anwendungsbereich auf nicht internationale bewaffnete Konflikte auszuweiten. Dieser Entscheid ist in der Schlusserklärung der zweiten Überprüfungskonferenz aufgeführt, so wie sie im Dokument CCW/CONF.II/2 wiedergegeben wurde.
+
+«ENTSCHEIDEN, den Artikel 1 des Übereinkommens folgendermassen zu ändern:
+
+1. Dieses Übereinkommen und die dazugehörigen Protokolle finden in den Situationen Anwendung, die in dem den Genfer Abkommen vom 12. August 1949 zum Schutz der Kriegsopfer gemeinsamen Artikel 2 bezeichnet sind, einschliesslich jeder in Artikel 1 Absatz 4 des Zusatzprotokolls I zu diesen Abkommen beschriebenen Situation.
+
+2. Dieses Übereinkommen und die dazugehörigen Protokolle finden neben den in Absatz 1 bezeichneten Situationen auch auf die in dem den Genfer Abkommen vom 12. August 1949 gemeinsamen Artikel 3 bezeichneten Situationen Anwendung. Dieses Übereinkommen und die dazugehörigen Protokolle finden keine Anwendung auf Situationen innerer Unruhen und Spannungen wie Tumulte, vereinzelt und sporadisch auftretende Gewalttaten und sonstige Handlungen ähnlicher Art, die nicht als bewaffnete Konflikte gelten.
+
+3. Im Fall eines bewaffneten Konflikts, der keinen internationalen Charakter hat und sich im Hoheitsgebiet einer der Hohen Vertragsparteien ereignet, ist jede der am Konflikt beteiligten Parteien verpflichtet, die Verbote und Beschränkungen dieses Übereinkommens und der dazugehörigen Protokolle anzuwenden.
+
+4. Dieses Übereinkommen oder die dazugehörigen Protokolle dürfen nicht zur Beeinträchtigung der Souveränität eines Staates oder der Verantwortung der Regierung herangezogen werden, mit allen rechtmässigen Mitteln die öffentliche Ordnung im Staat aufrechtzuerhalten oder wiederherzustellen oder die nationale Einheit und territoriale Unversehrtheit des Staates zu verteidigen.
+
+5. Dieses Übereinkommen oder die dazugehörigen Protokolle dürfen nicht zur Rechtfertigung einer wie auch immer begründeten unmittelbaren oder mittelbaren Einmischung in den bewaffneten Konflikt oder in die inneren oder äusseren Angelegenheiten der Hohen Vertragspartei herangezogen werden, in deren Hoheitsgebiet dieser Konflikt stattfindet.
+
+6. Die Anwendung dieses Übereinkommens und der dazugehörigen Protokolle auf die an einem Konflikt beteiligten Parteien, die nicht Hohe Vertragsparteien sind, welche das vorliegende Übereinkommen oder die dazugehörigen Protokolle angenommen haben, ändert weder ausdrücklich noch stillschweigend ihre Rechtsstellung oder die Rechtsstellung eines umstrittenen Gebiets.
+
+7. Die Absätze 2 bis 6 berühren nicht nach dem 1. Januar 2002 angenommene Zusatzprotokolle, die hinsichtlich ihres Anwendungsbereichs die Absätze 2–6 übernehmen, ausschliessen oder ändern können.»
