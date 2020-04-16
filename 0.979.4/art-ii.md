@@ -16,7 +16,7 @@
 
       - (i) Durch Mehrheit der abgegebenen Stimmen, wenn die Erhöhung für die Ausgabe von Anteilen am Kapital für die Erstzeichnung von Mitgliedern, die keine Stammitglieder sind, erforderlich wird, soweit die Summe jeder gemäss diesem Unterabschnitt vorgenommenen Erhöhung 10 000 Anteile nicht übersteigt;
 
-      - (ii) in jedem anderen Falle durch Dreiviertel‑Mehrheit der gesamten Stimmrechte.
+      - (ii) in jedem anderen Falle mit einer Mehrheit von 85 Prozent der gesamten Stimmrechte.
 
     - (d) Bei einer Erhöhung gemäss Absatz (c) (ii) ist jedem Mitglied angemessene Gelegenheit zu geben, zu den von der Corporation festgesetzten Bedingungen einen dem von ihm bereits gezeichneten Anteil am Kapital der Corporation entsprechenden Teil des Betrages, um den das Kapital erhöht wird, zu zeichnen. Kein Mitglied ist jedoch verpflichtet, einen Teil des erhöhten Kapitals zu zeichnen.
 
