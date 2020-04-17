@@ -1,0 +1,5 @@
+# Art. V
+
+(1) Kernexplosionen und die Beseitigung radioaktiven Abfalls sind in der Antarktis verboten.
+
+(2) Werden internationale Übereinkünfte über die Nutzung der Kernenergie einschliesslich von Kernexplosionen und der Beseitigung radioaktiven Abfalls geschlossen, denen alle Vertragsparteien angehören, deren Vertreter zur Teilnahme an den Artikel IX vorgesehenen Tagungen berechtigt sind, so finden die durch solche Übereinkünfte festgelegten Vorschriften in der Antarktis Anwendung.
