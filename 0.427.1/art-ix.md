@@ -1,0 +1,3 @@
+# Art. IX Streitigkeiten
+
+Kann eine Streitigkeit zwischen Mitgliedstaaten über die Auslegung oder Anwendung dieses Übereinkommens oder des Finanzprotokolls nicht durch Vermittlung des Rates beigelegt werden, so wird sie nach Massgabe des Abkommens vom 18. Oktober 1907 zur friedlichen Erledigung internationaler Streitfälle dem Ständigen Schiedshof im Haag unterbreitet, sofern die beteiligten Mitgliedstaaten nicht eine andere Art der Beilegung annehmen.

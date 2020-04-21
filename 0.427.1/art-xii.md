@@ -1,0 +1,3 @@
+# Art. XII Auflösung
+
+Die Organisation kann jederzeit durch eine mit Zweidrittelmehrheit der Mitgliedstaaten angenommene Entschliessung aufgelöst werden. Mit der gleichen Entschliessung wird ein Liquidator ernannt, sofern bei der Auflösung nicht eine einstimmig getroffene Vereinbarung zwischen den Mitgliedstaaten zustande kommt. Ein Überschuss wird unter die Staaten verteilt, die im Zeitpunkt der Auflösung Mitglied der Organisation sind, und zwar im Verhältnis der Beiträge, die sie tatsächlich entrichtet haben, seit sie Vertragspartei dieses Übereinkommens wurden. Ergibt sich ein Fehlbetrag, so wird er von diesen Mitgliedstaaten im Verhältnis ihrer für das laufende Rechnungsjahr festgesetzten Beiträge übernommen.

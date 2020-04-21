@@ -1,0 +1,3 @@
+# Art. IV Organe
+
+Die Organisation besteht aus dem Rat und dem Direktor.
