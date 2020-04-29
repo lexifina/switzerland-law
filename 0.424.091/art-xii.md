@@ -1,0 +1,3 @@
+# Art. XII Austritt
+
+Nachdem dieses Übereinkommen sieben Jahre lang in Kraft gewesen ist, kann ein Mitgliedstaat vorbehaltlich des Artikels III Ziffer 4 dem Präsidenten des Rates schriftlich seinen Austritt aus der Organisation notifizieren; der Austritt wird am Ende des auf das Rechnungsjahr der Notifikation folgenden Rechnungsjahres oder zu einem von dem Mitgliedstaat vorgeschlagenen späteren Zeitpunkt wirksam.

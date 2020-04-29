@@ -1,0 +1,7 @@
+# Art. X Änderungen
+
+1. Der Rat kann den Mitgliedstaaten Änderungen dieses Übereinkommens empfehlen. Jeder Mitgliedstaat, der eine Änderung vorzuschlagen wünscht, notifiziert den Änderungsvorschlag dem Präsidenten des Rates. Der Präsident setzt alle Mitgliedstaaten von jedem ihm notifizierten Änderungsvorschlag in Kenntnis, und zwar spätestens drei Monate bevor er vom Rat erörtert wird.
+
+2. Jede vom Rat empfohlene Änderung dieses Übereinkommens bedarf der schriftlichen Annahme durch alle Mitgliedstaaten. Die Änderung tritt dreissig Tage nach dem Zeitpunkt in Kraft, an dem der Präsident des Rates von allen Mitgliedstaaten eine Notifikation über die Annahme erhalten hat. Der Präsident setzt alle Mitgliedstaaten sowie den Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur von dem Zeitpunkt in Kenntnis, an dem die Änderung demnach in Kraft tritt.
+
+3. Der Rat kann das diesem Übereinkommen beigefügte Finanzprotokoll mit Zweidrittelmehrheit aller Mitgliedstaaten ändern, sofern diese Änderung nicht im Widerspruch zu dem Übereinkommen steht. Jede derartige Änderung tritt zu dem vom Rat mit der gleichen Mehrheit beschlossenen Zeitpunkt in Kraft. Der Präsident des Rates setzt alle Mitgliedstaaten und den Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur von jeder derartigen Änderung und von dem Zeitpunkt ihres Inkrafttretens in Kenntnis.

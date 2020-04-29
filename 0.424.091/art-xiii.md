@@ -1,0 +1,3 @@
+# Art. XIII Nichterfüllung von Verpflichtungen
+
+Erfüllt ein Mitgliedstaat seine Verpflichtungen aus diesem Übereinkommen nicht, so endet seine Mitgliedschaft in der Organisation aufgrund eines vom Rat zu fassenden Beschlusses, der einer Zweidrittelmehrheit aller Mitgliedstaaten bedarf.

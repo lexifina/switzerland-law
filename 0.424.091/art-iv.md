@@ -1,0 +1,3 @@
+# Art. IV Organe
+
+Die Organisation besteht aus einem Rat und für jedes Laboratorium einem durch entsprechendes Personal unterstützten Generaldirektor.

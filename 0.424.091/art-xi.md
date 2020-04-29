@@ -1,0 +1,3 @@
+# Art. XI Streitigkeiten
+
+Jede Streitigkeit zwischen zwei oder mehr Mitgliedstaaten über die Auslegung oder Anwendung dieses Übereinkommens, die nicht durch die guten Dienste des Rates beigelegt wird, ist dem Internationalen Gerichtshof vorzulegen, sofern sich die betreffenden Mitgliedstaaten nicht auf eine andere Art der Beilegung einigen.

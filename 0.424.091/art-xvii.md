@@ -1,0 +1,5 @@
+# Art. XVII Beitritt
+
+1. Jeder Staat, der dieses Übereinkommen und das beigefügte Finanzprotokoll nicht unterzeichnet hat, kann ihnen vom 1. Januar 1954 an beitreten, wenn er die Voraussetzungen des Artikels III Ziffer 1 oder 2 erfüllt.
+
+2. Die Beitrittsurkunden sind beim Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur zu hinterlegen.

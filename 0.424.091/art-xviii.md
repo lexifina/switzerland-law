@@ -1,0 +1,9 @@
+# Art. XVIII Inkrafttreten
+
+1. Dieses Übereinkommen und das beigefügte Finanzprotokoll treten in Kraft, nachdem sieben Staaten sie ratifiziert haben oder ihnen beigetreten sind, vorausgesetzt:
+
+  - (a) dass die Summe ihrer Beiträge nach dem in der Anlage zum Finanzprotokoll angegebenen Schlüssel mindestens 75 % beträgt, und
+
+  - (b) dass sich die Schweiz als das Land, in dem die Organisation ihren Sitz haben wird, unter diesen sieben Staaten befindet.
+
+2. Für jeden weiteren Staat, der dieses Übereinkommen und das beigefügte Finanzprotokoll unterzeichnet oder ihnen beitritt, treten diese mit Hinterlegung seiner Ratifikations‑ oder Beitrittsurkunde in Kraft.
