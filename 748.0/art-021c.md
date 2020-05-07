@@ -1,0 +1,11 @@
+# Art. 21c
+
+1 Im Informationssystem werden folgende Daten über sicherheitsrelevante Ereignisse und damit in Verbindung stehende mögliche Gefährder bearbeitet:
+
+  - a. Personendaten betreffend die Identität und die öffentlich zugänglichen Kontaktdaten, insbesondere aus sozialen Netzwerken;
+
+  - b. Personendaten, die für die Beurteilung der Gefährdung des internationalen gewerbsmässigen Luftverkehrs notwendig sind, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, wie Informationen über den Gesundheitszustand, über Verurteilungen oder hängige Straf- oder Verwaltungsverfahren und über die Zugehörigkeit zu kriminellen oder terroristischen Gruppierungen;
+
+  - c. Ton- und Bildaufzeichnungen.
+
+2 Zudem werden im Informationssystem Personendaten betreffend die Identität der einsetzbaren Sicherheitsbeauftragten bearbeitet.
