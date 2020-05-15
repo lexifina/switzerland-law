@@ -1,0 +1,5 @@
+# Art. I
+
+1. Jeder Vertragsstaat verpflichtet sich, umweltverändernde Techniken, die weiträumige, lange andauernde oder schwerwiegende Auswirkungen haben, nicht zu militärischen Zwecken oder in sonstiger feindlicher Absicht als Mittel zur Zerstörung, Schädigung oder Verletzung eines anderen Vertragsstaats zu nutzen.
+
+2. Jeder Vertragsstaat verpflichtet sich, einen Staat, eine Gruppe von Staaten oder eine internationale Organisation weder zu unterstützen noch zu ermutigen, noch zu veranlassen, Handlungen vorzunehmen, die gegen Absatz 1 verstossen.
