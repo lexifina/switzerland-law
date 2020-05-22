@@ -1,0 +1,5 @@
+# Art. XIII Beilegung von Streitigkeiten
+
+(1) Jede Streitigkeit zwischen zwei oder mehr Vertragsparteien über die Auslegung oder Anwendung dieses Übereinkommens wird durch Verhandlungen zwischen den streitenden Vertragsparteien beigelegt.
+
+(2) Kann die Streitigkeit nicht nach Absatz 1 beigelegt werden, so können die Vertragsparteien sie im gegenseitigen Einvernehmen einem Schiedsgericht, insbesondere dem Haager Ständigen Schiedshof, vorlegen; die Vertragsparteien, welche die Streitigkeiten dem Schiedsgericht vorlegen, sind an den Schiedsspruch gebunden.

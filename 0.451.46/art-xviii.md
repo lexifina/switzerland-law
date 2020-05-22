@@ -1,0 +1,5 @@
+# Art. XVIII Inkrafttreten
+
+(1) Dieses Übereinkommen tritt am ersten Tag des dritten Monats nach Hinterlegung der fünfzehnten Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde beim Verwahrer in Kraft.
+
+(2) Für jeden Staat oder jede Organisation der regionalen Wirtschaftsintegration, die dieses Übereinkommen nach der Hinterlegung der fünfzehnten Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde ratifizieren, annehmen, genehmigen oder ihm beitreten, tritt das Übereinkommen am ersten Tag des dritten Monats nach Hinterlegung der Ratifikations‑, Annahme‑, Genehmigungsoder Beitrittsurkunde durch den Staat oder die Organisation in Kraft.

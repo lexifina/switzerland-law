@@ -1,0 +1,3 @@
+# Art. XVI Ratifikation, Annahme, Genehmigung
+
+Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations‑, Annahme‑ oder Genehmigungsurkunden werden bei der Regierung der Bundesrepublik Deutschland als dem Verwahrer hinterlegt.

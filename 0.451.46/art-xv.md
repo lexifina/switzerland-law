@@ -1,0 +1,3 @@
+# Art. XV Unterzeichnung
+
+Dieses Übereinkommen liegt für alle Staaten und jede Organisation der regionalen Wirtschaftsintegration bis zum 22. Juni 1980 in Bonn zur Unterzeichnung auf.

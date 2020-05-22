@@ -1,0 +1,5 @@
+# Art. XIV Vorbehalte
+
+(1) Allgemeine Vorbehalte zu diesem Übereinkommen sind nicht zulässig. Besondere Vorbehalte können nach diesem Artikel und Artikel XI gemacht werden.
+
+(2) Jeder Staat oder jede Organisation der regionalen Wirtschaftsintegration kann bei Hinterlegung der Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde bezüglich der Aufführung einer wandernden Art in Anhang 1 oder Anhang 11 oder gegebenenfalls in beiden Anhängen einen besonderen Vorbehalt machen und wird sodann in bezug auf den Gegenstand dieses Vorbehalts nicht vor Ablauf von neunzig Tagen seit dem Zeitpunkt, zu dem der Verwahrer den Vertragsparteien die Notifikation über die Rücknahme des Vorbehalts übermittelt hat, als Vertragspartei angesehen.
