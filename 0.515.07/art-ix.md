@@ -1,0 +1,3 @@
+# Art. IX
+
+Jeder Vertragsstaat dieses Übereinkommens bekräftigt das anerkannte Ziel des wirksamen Verbots chemischer Waffen und verpflichtet sich, hierauf gerichtete Verhandlungen in redlicher Absicht fortzusetzen, um eine baldige Übereinkunft zu erzielen über wirksame Massnahmen zum Verbot ihrer Entwicklung, Herstellung und Lagerung und zu ihrer Vernichtung sowie über geeignete Massnahmen in bezug auf Ausrüstungen und Einsatzmittel, die eigens für die Herstellung oder Verwendung chemischer Agenzien für Waffenzwecke vorgesehen sind.

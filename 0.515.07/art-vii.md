@@ -1,0 +1,3 @@
+# Art. VII
+
+Jeder Vertragsstaat des Übereinkommens verpflichtet sich, jeder Vertragspartei, die darum ersucht, im Einklang mit der Satzung der Vereinten Nationen Hilfe zu gewähren oder Hilfeleistungen zu unterstützen, falls der Sicherheitsrat feststellt, dass diese Vertragspartei als Ergebnis der Verletzung dieses Übereinkommens einer Gefahr ausgesetzt worden ist.

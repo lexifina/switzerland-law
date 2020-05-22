@@ -1,0 +1,5 @@
+# Art. XIII
+
+1. Die Geltungsdauer dieses Übereinkommens ist unbegrenzt.
+
+2. Jeder Vertragsstaat dieses Übereinkommens ist in Ausübung seiner staatlichen Souveränität berechtigt, von diesem Übereinkommen zurückzutreten, wenn er entscheidet, dass durch aussergewöhnliche, mit dem Inhalt dieses Übereinkommens zusammenhängende Ereignisse eine Gefährdung der höchsten Interessen seines Landes eingetreten ist. Er teilt diesen Rücktritt allen anderen Vertragsstaaten des Übereinkommens sowie dem Sicherheitsrat der Vereinten Nationen drei Monate im voraus mit. Diese Mitteilung hat eine Darlegung der aussergewöhnlichen Ereignisse zu enthalten, durch die seiner Ansicht nach eine Gefährdung seiner höchsten Interessen eingetreten ist.

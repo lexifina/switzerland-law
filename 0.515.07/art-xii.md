@@ -1,0 +1,3 @@
+# Art. XII
+
+Fünf Jahre nach dem Inkrafttreten dieses Übereinkommens oder, wenn eine Mehrheit der Vertragsparteien des Übereinkommens durch einen an die Depositarregierungen gerichteten entsprechenden Vorschlag darum ersucht, zu einem früheren Zeitpunkt, wird in Genf (Schweiz) eine Konferenz der Vertragsstaaten des Übereinkommens zu dem Zweck abgehalten, die Wirkungsweise dieses Übereinkommens zu überprüfen, um sicherzustellen, dass die Ziele der Präambel und die Bestimmungen des Vertrages, einschliesslich jener betreffend die Verhandlungen über chemische Waffen, verwirklicht werden. Bei dieser Überprüfung werden die für dieses Übereinkommen erheblichen neuen wissenschaftlichen und technologischen Entwicklungen berücksichtigt.
