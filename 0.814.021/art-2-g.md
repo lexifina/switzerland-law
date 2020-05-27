@@ -1,0 +1,3 @@
+# Art. 2G Teilhalogenierte Fluorbromkohlenwasserstoffe
+
+Jede Vertragspartei sorgt dafür, dass während des Zeitraums von zwölf Monaten, der am 1. Januar 1996 beginnt, und in jedem Zwölfmonatszeitraum danach der berechnete Umfang ihres Verbrauchs der geregelten Stoffe in Gruppe II der Anlage C Null nicht übersteigt. Jede Vertragspartei, welche die Stoffe herstellt, sorgt während derselben Zeiträume dafür, dass der berechnete Umfang ihrer Produktion der Stoffe Null nicht übersteigt. Dieser Absatz findet Anwendung, soweit nicht die Vertragsparteien beschliessen, den Umfang der Produktion oder des Verbrauchs zu gestatten, der zur Erfüllung von Zwecken notwendig ist, die von ihnen einvernehmlich als wesentlich erachtet werden.
