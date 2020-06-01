@@ -1,0 +1,3 @@
+# Abschnitt 4: Zusammenarbeit bei der Einhaltung und Durchsetzung der Vereinbarung
+
+Eine zuständige Behörde benachrichtigt die andere zuständige Behörde, wenn sie in Bezug auf einen im Staat der anderen zuständigen Behörde steuerlich ansässigen berichtenden Rechtsträger Grund zur Annahme hat, dass ein Fehler zu einer Übermittlung unrichtiger oder unvollständiger Informationen geführt haben könnte oder dass ein berichtender Rechtsträger seine Verpflichtung zur Vorlage eines länderbezogenen Berichts nicht einhält. Die benachrichtigte zuständige Behörde ergreift nach ihrem innerstaatlichen Recht verfügbare geeignete Massnahmen, um gegen die in der Nachricht beschriebenen Fehler oder Fälle von Nichteinhaltung vorzugehen.
