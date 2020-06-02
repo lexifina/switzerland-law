@@ -1,0 +1,3 @@
+# Art. XV
+
+Die vorliegende Konvention liegt bis zum 31. März 1951 zur Unterzeichnung auf.
