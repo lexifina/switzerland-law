@@ -1,0 +1,11 @@
+# Art. 36bis
+
+Folgende Übergangsbestimmungen gelten in der Zeit, im folgenden als «Übergangszeit» bezeichnet, die mit dem Tag des Inkrafttretens dieses Übereinkommens beginnt und mit dem Tag endet, an dem die in Artikel 31 des Protokolls von 1992 zum Fondsübereinkommen von 1971 vorgesehenen Kündigungen wirksam werden:
+
+  - a) Bei der Anwendung des Artikels 2 Absatz 1 Buchstabe a umfasst die Bezug- nahme auf das Haftungsübereinkommen von 1992 die Bezugnahme auf das Internationale Übereinkommen von 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden entweder in seiner ursprünglichen Fassung oder in der durch das Protokoll von 1976 zu jenem Übereinkommen geänderten Fassung (in diesem Artikel als «Haftungsübereinkommen von 1969» bezeichnet) und auch auf das Fondsübereinkommen von 1971.
+
+  - b) Hat ein Ereignis Verschmutzungsschäden innerhalb des Anwendungsbereichs dieses Übereinkommens verursacht, so zahlt der Fonds an eine Person, die Verschmutzungsschäden erlitten hat, eine Entschädigung nur, wenn und soweit diese Person nach dem Haftungsübereinkommen von 1969, dem Fonds- übereinkommen von 1971 und dem Haftungsübereinkommen von 1992 nicht voll und angemessen für den Schaden entschädigt werden konnte; in Bezug auf Verschmutzungsschäden innerhalb des Anwendungsbereichs des vorliegenden Übereinkommens für eine Vertragspartei des Übereinkommens, die nicht Vertragspartei des Fondsübereinkommens von 1971 ist, zahlt der Fonds an eine Person, die Verschmutzungsschäden erlitten hat, eine Entschädigung jedoch nur, wenn und soweit diese Person nicht voll und angemessen für den Schaden hätte entschädigt werden können, wenn der betreffende Staat Vertragspartei jedes der genannten Übereinkommen gewesen wäre.
+
+  - c) Bei der Anwendung des Artikels 4 umfasst der Betrag, der bei der Feststellung des Gesamtbetrags der vom Fonds zu zahlenden Entschädigung zu be- rücksichtigen ist, auch den gegebenenfalls auf Grund des Haftungsübereinkommens von 1969 tatsächlich gezahlten Entschädigungsbetrag sowie den auf Grund des Fondsübereinkommens von 1971 tatsächlich gezahlten oder als gezahlt geltenden Entschädigungsbetrag.
+
+  - d) Artikel 9 Absatz 1 findet auch auf die nach dem Haftungsübereinkommen von 1969 zustehenden Rechte Anwendung.
