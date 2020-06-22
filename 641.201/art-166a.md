@@ -1,0 +1,3 @@
+# Art. 166a Übergangsbestimmung zur Änderung vom 18. Oktober 2017
+
+Für ausländische Unternehmen ohne Betriebsstätte im Inland, die in den zwölf Monaten vor Inkrafttreten dieser Verordnung steuerbare Leistungen im Inland erbracht haben, endet die Befreiung von der Steuerpflicht nach Artikel 9a mit Inkrafttreten dieser Verordnung, wenn sie in diesen zwölf Monaten die Umsatzgrenze nach Artikel 10 Absatz 2 Buchstabe a oder c MWSTG aus nicht von der Steuer ausgenommenen Leistungen im In- oder Ausland erreicht haben und anzunehmen ist, dass sie auch in den zwölf Monaten ab Inkrafttreten steuerbare Leistungen im Inland erbringen werden. Wurden die Leistungen nicht während der gesamten zwölf Monate vor Inkrafttreten erbracht, so ist der Umsatz auf ein volles Jahr umzurechnen.
