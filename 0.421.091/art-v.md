@@ -1,0 +1,3 @@
+# Art. V Organe
+
+Organe des Laboratoriums sind der Rat und der Generaldirektor.

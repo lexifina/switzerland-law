@@ -1,0 +1,3 @@
+# Art. XI Rechtsstellung
+
+Das Laboratorium besitzt Rechtspersönlichkeit. Insbesondere hat es die Fähigkeit, Verträge zu schliessen, bewegliches und unbewegliches Vermögen zu erwerben und zu veräussern; ferner ist es prozessfähig. Der Staat, in dem das Laboratorium liegt, schliesst mit ihm eine Sitzstaatvereinbarung über die Rechtsstellung des Laboratoriums und solche Vorrechte und Immunitäten des Laboratoriums und seines Personals, die zur Erreichung der Ziele des Laboratoriums und zur Wahrnehmung seiner Aufgaben erforderlich sind; diese Vereinbarung bedarf der Zustimmung des Rates mit Zweidrittelmehrheit aller Mitgliedstaaten.
