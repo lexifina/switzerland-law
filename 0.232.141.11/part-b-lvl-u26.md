@@ -1,0 +1,25 @@
+# Regel 23bis Übermittlung von zu einer früheren Recherche oder Klassifikation gehörenden Unterlagen
+
+  - 23bis.1 Übermittlung von zu einer früheren Recherche gehörenden Unterlagen bei einem Antrag nach Regel 4.12
+
+  - a) Das Anmeldeamt übermittelt der Internationalen Recherchenbehörde, zusammen mit dem Recherchenexemplar, jegliche in Regel 12bis.1 Absatz a genannte Kopie, die zu einer früheren Recherche gehört, hinsichtlich der der Anmelder einen Antrag nach Regel 4.12 gestellt hat, sofern eine solche Kopie:
+
+    - i) vom Anmelder zusammen mit der internationalen Anmeldung beim Anmeldeamt eingereicht wurde;
+
+    - ii) auf Antrag des Anmelders vom Anmeldeamt erstellt und an diese Behörde übermittelt werden soll; oder
+
+    - iii) dem Anmeldeamt in einer für es akzeptablen Form und Weise nach Regel 12bis.1 Absatz d zugänglich ist, zum Beispiel über eine digitale Bibliothek.
+
+  - b) Ist diese nicht in der Kopie der Ergebnisse der früheren Recherche nach Regel 12bis.1 Absatz a enthalten, so übermittelt das Anmeldeamt der Internationalen Recherchenbehörde, zusammen mit dem Recherchenexemplar, auch eine Kopie der Ergebnisse jeglicher von diesem Amt durchgeführten früheren Klassifikation, sofern diese bereits verfügbar sind.
+
+  - 23bis.2 Übermittlung von zu einer früheren Recherche oder Klassifikation gehörenden Unterlagen für die Zwecke der Regel 41.2
+
+  - a) Für die Zwecke der Regel 41.2 übermittelt das Anmeldeamt der Internationalen Recherchenbehörde, wenn die internationale Anmeldung die Priorität einer oder mehrerer früherer Anmeldungen beansprucht, die bei demselben Amt eingereicht wurden wie demjenigen, das als Anmeldeamt handelt, und dieses Amt eine frühere Recherche im Zusammenhang mit einer solchen früheren Anmeldung durchgeführt hat oder eine solche frühere Anmeldung klassifiziert hat, vorbehaltlich des gemäss Artikel 30 Absatz 3 geltenden Artikels 30 Absatz 2 Buchstabe a und der Absätze b, d und e, zusammen mit dem Recherchenexemplar, eine Kopie der Ergebnisse einer solchen früheren Recherche in jeglicher Form, in der sie dem Amt zugänglich sind (zum Beispiel in Form eines Recherchenberichts, einer Auflistung der zum Stand der Technik gehörenden Unterlagen oder eines Prüfungsberichts), sowie eine Kopie der Ergebnisse einer solchen von dem Amt durchgeführten früheren Klassifikation, sofern diese bereits verfügbar sind. Das Anmeldeamt kann der Internationalen Recherchenbehörde, vorbehaltlich des gemäss Artikel 30 Absatz 3 geltenden Artikels 30 Absatz 2 Buchstabe a, auch alle weiteren zu einer solchen früheren Recherche gehörenden Unterlagen übermitteln, die sie für die Durchführung der internationalen Recherche als für diese Behörde zweckmässig erachtet.
+
+  - b) Ungeachtet des Absatzes a kann ein Anmeldeamt das Internationale Büro bis zum 14. April 2016 davon in Kenntnis setzen, dass es auf einen zusammen mit der internationalen Anmeldung eingereichten Antrag des Anmelders hin die Entscheidung trifft, der Internationalen Recherchenbehörde die Ergebnisse einer früheren Recherche nicht zu übermitteln. Das Internationale Büro veröffentlicht jede Mitteilung gemäss dieser Bestimmung im Blatt.
+
+  - c) Nach Wahl des Anmeldeamts findet Absatz a entsprechend Anwendung, wenn die internationale Anmeldung die Priorität einer oder mehrerer früherer Anmeldungen beansprucht, die bei einem anderen Amt als demjenigen, das als Anmeldeamt handelt, eingereicht wurden, und dieses Amt eine frühere Recherche im Zusammenhang mit einer solchen früheren Anmeldung durchgeführt hat oder eine solche frühere Anmeldung klassifiziert hat und die Ergebnisse einer solchen früheren Recherche oder Klassifikation dem Anmeldeamt in einer für es akzeptablen Form und Weise zugänglich sind, zum Beispiel über eine digitale Bibliothek.
+
+  - d) Die Absätze a und c finden keine Anwendung, wenn die frühere Recherche von derselben Internationalen Recherchenbehörde oder von demselben Amt, die oder das als Internationale Recherchenbehörde handelt, durchgeführt wurde oder wenn das Anmeldeamt Kenntnis davon hat, dass eine Kopie der Ergebnisse der früheren Recherche oder Klassifikation der Internationalen Recherchenbehörde in einer für sie akzeptablen Form und Weise zugänglich ist, zum Beispiel über eine digitale Bibliothek.
+
+  - e) In dem Masse, wie am 14. Oktober 2015 die Übermittlung der in Absatz a genannten Kopien oder die Übermittlung dieser Kopien in einer speziellen Form, wie beispielsweise der in Absatz a genannten, ohne die Zustimmung des Anmelders nicht mit dem vom Anmeldeamt anzuwendenden nationalen Recht vereinbar ist, so findet jener Absatz keine Anwendung auf die Übermittlung dieser Kopien oder auf die Übermittlung dieser Kopien in der betreffenden speziellen Form im Zusammenhang mit allen internationalen Anmeldungen, die bei diesem Anmeldeamt eingereicht werden, solange diese Übermittlung ohne die Zustimmung des Anmelders weiterhin nicht mit diesem Recht vereinbar ist, sofern dieses Amt das Internationale Büro bis zum 14. April 2016 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.
