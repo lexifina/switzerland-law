@@ -1,0 +1,5 @@
+# Regel 64Europäischer Recherchenbericht bei mangelnder Einheitlichkeit
+
+(1) Entspricht die europäische Patentanmeldung nach Auffassung des Europäischen Patentamts nicht den Anforderungen an die Einheitlichkeit der Erfindung, so erstellt es einen teilweisen Recherchenbericht für die Teile der Anmeldung, die sich auf die in den Patentansprüchen zuerst erwähnte Erfindung oder Gruppe von Erfindungen im Sinne des Artikels 82 beziehen. Es teilt dem Anmelder mit, dass für jede weitere Erfindung innerhalb einer Frist von zwei Monaten eine weitere Recherchengebühr zu entrichten ist, wenn der europäische Recherchenbericht diese Erfindung erfassen soll. Der europäische Recherchenbericht wird für die Teile der Anmeldung erstellt, die sich auf die Erfindungen beziehen, für die Recherchengebühren entrichtet worden sind.
+
+(2) Eine nach Absatz 1 gezahlte Recherchengebühr wird zurückgezahlt, wenn der Anmelder dies im Verlauf der Prüfung der europäischen Patentanmeldung beantragt und die Prüfungsabteilung feststellt, dass die Mitteilung nach Absatz 1 nicht gerechtfertigt war.

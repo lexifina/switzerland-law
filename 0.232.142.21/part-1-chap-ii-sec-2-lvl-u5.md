@@ -1,0 +1,7 @@
+# Regel 12dErnennung und Wiederernennung von Mitgliedern der Beschwerdekammern und der Grossen Beschwerdekammer einschliesslich der Vorsitzenden
+
+(1) Der Vorsitzende der Grossen Beschwerdekammer wird bei seiner Ernennung auch zum rechtskundigen Mitglied der Beschwerdekammern ernannt.
+
+(2) Nach Übertragung durch den Präsidenten des Europäischen Patentamts übt der Präsident der Beschwerdekammern das Recht aus, Mitglieder und Vorsitzende der Beschwerdekammern und Mitglieder der Grossen Beschwerdekammer zur Ernennung durch den Verwaltungsrat vorzuschlagen, ebenso wie das Recht, zu ihrer Wiederernennung (Artikel 11 Absatz 3) und zur Ernennung und Wiederernennung externer rechtskundiger Mitglieder (Artikel 11 Absatz 5) gehört zu werden.
+
+(3) Sein Recht, nach Absatz 2 zu Wiederernennungen gehört zu werden, übt der Präsident der Beschwerdekammern aus, indem er dem Verwaltungsrat eine begründete Stellungnahme einschliesslich einer Beurteilung der Leistung des betreffenden Mitglieds oder Vorsitzenden vorlegt. Die Kriterien für die Leistungsbeurteilung legt der Präsident der Beschwerdekammern in Absprache mit dem gemäss Regel 12c Absatz 1 eingesetzten Ausschuss fest. Vorbehaltlich einer positiven Stellungnahme und Leistungsbeurteilung und sofern genügend Stellen nach Artikel 11 Absatz 3 im bewilligten Haushalt für die Beschwerdekammereinheit vorhanden sind, werden die Mitglieder und Vorsitzenden der Beschwerdekammern und die Mitglieder der Grossen Beschwerdekammer am Ende des in Artikel 23 Absatz 1 vorgesehenen Zeitraums von fünf Jahren wieder ernannt.

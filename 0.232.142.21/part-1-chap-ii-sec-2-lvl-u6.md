@@ -1,0 +1,3 @@
+# Regel 13Geschäftsverteilungsplan für die Grosse Beschwerdekammer
+
+Vor Beginn eines jeden Geschäftsjahres bestimmen die nach Artikel 11 Absatz 3 ernannten Mitglieder der Grossen Beschwerdekammer die ständigen Mitglieder der Grossen Beschwerdekammer und ihre Vertreter in Verfahren nach Artikel 22 Absatz 1 a) und b) sowie die ständigen Mitglieder und ihre Vertreter in Verfahren nach Artikel 22 Absatz 1 c). Zur Beschlussfähigkeit ist die Anwesenheit von mindestens fünf Mitgliedern erforderlich, unter denen sich der Vorsitzende der Grossen Beschwerdekammer oder sein Vertreter befinden muss; bei Stimmengleichheit gibt die Stimme des Vorsitzenden oder seines Vertreters den Ausschlag. Stimmenthaltung gilt nicht als Stimmabgabe.

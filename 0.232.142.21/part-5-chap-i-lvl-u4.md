@@ -1,0 +1,5 @@
+# Regel 78Verfahren bei mangelnder Berechtigung des Patentinhabers
+
+(1) Weist ein Dritter dem Europäischen Patentamt während eines Einspruchsverfahrens oder während der Einspruchsfrist nach, dass er gegen den Inhaber des europäischen Patents ein Verfahren eingeleitet hat mit dem Ziel, eine Entscheidung im Sinne des Artikels 61 Absatz 1 zu erwirken, so wird das Einspruchsverfahren ausgesetzt, es sei denn, der Dritte erklärt dem Europäischen Patentamt gegenüber schriftlich seine Zustimmung zur Fortsetzung des Verfahrens. Diese Zustimmung ist unwiderruflich. Das Verfahren wird jedoch erst ausgesetzt, wenn die Einspruchsabteilung den Einspruch für zulässig hält. Regel 14 Absätze 2–4 ist entsprechend anzuwenden.
+
+(2) Ist ein Dritter nach Artikel 99 Absatz 4 in Bezug auf einen oder mehrere benannte Vertragsstaaten an die Stelle des bisherigen Patentinhabers getreten, so kann das im Einspruchsverfahren aufrechterhaltene europäische Patent für diesen Staat oder diese Staaten unterschiedliche Patentansprüche, Beschreibungen und Zeichnungen enthalten.

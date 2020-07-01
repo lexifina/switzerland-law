@@ -1,0 +1,7 @@
+# Regel 53Prioritätsunterlagen
+
+(1) Ein Anmelder, der eine Priorität in Anspruch nimmt, hat innerhalb von sechzehn Monaten nach dem frühesten Prioritätstag eine Abschrift der früheren Anmeldung einzureichen. Diese Abschrift und der Tag der Einreichung der früheren Anmeldung sind von der Behörde, bei der die Anmeldung eingereicht worden ist, zu beglaubigen.
+
+(2) Die Abschrift der früheren Anmeldung gilt als ordnungsgemäss eingereicht, wenn eine dem Europäischen Patentamt zugängliche Abschrift dieser Anmeldung unter den vom Präsidenten des Europäischen Patentamts festgelegten Bedingungen in die Akte der europäischen Patentanmeldung aufzunehmen ist.
+
+(3) Ist die frühere Anmeldung nicht in einer Amtssprache des Europäischen Patentamts abgefasst und ist die Wirksamkeit des Prioritätsanspruchs für die Beurteilung der Patentierbarkeit der Erfindung relevant, so fordert das Europäische Patentamt den Anmelder oder Inhaber des europäischen Patents auf, innerhalb einer zu bestimmenden Frist eine Übersetzung der Anmeldung in einer der Amtssprachen einzureichen. Statt der Übersetzung kann eine Erklärung vorgelegt werden, dass die europäische Patentanmeldung eine vollständige Übersetzung der früheren Anmeldung ist. Absatz 2 ist entsprechend anzuwenden. Wird eine angeforderte Übersetzung einer früheren Anmeldung nicht rechtzeitig eingereicht, so erlischt der Anspruch auf die Priorität dieser Anmeldung für die europäische Patentanmeldung oder das europäische Patent. Der Anmelder oder Inhaber des europäischen Patents wird hiervon unterrichtet.

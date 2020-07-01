@@ -1,0 +1,7 @@
+# Regel 63Unvollständige Recherche
+
+(1) Ist das Europäische Patentamt der Auffassung, dass die europäische Patentanmeldung diesem Übereinkommen so wenig entspricht, dass es unmöglich ist, auf der Grundlage des gesamten beanspruchten Gegenstands oder eines Teils desselben sinnvolle Ermittlungen über den Stand der Technik durchzuführen, so fordert es den Anmelder auf, innerhalb einer Frist von zwei Monaten eine Erklärung mit Angaben zu dem zu recherchierenden Gegenstand abzugeben.
+
+(2) Wird die Erklärung nach Absatz 1 nicht rechtzeitig eingereicht oder reicht sie nicht aus, um den nach Absatz 1 festgestellten Mangel zu beseitigen, so stellt das Europäische Patentamt entweder in einer begründeten Erklärung fest, dass die europäische Patentanmeldung diesem Übereinkommen so wenig entspricht, dass es unmöglich ist, auf der Grundlage des gesamten beanspruchten Gegenstands oder eines Teils desselben sinnvolle Ermittlungen über den Stand der Technik durchzuführen, oder es erstellt, soweit dies durchführbar ist, einen teilweisen Recherchenbericht. Diese begründete Erklärung oder dieser teilweise Recherchenbericht gilt für das weitere Verfahren als europäischer Recherchenbericht.
+
+(3) Wurde ein teilweiser Recherchenbericht erstellt, so fordert die Prüfungsabteilung den Anmelder auf, die Patentansprüche auf den recherchierten Gegenstand zu beschränken, es sei denn, sie stellt fest, dass der Einwand nach Absatz 1 nicht gerechtfertigt war.

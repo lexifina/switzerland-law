@@ -1,0 +1,3 @@
+# Regel 117Entscheidung über eine Beweisaufnahme
+
+Hält das Europäische Patentamt die Vernehmung von Beteiligten, Zeugen oder Sachverständigen oder eine Augenscheinseinnahme für erforderlich, so erlässt es eine entsprechende Entscheidung, in der das betreffende Beweismittel, die rechtserheblichen Tatsachen und Tag, Uhrzeit und Ort der Beweisaufnahme angegeben werden. Hat ein Beteiligter die Vernehmung von Zeugen oder Sachverständigen beantragt, so wird in der Entscheidung eine Frist bestimmt, in der der Antragsteller deren Namen und Anschrift mitteilen muss.

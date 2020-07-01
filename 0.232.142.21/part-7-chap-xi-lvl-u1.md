@@ -1,0 +1,5 @@
+# Regel 151Bestellung eines gemeinsamen Vertreters
+
+(1) Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, so gilt der Anmelder, der im Antrag als Erster genannt ist, als gemeinsamer Vertreter. Ist einer der Anmelder jedoch verpflichtet, einen zugelassenen Vertreter zu bestellen, so gilt dieser Vertreter als gemeinsamer Vertreter, sofern nicht der im Antrag als Erster genannte Anmelder einen zugelassenen Vertreter bestellt hat. Entsprechendes gilt für gemeinsame Patentinhaber und mehrere Personen, die gemeinsam Einspruch einlegen oder den Beitritt erklären.
+
+(2) Geht die europäische Patentanmeldung auf mehrere Personen über und haben diese Personen keinen gemeinsamen Vertreter bezeichnet, so ist Absatz 1 entsprechend anzuwenden. Ist eine entsprechende Anwendung nicht möglich, so fordert das Europäische Patentamt die genannten Personen auf, innerhalb einer zu bestimmenden Frist einen gemeinsamen Vertreter zu bestellen. Wird dieser Aufforderung nicht entsprochen, so bestimmt das Europäische Patentamt den gemeinsamen Vertreter.
