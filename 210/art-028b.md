@@ -16,4 +16,6 @@
 
   - 2. mit Zustimmung des Vermieters die Rechte und Pflichten aus einem Mietvertrag allein übertragen.
 
+3bis Es teilt seinen Entscheid den zuständigen Kindes- und Erwachsenenschutzbehörden und der zuständigen kantonalen Stelle nach Absatz 4 sowie weiteren Behörden und Dritten mit, soweit dies zu deren Aufgabenerfüllung oder zum Schutz der klagenden Person notwendig erscheint oder der Vollstreckung des Entscheides dient.
+
 4 Die Kantone bezeichnen eine Stelle, die im Krisenfall die sofortige Ausweisung der verletzenden Person aus der gemeinsamen Wohnung verfügen kann, und regeln das Verfahren.
