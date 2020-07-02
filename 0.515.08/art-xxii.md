@@ -1,0 +1,3 @@
+# Art. XXII Vorbehalte
+
+Vorbehalte zu den Artikeln dieses Übereinkommens sind nicht zulässig. Vorbehalte zu den Anhängen des Übereinkommens, die mit Ziel und Zweck des Übereinkommens unvereinbar sind, sind nicht zulässig.

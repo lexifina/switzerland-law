@@ -1,0 +1,13 @@
+# Art. XIV Beilegung von Streitigkeiten
+
+(1) Streitigkeiten, die über die Anwendung oder Auslegung dieses Übereinkommens entstehen können, werden im Einklang mit den einschlägigen Bestimmungen des Übereinkommens und nach Massgabe der Charta der Vereinten Nationen beigelegt.
+
+(2) Entsteht zwischen zwei oder mehr Vertragsstaaten oder zwischen einem oder mehreren Vertragsstaaten und der Organisation eine Streitigkeit über die Auslegung oder Anwendung dieses Übereinkommens, so konsultieren die Parteien einander mit dem Ziel, eine umgehende Beilegung der Streitigkeit durch Verhandlung oder andere friedliche Mittel ihrer Wahl herbeizuführen, unter anderem durch Inanspruchnahme der geeigneten Organe des Übereinkommens sowie im gegenseitigen Einvernehmen durch Verweisung an den Internationalen Gerichtshof nach Massgabe seines Statuts. Die beteiligten Vertragsstaaten halten den Exekutivrat über die getroffenen Massnahmen auf dem Laufenden.
+
+(3) Der Exekutivrat kann zur Beilegung einer Streitigkeit durch die von ihm für zweckmässig erachteten Mittel beitragen, indem er unter anderem seine guten Dienste anbietet, die an der Streitigkeit beteiligten Vertragsstaaten auffordert, das Beilegungsverfahren ihrer Wahl in Gang zu setzen, und für jedes vereinbarte Verfahren eine Frist vorschlägt.
+
+(4) Die Konferenz prüft Fragen im Zusammenhang mit Streitigkeiten, die von Vertragsstaaten aufgeworfen oder ihr durch den Exekutivrat zur Kenntnis gebracht werden. Soweit sie dies für notwendig hält, schafft sie nach Massgabe des Artikels VIII Absatz 21 Buchstabe f Organe für die Beilegung dieser Streitigkeiten oder betraut vorhandene Organe mit dieser Aufgabe.
+
+(5) Die Konferenz und der Exekutivrat werden unabhängig von einander ermächtigt, den Internationalen Gerichtshof vorbehaltlich der Genehmigung durch die Generalversammlung der Vereinten Nationen um ein Gutachten zu einer Rechtsfrage zu ersuchen, die sich im Rahmen der Tätigkeiten der Organisation ergibt. Zwischen der Organisation und den Vereinten Nationen wird zu diesem Zweck im Einklang mit Artikel VIII Absatz 34 Buchstabe a eine Vereinbarung getroffen.
+
+(6) Dieser Artikel lässt Artikel IX oder die Bestimmungen über Massnahmen zur Bereinigung einer Lage und zur Gewährleistung der Einhaltung, einschliesslich Sanktionen, unberührt.
