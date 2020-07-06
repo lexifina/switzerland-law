@@ -1,0 +1,5 @@
+# Art. III
+
+1 Der Generalsekretär der Vereinten Nationen führt ein Register, in das die nach Artikel IV übermittelten Angaben eingetragen werden.
+
+2 Die Angaben in diesem Register sind in vollem Umfang und frei zugänglich.
