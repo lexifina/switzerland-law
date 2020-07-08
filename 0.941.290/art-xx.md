@@ -1,0 +1,3 @@
+# Art. XX
+
+Das Büro hat seinen Verwaltungssitz in Frankreich.
