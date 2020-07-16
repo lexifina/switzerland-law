@@ -1,0 +1,3 @@
+# Art. XV
+
+Jeder Vertragsstaat kann Änderungen dieses Vertrags vorschlagen. Änderungen treten für jeden Vertragsstaat, der sie annimmt, in Kraft, sobald die Mehrheit der Vertragsstaaten sie angenommen hat; für jeden weiteren Vertragsstaat treten sie mit der Annahme durch diesen in Kraft.
