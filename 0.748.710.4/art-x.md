@@ -1,0 +1,3 @@
+# Art. X
+
+Der Technische Anhang dieses Übereinkommens ist Bestandteil des Übereinkommens.

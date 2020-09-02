@@ -1,0 +1,5 @@
+# Art. III
+
+1. Jeder Vertragsstaat trifft die notwendigen und wirksamen Massnahmen, um die Verbringung nicht markierter Sprengstoffe in sein Hoheitsgebiet oder aus seinem Hoheitsgebiet zu verbieten und zu verhindern.
+
+2. Absatz 1 findet keine Anwendung auf die Verbringung nicht markierter Sprengstoffe, die der Kontrolle eines Vertragsstaats nach Artikel IV Absatz 1 unterliegen, durch militärische oder polizeiliche Aufgaben wahrnehmende Behörden dieses Vertragsstaats für Zwecke, die den Zielen dieses Übereinkommens nicht entgegenstehen.
