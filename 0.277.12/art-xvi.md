@@ -1,0 +1,5 @@
+# Art. XVI
+
+1. Dieses Übereinkommen, dessen chinesischer, englischer, französischer, russischer und spanischer Wortlaut in gleicher Weise massgebend ist, wird in dem Archiv der Vereinten Nationen hinterlegt.
+
+2. Der Generalsekretär der Vereinten Nationen übermittelt den in Artikel VIII bezeichneten Staaten eine beglaubigte Abschrift dieses Übereinkommens.
