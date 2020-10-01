@@ -1,0 +1,7 @@
+# Art. 36c Unterbruch und Neubeginn der Lohnfortzahlung bei Krankheit oder Unfall
+
+1 Arbeitet eine Mitarbeiterin oder ein Mitarbeiter nach Beginn der Arbeitsunfähigkeit zwischenzeitlich wieder entsprechend dem Beschäftigungsgrad, so verlängern sich die Fristen nach Artikel 36abis Absatz 1 um die Anzahl Tage, an denen die ganze tägliche Sollarbeitszeit geleistet und die Anforderungen gemäss Stellenbeschrieb erfüllt werden.
+
+2 Nach Ablauf der Lohnfortzahlungsfristen nach Artikel 36abis Absatz 1 beginnen bei einer Arbeitsunfähigkeit infolge einer neuen Krankheit oder eines neuen Unfalls oder eines erneuten Auftretens einer Krankheit oder von Unfallfolgen diese Fristen neu zu laufen, wenn die angestellte Person zuvor während mindestens zwölf Monaten ununterbrochen entsprechend ihrem Beschäftigungsgrad arbeitsfähig war. Abwesenheiten wegen Krankheit oder Unfall von insgesamt weniger als 30 Kalendertagen werden nicht berücksichtigt.
+
+3 Bei Arbeitsunfähigkeit infolge einer neuen Krankheit oder eines neuen Unfalls nach Ablauf der Lohnfortzahlungsfristen nach Artikel 36abis und bevor die Mitarbeiterin oder der Mitarbeiter während mindestens zwölf Monaten ununterbrochen entsprechend ihrem Beschäftigungsgrad arbeitsfähig war, besteht bis im fünftem Dienstjahr ein Anspruch auf Lohnfortzahlung im Umfang von 90 Prozent des Bruttolohnes während 90 Tagen und ab dem sechsten Dienstjahr während 180 Tagen.
