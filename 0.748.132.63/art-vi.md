@@ -1,0 +1,5 @@
+# Art. VI
+
+1. Die nach Artikel V festgelegte Grenze darf nur für die Errichtung, den Betrieb und den Unterhalt solcher Dienste um einen bestimmten Betrag überschritten werden, welche nach diesem Abkommen nicht einer anderen Regelung unterworfen sind. Diese Überschreitung ist mit Zustimmung einer Gruppe vertragsschliessender Regierungen möglich, deren Beiträge zusammen mindestens neunzig Prozent des Gesamtbetrages der in Artikel VII Absätze 3, 4, 5 und 6 festgesetzten Beiträge für das letzte Kalenderjahr erreichen.
+
+2. Unter Vorbehalt des Artikels II wird jeder Aufwand für die in Absatz 1 dieses Artikels genannten Dienste oder jede in Anwendung des Artikels XIII Absatz 2 Buchstabe a als Folge des Einbezuges der genannten Dienste in dieses Abkommen genehmigte Ausgabe, nur durch die zustimmenden vertragsschliessenden Regierungen getragen. Der Beitrag dieser Regierungen berechnet sich im Verhältnis ihres Anteils am Gesamtaufwand für das betreffende Jahr. Der in Artikel X erwähnte Reservefonds, welcher diesen Diensten nicht anrechenbar ist, darf nicht für Zwecke verwendet werden, denen diese Regierungen allein zugestimmt haben.
