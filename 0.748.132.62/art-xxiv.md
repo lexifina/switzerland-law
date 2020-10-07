@@ -1,0 +1,9 @@
+# Art. XXIV
+
+1. Kündigt die Regierung Dänemarks dieses Abkommen gestützt auf Artikel XXII Absatz 1, so überweist sie der Organisation einen Betrag, oder die Organisation kann auf den dieser Regierung nach dem Wortlaut dieses Abkommens geschuldeten Zahlungen einen Betrag zurückbehalten, welcher den angemessenen Ausgleich für die durch diese Regierung für ihre eigenen Zwecke erzielten Vorteile aus dem Erwerb von beweglichen und unbeweglichen Gütern darstellt, die auf Grund der Bestimmungen des vorliegenden Abkommens dieser Regierung teilweise oder ganz vergütet worden sind.
+
+2. Kündigen andere vertragsschliessende Regierungen als die Regierung Dänemarks dieses Abkommen, so wird der Regierung Dänemarks ein angemessener Beitrag entrichtet, entweder durch Entnahme aus dem Reservefonds oder, wenn dieser Fonds nicht ausreicht, auf Antrag der Organisation durch alle vertragsschliessenden Regierungen, als Ausgleich für die Kapitalaufwendungen der Regierung Dänemarks, welche in Ausführung dieses Abkommens gemacht und nicht vollständig vergütet worden sind. Die von den vertragsschliessenden Regierungen für diesen Zweck verlangten Beiträge werden auf Grund des Prozentsatzes der letzten Beiträge festgesetzt, wobei die Zahlungen auf den Zeitpunkt der Kündigung des Abkommens fällig werden. Die Organisation ist berechtigt, alles bewegliche Eigentum, für welches in Ausführung dieses Absatzes ein Ausgleich entrichtet worden ist, zu übernehmen. Der Verzicht auf dieses Recht ist bei der Festsetzung des Ausgleiches in Rechnung zu stellen.
+
+3. Die Bestimmungen des Absatzes 2 dieses Artikels finden gleicherweise Anwendung auf jeden Teil der Dienste, welcher gemäss Artikel XIII Absatz 5 vom Abkommen ausgenommen ist.
+
+4. Der Betrag der auf Grund der Bestimmungen dieses Artikels vorzunehmenden Zahlungen wird im Einvernehmen zwischen dem Rat und der Regierung Dänemarks festgesetzt.
