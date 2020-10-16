@@ -1,0 +1,7 @@
+# Art. 26a Anspruch auf Vorteile
+
+1. Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen für bestimmte Einkünfte oder Vermögensteile nicht gewährt, wenn unter Berücksichtigung aller massgebenden Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+2. Wenn ein Vorteil dieses Abkommens einer Person unter Absatz 1 verweigert wird, behandelt die zuständige Behörde des Vertragsstaats, der sonst diesen Vorteil gewährt hätte, diese Person dennoch als für diesen Vorteil oder für andere Vorteile in Bezug auf bestimmte Einkünfte oder Vermögensteile berechtigt, falls sie auf Antrag dieser Person und nach Abwägung der massgebenden Tatsachen und Umstände bestimmt, dass solche Vorteile dieser Person oder einer anderen Person ohne die Gestaltung oder Transaktion nach Absatz 1 gewährt worden wären.
+
+3. Die zuständige Behörde des Vertragsstaats, an die der Antrag gestellt worden ist, berät sich mit der zuständigen Behörde des anderen Vertragsstaats, bevor sie einen unter Absatz 1 oder 2 gestellten Antrag von einer im anderen Staat ansässigen Person ablehnt.
