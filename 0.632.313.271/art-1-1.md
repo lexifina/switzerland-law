@@ -1,0 +1,25 @@
+# Art. 1.1 Ziele
+
+Die EFTA-Staaten und Ecuador errichten hiermit eine Freihandelszone in Übereinstimmung mit den Bestimmungen dieses Abkommens, das auf Handelsbeziehungen zwischen Marktwirtschaften und der Einhaltung der demokratischen Grundsätze und der Menschenrechte beruht, um den Wohlstand und die nachhaltige Entwicklung zu fördern.
+
+Die Ziele dieses Abkommens sind:
+
+  - (a) die Liberalisierung des Warenverkehrs im Einklang mit Artikel XXIV des Allgemeinen Zoll- und Handelsabkommens von 1994 (nachfolgend als «GATT 1994» bezeichnet);
+
+  - (b) die Liberalisierung des Handels mit Dienstleistungen im Einklang mit Artikel V des Allgemeinen Abkommens über den Handel mit Dienstleistungen (nachfolgend als das «GATS» bezeichnet);
+
+  - (c) die gegenseitige Ausweitung von Investitionsmöglichkeiten;
+
+  - (d) die Verhinderung, Beseitigung oder Verringerung unnötiger technischer Handelshemmnisse und unnötiger gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen;
+
+  - (e) die Förderung des Wettbewerbs in ihren Märkten, insbesondere in Bezug auf die Wirtschaftsbeziehungen zwischen den Vertragsparteien;
+
+  - (f) die weitere, auf Gegenseitigkeit beruhende Liberalisierung der öffentlichen Beschaffungsmärkte der Vertragsparteien;
+
+  - (g) die Sicherstellung eines angemessenen und wirksamen Schutzes der Rechte an geistigem Eigentum in Übereinstimmung mit den Grundsätzen und Zielen des WTO-Übereinkommens über handelsbezogene Aspekte der Rechte des geistigen Eigentums (nachfolgend «TRIPS-Abkommen»);
+
+  - (h) die Entwicklung des internationalen Handels auf eine Weise, die zum Ziel der nachhaltigen Entwicklung beiträgt und sicherstellt, dass dieses Ziel in den Handelsbeziehungen der Vertragsparteien eingeschlossen ist und in ihnen Ausdruck findet;
+
+  - (i) der Ausbau der Zusammenarbeit, um zur Umsetzung dieses Abkommens beizutragen und die daraus hervorgehenden Vorteile zu vermehren; und
+
+  - (j) die Leistung eines Beitrags zur harmonischen Entwicklung und Ausweitung des Welthandels.
