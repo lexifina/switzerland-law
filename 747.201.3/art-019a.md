@@ -1,0 +1,11 @@
+# Art. 19a Übergangsbestimmungen zur Änderung vom 19. Februar 2020
+
+1 Motoren und Abgasnachbehandlungssysteme, die vor dem Inkrafttreten der Änderungen vom 1. April 2020 nach den bisherigen Vorgaben dieser Verordnung in Betrieb genommen wurden, dürfen weiterhin betrieben werden, sofern sie die bis zur Änderung geltenden Anforderungen erfüllen.
+
+2 Für Motoren in Schiffen, die für den gewerbsmässigen Transport eingesetzt werden sollen und die beim Inkrafttreten der Änderungen vom 1. April 2020 auf Kiel gelegt sind, gilt das bisherige Recht.
+
+3 Motoren, für die eine Typgenehmigung nach der Richtlinie 97/68/EG, nach Kapitel 8a der Rheinschiffsuntersuchungsordnung vom 18. Mai 1994 für Selbstzündungsmotoren oder nach Anlage C der Bodensee-Schifffahrts-Ordnung vom 17. März 1976 vorliegt und die vor dem Inkrafttreten der Änderungen vom 1. April 2020 in der EU in Verkehr gebracht wurden, dürfen in der Schweiz bis zum 31. März 2022 weiterhin auf dem Markt bereitgestellt oder in Betrieb genommen werden. Vorbehalten bleiben die Bestimmungen von Artikel 9 Absatz 4 über die Nachrüstung von Partikelfilter-Systemen.
+
+4 Motoren, für die eine Typgenehmigung nach der Richtlinie 97/68/EG nach Kapitel 8a der Rheinschiffsuntersuchungsordnung vom 18. Mai 1994 für Selbstzündungsmotoren oder nach Anlage C der Bodensee-Schifffahrts-Ordnung vom 17. März 1976 vorliegt und die vor dem Inkrafttreten der Änderungen vom 1. April 2020 in der Schweiz in Verkehr gebracht wurden, dürfen in der Schweiz weiterhin auf dem Markt bereitgestellt oder in Betrieb genommen werden. Vorbehalten bleiben die Bestimmungen von Artikel 9 Absatz 4 über die Nachrüstung von Partikelfilter-Systemen.
+
+5 Tritt bei einem Selbstzündungsmotor in einem gewerbsmässig eingesetzten Schiff, für das bereits eine Betriebsbewilligung (Schiffsausweis) ausgestellt wurde, ein Schaden auf, der einen kurzfristigen Ersatz des Selbstzündungsmotors nötig macht, so kann vorläufig auf den Einbau eines Partikelfilter-Systems verzichtet werden, wenn dieses nicht rechtzeitig beschafft werden kann. Das Partikelfilter-System ist in der nächsten Unterhaltsperiode, spätestens aber ein Jahr nach der Inbetriebnahme des neuen Motors im Schiff einzubauen. Vorbehalten bleiben die Bestimmungen von Artikel 9 Absatz 4 über die Nachrüstung von Partikelfilter-Systemen.
