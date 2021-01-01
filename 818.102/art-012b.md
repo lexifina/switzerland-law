@@ -12,18 +12,20 @@
 
 4 Sie betragen je Spiel höchstens zwei Drittel der durchschnittlichen Ticketeinnahmen, die der Klub an Spielen der nationalen Meisterschaft in der Saison 2018/2019 erzielt hat. Vom Betrag werden die effektiven Einnahmen aus allfälligen Ticketverkäufen ab dem 29. Oktober 2020 abgezogen.
 
-5 Hat ein Klub nach Absatz 1 Buchstabe b sowohl Anspruch auf Beiträge nach diesem Artikel als auch auf Geldleistungen aus dem Hilfspaket, das der Bund Swiss Olympic zur Stabilisierung des Sportsystems gewährt hat, so kann er nur einen der beiden Ansprüche geltend machen.
+5 …
 
 6 Die Beiträge sind an folgende Bedingungen geknüpft:
 
   - a. Während einer Dauer von fünf Jahren nach Erhalt der Beiträge darf der Klub keine Dividenden und Tantiemen ausschütten und keine Kapitaleinlagen zurückerstatten.
 
-  - b. Auf den Zeitpunkt der Auszahlung der Beiträge muss der Klub das durchschnittliche Einkommen einschliesslich Prämien, Boni und weiteren geldwerten Vergünstigungen aus den Einkommen, welche den Höchstbetrag des versicherten Verdienstes in der obligatorischen Unfallversicherung übersteigen, auf diesen Höchstbetrag oder um mindestens 20 Prozent senken. Für die Berechnung dieses durchschnittlichen Einkommens sind die Einkommen der Angestellten in der Saison 2018/2019 massgebend. Der Bundesrat kann auf Gesuch hin auch die Einkommen der Angestellten mit Stichtag am 13. März 2020 berücksichtigen. Lohnsenkungen, die im Zusammenhang mit den Massnahmen des Bundes aufgrund der Covid-19-Epidemie bereits vorgenommen wurden, werden angerechnet. Der Bundesrat kann Ausnahmen für Klubs vorsehen, deren Gesamtlohnsumme erheblich tiefer ist als der Ligadurchschnitt.
+  - b. Auf den Zeitpunkt der Auszahlung der Beiträge muss der Klub das durchschnittliche Einkommen einschliesslich Prämien, Boni und weiteren geldwerten Vergünstigungen aus den Einkommen, welche den Höchstbetrag des versicherten Verdienstes in der obligatorischen Unfallversicherung übersteigen, auf diesen Höchstbetrag oder um mindestens 20 Prozent senken. Für die Berechnung dieses durchschnittlichen Einkommens sind die Einkommen der Angestellten in der Saison 2018/2019 massgebend. Der Bundesrat kann auf Gesuch hin auch die Einkommen der Angestellten mit Stichtag am 13. März 2020 berücksichtigen. Lohnsenkungen, die im Zusammenhang mit den Massnahmen des Bundes aufgrund der Covid-19-Epidemie bereits vorgenommen wurden, werden angerechnet. Der Bundesrat kann Ausnahmen für Klubs vorsehen, deren Gesamtlohnsumme erheblich tiefer ist als der Ligadurchschnitt. Senkt der Club die Löhne nicht oder nicht im erforderlichen Umfang, so erhält er einen Beitrag, der höchstens 50 Prozent der entgangenen Ticketeinnahmen gemäss Absatz 4 beträgt.
 
-  - c. Das Durchschnittseinkommen nach Buchstabe b darf während fünf Jahren nach Erhalt der Beiträge höchstens im Umfang der Erhöhung des Landesindexes der Konsumentenpreise steigen. Der Bundesrat kann Ausnahmen für Klubs vorsehen, die in eine höhere Liga aufsteigen.
+  - c. Die Gesamtlohnsumme aller Mitarbeitenden und aller Spielerinnen und Spieler nach Massgabe der Saison 2019/2020 darf während fünf Jahren nach Erhalt der Beiträge höchstens im Umfang der Erhöhung des Landesindexes der Konsumentenpreise steigen; der Bundesrat kann Ausnahmen für Klubs vorsehen, die in eine höhere Liga aufsteigen.
 
   - d. Die Nachwuchsförderung sowie die Frauenförderung im Klub sind während fünf Jahren mindestens im gleichen Umfang weiterzuführen wie in der Saison 2018/2019.
 
-7 Der Klub berichtet dem Bund jährlich über die Einhaltung der Bedingungen nach Absatz 6. Der Bundesrat legt die Einzelheiten der Berichterstattung und ihrer Veröffentlichung fest.
+7 Der Klub berichtet dem Bund jährlich über die Einhaltung der Bedingungen nach Absatz 6. Der Bundesrat legt die Einzelheiten der Berichterstattung und ihrer Veröffentlichung fest. Er kann Bestimmungen zur Verhinderung von Missbräuchen erlassen.
 
 8 Werden Bedingungen nach Absatz 6 oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990.
+
+9 Gesuche für Spiele zwischen dem 29. Oktober 2020 und dem 31. Dezember 2020 können bis zum 30. April 2021 eingereicht werden.
