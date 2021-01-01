@@ -1,0 +1,15 @@
+# Art. 62h
+
+1 Das vereinfachte Verfahren wird angewendet bei:
+
+  - a. örtlich begrenzten Vorhaben mit wenigen, eindeutig bestimmbaren Betroffenen;
+
+  - b. Anlagen, deren Änderung während der Dauer der Konzession das äussere Erscheinungsbild nicht wesentlich verändert, keine schutzwürdigen Interessen Dritter berührt und sich nur unerheblich auf Raum und Umwelt auswirkt;
+
+  - c. Anlagen, die spätestens nach drei Jahren wieder entfernt werden.
+
+2 Detailpläne, die sich auf ein bereits genehmigtes Projekt stützen, werden im vereinfachten Verfahren genehmigt.
+
+3 Das Bundesamt kann die Aussteckung anordnen. Das Gesuch wird nicht publiziert und nicht öffentlich aufgelegt. Das Bundesamt unterbreitet die Planvorlage den Betroffenen, soweit sie nicht vorher schriftlich ihre Einwilligung gegeben haben; deren Einsprachefrist beträgt 30 Tage. Das Bundesamt kann bei Kantonen und Gemeinden Stellungnahmen einholen. Es setzt dafür eine angemessene Frist.
+
+4 Im Übrigen gelten die Bestimmungen für das ordentliche Verfahren. Im Zweifelsfall wird dieses durchgeführt.
