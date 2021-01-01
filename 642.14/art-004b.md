@@ -1,0 +1,5 @@
+# Art. 4b Wechsel der Steuerpflicht
+
+1 Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht aufgrund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in dem die steuerpflichtige Person am Ende dieser Periode ihren Wohnsitz hat. Kapitalleistungen nach Artikel 11 Absatz 3 sind jedoch in dem Kanton steuerbar, in dem die steuerpflichtige Person im Zeitpunkt der Fälligkeit der Leistung ihren Wohnsitz hat. …
+
+2 Eine Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit in einem andern Kanton als demjenigen des steuerrechtlichen Wohnsitzes besteht für die gesamte Steuerperiode, auch wenn sie im Laufe des Jahres begründet, verändert oder aufgehoben wird. In diesem Fall wird der Wert der Vermögensobjekte im Verhältnis zur Dauer der Zugehörigkeit vermindert. Im Übrigen werden das Einkommen und das Vermögen zwischen den beteiligten Kantonen in sinngemässer Anwendung der Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
