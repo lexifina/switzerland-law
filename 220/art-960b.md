@@ -1,0 +1,5 @@
+# Art. 960b
+
+1 In der Folgebewertung dürfen Aktiven mit Börsenkurs oder einem anderen beobachtbaren Marktpreis in einem aktiven Markt zum Kurs oder Marktpreis am Bilanzstichtag bewertet werden, auch wenn dieser über dem Nennwert oder dem Anschaffungswert liegt. Wer von diesem Recht Gebrauch macht, muss alle Aktiven der entsprechenden Positionen der Bilanz, die einen beobachtbaren Marktpreis aufweisen, zum Kurs oder Marktpreis am Bilanzstichtag bewerten. Im Anhang muss auf diese Bewertung hingewiesen werden. Der Gesamtwert der entsprechenden Aktiven muss für Wertschriften und übrige Aktiven mit beobachtbarem Marktpreis je gesondert offengelegt werden.
+
+2 Werden Aktiven zum Börsenkurs oder zum Marktpreis am Bilanzstichtag bewertet, so darf eine Wertberichtigung zulasten der Erfolgsrechnung gebildet werden, um Schwankungen im Kursverlauf Rechnung zu tragen. Solche Wertberichtigungen sind jedoch nicht zulässig, wenn dadurch sowohl der Anschaffungswert als auch der allenfalls tiefere Kurswert unterschritten würden. Der Betrag der Schwankungsreserven ist insgesamt in der Bilanz oder im Anhang gesondert auszuweisen.
