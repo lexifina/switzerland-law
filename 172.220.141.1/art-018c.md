@@ -1,0 +1,5 @@
+# Art. 18c Weiterführung der Vorsorge bei Reduktion des massgebenden Jahreslohnes
+
+1 Wird der massgebende Jahreslohn einer versicherten Person nach Vollendung des 58. Altersjahres um maximal die Hälfte reduziert, so wird auf Verlangen der versicherten Person die Vorsorge für den bisherigen versicherten Verdienst ganz oder teilweise weitergeführt.
+
+2 Die Weiterversicherung des bisherigen versicherten Verdienstes dauert höchstens bis zum Ende des Arbeitsverhältnisses. Sie endet in jedem Fall bei Vollendung des 65. Altersjahres.

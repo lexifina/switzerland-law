@@ -1,0 +1,5 @@
+# Art. 108j Übergangsbestimmungen zur Änderung vom 21. März 2019
+
+1 Für Angehörige der besonderen Personalkategorien nach Artikel 2 Buchstaben a Ziffern 1 und 2 sowie b Ziffern 1, 2 und 4 VPABP, die spätestens seit dem 30. April 2019 Angehörige dieser Personalkategorien sind und vor dem 1. Januar 2020 das 50. Altersjahr oder 23 Dienstjahre vollendet haben, richten sich die Sparbeiträge, die Leistung freiwilliger Sparbeiträge und der Einkauf nach Anhang 6a in der Fassung vom 15. Februar 2018. Vorbehalten bleibt für Angehörige der besonderen Personalkategorien nach Artikel 2 Buchstabe a Ziffern 1 und 2 VPABP die Unterstellung unter das neue Recht nach Artikel 9a Absatz 3 VPABP.
+
+2 Für Personen, die spätestens seit dem 30. April 2019 Angehörige dieser Personalkategorien sind und vor dem 1. Januar 2020 weder das 50. Altersjahr noch 23 Dienstjahre vollendet haben, richten sich die Sparbeiträge, die Leistung freiwilliger Sparbeiträge und der Einkauf bis zum 31. Dezember 2019 nach Anhang 6a in der Fassung vom 15. Februar 2018.
