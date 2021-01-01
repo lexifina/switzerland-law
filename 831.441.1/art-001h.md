@@ -1,0 +1,5 @@
+# Art. 1h
+
+1 Das Versicherungsprinzip ist eingehalten, wenn mindestens 4 Prozent aller Beiträge zur Finanzierung der Leistungen für die Risiken Tod und Invalidität bestimmt sind. Massgebend für die Berechnung dieses Mindestanteils ist die Gesamtheit der Beiträge für alle Kollektive und Pläne eines angeschlossenen Arbeitgebers in einer Vorsorgeeinrichtung. Sind einer Vorsorgeeinrichtung mehrere Arbeitgeber angeschlossen, so sind für die Berechnung des Mindestanteils jeweils die Beiträge für die Kollektive und Pläne eines einzelnen Arbeitgebers in dieser Vorsorgeeinrichtung massgebend.
+
+2 In Vorsorgeeinrichtungen, welche ausschliesslich die weitergehende und ausserobligatorische Vorsorge betreiben, ist das Versicherungsprinzip auch dann eingehalten, wenn gemäss Reglement das Altersguthaben ohne Risikoschutz geäufnet wird in Fällen, in denen sich aufgrund einer ärztlichen Gesundheitsprüfung ein wesentlich erhöhtes Risiko ergibt und deshalb die Versicherung der Risiken Tod und Invalidität abgelehnt wird. In diesen Fällen kann die Altersleistung nur in Rentenform bezogen werden.

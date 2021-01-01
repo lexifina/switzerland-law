@@ -1,0 +1,5 @@
+# Art. 48k Abgabe von Vermögensvorteilen
+
+1 Personen und Institutionen, die mit der Geschäftsführung, Verwaltung oder Vermögensverwaltung einer Vorsorgeeinrichtung betraut sind, müssen die Art und Weise der Entschädigung und deren Höhe eindeutig bestimmbar in einer schriftlichen Vereinbarung festhalten. Sie müssen der Einrichtung zwingend sämtliche Vermögensvorteile abliefern, die sie darüber hinaus im Zusammenhang mit der Ausübung ihrer Tätigkeit für die Einrichtung erhalten.
+
+2 Werden externe Personen und Institutionen mit der Vermittlung von Vorsorgegeschäften beauftragt, so müssen sie beim ersten Kundenkontakt über die Art und Herkunft sämtlicher Entschädigungen für ihre Vermittlungstätigkeit informieren. Die Art und Weise der Entschädigung sind zwingend in einer schriftlichen Vereinbarung zu regeln, die der Vorsorgeeinrichtung und dem Arbeitgeber offenzulegen ist. Die Bezahlung und die Entgegennahme von zusätzlichen volumen-, wachstums- oder schadenabhängigen Entschädigungen sind untersagt.
