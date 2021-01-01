@@ -1,0 +1,3 @@
+# Art. 34a Übergangsbestimmung zur Änderung vom 19. August 2020
+
+Enteignungsverfahren, die vor dem Inkrafttreten dieser Änderung eingeleitet und bei Inkrafttreten noch hängig sind, werden nach bisherigem Recht zu Ende geführt.
