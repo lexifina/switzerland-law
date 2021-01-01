@@ -1,0 +1,5 @@
+# Art. 191b Richterliche Behörden der Kantone
+
+1 Die Kantone bestellen richterliche Behörden für die Beurteilung von zivilrechtlichen und öffentlich-rechtlichen Streitigkeiten sowie von Straffällen.
+
+2 Sie können gemeinsame richterliche Behörden einsetzen.
