@@ -1,0 +1,3 @@
+# Art. 7a Fortdauer des Versicherungsschutzes für nicht mehr unterstellte Personen
+
+Die Versicherer können Personen, die nach Artikel 1 Absätze 1 und 2 Buchstaben a und c sowie den Artikeln 3–6 der obligatorischen Krankenpflegeversicherung unterstellt waren, auf vertraglicher Basis eine Fortdauer des Versicherungsschutzes anbieten. Der Vertrag kann beim gleichen oder bei einem anderen Versicherer abgeschlossen werden. Die Finanzierung von Leistungen, welche denjenigen der obligatorischen Krankenpflegeversicherung entsprechen, richtet sich nach den Grundsätzen der sozialen Krankenversicherung. Die Versicherungsverhältnisse unterliegen dem Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag.
