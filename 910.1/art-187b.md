@@ -1,0 +1,9 @@
+# Art. 187b Übergangsbestimmungen zur Änderung vom 20. Juni 2003
+
+1–4 …
+
+5 Artikel 138 tritt erst mit dem Inkrafttreten des neuen Berufsbildungsgesetzes vom 13. Dezember 2002 in Kraft.
+
+6 und 7 …
+
+8 …
