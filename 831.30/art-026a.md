@@ -1,0 +1,3 @@
+# Art. 26a Datenbekanntgabe an die Migrationsbehörden
+
+Zur Prüfung der Voraussetzungen für den Familiennachzug sowie des Anspruchs auf Aufenthalt melden die für die Festsetzung und die Auszahlung der Ergänzungsleistungen zuständigen Organe nach Artikel 97 Absatz 3 Buchstabe dter des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005 und in Abweichung von Artikel 33 ATSG den Migrationsbehörden unaufgefordert den Bezug einer jährlichen Ergänzungsleistung nach Artikel 3 Absatz 1 Buchstabe a durch Ausländerinnen und Ausländer. Werden nur Krankheits- und Behinderungskosten nach Artikel 3 Absatz 1 Buchstabe b vergütet, so sind den Migrationsbehörden Fälle grösserer Vergütungen zu melden.
