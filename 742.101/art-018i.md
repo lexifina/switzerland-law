@@ -1,0 +1,15 @@
+# Art. 18i Vereinfachtes Plangenehmigungsverfahren
+
+1 Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
+
+  - a. örtlich begrenzten Vorhaben mit wenigen, eindeutig bestimmbaren Betroffenen;
+
+  - b. Eisenbahnanlagen, deren Änderung oder Umnutzung das äussere Erscheinungsbild nicht wesentlich verändert, keine schutzwürdigen Interessen Dritter berührt und sich nur unerheblich auf Raum und Umwelt auswirkt;
+
+  - c. Eisenbahnanlagen, die spätestens nach drei Jahren wieder entfernt werden.
+
+2 Detailpläne, die sich auf ein bereits genehmigtes Projekt stützen, werden im vereinfachten Verfahren genehmigt.
+
+3 Die Genehmigungsbehörde kann die Aussteckung anordnen. Das Gesuch wird nicht publiziert und nicht öffentlich aufgelegt. Die Genehmigungsbehörde unterbreitet die Planvorlage den Betroffenen, soweit sie nicht vorher schriftlich ihre Einwilligung gegeben haben; deren Einsprachefrist beträgt 30 Tage. Die Genehmigungsbehörde kann bei Kantonen und Gemeinden Stellungnahmen einholen. Sie setzt dafür eine angemessene Frist.
+
+4 Im Übrigen gelten die Bestimmungen für das ordentliche Verfahren. Im Zweifelsfall wird dieses durchgeführt.
