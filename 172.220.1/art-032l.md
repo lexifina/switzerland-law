@@ -1,0 +1,5 @@
+# Art. 32l Anpassung der Renten an die Teuerung aus Vermögenserträgen von PUBLICA
+
+1 Das paritätische Organ des Vorsorgewerks legt die Höhe der Teuerungsanpassung auf den Renten nach dem dafür zur Verfügung stehenden Vermögensertrag fest. Eine Teuerungsanpassung darf erst nach erfolgtem Aufbau einer mindestens 15 %igen Schwankungsreserve erfolgen.
+
+2 Im Vorsorgewerk Bund gilt der Entscheid des paritätischen Organs für alle Arbeitgeber. Er hat keine Auswirkungen auf die ehemaligen Bundesangestellten, die im Zeitpunkt der Anpassung ihre Rente von einer anderen Vorsorgeeinrichtung als PUBLICA oder von einem anderen zu PUBLICA gehörenden Vorsorgewerk beziehen. Ebenfalls keine Auswirkungen hat der Entscheid auf die Rentnerinnen und Rentner, die einem geschlossenen Rentnerbestand angehören (Art. 23 Abs. 2 zweiter Satz PUBLICA-Gesetz vom 20. Dez. 2006), solange diese Rentnerinnen und Rentner nicht nach Artikel 24 Absatz 4 des PUBLICA-Gesetzes vom 20. Dezember 2006 in das Vorsorgewerk Bund überführt worden sind.
