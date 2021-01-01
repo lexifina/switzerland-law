@@ -10,8 +10,6 @@
 
   - 3. die den Stockwerkeigentümern insgesamt auferlegten öffentlich-rechtlichen Beiträge und Steuern;
 
-  - 4. die Zins- und Amortisationszahlungen an Pfandgläubiger,
-
-  - denen die Liegenschaft haftet oder denen sich die Stockwerkeigentümer solidarisch verpflichtet haben.
+  - 4. die Zins- und Amortisationszahlungen an Pfandgläubiger, denen die Liegenschaft haftet oder denen sich die Stockwerkeigentümer solidarisch verpflichtet haben.
 
 3 Dienen bestimmte gemeinschaftliche Bauteile, Anlagen oder Einrichtungen einzelnen Stockwerkeinheiten nicht oder nur in ganz geringem Masse, so ist dies bei der Verteilung der Kosten zu berücksichtigen.

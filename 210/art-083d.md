@@ -1,6 +1,6 @@
 # Art. 83d
 
-1 Ist die vorgesehene Organisation nicht genügend, fehlt der Stiftung eines der vorgeschriebenen Organe oder ist eines dieser Organe nicht rechtmässig zusammengesetzt, so muss die Aufsichtsbehörde die erforderlichen Massnahmen ergreifen. Sie kann insbesondere:
+1 Ist die vorgesehene Organisation nicht genügend, fehlt der Stiftung eines der vorgeschriebenen Organe oder ist eines dieser Organe nicht rechtmässig zusammengesetzt oder verfügt die Stiftung über kein Rechtsdomizil an ihrem Sitz mehr, so muss die Aufsichtsbehörde die erforderlichen Massnahmen ergreifen. Sie kann insbesondere:
 
   - 1. der Stiftung eine Frist ansetzen, binnen derer der rechtmässige Zustand wieder herzustellen ist; oder
 

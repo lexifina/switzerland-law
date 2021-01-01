@@ -1,6 +1,6 @@
 # Art. 69c
 
-1 Fehlt dem Verein eines der vorgeschriebenen Organe, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.
+1 Fehlt dem Verein eines der vorgeschriebenen Organe oder verfügt er über kein Rechtsdomizil an seinem Sitz mehr, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.
 
 2 Das Gericht kann dem Verein insbesondere eine Frist zur Wiederherstellung des rechtmässigen Zustandes ansetzen und, wenn nötig, einen Sachwalter ernennen.
 
