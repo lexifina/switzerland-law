@@ -1,0 +1,3 @@
+# Art. 28b Überprüfung von Teil Drei wenn kein massgebliches Austrittsabkommen besteht
+
+Unter den in Artikel 28a Absatz 1 genannten Umständen überprüfen die Parteien gemeinsam die Bestimmungen des Dritten Teils dieses Abkommens im Gemischten Ausschuss vor Ablauf des Jahres, das auf das Datum folgt, an dem es zwischen den Parteien angewandt wird, und danach jährlich. Bei der Durchführung der Überprüfung prüfen die Parteien, ob der Dritte Teil das geeignetste Mittel zur Sicherstellung der Koordinierung der sozialen Sicherheit für die von ihm erfassten Personen bleibt oder ob der Dritte Teil geändert oder ersetzt werden sollte.

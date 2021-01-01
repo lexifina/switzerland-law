@@ -1,0 +1,3 @@
+# Art. 26c Anwendung dieses Teils unter Umständen, in denen es kein massgebliches Austrittsabkommen zwischen der Europäischen Union und dem Vereinigten Königreich gibt
+
+Besteht kein Abkommen zwischen dem Vereinigten Königreich und der Europäischen Union, das die Anwendung der Verordnungen (EG) Nr. 883/2004 und (EG) Nr. 987/2009 zwischen dem Vereinigten Königreich und der Europäischen Union auf eine bestimmte Personengruppe vorsieht, so gelten die in Artikel 26 genannten Koordinierungsverordnungen der Europäischen Union nur zwischen dem Vereinigten Königreich und der Schweiz, soweit dies für die Zwecke dieses Abkommens möglich und erforderlich ist.
