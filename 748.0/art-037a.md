@@ -1,3 +1,5 @@
 # Art. 37a
 
-Das Plangenehmigungsverfahren richtet sich nach diesem Gesetz, für Flughäfen subsidiär nach dem Bundesgesetz vom 20. Juni 1930 über die Enteignung (EntG).
+1 Das Plangenehmigungsverfahren richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968, soweit dieses Gesetz nicht davon abweicht.
+
+2 Sind für Flughäfen Enteignungen notwendig, finden zudem die Vorschriften des EntG Anwendung.
