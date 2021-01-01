@@ -1,0 +1,3 @@
+# Art. 38a
+
+Die Chefin oder der Chef der Armee kann im Einvernehmen mit dem Generalsekretariat VBS Weisungen zu dieser Verordnung erlassen.
