@@ -1,0 +1,3 @@
+# Art. 98a Massnahmen zu Gunsten von Personen, die von Arbeitslosigkeit bedroht sind
+
+Arbeitgeber, die arbeitsmarktliche Massnahmen nach Artikel 59 Absatz 1 AVIG durchführen wollen, müssen die kantonale Amtsstelle bereits bei der Projektierungsphase einbeziehen und danach ein schriftliches Gesuch einreichen. Dieses Gesuch gilt für alle im Betrieb von Arbeitslosigkeit bedrohten Personen. Die kantonale Amtsstelle leitet das Gesuch mit einer Stellungnahme innert zwei Wochen nach dessen Zustellung an die Ausgleichsstelle weiter. Diese entscheidet innert einer Woche. Vorbehalten bleibt Artikel 59c Absatz 4 AVIG.

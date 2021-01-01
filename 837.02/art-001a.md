@@ -1,0 +1,3 @@
+# Art. 1a Begrenzung des beitragspflichtigen Lohnes
+
+Bei einer Beschäftigungsdauer von weniger als einem Jahr wird zur Berechnung der Höchstgrenze des beitragspflichtigen Lohnes der 360. Teil des Jahreshöchstbetrags mit der Anzahl Kalendertage des Beschäftigungszeitraums multipliziert.

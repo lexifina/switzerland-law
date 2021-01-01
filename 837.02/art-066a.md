@@ -1,0 +1,11 @@
+# Art. 66a Normale und verkürzte Arbeitszeit
+
+1 Als normale Arbeitszeit gilt die vertragliche Arbeitszeit des Arbeitnehmers, jedoch höchstens die ortsübliche Arbeitszeit im betreffenden Wirtschaftszweig. Für Arbeitnehmer mit flexiblem Arbeitszeitsystem gilt die vertraglich vereinbarte jahresdurchschnittliche Arbeitszeit als normale Arbeitszeit.
+
+2 Als verkürzt gilt die Arbeitszeit nur, wenn sie zusammen mit geleisteten Mehrstunden die normale Arbeitszeit nicht erreicht. Als Mehrstunden gelten alle ausbezahlten oder nicht ausbezahlten Stunden, welche die vertraglich vereinbarte Arbeitszeit übersteigen. Nicht als Mehrstunden gelten Zeitsaldi bis zu 20 Arbeitsstunden aus betrieblichen Gleitzeitregelungen sowie betrieblich festgelegte Vor- oder Nachholstunden zum Überbrücken von Feiertagen.
+
+3 Mit dem ersten Tag der ersten Abrechnungsperiode, für die Kurzarbeits- oder Schlechtwetterentschädigung ausgerichtet wird, beginnt eine zweijährige Rahmenfrist für den Leistungsbezug.
+
+4 Läuft im Zeitpunkt eines anrechenbaren wetterbedingten Arbeitsausfalles für den Betrieb oder die Betriebsabteilung noch keine Rahmenfrist für den Leistungsbezug, so sind die von den einzelnen Arbeitnehmern in den sechs vorangegangenen Monaten geleisteten Mehrstunden von ihren Arbeitsausfällen abzuziehen.
+
+5 Während der Rahmenfrist für den Leistungsbezug werden alle von den einzelnen Arbeitnehmern bis zum Zeitpunkt eines erneuten Arbeitsausfalles geleisteten Mehrstunden von ihren Arbeitsausfällen abgezogen, jedoch längstens aus den letzten zwölf Monaten.
