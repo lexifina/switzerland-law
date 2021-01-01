@@ -1,0 +1,7 @@
+# Art. 42ter Höhe
+
+1 Massgebend für die Höhe der Hilflosenentschädigung ist das Ausmass der persönlichen Hilflosigkeit. Die Hilflosenentschädigung wird personenbezogen ausgerichtet und soll die Wahlfreiheit in den zentralen Lebensbereichen erleichtern. Die monatliche Entschädigung beträgt bei schwerer Hilflosigkeit 80 Prozent, bei mittelschwerer Hilflosigkeit 50 Prozent und bei leichter Hilflosigkeit 20 Prozent des Höchstbetrages der Altersrente nach Artikel 34 Absätze 3 und 5 AHVG. Die Entschädigung für minderjährige Versicherte berechnet sich pro Tag.
+
+2 Die Höhe der Hilflosenentschädigung für Versicherte, die sich in einem Heim aufhalten, entspricht einem Viertel der Ansätze nach Absatz 1. Vorbehalten bleiben die Artikel 42 Absatz 5 und 42bis Absatz 4.
+
+3 Die Hilflosenentschädigung für Minderjährige, die zusätzlich eine intensive Betreuung brauchen, wird um einen Intensivpflegezuschlag erhöht; dieser Zuschlag wird nicht gewährt bei einem Aufenthalt in einem Heim. Der monatliche Intensivpflegezuschlag beträgt bei einem invaliditätsbedingten Betreuungsaufwand von mindestens 8 Stunden pro Tag 100 Prozent, bei einem solchen von mindestens 6 Stunden pro Tag 70 Prozentund bei einem solchen von mindestens 4 Stunden pro Tag 40 Prozent des Höchstbetrages der Altersrente nach Artikel 34 Absätze 3 und 5 AHVG. Der Zuschlag berechnet sich pro Tag. Der Bundesrat regelt im Übrigen die Einzelheiten.
