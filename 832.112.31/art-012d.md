@@ -1,0 +1,23 @@
+# Art. 12d Massnahmen zur frühzeitigen Erkennung von Krankheiten bei bestimmten Risikogruppen
+
+1 Die Versicherung übernimmt die Kosten für folgende Massnahmen zur frühzeitigen Erkennung von Krankheiten bei bestimmten Risikogruppen unter folgenden Voraussetzungen:
+
+  - Massnahme | Voraussetzung
+
+  - a. HIV-Test | Bei Neugeborenen HIV-positiver Mütter.Bei den übrigen Personen gemäss der Richtlinie «Der HIV-Test auf Initiative des Arztes/der Ärztin bei bestimmten Krankheitsbildern (HIV-Indikatorerkrankungen)» des BAG vom 18. Mai 2015.
+
+  - b. Koloskopie | Bei familiärem Kolonkarzinom (im ersten Verwandtschaftsgrad mindestens drei Personen befallen oder eine Person vor dem 30. Altersjahr).
+
+  - c. Untersuchung der Haut | Bei familiär erhöhtem Melanomrisiko (Melanom bei einer Person im ersten Verwandtschaftsgrad).
+
+  - d. Digitale Mammografie, Mamma-MRI | 1. Bei Frauen mit mässig oder stark erhöhtem familiären Brustkrebsrisiko oder mit vergleichbarem individuellen Risiko. Risikoeinstufung mittels Risikokalkulationsmodellen (z. B. IBIS, CanRisk).Voraussetzung für die Einstufung in die Kategorie «stark erhöhtes Risiko» ist eine genetische Beratung nach Buchstabe f. Indikation, Häufigkeit und Untersuchungsmethode risiko- und altersadaptiert gemäss BAG-Referenzdokument «Überwachungsprotokoll» (Stand 01/2021).Nach einem umfassenden Aufklärungs- und Beratungsgespräch vor der ersten Untersuchung, das dokumentiert werden muss.
+
+  - 2. Indikationsstellung, Aufklärungs- und Beratungsgespräch sowie Durchführung der Überwachung und weitere Beratung und Abklärung bei auffälligen Befunden durch ein zertifiziertes Brustzentrum, das die Anforderungen nach den «Qualitätskriterien für die Zertifizierung von Brustzentren» der Krebsliga Schweiz und der Schweizerischen Gesellschaft für Senologie vom Oktober 2015, nach den Empfehlungen «The requirements of a specialist Breast Centre» der European Society of Breast Cancer Specialists (EUSOMA), veröffentlicht am 19. August 2013, oder nach den Kriterien im «Erhebungsbogen Brustkrebszentren» der Deutschen Krebsgesellschaft und der Deutschen Gesellschaft für Senologie vom 14. Juli 2016 erfüllt.Durchführung der bildgebenden Untersuchungen subsidiär auch durch Leistungserbringer möglich, die auf vertraglicher Basis mit einem zertifizierten Brustzentrum zusammenarbeiten.Soll die Untersuchung in einem anderen Zentrum durchgeführt werden, so ist vorgängig die besondere Gutsprache des Versicherers einzuholen, der die Empfehlung des Vertrauensarztes oder der Vertrauensärztin berücksichtigt.
+
+  - e. In-vitro-Muskelkontraktur-Test zur Erkennung einer Prädisposition für maligne Hyperthermie | Bei Personen nach einem Anästhesiezwischenfall mit Verdacht auf maligne Hyperthermie und bei Blutsverwandten ersten Grades von Personen, bei denen eine maligne Hyperthermie unter Anästhesie bekannt ist und eine Prädisposition für maligne Hyperthermie dokumentiert ist.In einem Zentrum, das von der «European Malignant Hyperthermia Group» anerkannt ist.
+
+  - f. Genetische Beratung, Indikationsstellung für genetische Untersuchungen und Veranlassen der dazugehörigen Laboranalysen gemäss Analysenliste (AL) bei Verdacht auf das Vorliegen einer Prädisposition für eine familiäre Krebskrankheit | Bei Patienten und Patientinnen und Angehörigen ersten Grades von Patienten und Patientinnen mit:– hereditärem Brust- oder Ovarialkrebssyndrom– Polyposis Coli/attenuierter Form der Polyposis Coli– hereditärem Coloncarcinom-Syndrom ohne Polyposis (hereditary non polypotic colon cancer HNPCC)– RetinoblastomDurch Fachärzte und Fachärztinnen medizinische Genetik oder Mitglieder des «Network for Cancer Predisposition Testing and Counseling» der Schweizerischen Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK), die den Nachweis einer fachlichen Zusammenarbeit mit einem Facharzt oder einer Fachärztin medizinische Genetik erbringen können.
+
+  - g. Genetische Beratung, Indikationsstellung für genetische Untersuchungen und Veranlassen der dazugehörigen Laboranalysen gemäss Analysenliste (AL) bei Verdacht auf das Vorliegen einer Prädisposition für eine akute hepatische Porphyrie (akut-intermittierende Porphyrie, Porphyria variegata oder hereditäre Koproporphyrie) | Bei Familienangehörigen von Personen mit symptomatischer nachgewiesener Erkrankung, die ein Risiko von mindestens 12,5 % aufweisen, diese genetische Krankheit zu erben.
+
+2 Wird für die Zuordnung zu einer Risikogruppe ein bestimmter Grad der Verwandtschaft mit einer oder mehreren erkrankten Personen vorausgesetzt, so ist dieser Verwandtschaftsgrad aufgrund anamnestischer Angaben im medizinisch-biologischen Sinne zu ermitteln.

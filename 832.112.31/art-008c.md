@@ -1,0 +1,3 @@
+# Art. 8c Kontrollverfahren
+
+Das Kontrollverfahren dient der Überprüfung der Bedarfsermittlung sowie der Kontrolle der Zweckmässigkeit und der Wirtschaftlichkeit der Leistungen bei Leistungserbringern nach Artikel 7 Absatz 1 Buchstaben a und b. Sieht die Bedarfsermittlung mehr als 60 Stunden Pflege pro Quartal vor, kann diese vom Vertrauensarzt oder von der Vertrauensärztin (Art. 57 KVG) überprüft werden. Sieht sie weniger als 60 Stunden pro Quartal vor, so führt der Vertrauensarzt oder die Vertrauensärztin systematische Stichproben durch. Leistungserbringer und Versicherer können weitere Regelungen des Kontrollverfahrens vereinbaren.
