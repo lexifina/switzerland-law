@@ -1,0 +1,25 @@
+# Art. 89a Bekanntgabe von Personendaten an einen Staat, der durch keines der Schengen-Assoziierungsabkommen gebunden ist
+
+Ein angemessener Schutz der betroffenen Person im Sinne von Artikel 111d AIG liegt vor, wenn hinreichende Garantien sich insbesondere aus entsprechenden Vertragsklauseln ergeben und bezüglich der übermittelten Daten und ihrer Bearbeitung Folgendes gewährleisten:
+
+  - a. Die Grundsätze der Rechtmässigkeit, von Treu und Glauben der Datenbearbeitung sowie der Richtigkeit der Daten werden beachtet.
+
+  - b. Der Zweck der Bekanntgabe ist klar festgelegt.
+
+  - c. Die Daten werden nur so weit bearbeitet, als es für den Zweck der Bekanntgabe erforderlich ist.
+
+  - d. Die zur Bearbeitung ermächtigten Behörden werden klar bezeichnet.
+
+  - e. Die Weitergabe der Daten an andere Staaten, welche kein angemessenes Datenschutzniveau gewährleisten, ist verboten.
+
+  - f. Die Aufbewahrung und Vernichtung der Daten sind klar geregelt.
+
+  - g. Die betroffene Person hat ein Recht auf Berichtigung unrichtiger Daten
+
+  - h. Die betroffene Person wird über die Bearbeitung ihrer Personendaten sowie deren Rahmenbedingungen informiert.
+
+  - i. Die betroffene Person hat ein Recht auf Auskunft über die sie betreffenden Daten.
+
+  - j. Die Datensicherheit ist gewährleistet.
+
+  - k. Die betroffene Person hat das Recht, eine unabhängige Behörde anzurufen, wenn sie der Auffassung ist, die Bearbeitung ihrer Daten sei unzulässig.
