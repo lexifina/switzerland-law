@@ -1,0 +1,3 @@
+# ……..1 Art. 3Ziel
+
+Das übergeordnete Ziel dieses Abkommens ist der Erhalt der bestehenden Handelsbeziehungen zwischen den Vertragsparteien gemäss den Handelsabkommen Schweiz–EU und die Bereitstellung einer Plattform zur weiteren Handelsliberalisierung und zur Weiterentwicklung der Handelsbeziehungen zwischen ihnen.

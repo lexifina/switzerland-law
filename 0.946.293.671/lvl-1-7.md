@@ -1,0 +1,5 @@
+# ……..1 Art. 7Änderungen
+
+1. Die Vertragsparteien können schriftlich vereinbaren, dieses Abkommen zu ändern. Eine gemäss diesem Artikel gemachte Änderung tritt am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei erfolgt ist, dass ihre internen Verfahren abgeschlossen sind, oder zu einem anderen von den Vertragsparteien vereinbarten Zeitpunkt.
+
+2. Ungeachtet von Absatz 1 kann ein gemäss einem Inkorporierten Abkommen eingesetzter Gemischter Ausschuss beschliessen, einen Anhang, eine Anlage, ein Protokoll oder eine Note dieses Inkorporierten Abkommens abzuändern, vorbehältlich der relevanten Bestimmungen des betreffenden Inkorporierten Abkommens.
