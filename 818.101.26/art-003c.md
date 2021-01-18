@@ -1,6 +1,6 @@
 # Art. 3c Massnahmen im öffentlichen Raum
 
-1 Menschenansammlungen von mehr als 15 Personen im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.
+1 Menschenansammlungen von mehr als fünf Personen im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.
 
 2 Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske tragen:
 

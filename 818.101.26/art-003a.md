@@ -4,7 +4,7 @@
 
   - a. Kinder vor ihrem 12. Geburtstag;
 
-  - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können.
+  - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können; für den Nachweis medizinischer Gründe ist ein Attest einer Fachperson erforderlich, die nach dem Medizinalberufegesetz vom 23. Juni 2006 oder dem Psychologieberufegesetz vom 18. März 2011 zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
 
 2 Als Fahrzeuge des öffentlichen Verkehrs nach Absatz 1 gelten:
 
