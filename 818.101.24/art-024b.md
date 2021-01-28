@@ -1,8 +1,8 @@
 # Art. 24b Personen, bei denen Sars-CoV-2-Schnelltests durchgeführt werden dürfen
 
-1 Sars-CoV-2-Schnelltests dürfen nur bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 18. Dezember 2020 erfüllen.
+1 Sars-CoV-2-Schnelltests dürfen nur bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021 erfüllen.
 
-2 Sie dürfen in Einrichtungen nach Artikel 24 Absatz 1 oder ausserhalb dieser Einrichtungen unter Einhaltung von Artikel 24 Absatz 2 auch bei Personen durchgeführt werden, die die Kriterien nach Absatz 1 nicht erfüllen, wenn:
+2 Sie dürfen auch bei Personen durchgeführt werden, die die Kriterien nach Absatz 1 nicht erfüllen, wenn:
 
   - a. die Anforderungen nach den Artikeln 24 Absatz 4 und 24a erfüllt sind;
 

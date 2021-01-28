@@ -1,17 +1,19 @@
-# Art. 26a Verfahren zur Übernahme der Kosten für Analysen auf Sars-CoV-2
+# Art. 26a Schuldner der Vergütung der Leistungen
 
-1 Die Leistungserbringer nach Artikel 26 Absatz 2 senden die Rechnung über Leistungen nach Anhang 6 dem Versicherer spätestens sechs Monate nach Erbringung der Leistungen. Die Rechnung darf nur die Leistungen nach Anhang 6 beinhalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
+1 Wird die Analyse auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021 von einem Leistungserbringer nach Artikel 26 Absatz 2 durchgeführt, der über eine Zahlstellenregisternummer (ZSR-Nummer) verfügt, so wird die Vergütung der Leistungen nach dem System des Tiers payant im Sinne von Artikel 42 Absatz 2 KVG von folgenden Versicherern geschuldet:
 
-2 Die Leistungserbringer nach Artikel 26 Absatz 2 dürfen Leistungen nach Anhang 6 Ziffer 1 nicht nach der Position 3186.00 von Anhang 3 der Krankenpflege-Leistungsverordnung vom 29. September 1995 verrechnen.
+  - a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014, bei dem die getestete Person versichert ist;
 
-3 Zuständig ist der Versicherer nach Artikel 26 Absatz 3, bei dem die getestete Person gegen Krankheit versichert ist. Bei Personen, die nicht in der Schweiz versichert sind, ist die gemeinsame Einrichtung nach Artikel 18 KVG zuständig.
+  - b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung;
 
-4 Die Versicherer kontrollieren die Rechnungen und prüfen, ob die Leistungen nach Anhang 6 von einem Leistungserbringer nach Artikel 26 Absatz 2 korrekt abgerechnet worden sind. Sie beachten bei der Bearbeitung der Daten die Artikel 84–84b KVG.
+  - c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG.
 
-5 Sie melden dem BAG die Anzahl Analysen, die sie den Leistungserbringern nach Artikel 26 Absatz 2 vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober. Die externen Revisionsstellen der Versicherer und der gemeinsamen Einrichtung prüfen jährlich die Meldungen und die Durchführung von geeigneten Kontrollen im Sinne von Absatz 4 und erstatten dem BAG Bericht. Das BAG kann von den Versicherern und der gemeinsamen Einrichtung zusätzliche Informationen zu den vergüteten Beträgen je Leistungserbringer nach Artikel 26 Absatz 2 verlangen.
+2 Wird die Analyse auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021 von einem Leistungserbringer nach Artikel 26 Absatz 2 durchgeführt, der über keine ZSR-Nummer verfügt, so schuldet der Kanton, in dem die Analyse auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
 
-6 Der Bund zahlt den Versicherern die von ihnen vergüteten Leistungen quartalsweise.
+3 Wird die Analyse auf Sars-CoV-2 zur Prävention von Covid-19 bei besonders gefährdeten Personen (Ziff. 4.4 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021) durchgeführt, so können die Leistungserbringer nach Artikel 26 Absatz 2 als Schuldner der Vergütung der Leistung wählen:
 
-7 Bei Verletzung der Meldepflichten nach Artikel 12 EpG durch den Leistungserbringer kann der Bund die Vergütung beim Leistungserbringer zurückfordern.
+  - a. den Versicherer nach Absatz 1, der die Vergütung der Leistungen nach dem System des Tiers payant im Sinne von Artikel 42 Absatz 2 KVG schuldet; oder
 
-8 Die Rechnung für Analysen auf Sars-CoV-2, die bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 18. Dezember 2020 nicht erfüllen, muss mit dem Vermerk «Analyse auf Sars-CoV-2 ohne Erfüllung der Beprobungskriterien» versehen sein.
+  - b. den Kanton, in dem die Analyse auf Sars-CoV-2 durchgeführt wird.
+
+4 Wird die Analyse auf Sars-CoV-2 in Situationen mit erhöhtem Übertragungsrisiko (Ziff. 4.5 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021) durchgeführt, so schuldet der Kanton, in dem die Analyse auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
