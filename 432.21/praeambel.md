@@ -2,6 +2,6 @@
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 1992,
+gestützt auf Artikel 69 Absatz 2 der Bundesverfassung, nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 1992,
 
 beschliesst:
