@@ -22,9 +22,9 @@
 
   - i) die Nummer der betreffenden internationalen Eintragung;
 
-  - ii) den Namen des Inhabers, es sei denn, die Änderung bezieht sich auf den Namen oder die Anschrift des Vertreters,
+  - ii) den Namen des Inhabers, es sei denn, die Änderung bezieht sich auf den Namen oder die Anschrift des Vertreters;
 
-  - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift des neuen Inhabers der internationalen Eintragung, wobei diese Angaben den Verwaltungsvorschriften zu entsprechen haben;
+  - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des neuen Inhabers der internationalen Eintragung;
 
   - iv) im Falle einer Änderung des Inhabers der internationalen Eintragung die Vertragspartei oder die Vertragsparteien, für die der neue Inhaber die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
 

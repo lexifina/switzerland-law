@@ -14,11 +14,11 @@
 
   - b) Die Bestellung eines Vertreters kann auch in einer gesonderten Mitteilung erfolgen, die sich auf eine oder mehrere bestimmte internationale Anmeldungen oder internationale Eintragungen desselben Anmelders oder Inhabers beziehen kann. Diese Mitteilung ist vom Anmelder oder Inhaber zu unterzeichnen.
 
-  - c) Ist nach Auffassung des Internationalen Büros die Bestellung eines Vertreters nicht vorschriftsmässig, so benachrichtigt es den Anmelder oder Inhaber und den angeblichen Vertreter entsprechend.
+  - c) Die Mitteilung bezüglich der Bestellung eines Vertreters muss den Namen und die Anschrift, die nach Massgabe der Verwaltungsvorschriften anzugeben sind, sowie die E-Mail-Adresse des Vertreters enthalten. Ist nach Auffassung des Internationalen Büros die Bestellung eines Vertreters nicht vorschriftsmässig, so benachrichtigt es den Anmelder oder Inhaber und den angeblichen Vertreter entsprechend.
 
 3) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
 
-  - a) Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Anmelder oder Inhaber einen Vertreter hat, sowie den Namen und die Anschrift des Vertreters in das internationale Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro die internationale Anmeldung oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
+  - a) Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Anmelder oder Inhaber einen Vertreter hat, sowie den Namen, die Anschrift und die E-Mail-Adresse des Vertreters in das internationale Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro die internationale Anmeldung oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
 
   - b) Das Internationale Büro unterrichtet sowohl den Anmelder oder Inhaber als auch den Vertreter von der Eintragung nach Buchstabe a.
 

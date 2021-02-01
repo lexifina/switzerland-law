@@ -8,7 +8,7 @@
 
   - i) den Namen des Anmelders, der nach Massgabe der Verwaltungsvorschriften anzugeben ist;
 
-  - ii) die Anschrift des Anmelders, die nach Massgabe der Verwaltungsvorschriften anzugeben ist;
+  - ii) die Anschrift, die nach Massgabe der Verwaltungsvorschriften anzugeben ist, sowie die E-Mail-Adresse des Anmelders;
 
   - iii) die Vertragspartei oder die Vertragsparteien, für die der Anmelder die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
 
@@ -34,7 +34,7 @@
 
   - a) Jeder Bestandteil, auf den in Artikel 5 Absatz 2 Buchstabe b Ziffer i oder ii des Abkommens in der Fassung von 1999 oder auf den in Artikel 8 Absatz 4 Buchstabe a des Abkommens in der Fassung von 1960 verwiesen wird, kann in die internationale Anmeldung aufgenommen werden, wenn der Anmelder dies wünscht, selbst wenn dieser Bestandteil aufgrund einer Erklärung nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 oder aufgrund eines Erfordernisses gemäss Artikel 8 Absatz 4 Buchstabe a des Abkommens in der Fassung von 1960 nicht erforderlich ist.
 
-  - b) Hat der Anmelder einen Vertreter bestellt, so sind in der internationalen Anmeldung Name und Anschrift des Vertreters entsprechend den Verwaltungsvorschriften anzugeben.
+  - b) Hat der Anmelder einen Vertreter bestellt, so sind in der internationalen Anmeldung Name und Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des Vertreters anzugeben.
 
   - c) Wünscht der Anmelder nach Artikel 4 der Pariser Verbandsübereinkunft die Priorität einer früheren Hinterlegung in Anspruch zu nehmen, so hat die internationale Anmeldung eine Erklärung zu enthalten, dass die Priorität der früheren Hinterlegung beansprucht wird, und den Namen des Amtes anzugeben, bei dem diese Hinterlegung erfolgte, sowie das Datum und, soweit verfügbar, das Aktenzeichen dieser Hinterlegung und, sofern sich der Prioritätsanspruch nicht auf alle in dieser internationalen Anmeldung enthaltenen gewerblichen Muster oder Modelle bezieht, die Angabe der gewerblichen Muster oder Modelle, auf die sich der Prioritätsanspruch bezieht oder nicht bezieht.
 
