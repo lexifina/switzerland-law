@@ -8,4 +8,4 @@
 
 2 Vor dem 3. Juli 2017 erteilte Herstellungs- und Einfuhrbewilligungen bleiben bis zum Ablauf ihrer Gültigkeit gültig.
 
-3 Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung nach den Absätzen 1 und 2 erteilt wurde, dürfen bis zum 31. Januar 2021 auf dem Markt bereitgestellt werden.
+3 …
