@@ -24,13 +24,13 @@
 
 2) [Inhalt des Antrags]
 
-  - a) Der Antrag nach Absatz 1)a) hat neben der beantragten Änderung oder Löschung Folgendes zu enthalten oder anzugeben:
+  - a) Ein Antrag nach Absatz 1 Buchstabe a hat neben der beantragten Eintragung Folgendes zu enthalten oder anzugeben:
 
     - i) die Nummer der betreffenden internationalen Registrierung;
 
     - ii) den Namen des Inhabers oder den Namen des Vertreters, wenn die Änderung den Namen oder die Anschrift des Vertreters betrifft;
 
-    - iii) im Fall einer Änderung des Inhabers der internationalen Registrierung den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift der natürlichen oder juristischen Person, die im Antrag als neuer Inhaber der internationalen Registrierung genannt wird (im Folgenden als «Erwerber» bezeichnet);
+    - iii) im Fall einer Änderung des Inhabers der internationalen Registrierung den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse der natürlichen oder juristischen Person, die im Antrag als neuer Inhaber der internationalen Registrierung genannt wird (im Folgenden als «Erwerber» bezeichnet);
 
     - iv) im Fall einer Änderung des Inhabers der internationalen Registrierung die Vertragspartei oder die Vertragsparteien, für die der Erwerber die Voraussetzungen nach Artikel 2 des Protokolls für die Inhaberschaft einer internationalen Registrierung erfüllt;
 

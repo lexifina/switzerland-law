@@ -4,7 +4,7 @@ Die nachstehenden Eintragungen sind gebührenfrei:
 
   - i) die Bestellung eines Vertreters, jede Änderung betreffend einen Vertreter und die Löschung der Eintragung eines Vertreters;
 
-  - ii) jede Änderung betreffend die Telefon- und Telefaxnummern, Zustellanschrift, E-Mail-Adresse und andere Mittel der Nachrichtenübermittlung mit dem Hinterleger oder Inhaber, wie in den Verwaltungsvorschriften angegeben;
+  - ii) jede Änderung betreffend die Telefonnummer, Zustellanschrift, E-Mail-Adresse und jedes andere Mittel der Kommunikation mit dem Hinterleger, Inhaber oder Vertreter, wie in den Verwaltungsvorschriften angegeben;
 
   - iii) die Löschung der internationalen Registrierung;
 

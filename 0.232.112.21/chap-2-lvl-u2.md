@@ -16,13 +16,15 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
 
 4) [Inhalt des Internationalen Gesuchs]
 
-  - a) Das internationale Gesuch kann ferner folgendes enthalten:
+  - a) Das internationale Gesuch muss Folgendes enthalten oder angeben:
 
     - i) den nach den Verwaltungsvorschriften angegebenen Namen des Hinterlegers;
 
-    - ii) die nach den Verwaltungsvorschriften angegebene Anschrift des Hinterlegers;
+    - ii) die nach den Verwaltungsvorschriften angegebene Anschrift und die
 
-    - iii) gegebenenfalls den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift des Vertreters;
+    - E-Mail-Adresse des Hinterlegers;
+
+    - iii) gegebenenfalls den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift, sowie die E-Mail-Adresse des Vertreters;
 
     - iv) falls der Hinterleger sich aufgrund der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums die Priorität einer früheren Anmeldung zunutze zu machen wünscht, eine Erklärung, in der die Priorität dieser früheren Anmeldung beansprucht wird, zusammen mit der Angabe des Namens der Behörde, bei der die Anmeldung eingereicht wurde, und des Datums sowie, falls vorhanden, die Nummer dieser Anmeldung und, falls sich die frühere Anmeldung nicht auf alle in dem internationalen Gesuch aufgeführten Waren und Dienstleistungen bezieht, die Angabe der Waren und Dienstleistungen, auf die sich die frühere Anmeldung bezieht;
 
