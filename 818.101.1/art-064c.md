@@ -18,11 +18,7 @@
 
   - b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-4 Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
-
-  - a. Fr. 14.50 für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
-
-  - b. Fr. 24.50 für Impfungen in Arztpraxen.
+4 Er übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 14.50.
 
 5 Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
 
@@ -37,3 +33,5 @@
   - e. die Ausstellung der Impfbescheinigung.
 
 6 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
+
+7 Für das Verfahren zur Übernahme der Kosten von Covid-19-Impfungen gilt Artikel 64b sinngemäss.
