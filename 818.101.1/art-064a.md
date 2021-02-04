@@ -1,10 +1,16 @@
 # Art. 64a Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker
 
-1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die:
+1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020 und einer der folgenden Personenkategorien angehören:
 
-  - a. nach Artikel 3 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) versichert sind; und
+  - a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) versichert sind;
 
-  - b. einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020 angehören.
+  - b. Personen, die nach dem Militärversicherungsgesetz vom 19. Juni 1992 (MVG) gegen Krankheit versichert sind;
+
+  - c. Personen, die keiner der Kategorien nach den Buchstaben a und b angehören, die aber:
+
+    - 1. ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben, oder
+
+    - 2. in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind und durch ihre Tätigkeit einer Gefährdung durch Mikroorganismen ausgesetzt sind.
 
 2 Die Apothekerinnen und Apotheker müssen:
 
