@@ -20,7 +20,7 @@
 
   - c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-3 Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 14.50.
+3 Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 24.50.
 
 4 Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
 
