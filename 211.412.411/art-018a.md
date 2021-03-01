@@ -16,9 +16,9 @@
 
   - c. die Fläche des Grundstücks 3000 m2 nicht übersteigt.
 
-3 Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Arbeitsorts (Art. 7 Bst. j BewG) ist auf die Verweisung zu verzichten, wenn:
+3 Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Arbeitsorts (Art. 7 Bst. j Ziff. 1 und 2 BewG) ist auf die Verweisung zu verzichten, wenn:
 
-  - a. der Erwerber eine gültige Grenzgängerbewilligung EG-EFTA (Art. 4 Abs. 1 VEP) vorlegt;
+  - a. der Erwerber eine gültige Grenzgängerbewilligung EU-EFTA (Art. 4 Abs. 1 VEP) vorlegt;
 
   - b. er schriftlich erklärt, das Grundstück als Zweitwohnung zu erwerben;
 
