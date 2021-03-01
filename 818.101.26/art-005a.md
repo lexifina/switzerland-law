@@ -16,7 +16,7 @@
 
   - d. Restaurations- und Barbetriebe, die lediglich für Hotelgäste zur Verfügung stehen; für diese gilt Folgendes:
 
-    - 1. die Grösse der Gästegruppen darf höchstens vier Personen pro Tisch betragen; dies gilt nicht für Eltern mit Kindern,
+    - 1. die Grösse der Gästegruppen darf höchstens 4 Personen pro Tisch betragen; dies gilt nicht für Eltern mit Kindern,
 
     - 2. für die Gäste gilt eine Sitzpflicht, namentlich dürfen Speisen und Getränke nur sitzend konsumiert werden,
 
@@ -24,4 +24,4 @@
 
     - 4. die Betreiber müssen die Kontaktdaten von mindestens einem Gast pro Gästegruppe erheben.
 
-3 Betriebe nach Absatz 2 Buchstaben a und d dürfen zwischen 06.00 und 23.00 Uhr geöffnet sein. Betriebe nach Absatz 2 Buchstabe d dürfen in der Nacht vom 31. Dezember auf den 1. Januar bis 01.00 Uhr geöffnet sein.
+3 Betriebe nach Absatz 2 Buchstaben a und d dürfen zwischen 06.00 und 23.00 Uhr geöffnet sein.

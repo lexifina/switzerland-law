@@ -6,7 +6,7 @@
 
   - a. Kinder vor ihrem 12. Geburtstag;
 
-  - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können; für den Nachweis gilt Artikel 3a Absatz 1 Buchstabe b;
+  - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können; für den Nachweis medizinischer Gründe gilt Artikel 3a Absatz 1 Buchstabe b;
 
   - c. Personen in Institutionen der familienergänzenden Kinderbetreuung, sofern das Tragen einer Gesichtsmaske die Betreuung wesentlich erschwert;
 
