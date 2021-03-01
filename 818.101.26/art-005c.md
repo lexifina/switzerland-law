@@ -26,7 +26,7 @@
 
   - d. Personen, die an Covid-19 erkrankt sind oder Symptome einer Covid-19-Erkrankung aufweisen, dürfen nicht in das Skigebiet eingelassen werden; es sind hierzu geeignete Vorkehren zu treffen, namentlich die Verpflichtung der Besucherinnen und Besucher zur Selbstdeklaration und die Anweisung an das Personal, Gäste mit offensichtlichen Symptomen nicht zu befördern.
 
-  - e. Das Schutzkonzept ist mit den Schutzkonzepten der Wintersportorte zu koordinieren.
+  - e. Das Schutzkonzept ist zu koordinieren mit den Schutzkonzepten der Wintersportorte und der Betreiber von Restaurationsbetrieben im Skigebiet.
 
   - f. Die Einhaltung der im Schutzkonzept vorgesehenen Massnahmen ist zu überwachen; namentlich muss die Einhaltung des erforderlichen Abstands in den Zugangs- und Wartebereichen der Beförderungsanlagen kontrolliert werden.
 
