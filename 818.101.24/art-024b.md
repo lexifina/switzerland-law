@@ -1,15 +1,3 @@
-# Art. 24b Personen, bei denen Sars-CoV-2-Schnelltests durchgeführt werden dürfen
+# Art. 24b Information des Kantons über ein positives Testergebnis bei fehlender Bestätigungsdiagnostik
 
-1 Sars-CoV-2-Schnelltests dürfen nur bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021 erfüllen.
-
-2 Sie dürfen auch bei Personen durchgeführt werden, die die Kriterien nach Absatz 1 nicht erfüllen, wenn:
-
-  - a. die Anforderungen nach den Artikeln 24 Absatz 4 und 24a erfüllt sind;
-
-  - b. die Einrichtung oder die Person, die Sars-CoV-2-Schnelltests durchführt:
-
-    - 1. eine Probeentnahme in Hinblick auf eine molekularbiologische Analyse auf Sars-CoV-2 als Bestätigungsdiagnostik ermöglicht,
-
-    - 2. die für das Contact-Tracing zuständige kantonale Stelle informiert, wenn keine Bestätigungsdiagnostik erfolgt.
-
-3 Das BAG veröffentlicht Informationen zum Einsatz von Sars-CoV-2-Schnelltests bei Personen, die die Kriterien nach Absatz 1 nicht erfüllen.
+Erfolgt nach einem positiven Ergebnis eines Sars-CoV-2-Schnelltests keine Bestätigungsdiagnostik und hat das EDI nicht gestützt auf Artikel 19 der Epidemienverordnung vom 29. April 2015 eine Meldung der Befunde des Sars-CoV-2-Schnelltests festgelegt, so muss die für die Durchführung des Tests verantwortliche Einrichtung oder Person die für das Contact-Tracing zuständige kantonale Stelle über das positive Testergebnis informieren.

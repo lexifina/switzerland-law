@@ -1,11 +1,25 @@
-# Art. 23a Ausnahme für Atemschutzmasken
+# Art. 23a Ausnahmen für Medizinprodukte: Sars-CoV-2-Selbsttests
 
-1 Atemschutzmasken, die nicht den Grundsätzen und Verfahren für die Konformitätsbewertung nach Artikel 3 Absatz 2 der PSA-Verordnung vom 25. Oktober 2017 (PSAV) entsprechen und deren Abweichung von diesen Grundsätzen und Verfahren nicht gestützt auf Artikel 24 Absatz 3 in der Fassung vom 22. Juni 2020 genehmigt wurde, dürfen nicht auf dem Markt bereitgestellt werden.
+1 Die Swissmedic kann auf Gesuch hin das Inverkehrbringen von nicht automatisierten Einzelpatienten-Schnelltests zum direkten Nachweis von Sars-CoV-2 (Sars-CoV-2-Schnelltests), die vom Hersteller für die Eigenanwendung durch das Publikum vorgesehen sind (Sars-CoV-2-Selbsttests), für die kein Konformitätsbewertungsverfahren nach Artikel 10 MepV durchgeführt wurde, bewilligen.
 
-2 Atemschutzmasken nach Absatz 1, die sich in Lagerbeständen von Bund und Kantonen befinden, können an private Spitäler, Alters- und Pflegeheime und Organisationen der Krankenpflege und Hilfe zu Hause sowie an Einrichtungen von Bund und Kantonen wie Armee, Zivilschutz, Spitäler und Gefängnisse abgegeben werden, wenn die beim Bund oder beim Kanton für die Abgabe verantwortliche Stelle:
+2 Das Gesuch muss folgende Angaben enthalten:
 
-  - a. mittels Prüfung durch eine europäische anerkannte Konformitätsbewertungsstelle für Atemschutzmasken ein im Hinblick auf die geltenden rechtlichen Anforderungen nach der PSAV gleichwertiges Sicherheitsniveau gewährleistet; und
+  - a. Beschreibung des Produkts;
 
-  - b. die Rückverfolgbarkeit gewährleistet.
+  - b. Nachweis des Antrags für ein Konformitätsbewertungsverfahren für das Produkt bei einer nach schweizerischem Recht bezeichneten Konformitätsbewertungsstelle oder bei einer benannten Stelle nach EU-Recht;
 
-3 Die Produktinformation muss bei der Abgabe verfügbar und mindestens in einer Amtssprache oder in Englisch abgefasst sein. Es muss sichergestellt sein, dass die Anwenderin oder der Anwender die notwendigen Voraussetzungen mitbringt, um das Produkt bestimmungsgemäss zu verwenden.
+  - c. sofern keine Stelle den Antrag nach Buchstabe b annimmt, Kopien der Ablehnungen von mindestens zwei Stellen;
+
+  - d. CE-Kennzeichnung des Sars-CoV-2-Schnelltests zur Fachanwendung, auf dem der Sars-CoV-2-Selbsttest basiert;
+
+  - e. Nachweis der Erfüllung der Anforderungen nach Artikel 24a und der Mindestkriterien nach Anhang 5a Ziffer 3;
+
+  - f. Nachweis der Gebrauchstauglichkeit des Produkts bei Eigenanwendung;
+
+  - g. Nachweis der Erfüllung der speziell für die Eigenanwendung spezifizierten grundlegenden Anforderungen nach Anhang I der Richtlinie 98/79/EG;
+
+  - h aktuelle Risikoanalyse, die die Risiken, die sich aus der Eigenanwendung ergeben, berücksichtigt;
+
+  - i. Produktkennzeichnung und Gebrauchsanweisung in den drei Amtssprachen.
+
+3 Die Bewilligung wird gegenüber dem Hersteller oder seinem Schweizer Vertreter verfügt. Sie kann befristet werden und unter Auflagen oder Bedingungen erfolgen.
