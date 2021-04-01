@@ -1,0 +1,25 @@
+# 1……..1 Art. 1Gegenstand
+
+1 Diese Verordnung regelt für das Informationssystem JANUS der Bundeskriminalpolizei nach Artikel 10, 11, 13 und 18 BPI:
+
+  - a. die verantwortliche Behörde;
+
+  - b. die Struktur und den Inhalt;
+
+  - c. die Benützer und Zugriffsberechtigungen;
+
+  - d. die Datenbearbeitung
+
+  - e. den Datenschutz und die Datensicherheit;
+
+2 Das JANUS setzt sich aus folgenden Subsystemen zusammen:
+
+  - a. System zur Unterstützung gerichtspolizeilicher Ermittlungen des Bundes nach Artikel 10 BPI;
+
+  - b. System Bundesdelikte nach Artikel 11 BPI;
+
+  - c. System zur Unterstützung der Ermittlungen der Kantone im Bereich ihrer Strafverfolgungskompetenzen nach Artikel 13 BPI;
+
+  - d. Geschäfts- und Aktenverwaltungssystem von fedpol nach Artikel 18 BPI.
+
+  - e. System internationale und interkantonale Polizeikooperation nach Artikel 12 BPI.
