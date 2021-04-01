@@ -28,6 +28,6 @@ Online-Zugriff auf die Daten im SOAS haben:
 
   - c. in den Spitälern: die für die lokale Koordination zuständigen Personen;
 
-  - d. im BAG: die für das SOAS zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation und Fortpflanzungsmedizin;
+  - d. im BAG: die für das SOAS zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation;
 
   - e. im nationalen HLA-Labor: die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter.
