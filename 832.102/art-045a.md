@@ -10,4 +10,4 @@ Organisationen der Hebammen werden zugelassen, wenn sie:
 
   - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
 
-  - e. an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Leistungen bei Mutterschaft erbracht werden.
+  - e. …

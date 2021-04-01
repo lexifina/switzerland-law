@@ -1,6 +1,6 @@
 # Art. 37d Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen
 
-1 Die Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen berät das EDI bei der Bezeichnung der Leistungen nach Artikel 33, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 77 Absatz 4 und 104a Absatz 4 sowie bei der Beurteilung von Grundsatzfragen in der Krankenversicherung unter Berücksichtigung der ethischen Aspekte bei der Leistungsbezeichnung.
+1 Die Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen berät das EDI bei der Bezeichnung der Leistungen nach Artikel 33, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 77k und 104a Absatz 4 sowie bei der Beurteilung von Grundsatzfragen in der Krankenversicherung unter Berücksichtigung der ethischen Aspekte bei der Leistungsbezeichnung.
 
 2 Sie hat insbesondere die folgenden Aufgaben:
 

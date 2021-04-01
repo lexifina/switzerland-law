@@ -1,6 +1,6 @@
 # Art. 37f Eidgenössische Kommission für Analysen, Mittel und Gegenstände
 
-1 Die Eidgenössische Kommission für Analysen, Mittel und Gegenstände berät das EDI bei der Erstellung der Analysenliste nach Artikel 34, bei der Beurteilung und Festsetzung der Vergütung von Mitteln und Gegenständen nach Artikel 33 Buchstabe e sowie bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77 Absatz 4 und 104a Absatz 4, die ihren Bereich betreffen.
+1 Die Eidgenössische Kommission für Analysen, Mittel und Gegenstände berät das EDI bei der Erstellung der Analysenliste nach Artikel 34, bei der Beurteilung und Festsetzung der Vergütung von Mitteln und Gegenständen nach Artikel 33 Buchstabe e sowie bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77k und 104a Absatz 4, die ihren Bereich betreffen.
 
 2 Sie besteht aus 15 Mitgliedern. Davon vertreten:
 

@@ -10,4 +10,4 @@ Organisationen der Logopädie werden zugelassen, wenn sie:
 
   - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
 
-  - e. an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Logopädie erbracht wird.
+  - e. …

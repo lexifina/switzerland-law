@@ -2,7 +2,9 @@
 
 1 Das BFS gibt folgenden Datenempfängern folgende Daten weiter:
 
-  - a. dem BAG: die Daten nach Artikel 30, sofern diese zur Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG), für die Betriebsvergleiche zwischen Spitälern (Art. 49 Abs. 8 KVG), zur Kontrolle der Wirtschaftlichkeit und Qualität der Leistungen (Art. 32, 58 und 59 KVG) und für die Veröffentlichung der Daten (Art. 59a Abs. 3 KVG) erforderlich sind;
+  - a. dem BAG: die Daten nach Artikel 30, sofern diese zur Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG), für die Betriebsvergleiche zwischen Spitälern (Art. 49 Abs. 8 KVG), zur Kontrolle der Wirtschaftlichkeit und Qualität der Leistungen (Art. 32, 58, 58h und 59 KVG) und für die Veröffentlichung der Daten (Art. 59a Abs. 3 KVG) erforderlich sind;
+
+  - abis. der Eidgenössischen Qualitätskommission: die zur Erfüllung der Aufgaben nach Artikel 58c KVG erforderlichen Daten;
 
   - b. den zuständigen Behörden der Kantone:
 
