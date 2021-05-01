@@ -16,7 +16,9 @@
 
     - 5. Kurzflügelgrille oder südliche Hausgrille (Gryllodes sigillatus),
 
-    - 6. Steppengrille (Gryllus assimilis);
+    - 6. Steppengrille (Gryllus assimilis),
+
+    - 7. Stubenfliege (Musca domestica);
 
   - c. die Insektenlarven ausschliesslich mit Produkten nach Absatz 2 gefüttert werden;
 
