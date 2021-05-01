@@ -18,7 +18,7 @@
 
 3 Der Tierhalter hat der zuständigen kantonalen Stelle innert zehn Arbeitstagen eine neue Tierhaltung, den Wechsel des Tierhalters sowie die Auflösung der Tierhaltung zu melden.
 
-3bis Der Imker hat der zuständigen kantonalen Stelle innert zehn Arbeitstagen einen neuen Bienenstand, den Wechsel des Imkers sowie die Auflösung des Bienenstandes zu melden.
+3bis Der Imker hat der zuständigen kantonalen Stelle innert drei Arbeitstagen einen neuen Bienenstand, den Wechsel des Imkers sowie die Auflösung des Bienenstandes zu melden.
 
 4 Die kantonale Stelle teilt jedem Tierhalter und jeder Tierhaltung mit Equiden oder Hausgeflügel sowie jedem Imker und jedem Bienenstand eine Identifikationsnummer zu.
 

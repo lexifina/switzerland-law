@@ -18,4 +18,6 @@
 
 2 Er hebt die einfache Sperre 1. Grades auf, sobald die epidemiologischen Abklärungen abgeschlossen sind, frühestens jedoch 14 Tage nachdem alle verseuchten Tiere des Bestandes ausgemerzt worden sind.
 
+2bis Er ordnet spätestens ein Jahr nach Aufhebung aller Sperren die serologische Untersuchung einer Gruppe von Rindern des Bestandes auf BVD an.
+
 3 Vom Zeitpunkt des Abkalbens eines Tieres nach Absatz 1 Buchstabe d bis zum Vorliegen eines negativen Befunds der virologischen Untersuchung des Kalbes oder der Totgeburt dürfen keine Rinder die betroffene Tierhaltung verlassen. Die Abgabe von Tieren direkt zur Schlachtung ist gestattet.

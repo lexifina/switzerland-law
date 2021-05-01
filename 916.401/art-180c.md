@@ -1,10 +1,12 @@
 # Art. 180c Entfernung des spezifizierten Risikomaterials und andere Massnahmen beim Schlachten und Zerlegen
 
-1 Als spezifiziertes Risikomaterial gelten:
+1 Als spezifiziertes Risikomaterial gilt folgendes Material von Schafen und Ziegen, die über zwölf Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat:
 
-  - a. von Schafen und Ziegen, die über zwölf Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat: das Gehirn in der Gehirnschale, die Augen, das Rückenmark mit der harten Rückenmarkhaut (Dura mater) und die Tonsillen;
+  - a. das Gehirn in der Gehirnschale;
 
-  - b. von Schafen und Ziegen jeden Alters: die Milz und der Krummdarm (Ileum).
+  - b. die Augen;
+
+  - c. das Rückenmark mit der harten Rückenmarkhaut (Dura mater).
 
 2 Das spezifizierte Risikomaterial ist direkt nach dem Schlachten als tierisches Nebenprodukt der Kategorie 1 zu entsorgen (Art. 22 VTNP). Das Rückenmark kann auch erst nach dem Zerlegen entsorgt werden, wenn es von ungespaltenen Schlachttierkörpern stammt, deren Wirbelsäule einschliesslich Rückenmark ungeöffnet wie spezifiziertes Risikomaterial entsorgt wird.
 
