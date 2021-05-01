@@ -7,3 +7,5 @@
   - b. Post- oder Bankverbindung.
 
 2 Bei der Einstallung einer neuen Herde müssen Tierhalterinnen und Tierhalter von Tierhaltungen nach Absatz 1 der Betreiberin die Daten nach Anhang 1 Ziffer 5 melden.
+
+3 Die Tierhalterinnen und Tierhalter können bei ihren Meldungen zusätzlich Angaben zum Stallgebäude machen.
