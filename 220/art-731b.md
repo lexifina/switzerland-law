@@ -8,7 +8,7 @@
 
   - 3. Die Gesellschaft führt das Aktienbuch oder das Verzeichnis über die ihr gemeldeten wirtschaftlich berechtigten Personen nicht vorschriftsgemäss.
 
-  - 4. …
+  - 4. Die Gesellschaft hat Inhaberaktien ausgegeben, ohne dass sie Beteiligungspapiere an einer Börse kotiert hat oder die Inhaberaktien als Bucheffekten ausgestaltet sind.
 
   - 5. Die Gesellschaft hat an ihrem Sitz kein Rechtsdomizil mehr.
 
