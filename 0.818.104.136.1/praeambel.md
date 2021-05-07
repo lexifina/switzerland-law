@@ -1,0 +1,3 @@
+# Präambel
+
+Das Robert Koch-Institut, Bundesinstitut im Geschäftsbereich des Bundesministeriums für Gesundheit der Bundesrepublik Deutschland, als Verantwortlicher im Sinne des Datenschutzrechts für die «Corona-Warn-App», nachfolgend «RKI» genannt und das Eidgenössische Departement des Innern der Schweizerischen Eidgenossenschaft, vertreten durch das Bundesamt für Gesundheit, als Verantwortlicher im Sinne des Datenschutzrechts für die «SwissCovid-App», nachfolgend «BAG» und zusammen «Partner» genannt, schliessen die vorliegende Vereinbarung zum Austausch von Schlüsseln ihrer jeweiligen Corona-Apps über einen auf schweizerischer Seite betriebenen Gateway Server zur grenzüberschreitenden Interoperabilität ab.
