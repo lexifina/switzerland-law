@@ -12,7 +12,7 @@
 
 2 Der Flugplatzhalter kann bei unvorhergesehenen ausserordentlichen Ereignissen Ausnahmen von den Vorschriften nach Artikel 39 Absätze 1 und 2 gewähren. Er meldet diese Ausnahmen dem BAZL.
 
-2bis Die Halter der Landesflughäfen Genf und Zürich können für Versorgungs- und Repatriierungsflüge, die zur Bewältigung der COVID-19-Pandemie und ihrer Folgen notwendig sind und sich nicht während des Tagesbetriebs ordnungsgemäss abwickeln lassen, Ausnahmen von den Vorschriften gemäss Artikel 39 Absätze 1 und 2 gewähren. Sie melden die gewährten Ausnahmen wöchentlich dem BAZL.
+2bis …
 
 3 Das BAZL kann vorübergehend Starts und Landungen von Luftfahrzeugen zwischen 22 und 6 Uhr bewilligen:
 
