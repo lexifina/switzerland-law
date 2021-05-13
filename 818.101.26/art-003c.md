@@ -4,7 +4,7 @@
 
 2 Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske tragen:
 
-  - a. in belebten Fussgängerbereichen von urbanen Zentren, Dorfkernen und Wintersportorten;
+  - a. in belebten Fussgängerbereichen von urbanen Zentren und Dorfkernen;
 
   - b. in weiteren Bereichen des öffentlichen Raums, sobald es zu einer Konzentration von Personen kommt, bei welcher der erforderliche Abstand nicht eingehalten werden kann.
 

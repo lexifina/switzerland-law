@@ -16,10 +16,12 @@
 
   - f. auftretende Personen, namentlich Rednerinnen und Redner, sowie Sportlerinnen und Sportler und Künstlerinnen und Künstler nach den Artikeln 6e und 6f.
 
+2bis Badeanstalten einschliesslich Thermalbäder können in ihren Schutzkonzepten Ausnahmen von der Pflicht nach Absatz 1 für die Aussenbereiche vorsehen.
+
 3 Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen kantonalen Behörde in ihren Schutzkonzepten vorsehen, dass in den öffentlich zugänglichen Bereichen von dieser Pflicht ausgenommen sind:
 
   - a. Bewohnerinnen und Bewohner, die gemäss den Impfempfehlungen des BAG für mRNA-Impfstoffe gegen Covid-19 geimpft wurden: während 6 Monaten ab dem 14. Tag nach dieser Impfung;
 
   - b. Bewohnerinnen und Bewohner, die nachweisen, dass sie sich mit Sars-
 
-  - CoV-2 angesteckt haben und als geheilt gelten: während 3 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde.
+  - CoV-2 angesteckt haben und als genesen gelten: während 6 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde.

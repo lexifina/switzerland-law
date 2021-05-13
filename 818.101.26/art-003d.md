@@ -8,7 +8,7 @@
 
 2 Von der Kontaktquarantäne ausgenommen sind Personen:
 
-  - a. die sich innerhalb der letzten drei Monate vor dem engen Kontakt mit einer der Personen nach Absatz 1 mit Sars-CoV-2 angesteckt haben und als geheilt gelten und bei denen die zuständige kantonale Behörde die Absonderung aufgehoben hat;
+  - a. die nachweisen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten: während 6 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde;
 
   - b. die eine Tätigkeit ausüben, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht.
 
