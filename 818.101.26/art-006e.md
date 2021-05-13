@@ -4,7 +4,7 @@
 
   - a. Sportaktivitäten von Kindern und Jugendlichen mit Jahrgang 2001 oder jünger, einschliesslich Wettkämpfe ohne Publikum;
 
-  - b. Sportaktivitäten, einschliesslich Wettkämpfe ohne Publikum, die von Einzelpersonen oder in Gruppen bis zu 15 Personen mit Jahrgang 2000 oder älter ausgeübt werden:
+  - b. Sportaktivitäten, einschliesslich Wettkämpfe ohne Publikum,, die von Einzelpersonen oder in Gruppen bis zu 15 Personen mit Jahrgang 2000 oder älter ausgeübt werden:
 
     - 1. im Freien, wenn eine Gesichtsmaske getragen oder der erforderliche Abstand eingehalten wird,
 
