@@ -30,6 +30,6 @@
 
   - d. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
 
-  - e. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie sich innerhalb der letzten drei Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und dass sie als geheilt gelten;
+  - e. Personen, die den Nachweis erbringen, dass sie sich innerhalb der letzten sechs Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als genesen gelten;
 
   - f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.
