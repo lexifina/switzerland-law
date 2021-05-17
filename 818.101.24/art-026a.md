@@ -10,7 +10,7 @@
 
 2 Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über keine ZSR-Nummer verfügt, so schuldet der Kanton, in dem die Probenentnahme durchgeführt wird, die Vergütung der Leistungen.
 
-3 Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i und 3.1.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:
+3 Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i, 3.1.1 Buchstabe a und 3.2.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:
 
   - a. den Versicherer nach Absatz 1, der die Vergütung der Leistungen nach dem System des Tiers payant im Sinne von Artikel 42 Absatz 2 KVG schuldet; oder
 

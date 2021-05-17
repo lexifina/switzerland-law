@@ -22,10 +22,20 @@
 
 9 Für die Geltendmachung des Anspruchs auf Corona-Erwerbsersatz gilt Artikel 2 Absatz 3quater der Covid-19-Verordnung Erwerbsausfall vom 20. März 2020.
 
-10 Als besonders gefährdete Personen gelten schwangere Frauen sowie Personen, die nicht gegen Covid-19 geimpft sind und insbesondere folgende Erkrankungen aufweisen: Bluthochdruck, Diabetes, Herz-Kreislauf-Erkrankungen, chronische Atemwegserkrankungen, Erkrankungen und Therapien, die das Immunsystem schwächen, Krebs, Adipositas.
+10 Als besonders gefährdet gelten:
 
-11 Die Erkrankungen nach Absatz 10 werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten.
+  - a. schwangere Frauen;
 
-12 Das BAG führt Anhang 7 laufend nach.
+  - b. Personen, die Erkrankungen oder genetische Anomalien aufweisen, die in Anhang 7 aufgeführt sind.
+
+10bis Nicht unter Absatz 10 fallen Personen, die:
+
+  - a. gegen Covid-19 geimpft sind;
+
+  - b. sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten nach der Aufhebung einer Absonderung durch die zuständige Behörde.
+
+11 Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10bis als besonders gefährdet eingestuft werden.
+
+12 Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
 13 Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 10 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020.
