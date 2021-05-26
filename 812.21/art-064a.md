@@ -12,4 +12,4 @@
 
 2 Das Institut kann die ausländische Behörde bei ihrer Kontrolle begleiten.
 
-3 Es kann im Ausland nach Rücksprache mit den zuständigen Behörden Kontrollen von Betrieben durchführen, die im Heilmittelbereich tätig sind, wenn dies für die Gewährleistung des Gesundheitsschutzes erforderlich ist.
+3 Es kann im Ausland nach Rücksprache mit den zuständigen Behörden Kontrollen von Betrieben durchführen, die im Heilmittelbereich tätig sind, wenn dies für die Gewährleistung des Gesundheitsschutzes erforderlich ist. Es kann zudem an Kontrollen ausländischer zuständiger Behörden teilnehmen.

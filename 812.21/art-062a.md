@@ -1,14 +1,16 @@
 # Art. 62a Bearbeitung von Personendaten
 
-1 Stellen des Bundes und der Kantone, regionale Zentren und mit Vollzugsaufgaben betraute Dritte können, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist, folgende besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeiten:
+1 Stellen des Bundes und der Kantone, regionale Zentren und mit Vollzugsaufgaben betraute Dritte können, soweit es zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist, folgende besonders schützenswerte Personendaten bearbeiten:
 
   - a. Daten über die Gesundheit:
 
-    - 1. zur behördlichen Marktüberwachung bei Blut und Blutprodukten,
+    - 1. zur behördlichen Marktüberwachung,
 
-    - 2. zur Wahrnehmung der Vigilance im Rahmen eingehender Meldungen über unerwünschte Wirkungen und Vorkommnisse sowie über Qualitätsmängel, oder
+    - 2. zur Wahrnehmung der Vigilance im Rahmen eingehender Meldungen über unerwünschte Wirkungen und Vorkommnisse sowie über Qualitätsmängel,
 
-    - 3. zur Überprüfung von klinischen Versuchen im Rahmen eingehender Meldungen und mittels Inspektionen;
+    - 3. zur Überprüfung von klinischen Versuchen im Rahmen eingehender Meldungen und mittels Inspektionen, oder
+
+    - 4. im Rahmen von Gesuchen für befristete Bewilligungen nach Artikel 9b Absatz 1 sowie für Ausnahmebewilligungen für Medizinprodukte nach Artikel 46 Absatz 3 Buchstabe b;
 
   - b. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen:
 
