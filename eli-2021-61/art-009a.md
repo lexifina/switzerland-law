@@ -22,7 +22,7 @@
 
 5 Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergebnisses befördern:
 
-  - a. Kinder unter zwölf Jahren;
+  - a. Kinder und Jugendliche unter 16 Jahren;
 
   - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen dringend in die Schweiz transportiert werden müssen;
 
@@ -30,6 +30,10 @@
 
   - d. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
 
-  - e. Personen, die den Nachweis erbringen, dass sie sich innerhalb der letzten sechs Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als genesen gelten;
+  - e. Personen, die den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, und die Dauer, für welche die Impfung gilt, wird in Anhang 1a geregelt;
+
+  - ebis. Personen, die den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme wird in Anhang 1a geregelt;
 
   - f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.
+
+6 Bei Einreisen aus Staaten und Gebieten nach Anhang 1 Ziffer 2 sind die Ausnahmen von der Testpflicht vor dem Abflug nach Absatz 5 Buchstaben a, e und ebis nicht anwendbar. Kinder unter 12 Jahren sind jedoch von der Testpflicht ausgenommen.
