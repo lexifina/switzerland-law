@@ -1,23 +1,37 @@
 # Art. 6f Besondere Bestimmungen für den Kulturbereich
 
-1 Für den Betrieb von Museen, Bibliotheken, Archiven und vergleichbaren Kulturinstitutionen gilt einzig die Schutzkonzeptpflicht nach Artikel 4 sowie die Vorgaben nach Artikel 5d Absatz 1.
+1 Für den Betrieb von Museen, Bibliotheken, Archiven und vergleichbaren Kulturinstitutionen gelten einzig die Schutzkonzeptpflicht nach Artikel 4 sowie die Vorgaben nach Artikel 5d Absatz 1.
 
-2 Im nichtprofessionellen Bereich der Kultur sind folgende Aktivitäten zulässig, mit Ausnahme von Aufführungen vor Publikum:
+2 Für folgende Personen gilt bei der Ausübung von kulturellen Aktivitäten einzig die Einschränkung, dass Auftritte von Chören vor Publikum in Innenräumen verboten sind:
 
-  - a. Aktivitäten von Kindern und Jugendlichen mit Jahrgang 2001 oder jünger;
+  - a. Kinder und Jugendliche mit Jahrgang 2001 oder jünger;
 
-  - b. Aktivitäten einer Einzelperson mit Jahrgang 2000 oder älter;
+  - b. professionelle Künstlerinnen und Künstler.
 
-  - c. Aktivitäten in Innenräumen in Gruppen bis zu 15 Personen mit Jahrgang 2000 oder älter unter Beachtung der Kapazitätsgrenzen nach Anhang 1 Ziffer 3.1bis Buchstabe f, wenn eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten wird; auf das Tragen einer Gesichtsmaske kann verzichtet werden, wenn dies zur Ausübung der Aktivität erforderlich ist, die räumlichen Verhältnisse erhöhten Anforderungen nach Anhang 1 Ziffer 3.1ter genügen und die Kontaktdaten nach Artikel 5 erhoben werden;
+3 Für andere Personen als nach Absatz 2 gilt bei der Ausübung kultureller Aktivitäten Folgendes:
 
-  - d. Aktivitäten im Freien in Gruppen bis zu 15 Personen mit Jahrgang 2000
+  - a. Die Aktivitäten dürfen als Einzelperson oder in Gruppen von höchstens 50 Personen ausgeübt werden.
 
-  - oder älter, wenn eine Gesichtsmaske getragen oder der erforderliche Abstand eingehalten wird.
+  - b. Im Freien muss eine Gesichtsmaske getragen oder der erforderliche Abstand eingehalten werden; auf das Tragen einer Gesichtsmaske und die Einhaltung des Abstands kann nur dann verzichtet werden, wenn die Kontaktdaten erhoben werden.
 
-3 Im professionellen Bereich der Kultur sind alle Aktivitäten von Künstlerinnen und Künstlern oder Ensembles zulässig. Für Aktivitäten mit Gesang gilt Folgendes:
+  - c. In Innenräumen muss die Kapazitätsgrenze nach Anhang 1 Ziffer 3.1bis Buchstabe f beachtet, eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten werden; Ausnahmen sind wie folgt zulässig:
 
-  - a. Aufführungen mit Chören vor Publikum sind verboten.
+    - 1. auf das Tragen einer Gesichtsmaske kann verzichtet werden, wenn:
 
-  - b. Proben und Aufführungen mit Sängerinnen und Sängern sind nur zulässig, wenn das Schutzkonzept spezifische Schutzmassnahmen vorsieht.
+      - – dies zur Ausübung der Aktivität erforderlich ist und
 
-4 Veranstaltungen nach Absatz 2 Buchstaben a, c und d in Gruppen bis zu 5 Personen sind von der Pflicht zur Erarbeitung eines Schutzkonzepts nach Artikel 4 ausgenommen.
+      - – die räumlichen Verhältnisse erhöhten Anforderungen nach Anhang 1 Ziffer 3.1ter Buchstaben a und b genügen,
+
+    - 2. auf das Tragen einer Gesichtsmaske und die Einhaltung des erforderlichen Abstands kann verzichtet werden, wenn:
+
+      - – der Körperkontakt bei der Aktivität unumgänglich ist
+
+      - – die Aktivität stets in beständigen Gruppen von höchstens vier Personen ausgeübt wird und
+
+      - – die räumlichen Verhältnisse erhöhten Anforderungen nach Anhang 1 Ziffer 3.1ter Buchstabe c genügen,
+
+    - 3. die Kontaktdaten müssen erhoben werden.
+
+  - d. Auftritte von Chören vor Publikum in Innenräumen sind verboten.
+
+4 Aktivitäten nach Absatz 2 Buchstabe a und Absatz 3 in Gruppen bis zu 5 Personen sind von der Pflicht zur Erarbeitung eines Schutzkonzepts nach Artikel 4 ausgenommen.

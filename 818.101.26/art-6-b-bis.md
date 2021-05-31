@@ -14,4 +14,6 @@
 
   - f. Die Konsumation von Speisen und Getränken ausserhalb von Restaurationsbetrieben ist nur am Sitzplatz zulässig.
 
+  - g. das Verbot von Tanzveranstaltungen nach Artikel 6 Absatz 1ter gilt bei Veranstaltungen im Freien nicht.
+
 2 Es gelten überdies die zusätzlichen Vorgaben nach Anhang 3 Ziffer 2.

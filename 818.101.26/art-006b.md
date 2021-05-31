@@ -18,6 +18,6 @@
 
 4 Die Pflicht zum Tragen einer Gesichtsmaske richtet sich nach Artikel 3b. Zusätzlich zu den Ausnahmen nach Artikel 3b Absatz 2 sind bei Veranstaltungen im Freien auch Besucherinnen und Besucher an ihrem Sitzplatz von der Pflicht ausgenommen.
 
-5 Die zuständige Bewilligungsbehörde kann bei Aktivitäten in den Bereichen Sport nach Artikeln 6e Absatz 1 Buchstabe b und Kultur nach Artikel 6f Absätze 2 Buchstabe c und 3 Ausnahmen von den Einschränkungen vorsehen, wenn das Schutzkonzept spezifische Schutzmassnahmen enthält.
+5 Die zuständige Bewilligungsbehörde kann bei Aktivitäten in den Bereichen Sport nach Artikel 6e Absatz 2 und Kultur nach Artikel 6f Absätze 2 und 3 Ausnahmen von den Einschränkungen vorsehen, wenn das Schutzkonzept spezifische Schutzmassnahmen enthält.
 
 6 Die Schutzmassnahmen werden in Anhang 3 näher ausgeführt.

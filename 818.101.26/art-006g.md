@@ -1,6 +1,6 @@
 # Art. 6g Besondere Bestimmungen für die Kinder- und Jugendarbeit
 
-1 Aktivitäten von Organisationen und Institutionen der offenen Kinder- und Jugendarbeit sind zulässig, wenn die folgenden Voraussetzungen erfüllt sind:
+Aktivitäten von Organisationen und Institutionen der offenen Kinder- und Jugendarbeit sind zulässig, wenn die folgenden Voraussetzungen erfüllt sind:
 
   - a. Es handelt sich um Aktivitäten für Kinder und Jugendliche mit Jahrgang 2001 oder jünger.
 
@@ -11,5 +11,3 @@
     - 1. die zulässigen Aktivitäten;
 
     - 2. die zulässige Höchstzahl anwesender Kinder und Jugendlicher.
-
-2 Tanzveranstaltungen und die Ausgabe von Speisen und Getränken in Innenräumen sind in jedem Fall unzulässig.

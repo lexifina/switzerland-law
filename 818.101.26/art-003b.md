@@ -10,7 +10,7 @@
 
   - c. Personen in Institutionen der familienergänzenden Kinderbetreuung, sofern das Tragen einer Gesichtsmaske die Betreuung wesentlich erschwert;
 
-  - d. Gäste in Restaurations-, Bar- und Clubbetrieben, während sie an ihrem Tisch Speisen oder Getränke konsumieren;
+  - d. Gäste von Restaurations-, Bar- und Clubbetrieben, wenn sie an ihrem Tisch sitzen;
 
   - e. Personen, die eine medizinische oder kosmetische Dienstleistung im Gesicht in Anspruch nehmen;
 
@@ -20,8 +20,8 @@
 
 3 Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen kantonalen Behörde in ihren Schutzkonzepten vorsehen, dass in den öffentlich zugänglichen Bereichen von dieser Pflicht ausgenommen sind:
 
-  - a. Bewohnerinnen und Bewohner, die gemäss den Impfempfehlungen des BAG für mRNA-Impfstoffe gegen Covid-19 geimpft wurden: während 6 Monaten ab dem 14. Tag nach dieser Impfung;
+  - a. Bewohnerinnen und Bewohner, die gegen Covid-19 geimpft wurden: für die in Anhang 2 festgelegte Dauer;
 
-  - b. Bewohnerinnen und Bewohner, die nachweisen, dass sie sich mit Sars-
+  - b. Bewohnerinnen und Bewohner, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten: für die in Anhang 2 festgelegte Dauer.
 
-  - CoV-2 angesteckt haben und als genesen gelten: während 6 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde.
+4 Welche Personen im Sinne von Absatz 3 Buchstabe a als geimpft gelten, wird in Anhang 2 geregelt.
