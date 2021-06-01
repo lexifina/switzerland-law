@@ -1,6 +1,6 @@
 # Art. 64a Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker
 
-1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020 und einer der folgenden Personenkategorien angehören:
+1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer der folgenden Personenkategorien angehören:
 
   - a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) versichert sind;
 
@@ -32,6 +32,8 @@
 
   - d. die Dokumentation;
 
-  - e. die Ausstellung der Impfbescheinigung.
+  - e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
+
+4bis Der Bund übernimmt für bis zum 30. Juni 2021 durchgeführte Impfungen nach Absatz 1 für jedes durch eine Apothekerin oder einen Apotheker nachträglich ausgestellte Covid-19-Impfzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 eine Pauschale von 8.30 Franken. Mit dem Betrag sind sämtliche Leistungen im Zusammenhang mit der Ausstellung des Zertifikats abgegolten.
 
 5 Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.

@@ -10,7 +10,7 @@
 
   - a. weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind; und
 
-  - b. einer Zielgruppe gemäss der Covid-19-Impfstrategie der EKIF und des BAG vom 16. Dezember 2020 angehören.
+  - b. …
 
 3 Er übernimmt die Kosten nur, wenn die Leistungserbringer:
 
@@ -36,6 +36,8 @@
 
   - e. die Ausstellung der Impfbescheinigung.
 
+5bis Der Bund übernimmt für bis zum 30. Juni 2021 durchgeführte Impfungen nach Absatz 1 für jedes durch eine Arztpraxis nachträglich ausgestellte Covid-19-Impfzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 eine Pauschale von 8.30 Franken. Mit dem Betrag sind sämtliche Leistungen im Zusammenhang mit der Ausstellung des Zertifikats abgegolten.
+
 6 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
-7 Für das Verfahren zur Übernahme der Kosten von Covid-19-Impfungen gilt Artikel 64b sinngemäss.
+7 Für das Verfahren zur Übernahme der Kosten gilt Artikel 64b sinngemäss.
