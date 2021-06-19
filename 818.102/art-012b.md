@@ -1,6 +1,6 @@
 # Art. 12b Massnahmen im Sportbereich: A-Fonds-perdu-Beiträge für Klubs des professionellen und semiprofessionellen Mannschaftssports
 
-1 Der Bund unterstützt mit A-Fonds-perdu-Beiträgen von insgesamt höchstens 115 Millionen Franken:
+1 Der Bund kann mit A-Fonds-perdu-Beiträgen unterstützen:
 
   - a. Klubs in den Sportarten Fussball und Eishockey, die mit einer Mannschaft in einer der beiden Ligen mit professionellem Spielbetrieb spielen;
 
@@ -26,6 +26,6 @@
 
 7 Der Klub berichtet dem Bund jährlich über die Einhaltung der Bedingungen nach Absatz 6. Der Bundesrat legt die Einzelheiten der Berichterstattung und ihrer Veröffentlichung fest. Er kann Bestimmungen zur Verhinderung von Missbräuchen erlassen.
 
-8 Werden Bedingungen nach Absatz 6 oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990.
+8 Werden Bedingungen nach Absatz 6 Buchstabe a oder d oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990. Werden die Bedingungen nach Absatz 6 Buchstabe b oder c nicht eingehalten, so hat ein Klub diejenigen Beiträge zurückzuerstatten, die 50 Prozent der entgangenen Ticketeinnahmen nach Absatz 4 übersteigen.
 
 9 Gesuche für Spiele zwischen dem 29. Oktober 2020 und dem 31. Dezember 2020 können bis zum 30. April 2021 eingereicht werden.
