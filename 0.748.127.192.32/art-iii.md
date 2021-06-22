@@ -1,4 +1,4 @@
-# Art. III
+# Art. III Bezeichnung und Betriebsbewilligung
 
 1. JedeVertragspartei hat das Recht, mittels diplomatischer Note ein oder mehrere Luftverkehrsunternehmen zu bezeichnen, um für diese Vertragspartei die vereinbarten Linien auf den in diesem Abkommen festgelegten Strecken zu bedienen und eine Bezeichnung zurückzuziehen oder ein zuvor bezeichnetes Unternehmen durch ein anderes Unternehmen zu ersetzen.
 
@@ -8,4 +8,4 @@
 
 4. Die Luftfahrtbehörden jeder Vertragspartei haben das Recht, die in Absatz 2 dieses Artikels vorgesehene Betriebsbewilligung nicht zu erteilen oder die ihr für die Ausübung der in Artikel II dieses Abkommens festgelegten Rechte durch das bezeichnete Unternehmen nötig erscheinenden Bedingungen aufzustellen, wenn die genannte Vertragspartei nicht beweisen kann, dass ein wesentlicher Teil des Eigentums und die tatsächliche Verfügungsgewalt über dieses Unternehmen in den Händen der das Unternehmen bezeichnenden Vertragspartei oder ihrer Staatsangehörigen liegen.
 
-5. Nach Empfang der im Absatz 2 dieses Artikels vorgesehenen Betriebsbewilligung kann das bezeichnete Unternehmen jederzeit den Betrieb jeder vereinbarten Linie ganz oder teilweise aufnehmen, vorausgesetzt, dass ein in Übereinstimmung mit den Bestimmungen des Artikels XI dieses Abkommens aufgestellter Tarif für die betreffende Linie in Kraft ist.
+5. Nach Empfang der im Absatz 2 dieses Artikels vorgesehenen Betriebsbewilligung kann das bezeichnete Unternehmen jederzeit den Betrieb jeder vereinbarten Linie ganz oder teilweise aufnehmen, vorausgesetzt, dass für diese Linien Preise und allgemeine Beförderungsbedingungen in Übereinstimmung mit den Bestimmungen des Artikels XI dieses Abkommens in Kraft sind.
