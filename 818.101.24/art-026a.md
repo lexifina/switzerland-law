@@ -16,4 +16,4 @@
 
   - b. den Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird.
 
-4 Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b und c und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
+4 Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b–d und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.

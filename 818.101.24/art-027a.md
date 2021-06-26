@@ -26,16 +26,16 @@
 
   - a. schwangere Frauen;
 
-  - b. Personen, die Erkrankungen oder genetische Anomalien aufweisen, die in Anhang 7 aufgeführt sind.
+  - b. Personen mit den Erkrankungen oder genetischen Anomalien nach Anhang 7, die sich aus medizinischen Gründen nicht impfen lassen können.
 
-10bis Nicht unter Absatz 10 fallen Personen, die:
+10bis Nicht als besonders gefährdet gelten:
 
-  - a. gegen Covid-19 geimpft sind;
+  - a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 12 Monaten ab vollständig erfolgter Impfung;
 
-  - b. sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten nach der Aufhebung einer Absonderung durch die zuständige Behörde.
+  - b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten ab dem 11. Tag nach der Bestätigung der Ansteckung.
 
 11 Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10bis als besonders gefährdet eingestuft werden.
 
 12 Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
-13 Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 10 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020.
+13 Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom vom 23. Juni 2021 .
