@@ -1,8 +1,8 @@
 # Art. 128a Übriges Verfahren
 
-1 Die Entscheide der letzten kantonalen Instanz sind den Parteien, der Vorinstanz, der kantonalen Amtsstelle und dem SECO zu eröffnen.
+1 Die Entscheide der letzten kantonalen Instanz sind den Parteien, der Vorinstanz, der kantonalen Amtsstelle und der Ausgleichsstelle der Arbeitslosenversicherung zu eröffnen.
 
-2 Dem SECO sind überdies zu eröffnen:
+2 Der Ausgleichsstelle der Arbeitslosenversicherung sind überdies zu eröffnen:
 
   - a. Einstellungsverfügungen nach Artikel 30 Absatz 1 Buchstaben c und d AVIG, sofern diese nicht durch die RAV erlassen werden (Art. 85b Abs. 1 AVIG);
 
@@ -20,4 +20,4 @@
 
   - h. Entscheide über Erlassgesuche nach Artikel 95 AVIG;
 
-  - i. Einspracheentscheide über Verfügungen, die gemäss Buchstaben a–h dem SECO zu eröffnen sind, sowie Einspracheentscheide, die von einer anderen als der verfügenden Stelle erlassen werden (Art. 100 Abs. 2 AVIG).
+  - i. Einspracheentscheide über Verfügungen, die gemäss Buchstaben a–h der Ausgleichsstelle der Arbeitslosenversicherung zu eröffnen sind, sowie Einspracheentscheide, die von einer anderen als der verfügenden Stelle erlassen werden (Art. 100 Abs. 2 AVIG).

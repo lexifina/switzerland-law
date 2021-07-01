@@ -1,3 +1,9 @@
-# Art. 1a Begrenzung des beitragspflichtigen Lohnes
+# Art. 1a Kollektive arbeitsmarktliche Massnahmen
 
-Bei einer Beschäftigungsdauer von weniger als einem Jahr wird zur Berechnung der Höchstgrenze des beitragspflichtigen Lohnes der 360. Teil des Jahreshöchstbetrags mit der Anzahl Kalendertage des Beschäftigungszeitraums multipliziert.
+Als kollektive arbeitsmarktliche Massnahmen im Sinne von Artikel 1 Absatz 3 AVIG gelten:
+
+  - a. die kollektiven Bildungsmassnahmen (Art. 60 Abs. 1 AVIG);
+
+  - b. die kollektiven Beschäftigungsmassnahmen (Art. 64a Abs. 1 AVIG);
+
+  - c. die besonderen kollektiven Massnahmen der Kantone oder der Ausgleichsstelle der Arbeitslosenversicherung, gestützt auf die Bundesgesetzgebung über die Arbeitslosenversicherung zu Gunsten von arbeitslosen oder von Arbeitslosigkeit bedrohten Personen.
