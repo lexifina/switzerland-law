@@ -1,6 +1,6 @@
 # Art. 13a Forstliche Bauten und Anlagen
 
-1 Forstliche Bauten und Anlagen, wie Forstwerkhöfe, gedeckte Energieholzlager und Waldstrassen, dürfen mit behördlicher Bewilligung nach Artikel 22 RPG errichtet oder geändert werden.
+1 Forstliche Bauten und Anlagen, wie Forstwerkhöfe, Rundholzlager, gedeckte Energieholzlager und Waldstrassen, dürfen mit behördlicher Bewilligung nach Artikel 22 RPG errichtet oder geändert werden.
 
 2 Voraussetzung einer Bewilligung ist, dass:
 
