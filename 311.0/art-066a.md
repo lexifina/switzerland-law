@@ -24,13 +24,17 @@
 
   - k. qualifizierte Störung des öffentlichen Verkehrs (Art. 237 Ziff. 1 Abs. 2), vorsätzliche Störung des Eisenbahnverkehrs (Art. 238 Abs. 1);
 
-  - l. strafbare Vorbereitungshandlungen (Art. 260bis Abs. 1 und 3), Beteiligung an oder Unterstützung einer kriminellen Organisation (Art. 260ter), Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260quater), Finanzierung des Terrorismus (Art. 260quinquies);
+  - l. strafbare Vorbereitungshandlungen (Art. 260bis Abs. 1 und 3), Beteiligung an oder Unterstützung einer kriminellen oder terroristischen Organisation (Art. 260ter), Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260quater), Finanzierung des Terrorismus (Art. 260quinquies), Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat
+
+  - (Art. 260sexies);
 
   - m. Völkermord (Art. 264), Verbrechen gegen die Menschlichkeit (Art. 264a), schwere Verletzungen der Genfer Konventionen vom 12. August 1949 (Art. 264c), andere Kriegsverbrechen (Art. 264d–264h);
 
   - n. vorsätzliche Widerhandlung gegen Artikel 116 Absatz 3 oder Artikel 118 Absatz 3 des Ausländergesetzes vom 16. Dezember 2005;
 
-  - o. Widerhandlung gegen Artikel 19 Absatz 2 oder 20 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951 (BetmG).
+  - o. Widerhandlung gegen Artikel 19 Absatz 2 oder 20 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951 (BetmG);
+
+  - p. Widerhandlung nach Artikel 74 Absatz 4 des Nachrichtendienstgesetzes vom 25. September 2015 (NDG).
 
 2 Das Gericht kann ausnahmsweise von einer Landesverweisung absehen, wenn diese für den Ausländer einen schweren persönlichen Härtefall bewirken würde und die öffentlichen Interessen an der Landesverweisung gegenüber den privaten Interessen des Ausländers am Verbleib in der Schweiz nicht überwiegen. Dabei ist der besonderen Situation von Ausländern Rechnung zu tragen, die in der Schweiz geboren oder aufgewachsen sind.
 

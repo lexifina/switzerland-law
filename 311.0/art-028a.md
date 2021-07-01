@@ -6,6 +6,4 @@
 
   - a. das Zeugnis erforderlich ist, um eine Person aus einer unmittelbaren Gefahr für Leib und Leben zu retten; oder
 
-  - b. ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel
-
-  - 111–113 oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 187, 189–191, 197 Absatz 4, 260ter, 260quinquies, 305bis, 305ter und 322ter–322septies des vorliegenden Gesetzes sowie nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951 nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
+  - b. ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 111–113 oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 187, 189–191, 197 Absatz 4, 260ter, 260quinquies, 260sexies, 305bis, 305ter und 322ter–322septies des vorliegenden Gesetzes oder nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951 nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.

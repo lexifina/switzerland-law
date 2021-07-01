@@ -8,7 +8,7 @@
 
 Ein schwerer Fall liegt insbesondere vor, wenn der Täter:
 
-  - a. als Mitglied einer Verbrechensorganisation handelt;
+  - a. als Mitglied einer kriminellen oder terroristischen Organisation (Art. 260ter) handelt;
 
   - b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der Geldwäscherei zusammengefunden hat;
 
