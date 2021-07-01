@@ -13,3 +13,5 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
   - d. Postexpositionelle passive Immunisierung | Gemäss den Empfehlungen des BAG und der Schweizerischen Kommission für Impffragen (Richtlinien und Empfehlungen «Postexpositionelle passive Immunisierung» vom Oktober 2004).Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.
 
   - e. Prophylaktische Mastektomie und / oder Adnexektomie | Bei Trägerinnen von Mutationen oder Deletionen im BRCA1- oder BRCA2-Gen
+
+  - f. Passive Impfung mit Hepatitis B-Immunglobulin | Bei Neugeborenen HBs-Ag-positiver Mütter.
