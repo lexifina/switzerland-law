@@ -1,39 +1,31 @@
-# Art. 96c Abrufverfahren
+# Art. 96c Zugriff auf von der Ausgleichsstelle betriebene Informationssysteme
 
-1 Die folgenden Stellen dürfen mittels Abrufverfahren zur Erfüllung der in Absatz 2 genannten Aufgaben auf die von der Ausgleichsstelle betriebenen Informationssysteme (Art. 83 Abs. 1 Bst. i) zugreifen:
+1 Die Arbeitslosenkassen haben Zugriff auf das Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung (Art. 83 Abs. 1bis Bst. a) zur Auszahlung, Abrechnung und Verbuchung von Leistungen der Arbeitslosenversicherung.
 
-  - a. die Ausgleichsstelle der Arbeitslosenversicherung;
+1bis Die Stellen, die Zugriff auf das Informationssystem der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. b) haben, sowie Personen und Stellen, die einen gesicherten Zugriff auf die Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. e) haben, sind in Artikel 35 Absätze 3 und 3ter AVG aufgeführt.
 
-  - b. die Arbeitslosenkassen;
+1ter Die folgenden Stellen haben Zugriff auf das Informationssystem für die Analyse von Arbeitsmarktdaten (Art. 83 Abs. 1bis Bst. c), um die erforderlichen Leistungs- und Führungskennzahlen zu erhalten:
 
-  - c. die von den Kantonen bezeichneten, mit der Anwendung dieses Gesetzes betrauten Amtsstellen;
+  - a. die kantonalen Amtsstellen (Art. 85);
 
-  - d. die regionalen Arbeitsvermittlungszentren;
+  - b. die RAV (Art. 85b);
 
-  - e. die Logistikstellen für arbeitsmarktliche Massnahmen.
+  - c. die Logistikstellen für arbeitsmarktliche Massnahmen (Art. 85c);
 
-2 Sie dürfen diejenigen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, abrufen, die sie benötigen, um die folgenden ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen:
+  - d. die Arbeitslosenkassen (Art. 77 und 78).
 
-  - a. Beaufsichtigung und Kontrolle der Durchführung dieses Gesetzes;
+1quater Folgende Personen können sich auf der Zugangsplattform für elektronische Dienstleistungen (Art. 83 Abs. 1bis Bst. d) registrieren:
 
-  - b. Zuweisung der nötigen Mittel an die Kassen;
+  - a. versicherte Personen für die Anmeldung, für die Geltendmachung von Leistungen und zur Erfüllung der Pflichten nach Artikel 17;
 
-  - c. Festlegung und Vergütung der Verwaltungskosten;
+  - b. arbeitssuchende Personen für die Anmeldung und die Beratung durch das RAV;
 
-  - d. Beratung und Vermittlung;
+  - c. Arbeitgeber für die Geltendmachung von Leistungen nach den Artikeln 31 und 42 sowie für die Erfüllung ihrer Pflichten nach Artikel 88 Absatz 1.
 
-  - e. Abklärung der Anspruchsberechtigung;
+2 …
 
-  - f. Durchführung der Kontrollvorschriften;
+2bis Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1bis) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.
 
-  - g. Berechnung und Auszahlung der Leistungen;
-
-  - h. Erlass der gesetzlich oder verfahrensrechtlich vorgesehenen Verfügungen;
-
-  - i. Sicherstellung eines ausreichenden Angebots an arbeitsmarktlichen Massnahmen.
-
-2bis Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1 Bst. i) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.
-
-2ter Die Organe der Sozialhilfe dürfen mittels Abrufverfahren auf die von der Ausgleichsstelle betriebenen Informationssysteme (Art. 83 Abs. 1 Bst. i) zurückgreifen. Der Bundesrat schränkt den Zugriff und die Verwendung der Informationen ein, welche der Dossierverwaltung und der beruflichen Wiedereingliederung von Arbeitslosen und sozialhilfeabhängigen Ausgesteuerten dienen.
+2ter …
 
 3 Der Bundesrat regelt die Verantwortung für den Datenschutz, die zu erfassenden Daten und deren Aufbewahrungsfristen, den Zugriff auf die Daten, die Organisation und den Betrieb der Informationssysteme, die Zusammenarbeit zwischen den in Absatz 1 aufgeführten Behörden und die Datensicherheit.

@@ -4,6 +4,8 @@
 
   - a. anderen mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organen, wenn die Daten für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;
 
+  - abis. den Durchführungsorganen der kantonalen Arbeitslosenhilfegesetze;
+
   - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
 
   - bbis.Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der Versichertennummer der AHV;
@@ -11,6 +13,8 @@
   - bter. den Ausländerbehörden, nach Artikel 97 Absatz 3 des Ausländer- und Integrationsgesetzesvom 16. Dezember 2005 (AIG);
 
   - c. den für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
+
+  - cbis. den kantonalen Steuerbehörden, sofern das kantonale Recht eine direkte Übermittlung der Leistungsabrechnung an diese vorsieht;
 
   - d. den Organen der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992;
 
@@ -53,3 +57,5 @@
 6 Der Bundesrat regelt die Modalitäten der Bekanntgabe und die Information der betroffenen Person.
 
 7 Die Datenbekanntgabe erfolgt in der Regel schriftlich und kostenlos. Der Bundesrat kann die Erhebung einer Gebühr vorsehen, wenn besonders aufwendige Arbeiten erforderlich sind.
+
+8 Die Datenbekanntgabe kann auf elektronischem Weg erfolgen.

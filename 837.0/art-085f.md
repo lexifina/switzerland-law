@@ -18,7 +18,7 @@
 
   - h. anderen privaten und öffentlichen Institutionen, die für die Eingliederung Versicherter wichtig sind.
 
-2 Den in Absatz 1 Buchstaben a–h genannten Stellen kann in Abweichung von den Artikeln 32 und 33 ATSG im Einzelfall Zugriff auf Akten sowie Daten aus dem Informationssystem nach Artikel 35a Absatz 1 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989 (AVG) gewährt werden, sofern:
+2 Den in Absatz 1 Buchstaben a–h genannten Stellen kann in Abweichung von den Artikeln 32 und 33 ATSG im Einzelfall Zugriff auf Akten sowie Daten aus den Informationssystemen nach Artikel 83 Absatz 1bis Buchstabe a des vorliegenden Gesetzes und nach Artikel 35a Absatz 1 AVG gewährt werden, sofern:
 
   - a. die betroffene Person Leistungen von einer dieser Stellen bezieht und der Gewährung des Zugriffs zustimmt; und
 
