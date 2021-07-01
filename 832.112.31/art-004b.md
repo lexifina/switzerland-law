@@ -8,6 +8,6 @@ Die Versicherung übernimmt die Kosten von Leistungen der folgenden Fachrichtung
 
   - c. Arzneimitteltherapie der traditionellen chinesischen Medizin (TCM): sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Akupunktur – Chinesische Arzneitherapie – TCM (ASA) des SIWF vom 1. Juli 2015, revidiert am 23. Juni 2017, entspricht;
 
-  - d. klassische Homöopathie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Homöopathie (SVHA) des SIWF vom 1. Januar 1999, revidiert am 14. Juni 2019, entspricht;
+  - d. klassische Homöopathie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Homöopathie (SVHA) des SIWF vom 1. Januar 1999, revidiert am 10. Dezember 2020, entspricht;
 
   - e. Phytotherapie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Phytotherapie (SMGP) des SIWF vom 1. Juli 2011, revidiert am 5. November 2015 entspricht.

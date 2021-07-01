@@ -56,6 +56,8 @@
 
     - 6. Oto-Rhinolaryngologika (12),
 
+    - 6a. Weitere Arzneimittel Komplementärmedizin (20),
+
     - 7. Herz und Kreislauf Komplementärmedizin (52),
 
     - 8. Lunge und Atmung Komplementärmedizin (53),
