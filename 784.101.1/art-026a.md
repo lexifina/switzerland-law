@@ -11,3 +11,5 @@
 4 Übermittelte Nummern müssen mit einer Kennzeichnung versehen sein, welche darauf hinweist, ob sie auf Angaben der anrufenden Kundin bzw. des anrufenden Kunden oder auf Informationen der verbindungserzeugenden Anbieterin beruhen und ob diese die Nummernangaben der Kundin bzw. des Kunden überprüft hat.
 
 5 Es dürfen keine Nummern aus den Bereichen 0900, 0901 und 0906 als Nummern anrufender Anschlüsse übermittelt werden.
+
+6 Haben Anbieterinnen Kenntnis davon, dass eine übermittelte Nummer ungültig ist oder ohne Nutzungsrecht verwendet wird, oder handelt es sich um eine Nummer nach Absatz 5, so müssen sie geeignete Massnahmen treffen und untereinander koordinieren, um die Übermittlung dieser Nummer zu verhindern oder den Anruf zu unterbinden.
