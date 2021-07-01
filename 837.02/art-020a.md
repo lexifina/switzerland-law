@@ -1,3 +1,7 @@
-# Art. 20a Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten
+# Art. 20a Erstes Beratungs- und Kontrollgespräch
 
-Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten (Art. 64 der V [EG] Nr. 883/2004), müssen sich persönlich bei der vom Kanton bestimmten zuständigen Amtsstelle ihres Aufenthaltsorts melden. Während der Dauer der Stellensuche in der Schweiz ist ein Wechsel der zuständigen Amtsstelle ausgeschlossen.
+1 Die zuständige Amtsstelle führt innerhalb von 15 Tagen nach dem Anmeldedatum (Art. 19 Abs. 3) das erste Beratungs- und Kontrollgespräch mit der versicherten Person.
+
+2 Bei diesem Gespräch erfolgt die persönliche Identifizierung der versicherten Person.
+
+3 Die versicherte Person reicht bei diesem Gespräch die von der zuständigen Amtsstelle verlangten Informationen ein, namentlich die Nachweise der Arbeitsbemühungen.

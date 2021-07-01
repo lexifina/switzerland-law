@@ -14,4 +14,4 @@
 
   - d. die Vertretung gegenüber der Ausgleichsstelle.
 
-4 Jedes RAV und jede LAM-Stelle ist an das AVAM angeschlossen und bearbeitet die für den Vollzug der Aufgaben sowie für statistische Zwecke relevanten Daten gemäss Artikel 83 Absatz 1 Buchstabe i AVIG.
+4 …

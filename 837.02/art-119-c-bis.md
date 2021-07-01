@@ -6,7 +6,7 @@
 
   - a. über den Ausgang der Vermittlungsbemühungen zu orientieren und ihm fehlbares Verhalten von Versicherten zu melden;
 
-  - b. mit den nötigen Informationen zu versehen, damit dieses seine Aufgaben in der Arbeitsmarktbeobachtung über das AVAM wahrnehmen kann.
+  - b. mit den nötigen Informationen zu versehen, damit dieses seine Aufgaben in der Arbeitsmarktbeobachtung über das Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. b AVIG) wahrnehmen kann.
 
 3 Private Stellenvermittler können für die erbrachten Dienstleistungen aus dem Ausgleichsfonds der Arbeitslosenversicherung entschädigt werden. Die Ausgleichsstelle legt die zu Entschädigungen berechtigenden Dienstleistungen und die Höhe der Entschädigung fest.
 
