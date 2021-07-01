@@ -4,9 +4,9 @@
 
 2 Für Angestellte der Lohnklassen 30–38 ist Vertrauensarbeitszeit obligatorisch.
 
-3 Angestellte der Lohnklassen 24–29 können Vertrauensarbeitszeit mit ihren Vorgesetzten vereinbaren.
+3 Angestellte der Lohnklassen 18–29 können Vertrauensarbeitszeit mit ihren Vorgesetzten vereinbaren.
 
-4 Angestellte der Lohnklassen 1–23 sowie Angestellte, die vom Arbeitgeber zusätzliche Beiträge nach Artikel 3 Absatz 2 Buchstabe a oder b der Verordnung vom 20. Februar 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien erhalten, sind von der Vertrauensarbeitszeit ausgeschlossen.
+4 Angestellte der Lohnklassen 1–17 sowie Angestellte, die vom Arbeitgeber zusätzliche Beiträge nach Artikel 3 Absatz 2 Buchstabe a oder b der Verordnung vom 20. Februar 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien erhalten, sind von der Vertrauensarbeitszeit ausgeschlossen.
 
 5 Anstelle der Kompensation für Mehrarbeit, Überzeit und Gleitzeit erhalten Angestellte mit Vertrauensarbeitszeit eine jährliche Entschädigung in Form einer Barvergütung von 6 Prozent des Jahreslohnes. Die Angestellten können sich im Einvernehmen mit den Vorgesetzten anstelle der Barvergütung ausnahmsweise zehn Ausgleichstage oder 100 Stunden auf ein Sabbaticalkonto gutschreiben lassen.
 
