@@ -12,6 +12,8 @@ in dem Bewusstsein, dass die Landschaft zur Herausbildung lokaler Kulturen beitr
 
 in Anerkennung dessen, dass die Landschaft überall einen wichtigen Teil der menschlichen Lebensqualität darstellt: in städtischen Gebieten und auf dem Land, in beeinträchtigten Gebieten ebenso wie in Gebieten von hoher Qualität, in besonders schönen Gebieten ebenso wie in gewöhnlichen Gebieten;
 
+in dem allgemeinen Bewusstsein der Bedeutung der Landschaft weltweit als wesentlicher Bestandteil des Lebensraums der Menschen;
+
 in der Erkenntnis, dass die Entwicklungen im Bereich der Land- und Forstwirtschaft, der Produktionsverfahren in Industrie und Bergbau, der Regional- und Stadtplanung, des Verkehrswesens, der Infrastruktur, des Tourismus und der Freizeit sowie, ganz allgemein, weltwirtschaftliche Veränderungen in vielen Fällen den Wandel von Landschaften beschleunigen;
 
 in dem Bestreben, dem Wunsch der Öffentlichkeit nach qualitativ hochwertigen Landschaften und nach aktiver Beteiligung an der Landschaftsentwicklung zu entsprechen;
@@ -23,5 +25,7 @@ unter Berücksichtigung der vorhandenen völkerrechtlichen Übereinkünfte im Be
 in Anerkennung dessen, dass die Qualität und Vielfalt der europäischen Landschaften ein gemeinsames Gut darstellen und dass es wichtig ist, zu seinem Schutz, seiner Pflege und seiner Planung zusammenzuarbeiten;
 
 in dem Wunsch, eine neue Übereinkunft zu schaffen, die ausschliesslich dem Schutz, der Pflege und der Planung aller Landschaften in Europa dient,
+
+mit dem Wunsch, dass die im Übereinkommen niedergelegten Werte und Grundsätze auch auf aussereuropäische Staaten, die dies wünschen, angewendet werden können;
 
 sind wie folgt übereingekommen:
