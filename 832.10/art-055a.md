@@ -1,15 +1,25 @@
-# Art. 55a Einschränkung der Zulassung zur Tätigkeit zulasten der Krankenversicherung
+# Art. 55a Beschränkung der Anzahl Ärzte und Ärztinnen, die im ambulanten Bereich Leistungen erbringen
 
-1 Der Bundesrat kann die Zulassung von folgenden Personen zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung von einem Bedürfnis abhängig machen:
+1 Die Kantone beschränken in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen die Anzahl der Ärzte und Ärztinnen, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen. Wenn ein Kanton die Anzahl Ärzte und Ärztinnen beschränkt, dann sieht er vor:
 
-  - a. Ärztinnen und Ärzte nach Artikel 36, ob sie nun ihre Tätigkeit selbstständig oder unselbstständig ausüben;
+  - a. dass Ärzte und Ärztinnen nur zugelassen werden, solange die entsprechende Höchstzahl nicht erreicht ist;
 
-  - b. Ärztinnen und Ärzte, die ihre Tätigkeit in Einrichtungen nach Artikel 36a oder im ambulanten Bereich von Spitälern nach Artikel 39 ausüben.
+  - b. dass die Anzahl folgender Ärzte und Ärztinnen auf die entsprechende Höchstzahl beschränkt ist:
 
-2 Kein Bedürfnisnachweis ist erforderlich für Personen, welche mindestens drei Jahre an einer anerkannten schweizerischen Weiterbildungsstätte gearbeitet haben.
+    - 1. Ärzte und Ärztinnen, die ihre Tätigkeit im ambulanten Bereich eines Spitals ausüben,
 
-3 Der Bundesrat legt die Kriterien fest, die für den Bedürfnisnachweis massgeblich sind; vorgängig hört er die Kantone sowie die Verbände der Leistungserbringer, der Versicherer sowie der Patientinnen und Patienten an.
+    - 2. Ärzte und Ärztinnen, die ihre Tätigkeit in einer Einrichtung nach Artikel 35 Absatz 2 Buchstabe n ausüben.
 
-4 Die Kantone bestimmen die Personen nach Absatz 1. Sie können deren Zulassung an Bedingungen knüpfen.
+2 Der Bundesrat legt die Kriterien und die methodischen Grundsätze für die Festlegung der Höchstzahlen fest. Dabei berücksichtigt er insbesondere die interkantonalen Patientenströme, die Versorgungsregionen und die generelle Entwicklung des Beschäftigungsgrades der Ärzte und Ärztinnen.
 
-5 Eine Zulassung verfällt, wenn nicht innert einer bestimmten Frist von ihr Gebrauch gemacht wird, ausser wenn die Frist aus berechtigten Gründen wie Krankheit, Mutterschaft oder Weiterbildung nicht eingehalten werden kann. Der Bundesrat legt die Frist fest.
+3 Vor der Festlegung der Höchstzahlen hört der Kanton die Verbände der Leistungserbringer, der Versicherer und der Versicherten an. Er koordiniert sich bei der Festlegung der Höchstzahlen mit den anderen Kantonen.
+
+4 Die Leistungserbringer und deren Verbände sowie die Versicherer und deren Verbände geben den zuständigen kantonalen Behörden auf Anfrage kostenlos die Daten bekannt, die zusätzlich zu den nach Artikel 59a erhobenen Daten zur Festlegung der Höchstzahlen erforderlich sind.
+
+5 Werden in einem Kanton die Zulassungen beschränkt, so können folgende Ärzte und Ärztinnen weiterhin tätig sein:
+
+  - a. Ärzte und Ärztinnen, die vor Inkrafttreten der Höchstzahlen zugelassen wurden und im ambulanten Bereich Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbracht haben;
+
+  - b. Ärzte und Ärztinnen, die ihre Tätigkeit im ambulanten Bereich eines Spitals oder in einer Einrichtung nach Artikel 35 Absatz 2 Buchstabe n vor Inkrafttreten der Höchstzahlen ausgeübt haben, sofern sie ihre Tätigkeit im ambulanten Bereich des gleichen Spitals oder in der gleichen Einrichtung weiter ausüben.
+
+6 Steigen die jährlichen Kosten je versicherte Person in einem Fachgebiet in einem Kanton mehr als die jährlichen Kosten der anderen Fachgebiete im selben Kanton oder mehr als die jährlichen Kosten des gesamtschweizerischen Durchschnitts im betroffenen Fachgebiet an, so kann der Kanton vorsehen, dass kein Arzt und keine Ärztin im betroffenen Fachgebiet eine Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung neu aufnehmen kann.
