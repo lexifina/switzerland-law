@@ -10,7 +10,9 @@
 
   - d. der Militärversicherung;
 
-  - e. der Entschädigung nach den Artikeln 9 und 10.
+  - e. der Entschädigung nach den Artikeln 9 und 10;
+
+  - f. der Betreuungsentschädigung nach den Artikeln 16n–16s für dasselbe Kind.
 
 2 Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Mutterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
 
