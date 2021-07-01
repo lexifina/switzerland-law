@@ -2,7 +2,7 @@
 
 1 Die Beteiligung nach Artikel 90 Buchstabe b beträgt 0,159 Prozent der von der Beitragspflicht erfassten Lohnsumme.
 
-2 …
+2 Zur Förderung der Wiedereingliederung inländischer Arbeitskräfte wird die Beteiligung des Bundes für den Zeitraum von 2020 bis 2022 um 69,5 Millionen Franken pro Jahr erhöht.
 
 3 Der Bund leistet in den Jahren 2020 und 2021 jeweils einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsummen der ausserordentlichen Beiträge für die Jahre 2020 und 2021 bemessen sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des jeweiligen Jahres.
 
