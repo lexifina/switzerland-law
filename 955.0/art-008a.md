@@ -12,7 +12,7 @@
 
   - a. es ungewöhnlich erscheint, es sei denn, seine Rechtmässigkeit ist erkennbar;
 
-  - b. Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren oder der Verfügungsmacht einer kriminellen Organisation (Art. 260ter Ziff. 1 StGB) unterliegen.
+  - b. Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren, der Verfügungsmacht einer kriminellen oder terroristischen Organisation (Art. 260ter StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.
 
 3 Sie unterstehen den Pflichten nach den Absätzen 1 und 2 auch dann, wenn die Barzahlung in mehreren Tranchen erfolgt und die einzelnen Tranchen unter 100 000 Franken liegen, zusammengezählt diesen Betrag jedoch überschreiten.
 

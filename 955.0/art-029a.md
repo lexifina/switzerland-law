@@ -1,6 +1,6 @@
 # Art. 29a Strafbehörden
 
-1 Die Strafbehörden melden der Meldestelle rasch sämtliche hängigen Verfahren im Zusammenhang mit den Artikeln 260ter Ziffer 1, 260quinquies Absatz 1, 305bis und 305ter Absatz 1 StGB. Sie stellen ihr rasch Urteile und Einstellungsverfügungen inklusive Begründung zu.
+1 Die Strafbehörden melden der Meldestelle umgehend sämtliche hängigen Verfahren im Zusammenhang mit den Artikeln 260ter, 260quinquies Absatz 1, 305bis und 305ter Absatz 1 StGB. Sie stellen ihr rasch Urteile und Einstellungsverfügungen inklusive Begründung zu.
 
 2 Sie melden der Meldestelle zudem unverzüglich Verfügungen, die sie aufgrund einer Anzeige der Meldestelle erlassen haben.
 

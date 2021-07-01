@@ -4,7 +4,9 @@
 
 2 Wird aufgrund dieser Analyse erkennbar, dass neben dem meldenden Finanzintermediär weitere Finanzintermediäre an einer Transaktion oder Geschäftsbeziehung beteiligt sind oder waren, so müssen die beteiligten Finanzintermediäre der Meldestelle auf Aufforderung hin alle damit zusammenhängenden Informationen herausgeben, soweit sie bei ihnen vorhanden sind.
 
-3 Die Meldestelle setzt den nach den Absätzen 1 und 2 betroffenen Finanzintermediären eine Frist für die Herausgabe.
+2bis Wird aufgrund der Analyse von Informationen, die von einer ausländischen Meldestelle stammen, erkennbar, dass diesem Gesetz unterstellte Finanzintermediäre an einer Transaktion oder Geschäftsbeziehung im Zusammenhang mit diesen Informationen beteiligt sind oder waren, so müssen die beteiligten Finanzintermediäre der Meldestelle auf Aufforderung hin alle damit zusammenhängenden Informationen herausgeben, soweit sie bei ihnen vorhanden sind.
+
+3 Die Meldestelle setzt den nach den Absätzen 1–2bis betroffenen Finanzintermediären eine Frist für die Herausgabe.
 
 4 Die Finanzintermediäre unterstehen dem Informationsverbot nach Artikel 10a Absatz 1.
 
