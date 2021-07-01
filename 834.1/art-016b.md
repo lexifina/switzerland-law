@@ -18,6 +18,6 @@
 
 3 Der Bundesrat regelt die Anspruchsvoraussetzungen für Frauen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit:
 
-  - a. die Voraussetzungen von Absatz 1 Buchstabe a nicht erfüllen;
+  - a. während der neun Monate unmittelbar vor der Niederkunft nicht mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt haben;
 
   - b. im Zeitpunkt der Niederkunft nicht Arbeitnehmerinnen oder Selbständigerwerbende sind.
