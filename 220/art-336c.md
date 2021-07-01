@@ -8,6 +8,10 @@
 
   - c. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
 
+  - cbis. vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329f Absatz 2;
+
+  - cter. solange der Anspruch auf Betreuungsurlaub nach Artikel 329i besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
+
   - d. während der Arbeitnehmer mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 
 2 Die Kündigung, die während einer der in Absatz 1 festgesetzten Sperrfristen erklärt wird, ist nichtig; ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.

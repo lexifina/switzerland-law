@@ -8,8 +8,10 @@
 
   - a. eine Arbeitnehmerin wegen Schwangerschaft bis zu zwei Monate an der Arbeitsleistung verhindert ist;
 
-  - b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329f bezogen hat; oder
+  - b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329f bezogen hat;
 
-  - c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329g bezogen hat.
+  - c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329g bezogen hat; oder
+
+  - d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329i bezogen hat.
 
 4 Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den Absätzen 2 und 3 abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer im Ganzen mindestens gleichwertig ist.
