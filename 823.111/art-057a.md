@@ -1,6 +1,6 @@
 # Art. 57a Kosten der Bekanntgabe und Publikation von Daten
 
-1 In den Fällen nach Artikel 34a Absatz 4 AVG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Die Höhe dieser Gebühr entspricht den in den Artikeln 14 und 16 der Verordnung vom 10. September 1969 über Kosten und Entschädigungen im Verwaltungsverfahren festgesetzten Beträgen.
+1 In den Fällen nach Artikel 34a Absatz 4 AVG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Es gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004.
 
 2 Für Publikationen nach Artikel 34a Absatz 3 AVG wird eine kostendeckende Gebühr erhoben.
 

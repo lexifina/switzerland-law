@@ -18,12 +18,14 @@
 
   - g. Kontaktadresse;
 
-  - h. Name des Unternehmens.
+  - h. Name des Arbeitgebers;
 
-3 Die Meldung muss über die Internetplattform der öffentlichen Arbeitsvermittlung, telefonisch oder durch persönliche Vorsprache erfolgen.
+  - i. bei Personalverleihern: Name des Einsatzbetriebs.
+
+3 …
 
 4 Die öffentliche Arbeitsvermittlung bestätigt den Eingang der Meldungen.
 
-5 Der Arbeitgeber darf die Stellen, die er nach Absatz 1 melden muss, frühestens nach Ablauf von fünf Arbeitstagen nach Erhalt der Bestätigung anderweitig ausschreiben.
+5 Die Arbeitgeber dürfen die Stellen, die sie nach Absatz 1 melden müssen, frühestens nach Ablauf von fünf Arbeitstagen nach der Publikation auf der Plattform der öffentlichen Arbeitsvermittlung anderweitig ausschreiben.
 
 6 Zugriff auf die gemeldeten Stelleninformationen haben während fünf Arbeitstagen einzig die Mitarbeitenden der öffentlichen Arbeitsvermittlung sowie Personen, die bei der öffentlichen Arbeitsvermittlung als Stellensuchende angemeldet sind.
