@@ -4,15 +4,15 @@
 
 2 Ein erheblicher Schaden an Nutztieren durch einen einzelnen Wolf liegt vor, wenn in seinem Streifgebiet:
 
-  - a. mindestens 35 Nutztiere innerhalb von vier Monaten getötet werden;
+  - a. mindestens 25 Nutztiere innerhalb von vier Monaten getötet werden;
 
-  - b. mindestens 25 Nutztiere innerhalb eines Monats getötet werden; oder
+  - b. mindestens 15 Nutztiere innerhalb von einem Monat getötet werden; oder
 
-  - c. mindestens 15 Nutztiere getötet werden, nachdem im Vorjahr bereits Schäden durch Wölfe zu verzeichnen waren.
+  - c. mindestens 10 Nutztiere innerhalb von vier Monaten getötet werden, nachdem früher bereits Schäden durch Wölfe zu verzeichnen waren.
 
-3 Bei der Beurteilung des Schadens nach Absatz 2 unberücksichtigt bleiben Nutztiere, die in einem Gebiet getötet werden, in dem trotz früherer Schäden durch Wölfe keine zumutbaren Schutzmassnahmen ergriffen worden sind.
+3 Bei Tieren der Rinder- und Pferdegattung sowie bei Neuweltkameliden liegt ein erheblicher Schaden vor, wenn durch einen einzelnen Wolf innerhalb von vier Monaten mindestens zwei Nutztiere getötet wurden.
 
-4 Bei Schäden an Tieren der Rinder- und Pferdegattung kann die Mindestzahl der getöteten Nutztiere nach Absatz 2 in angemessenem Umfang reduziert werden.
+4 Bei der Beurteilung des Schadens nach den Absätzen 2 Buchstabe c und 3 unberücksichtigt bleiben Nutztiere, die in einem Gebiet getötet werden, in dem trotz Schäden, die mehr als vier Monate zurückliegen, keine zumutbaren Schutzmassnahmen nach Artikel 10quinquies ergriffen worden sind.
 
 5 Schäden, die auf dem Gebiet von zwei oder mehr Kantonen entstanden sind, sind von den betroffenen Kantonen koordiniert zu beurteilen.
 
