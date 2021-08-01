@@ -1,0 +1,29 @@
+# Art. IV
+
+Artikel 3 des Abkommens wird durch folgenden Wortlaut ersetzt:
+
+«Art. 3
+
+1. Der Eintragungsstaat des Luftfahrzeugs ist zuständig, über die an Bord begangenen strafbaren und anderen Handlungen zu erkennen.
+
+1bis. Ein Staat ist auch zuständig, über die an Bord begangenen strafbaren und anderen Handlungen zu erkennen:
+
+  - a) als Landestaat, wenn das Luftfahrzeug, an Bord dessen die strafbare oder andere Handlung begangen wird, mit dem noch an Bord befindlichen Verdächtigen in seinem Hoheitsgebiet landet;
+
+  - b) als Halterstaat, wenn die strafbare oder andere Handlung an Bord eines Luftfahrzeugs begangen wird, das ohne Besatzung an eine Person vermietet wurde, die ihre Hauptbetriebsleitung oder, wenn eine solche nicht besteht, ihren ständigen Aufenthalt in diesem Staat hat.
+
+2. Jeder Vertragsstaat trifft die notwendigen Massnahmen, um seine Gerichtsbarkeit als Eintragungsstaat über strafbare Handlungen zu begründen, die an Bord eines in diesem Staat eingetragenen Luftfahrzeugs begangen werden.
+
+2bis. Jeder Vertragsstaat trifft ausserdem die notwendigen Massnahmen, um seine Gerichtsbarkeit über die an Bord eines Luftfahrzeugs begangenen strafbaren Handlungen in folgenden Fällen zu begründen:
+
+  - a) als Landestaat, wenn:
+
+    - i) das Luftfahrzeug, an Bord dessen die strafbare Handlung begangen wird, seinen letzten Abflugpunkt oder seinen nächsten Landepunkt innerhalb seines Hoheitsgebiets hat, und das Luftfahrzeug daraufhin mit dem noch an Bord befindlichen Verdächtigen in seinem Hoheitsgebiet landet, und
+
+    - ii) die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord oder die Ordnung und Disziplin an Bord gefährdet ist;
+
+  - b) als Halterstaat, wenn die strafbare Handlung an Bord eines Luftfahrzeugs begangen wird, das ohne Besatzung an eine Person vermietet wurde, die ihre Hauptbetriebsleitung oder, wenn eine solche nicht besteht, ihren ständigen Aufenthalt in diesem Staat hat.
+
+2ter. Bei der Ausübung seiner Gerichtsbarkeit als Landestaat berücksichtigt ein Staat, ob die betreffende strafbare Handlung im Halterstaat strafbar ist.
+
+3. Dieses Abkommen schliesst eine Strafgerichtsbarkeit, die nach nationalem Recht ausgeübt wird, nicht aus.»

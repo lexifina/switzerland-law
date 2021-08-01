@@ -1,0 +1,11 @@
+# Art. II
+
+Artikel 1 Absatz 3 des Abkommens wird durch folgenden Wortlaut ersetzt:
+
+«Art. 1
+
+3. Im Sinne dieses Abkommens:
+
+  - a) gilt ein Luftfahrzeug als im Flug befindlich von dem Augenblick an, in dem alle Aussentüren nach dem Einsteigen geschlossen worden sind, bis zu dem Augenblick, in dem eine dieser Türen zum Aussteigen geöffnet wird; im Fall einer Notlandung gilt der Flug als fortdauernd, bis die zuständigen Behörden die Verantwortung für das Luftfahrzeug und für die Personen und Sachen an Bord übernehmen;
+
+  - b) ist der Begriff der «Eintragungsstaat» im Sinne der Artikel 4, 5 und 13 des Abkommens als der Halterstaat auszulegen, wenn der Halterstaat nicht gleichzeitig der Eintragungsstaat ist.»

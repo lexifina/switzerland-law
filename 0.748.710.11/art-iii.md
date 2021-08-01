@@ -1,0 +1,7 @@
+# Art. III
+
+Artikel 2 des Abkommens wird durch folgenden Wortlaut ersetzt:
+
+«Art. 2
+
+Unbeschadet des Artikels 4 und ausgenommen, dass es die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord erfordert, dürfen Bestimmungen dieses Abkommens nicht dahin ausgelegt werden, dass sie im Falle von Zuwiderhandlungen gegen Strafgesetze, die politischen Charakter haben oder auf einer benachteiligenden Unterscheidung aus jeglichen Gründen wie insbesondere der Rasse, der Religion, der Staatsangehörigkeit, der ethnischen Herkunft, der politischen Anschauung oder des Geschlechts beruhen, zu einer Massnahme ermächtigen oder sie verlangen.»

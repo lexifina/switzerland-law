@@ -1,0 +1,7 @@
+# Art. IX
+
+Artikel 10 des Abkommens wird durch folgenden Wortlaut ersetzt:
+
+«Art. 10
+
+Wenn Massnahmen in Übereinstimmung mit diesem Abkommen getroffen worden sind, kann weder der Luftfahrzeugkommandant, ein anderes Besatzungsmitglied, ein Fluggast, ein begleitender Sicherheitsbeamter, der Eigentümer oder Halter des Luftfahrzeugs noch die Person, für die der Flug ausgeführt worden ist, in einem Verfahren wegen der Behandlung, die einer durch die Massnahmen betroffenen Person widerfahren ist, zur Verantwortung gezogen werden.»

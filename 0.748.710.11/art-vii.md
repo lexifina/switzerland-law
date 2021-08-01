@@ -1,0 +1,19 @@
+# Art. VII
+
+Artikel 6 des Abkommens wird durch folgenden Wortlaut ersetzt:
+
+«Art. 6
+
+1. Hat der Luftfahrzeugkommandant ausreichende Gründe für die Annahme, dass eine Person an Bord des Luftfahrzeugs eine strafbare oder andere Handlung nach Artikel 1 Absatz 1 begangen hat oder zu begehen im Begriff ist, so kann er gegenüber dieser Person angemessene Massnahmen, einschliesslich Zwangsmassnahmen, treffen, die notwendig sind:
+
+  - a) um die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord zu gewährleisten; oder
+
+  - b) um die Ordnung und Disziplin an Bord aufrechtzuerhalten; oder
+
+  - c) um es ihm zu ermöglichen, diese Person zuständigen Behörden zu übergeben oder sie in Übereinstimmung mit den Bestimmungen dieses Kapitels abzusetzen.
+
+2. Der Luftfahrzeugkommandant kann von anderen Besatzungsmitgliedern verlangen oder sie ermächtigen sowie begleitende Sicherheitsbeamte oder Fluggäste auffordern oder ermächtigen, jedoch nicht von ihnen verlangen, ihn bei Zwangsmassnahmen gegen eine Person, der gegenüber er hierzu befugt ist, zu unterstützen. Besatzungsmitglieder und Fluggäste können auch ohne diese Ermächtigung angemessene vorbeugende Massnahmen treffen, wenn sie ausreichende Gründe für die Annahme haben, dass ein solches Vorgehen unmittelbar notwendig ist, um die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord zu gewährleisten.
+
+3. Ein nach einer zwei- oder mehrseitigen Übereinkunft oder Vereinbarung zwischen den betreffenden Vertragsstaaten eingesetzter begleitender Sicherheitsbeamter kann ohne diese Ermächtigung angemessene vorbeugende Massnahmen treffen, wenn er ausreichende Gründe für die Annahme hat, dass ein solches Vorgehen unmittelbar notwendig ist, um die Sicherheit des Luftfahrzeugs oder der Personen an Bord vor einem widerrechtlichen Eingriff und, wenn die Übereinkunft oder Vereinbarung dies gestattet, vor der Begehung schwerer strafbarer Handlungen zu schützen.
+
+4. Dieses Abkommen ist nicht so auszulegen, als schaffe es für einen Vertragsstaat eine Verpflichtung dazu, ein Programm für den Einsatz begleitender Sicherheitsbeamter einzurichten oder einer zwei- oder mehrseitigen Übereinkunft oder Vereinbarung zuzustimmen, welche ausländische begleitende Sicherheitsbeamte dazu ermächtigt, in seinem Hoheitsgebiet tätig zu sein.»
