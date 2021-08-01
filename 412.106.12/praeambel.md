@@ -1,7 +1,7 @@
 # Präambel
 
-Der Rat des Eidgenössischen Hochschulinstituts für Berufsbildung (EHB-Rat),
+Der Rat der Eidgenössischen Hochschule für Berufsbildung (EHB-Rat),
 
-gestützt auf die Artikel 8 und 9 der EHB-Verordnung vom 14. September 2005,
+gestützt auf die Artikel 6 Absatz 3 und 7 Absatz 6 des EHB-Gesetzes vom 25. September 2020,
 
 verordnet:
