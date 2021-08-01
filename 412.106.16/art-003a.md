@@ -10,9 +10,9 @@
 
   - b. für Zertifikatsstudiengänge mit einer Studiendauer:
 
-    - 1. von einem Jahr: 280 Franken,
+    - 1. von einem Jahr: 590 Franken,
 
-    - 2. von zwei Jahren: 210 Franken.
+    - 2. von zwei Jahren: 420 Franken.
 
 2 Verlängert sich die Studiendauer, so werden für zusätzliche Semester die Gebühren der jeweils längeren Studiendauer gemäss Absatz 1 erhoben.
 

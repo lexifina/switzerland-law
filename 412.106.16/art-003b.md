@@ -2,8 +2,8 @@
 
 Für zusätzliche Leistungen werden folgende Gebühren erhoben:
 
-  - a. Abnahme der abschlussrelevanten Probelektion: 150 Franken;
+  - a. Abnahme der abschlussrelevanten Probelektion: 200 Franken;
 
-  - b. Abnahme der Diplomarbeit: 150 Franken;
+  - b. Abnahme der Diplomarbeit: 200 Franken;
 
   - c. Abnahme der Bachelor- oder der Masterarbeit und deren Verteidigung: 200 Franken.
