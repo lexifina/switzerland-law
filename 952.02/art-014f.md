@@ -1,6 +1,6 @@
-# Art. 14f Verwahren der Publikumseinlagen
+# Art. 14f Verwahren der Publikumseinlagen und kryptobasierten Vermögenswerte
 
-1 Personen nach Artikel 1b BankG müssen die entgegengenommenen Publikumseinlagen:
+1 Personen nach Artikel 1b BankG müssen die entgegengenommenen Publikumseinlagen und sammelverwahrten kryptobasierten Vermögenswerte:
 
   - a. getrennt von den eigenen Mitteln verwahren; oder
 
@@ -14,4 +14,10 @@
 
 3 Sie sind in derjenigen Währung zu halten, in der die jeweiligen Rückforderungsansprüche der Kundinnen und Kunden bestehen.
 
-4 Soweit Vermögenswerte, die auf elektronischer Verschlüsselung basieren, als Publikumseinlagen gelten, müssen sie in der Form gehalten werden, in der sie entgegengenommen wurden.
+4 Kryptobasierte Vermögenswerte müssen wie folgt gehalten werden:
+
+  - a. in der Schweiz;
+
+  - b. in der Form, in der sie entgegengenommen wurden.
+
+5 Die FINMA kann in begründeten Einzelfällen Ausnahmen von der Pflicht nach Absatz 4 Buchstabe a gewähren.

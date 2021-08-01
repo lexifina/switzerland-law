@@ -4,7 +4,7 @@
 
   - a. über die mit ihrem Geschäftsmodell, ihren Dienstleistungen und den verwendeten Technologien verbundenen Risiken;
 
-  - b. darüber, dass für die Publikumseinlagen keine Einlagensicherung nach dem dreizehnten Abschnitt des BankG besteht.
+  - b. darüber, dass für die Publikumseinlagen oder die sammelverwahrten kryptobasierten Vermögenswerte keine Einlagensicherung nach dem dreizehnten Abschnitt des BankG besteht.
 
 2 Die Kundinnen und Kunden sind so zu informieren, dass ihnen vor Vertragsschluss genügend Zeit bleibt, um die Informationen mit Blick auf den Vertragsschluss zu verstehen.
 
