@@ -14,6 +14,6 @@
 
   - b. 16 Stunden Weiterbildung pro Jahr im Aufsichtsbereich dieses Artikels.
 
-3 Leitende Prüferinnen und Prüfer können für die Zulassung oder deren Beibehaltung nach Absatz 1 beziehungsweise 2 Berufserfahrung und Prüfstunden im Aufsichtsbereich nach Artikel 11a Absatz 1 Buchstaben a und c anrechnen, wenn sie mindestens 20 Prozent der nötigen Prüfstunden nach den Absätzen 1 Buchstabe b und 2 Buchstabe a in der Prüfung von Personen nach Artikel 1b BankG oder in der Prüfung von Informationssystemen (Informatikprüfung) erworben haben.
+3 Leitende Prüferinnen und Prüfer können für die Zulassung oder deren Beibehaltung nach Absatz 1 beziehungsweise 2 Berufserfahrung und Prüfstunden im Aufsichtsbereich nach Artikel 11a Absatz 1 Buchstaben a und c anrechnen.
 
-4 Sie können nur die Weiterbildung anrechnen, die sie im Aufsichtsbereich dieses Artikels absolviert haben.
+4 Sie können höchstens acht Stunden Weiterbildung anrechnen, die sie in den Aufsichtsbereichen nach Artikel 11a Absatz 1 Buchstaben a und c absolviert haben.
