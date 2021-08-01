@@ -1,6 +1,6 @@
-# Art. 51a Unterstützung der familienergänzenden Kinderbetreuung durch die Departemente
+# Art. 51a Familienergänzende Kinderbetreuung
 
-1 Der Arbeitgeber beteiligt sich an den Kosten der familienergänzenden Kinderbetreuung.
+1 Der Arbeitgeber beteiligt sich an den Kosten der familienergänzenden Kinderbetreuung in Form von pauschalen Entschädigungen.
 
 2 Die Departemente können:
 
