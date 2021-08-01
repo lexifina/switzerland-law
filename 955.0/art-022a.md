@@ -4,7 +4,7 @@
 
 2 Die FINMA leitet die vom EFD erhaltenen Daten weiter an:
 
-  - a. die ihr unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a und b–dter;
+  - a. die ihr unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a und b–dquater;
 
   - b. die Aufsichtsorganisationen zuhanden der Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe abis, die ihrer laufenden Aufsicht unterstehen;
 
