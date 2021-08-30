@@ -1,5 +1,3 @@
-# Art. 24c Liste der Sars-CoV-2-Schnelltests
+# Art. 24c Listen der Sars-CoV-2-Schnelltests
 
-1 Das BAG führt eine Liste der Sars-CoV-2-Schnelltests, die verwendet werden können.
-
-2 Es veröffentlicht die Liste auf seiner Webseite und aktualisiert sie.
+Das BAG führt aktualisierte Listen der Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24a und der Sars-CoV-2-Selbsttests nach Artikel 24 Absatz 4bis und veröffentlicht die Listen auf seiner Webseite.
