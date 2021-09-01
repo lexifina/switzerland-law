@@ -4,7 +4,9 @@
 
   - a. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben;
 
-  - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind und durch ihre Tätigkeit einer Gefährdung durch Mikroorganismen ausgesetzt sind.
+  - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind;
+
+  - c. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
 
 2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1:
 
@@ -36,7 +38,7 @@
 
   - e. die Ausstellung der Impfbescheinigung.
 
-5bis Der Bund übernimmt für bis zum 30. Juni 2021 durchgeführte Impfungen nach Absatz 1 für jedes durch eine Arztpraxis nachträglich ausgestellte Covid-19-Impfzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 eine Pauschale von 8.30 Franken. Mit dem Betrag sind sämtliche Leistungen im Zusammenhang mit der Ausstellung des Zertifikats abgegolten.
+5bis …
 
 6 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
