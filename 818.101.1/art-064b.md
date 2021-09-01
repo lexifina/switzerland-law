@@ -18,4 +18,4 @@
 
 6 Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
 
-7 Für das Verfahren zur Übernahme der Kosten nach Artikel 64a Absatz 4bis gelten die Absätze 1–6 sinngemäss.
+7 …
