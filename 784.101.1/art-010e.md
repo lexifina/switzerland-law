@@ -8,7 +8,11 @@
 
   - c. die Ergebnisse konsolidieren und ihre Kundinnen und Kunden sowie die Öffentlichkeit über die Qualität der Internetzugangsdienste informieren.
 
-2 …
+2 Sie müssen für jeden der angebotenen Dienste mindestens:
+
+  - a. die tatsächlich erreichte Datenübertragungsrate, die Verzögerung und bei Mobilfunkverbindungen die Signalstärke messen und veröffentlichen;
+
+  - b. …
 
 3 Die Informationen über die Qualität müssen Vergleiche zwischen den Angeboten der verschiedenen Anbieterinnen erlauben. Sie müssen auch in Form von geografischen Karten veröffentlicht werden.
 
