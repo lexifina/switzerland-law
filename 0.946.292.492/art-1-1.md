@@ -18,8 +18,6 @@
 
   - (g) der Abbau und die Vermeidung von unnötigen Handelsschranken, einschliesslich gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen;
 
-  - (h) die Entwicklung des internationalen Handels auf eine, die zum Ziel der nachhaltigen Entwicklung beiträgt, und die Gewährleistung, dass dieses Ziel in den Handelsbeziehungen zwischen den Vertragsparteien integriert ist und widerspiegelt wird;
+  - (h) die Entwicklung des internationalen Handels auf eine, die zum Ziel der nachhaltigen Entwicklung beiträgt, und die Gewährleistung, dass dieses Ziel in den Handelsbeziehungen zwischen den Vertragsparteien integriert ist und widerspiegelt wird; und auf diese Weise einen Beitrag zur harmonischen Entwicklung und Ausweitung des Welthandels zu leisten.
 
-  - und auf diese Weise einen Beitrag zur harmonischen Entwicklung und Ausweitung des Welthandels zu leisten.
-
-  - 3. Die Auslegung und Anwendung der Bestimmungen dieses Abkommens durch die Vertragsparteien erfolgt im Lichte der Ziele von Absatz 2 und in Übereinstimmung mit den üblichen Auslegungsregeln des Völkerrechts.
+3. Die Auslegung und Anwendung der Bestimmungen dieses Abkommens durch die Vertragsparteien erfolgt im Lichte der Ziele von Absatz 2 und in Übereinstimmung mit den üblichen Auslegungsregeln des Völkerrechts.
