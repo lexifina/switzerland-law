@@ -1,16 +1,18 @@
 # Art. 64a Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker
 
-1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer der folgenden Personenkategorien angehören:
+1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei folgenden Personen durchgeführt werden:
 
   - a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) versichert sind;
 
   - b. Personen, die nach dem Militärversicherungsgesetz vom 19. Juni 1992 (MVG) gegen Krankheit versichert sind;
 
-  - c. Personen, die keiner der Kategorien nach den Buchstaben a und b angehören, die aber:
+  - c. Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind, die aber einer der folgenden Personenkategorien angehören:
 
-    - 1. ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben, oder
+    - 1. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben,
 
-    - 2. in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind und durch ihre Tätigkeit einer Gefährdung durch Mikroorganismen ausgesetzt sind.
+    - 2. Person, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind,
+
+    - 3. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
 
 2 Die Apothekerinnen und Apotheker müssen:
 
@@ -34,6 +36,6 @@
 
   - e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
 
-4bis Der Bund übernimmt für bis zum 30. Juni 2021 durchgeführte Impfungen nach Absatz 1 für jedes durch eine Apothekerin oder einen Apotheker nachträglich ausgestellte Covid-19-Impfzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 eine Pauschale von 8.30 Franken. Mit dem Betrag sind sämtliche Leistungen im Zusammenhang mit der Ausstellung des Zertifikats abgegolten.
+4bis …
 
 5 Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
