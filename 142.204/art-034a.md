@@ -2,7 +2,9 @@
 
 1 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2018/1240, sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2018/1240 erlassen wurden und sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a RVOG darstellen und Folgendes regeln:
 
-  - a. ein Formular, das die Meldung von Missbrauch seitens gewerblicher Mittlerorganisationen ermöglicht (Art. 15 Abs. 5);
+  - a. die Festlegung der technischen Modalitäten für die Datenspeicherung (Art. 11 Abs. 10);
+
+  - abis. ein Formular, das die Meldung von Missbrauch seitens gewerblicher Mittlerorganisationen ermöglicht (Art. 15 Abs. 5);
 
   - b. den Betrieb der öffentlichen Website und die Anwendung für Mobilgeräte sowie die entsprechenden Bestimmungen in Bezug auf Datenschutz und Datensicherheit (Art. 16 Abs. 10);
 
@@ -22,6 +24,8 @@
 
   - j. die Einzelheiten des Ausweichverfahrens (Art. 46 Abs. 4);
 
+  - jbis. die durch die ETIAS-Zentralstelle zu leistende Unterstützung der Beförderungsunternehmen und die Mittel zur Bereitstellung dieser Unterstützung (Art. 46 Abs. 5);
+
   - k. die Muster-Notfallpläne für den Fall, dass der Datenzugriff an den Schengen-Aussengrenzen technisch nicht möglich ist (Art. 48 Abs. 4);
 
   - l. das Muster eines Sicherheitsplans sowie eines Notfallplans zur Aufrechterhaltung und Wiederherstellung des Betriebs (Art. 59 Abs. 4);
@@ -39,6 +43,8 @@
 2 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2018/1240, sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2018/1240 erlassen wurden und sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a RVOG darstellen und Folgendes regeln:
 
   - a. die Anforderungen des Dienstes für sichere Konten, der es den Gesuchstellerinnen und Gesuchstellern ermöglicht, im Bedarfsfall zusätzliche Angaben oder Unterlagen zu übermitteln (Art. 6 Abs. 4);
+
+  - abis. die Festlegung der Bedingungen für die Übereinstimmung zwischen den Daten in einem Datensatz, einer Ausschreibung oder Datei der anderen abgefragten EU-Informationssysteme (Art. 11 Abs. 9);
 
   - b. die Festlegung der Liste der Berufsgruppen (Art. 17 Abs. 3 und 5);
 
