@@ -14,6 +14,8 @@
 
     - 3. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
 
+1bis Er übernimmt zudem die Kosten von Covid-19-Impfungen, die zwischen dem 1. Juli 2021 und dem 31. August 2021 bei Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind, durchgeführt worden sind.
+
 2 Die Apothekerinnen und Apotheker müssen:
 
   - a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011 verfügen;
