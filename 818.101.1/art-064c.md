@@ -8,6 +8,8 @@
 
   - c. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
 
+1bis Er übernimmt zudem die Kosten von Covid-19-Impfungen, die zwischen dem 1. Juli 2021 und dem 31. August 2021 bei Personen nach Absatz 1 Buchstabe b durchgeführt worden sind.
+
 2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1:
 
   - a. weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind; und
