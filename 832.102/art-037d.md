@@ -10,7 +10,7 @@
 
   - c. Ausarbeitung von Kriterien für die Beurteilung von Leistungen nach Artikel 33 Absatz 3 des Gesetzes und Artikel 70.
 
-3 Sie besteht aus 18 Mitgliedern. Davon vertreten:
+3 Sie besteht aus 18 Mitgliedern; davon vertreten:
 
   - a. vier Personen die Ärzteschaft, wobei eine Person die Komplementärmedizin vertritt;
 
