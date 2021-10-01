@@ -1,6 +1,6 @@
 # Art. 26a Schuldner der Vergütungen der Leistungen
 
-1 Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über eine Zahlstellenregisternummer (ZSR-Nummer) verfügt, oder wird der Sars-CoV-2-Selbsttest nach Anhang 6 Ziffer 3.3 durch einen Leistungserbringer abgegeben, der über eine ZSR-Nummer verfügt, so wird die Vergütung der Leistungen nach dem System des Tiers payant im Sinne von Artikel 42 Absatz 2 KVG von folgenden Versicherern geschuldet:
+1 Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über eine Zahlstellenregisternummer (ZSR-Nummer) verfügt, so wird die Vergütung der Leistungen nach dem System des Tiers payant im Sinne von Artikel 42 Absatz 2 KVG von folgenden Versicherern geschuldet:
 
   - a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014, bei der die getestete Person versichert ist;
 

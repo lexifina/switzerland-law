@@ -12,9 +12,7 @@
 
 6 Wurde die Leistung vom Leistungserbringer zu Unrecht in Rechnung gestellt, so kann der Versicherer bereits geleistete Vergütungen zurückfordern. Mit der Bezahlung der Leistung durch den Bund nach Absatz 5 geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Versicherer geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten.
 
-6bis Der Versicherer kann die Kosten von Sars-CoV-2-Selbsttests nach Anhang 6 Ziffer 3.3, die eine versicherte Person über die nach Anhang 6 Ziffer 3.3.1 festgelegte maximale Menge hinaus bezogen hat, direkt von der versicherten Person zurückfordern. Für die Durchführung von Mahnverfahren im Zusammenhang mit der Rückforderung der Kosten solcher Sars-CoV-2-Selbsttests kann er dem Bund pro angemahnte versicherte Person maximal 20 Franken in Rechnung stellen.
-
-6ter Mit der Bezahlung der Leistung für Sars-CoV-2-Selbsttests durch den Bund nach Absatz 5 und der Bezahlung der Kosten im Zusammenhang mit einem Mahnverfahren nach Absatz 6bis durch den Bund geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Versicherer geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten.
+6bis und 6ter …
 
 7 Die gemeinsame Einrichtung stellt dem BAG quartalsweise ihre Verwaltungskosten für ihre Tätigkeit als Versicherer nach Artikel 26a Absätze 1 Buchstabe c und 3 Buchstabe a nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
 
