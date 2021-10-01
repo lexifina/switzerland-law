@@ -1,0 +1,7 @@
+# Art. 9.8 Umsetzung des Schlussberichts des Gerichts
+
+1. Die Vertragspartei, gegen die Beschwerde geführt wurde, setzt das Urteil des Schlussberichts unverzüglich um. Ist diese unverzügliche Umsetzung undurchführbar, so versuchen die Streitparteien, sich auf eine angemessene Umsetzungsfrist zu einigen. Kommt innerhalb von 45 Tagen nach der Vorlage des Schlussberichts keine solche Einigung zustande, so kann jede Streitpartei das ursprüngliche Schiedsgericht ersuchen, die Dauer der angemessenen Frist angesichts der spezifischen Umstände des Falles festzusetzen. Das Urteil des Schiedsgerichts ergeht innerhalb von 60 Tagen nach Erhalt des Gesuchs.
+
+2. Die Vertragspartei, gegen die Beschwerde geführt wurde, notifiziert der anderen Streitpartei die zur Umsetzung des Urteils des Schlussberichts ergriffene Massnahme sowie eine genügend detaillierte Beschreibung darüber, wie die Massnahme die Umsetzung sicherstellt, sodass die andere Streitpartei die Massnahme abschätzen kann.
+
+3. Besteht Uneinigkeit darüber, ob eine Massnahme zur Umsetzung des Urteils des Schlussberichts besteht oder ob diese Massnahme mit dem Urteil vereinbar ist, so wird diese Uneinigkeit auf Ersuchen einer Streitpartei von demselben Schiedsgericht entschieden, bevor nach Artikel 9.9 (Ausgleich und Aussetzung von Vorteilen) ein Ausgleich gesucht oder die Aussetzung von Vorteilen angewendet werden kann. Das Urteil des Schiedsgerichts ergeht innerhalb von 90 Tagen nach Erhalt des entsprechenden Gesuchs.

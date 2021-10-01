@@ -1,0 +1,9 @@
+# Art. 9.6 Aussetzung oder Beendigung von Schiedsgerichtsverfahren
+
+1. Einigen sich die Streitparteien darauf, so kann ein Schiedsgericht seine Arbeit jederzeit für eine Dauer von höchstens zwölf Monaten aussetzen. Wurde die Arbeit eines Schiedsgerichts für mehr als zwölf Monate ausgesetzt, so erlischt die Zuständigkeit des Schiedsgerichts zur Beurteilung der Streitigkeit, sofern die Streitparteien nichts anderes vereinbaren.
+
+2. Eine beschwerdeführende Vertragspartei kann ihre Beschwerde jederzeit vor der Vorlage des ersten Berichts zurückziehen. Ein solcher Beschwerderückzug lässt das Recht dieser Vertragspartei unberührt, zu einem späteren Zeitpunkt in derselben Angelegenheit eine neue Beschwerde einzureichen.
+
+3. Die Streitparteien können jederzeit übereinkommen, die Verfahren eines nach diesem Abkommen eingesetzten Schiedsgerichts mittels gemeinsamer schriftlicher Notifikation an die Vorsitzende oder den Vorsitzenden des Schiedsgerichts zu beenden.
+
+4. Ein Schiedsgericht kann in jeder Phase des Verfahrens bis zur Vorlage des Schlussberichts vorschlagen, dass die Streitparteien versuchen sollen, die Streitigkeit gütlich beizulegen.
