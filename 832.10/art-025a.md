@@ -1,8 +1,8 @@
 # Art. 25a Pflegeleistungen bei Krankheit
 
-1 Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim erbracht werden.
+1 Die obligatorische Krankenpflegeversicherung leistet einen Beitrag an die Pflegeleistungen, welche aufgrund einer ärztlichen Anordnung und eines ausgewiesenen Pflegebedarfs ambulant, auch in Tages- oder Nachtstrukturen, oder im Pflegeheim erbracht werden. Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für Pflegeleistungen verwendet werden, gilt Artikel 52.
 
-2 Die Leistungen der Akut- und Übergangspflege, welche sich im Anschluss an einen Spitalaufenthalt als notwendig erweisen und die im Spital ärztlich angeordnet werden, werden von der obligatorischen Krankenpflegeversicherung und vom Wohnkanton des Versicherten während längstens zwei Wochen nach den Regeln der Spitalfinanzierung (Art. 49a Abgeltung der stationären Leistungen) vergütet. Versicherer und Leistungserbringer vereinbaren Pauschalen.
+2 Die Leistungen der Akut- und Übergangspflege, welche sich im Anschluss an einen Spitalaufenthalt als notwendig erweisen und die im Spital ärztlich angeordnet werden, werden von der obligatorischen Krankenpflegeversicherung und vom Wohnkanton des Versicherten während längstens zwei Wochen nach den Regeln der Spitalfinanzierung (Art. 49a Abgeltung der stationären Leistungen) vergütet. Versicherer und Leistungserbringer vereinbaren Pauschalen. Für die Vergütung der der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, die für die Akut- und Übergangspflege verwendet werden, gilt Artikel 52.
 
 3 Der Bundesrat bezeichnet die Pflegeleistungen und regelt das Verfahren der Bedarfsermittlung.
 
