@@ -2,15 +2,7 @@
 
 1 Von der Testpflicht nach Artikel 8 und der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen:
 
-  - a. deren Tätigkeit in der Schweiz zwingend notwendig ist für die Aufrechterhaltung:
-
-    - 1. der Funktionsfähigkeit des Gesundheitswesens,
-
-    - 2. der öffentlichen Sicherheit und Ordnung,
-
-    - 3. der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007,
-
-    - 4. der diplomatischen und konsularischen Beziehungen der Schweiz;
+  - a. …
 
   - b. die im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Personen oder Güter befördern;
 
@@ -32,7 +24,21 @@
 
   - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können;
 
-  - c. Personen, die aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet, sofern der entsprechende Staat oder das entsprechende Gebiet nicht in Anhang 1 Ziffer 1 aufgeführt ist.
+  - c. Personen, die aus Gebieten nach Anhang 1a einreisen, sofern der entsprechende Staat oder das entsprechende Gebiet nicht in Anhang 1 Ziffer 1 aufgeführt ist;
+
+  - d. Personen, deren Tätigkeit in der Schweiz zwingend notwendig ist für die Aufrechterhaltung der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007 und die dies mit einer Bestätigung des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) nachweisen können;
+
+  - e. Personen, deren Tätigkeit in der Schweiz zwingend notwendig ist für die Aufrechterhaltung der diplomatischen und konsularischen Beziehungen der Schweiz und die dies mit einer Bestätigung des EDA nachweisen können.
+
+2bis Von der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen, deren Tätigkeit in der Schweiz zwingend notwendig ist für die Aufrechterhaltung:
+
+  - a. der Funktionsfähigkeit des Gesundheitswesens;
+
+  - b. der öffentlichen Sicherheit und Ordnung;
+
+  - c. der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von Artikel 2 Absatz 1 des Gaststaatgesetzes;
+
+  - d. der diplomatischen und konsularischen Beziehungen der Schweiz.
 
 3 Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Absatz 1 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.
 
