@@ -20,7 +20,7 @@ Die gemäss anwendbarem schweizerischen Recht einer eidgenössischen Behörde vo
 
   - 6. der Anzeige strafrechtlich zu verfolgender Verstösse gegen Vorschriften der Flugpolizei an die liechtensteinischen Strafbehörden, wobei für das Verfahren die Bestimmungen in den Artikeln 27–32 des schweizerisch-liechtensteinischen Zollanschlussvertrags vom 29. März 1923 zu beachten sind;
 
-  - der administrativen Untersuchung und der technischen Auswertung von Flugunfällen und Störungen.
+  - 1. der administrativen Untersuchung und der technischen Auswertung von Flugunfällen und Störungen.
 
 II
 
