@@ -6,7 +6,7 @@
 
   - b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung;
 
-  - c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG.
+  - c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, und bei verstorbenen Personen von der gemeinsamen Einrichtung nach Artikel 18 KVG.
 
 2 Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über keine ZSR-Nummer verfügt, so schuldet der Kanton, in dem die Probenentnahme durchgeführt wird, die Vergütung der Leistungen.
 
