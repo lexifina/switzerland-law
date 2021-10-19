@@ -4,7 +4,7 @@
 
 2 Der Nachweis ist auf Gesuch hin zu erteilen.
 
-3 Der Nachweis muss persönlich, fälschungssicher, unter Einhaltung des Datenschutzes überprüfbar und so ausgestaltet sein, dass nur eine dezentrale oder lokale Überprüfung der Authentizität und Gültigkeit von Nachweisen möglich ist sowie möglichst für die Ein- und Ausreise in andere Länder verwendet werden kann.
+3 Der Nachweis muss persönlich, fälschungssicher, unter Einhaltung des Datenschutzes überprüfbar und so ausgestaltet sein, dass nur eine dezentrale oder lokale Überprüfung der Authentizität und Gültigkeit von Nachweisen möglich ist und er möglichst für die Ein- und Ausreise in andere Länder verwendet werden kann.
 
 4 Der Bundesrat kann die Übernahme der Kosten des Nachweises regeln.
 
