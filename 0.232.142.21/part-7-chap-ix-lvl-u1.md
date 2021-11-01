@@ -14,7 +14,7 @@
 
   - f) Angaben zur Person des Anmelders oder Patentinhabers nach Massgabe der Regel 41 Absatz 2 c);
 
-  - g) Name, Vornamen und Anschrift des vom Anmelder oder Patentinhaber genannten Erfinders, sofern er nicht nach Regel 20 Absatz 1 auf das Recht verzichtet hat, als Erfinder bekannt gemacht zu werden;
+  - g) Name, Vornamen, Wohnsitzstaat und Wohnort des vom Anmelder oder Patentinhaber genannten Erfinders, sofern er nicht nach Regel 20 Absatz 1 auf das Recht verzichtet hat, als Erfinder bekannt gemacht zu werden;
 
   - h) Angaben zur Person des Vertreters des Anmelders oder Patentinhabers nach Massgabe der Regel 41 Absatz 2 d); im Fall mehrerer Vertreter nur die Angaben zur Person des zuerst genannten Vertreters, gefolgt von den Worten «und Partner» sowie im Fall eines Zusammenschlusses von Vertretern nach Regel 152 Absatz 11 nur Name und Anschrift des Zusammenschlusses;
 
