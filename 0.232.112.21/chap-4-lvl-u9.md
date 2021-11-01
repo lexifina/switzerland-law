@@ -6,7 +6,7 @@ Ab dem Datum der Mitteilung über die internationale Registrierung beziehungswei
 
   - i) die Nummer der betreffenden internationalen Registrierung;
 
-  - ii) betrifft die Ersetzung lediglich eine oder mehrere der in der internationalen Registrierung angegebenen Waren und Dienstleistungen, diese Waren und Dienstleistungen; und
+  - ii) betrifft die Ersetzung lediglich eine oder mehrere der in der internationalen Registrierung angegebenen Waren und Dienstleistungen, diese Waren und Dienstleistungen, und
 
   - iii) das Anmeldedatum und die Anmeldenummer, das Eintragungsdatum und die Eintragungsnummer sowie gegebenenfalls das Prioritätsdatum der nationalen oder regionalen Eintragung oder Eintragungen, die durch die internationale Registrierung ersetzt wurden.
 
@@ -26,6 +26,6 @@ Die Mitteilung kann auch Angaben über andere, aufgrund dieser nationalen oder r
 
   - c) Bevor die Behörde einer benannten Vertragspartei einen Vermerk in ihrem Register vornimmt, prüft sie den in Absatz 1 genannten Antrag, um festzustellen, ob die in Artikel 4bis Absatz 1 des Protokolls genannten Voraussetzungen erfüllt worden sind.
 
-  - d) Die die Ersetzung betreffenden, in der nationalen oder regionalen Eintragung angegebenen Waren und Dienstleistungen sind durch die in der internationalen Registrierung angegebenen Waren und Dienstleistungen erfasst.
+  - d) Die die Ersetzung betreffenden, in der nationalen oder regionalen Eintragung angegebenen Waren und Dienstleistungen sind durch die in der internationalen Registrierung angegebenen Waren und Dienstleistungen erfasst. Die Ersetzung kann lediglich einige der in der nationalen oder regionalen Eintragung angegebenen Waren und Dienstleistungen betreffen.
 
   - e) Eine nationale oder regionale Eintragung gilt ab dem Datum als durch eine internationale Registrierung ersetzt, an dem diese internationale Registrierung in der betreffenden benannten Vertragspartei nach Artikel 4 Absatz 1 Buchstabe a des Protokolls wirksam wird.
