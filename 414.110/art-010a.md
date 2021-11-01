@@ -1,7 +1,5 @@
-# Art. 10a Qualitätssicherung und Akkreditierung
+# Art. 10a Energieverkauf
 
-1 Die ETH überprüfen periodisch die Qualität ihrer Lehre, ihrer Forschung und ihrer Dienstleistungen und sorgen für die langfristige Qualitätssicherung und ‑entwicklung.
+1 Die ETH und die Forschungsanstalten können Energie, die sie zum Eigenverbrauch in von ihnen betriebenen Anlagen produzieren oder zum Eigenverbrauch einkaufen, jedoch nicht selbst benötigen, zu Marktpreisen verkaufen.
 
-2 Sie schaffen und betreiben zu diesem Zweck ein Qualitätssicherungssystem nach Artikel 27 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011.
-
-3 Sie lassen sich institutionell akkreditieren.
+2 Der Bundesrat regelt die Verwendung der daraus erzielten Erträge.

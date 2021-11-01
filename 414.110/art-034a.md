@@ -1,3 +1,5 @@
-# Art. 34a Überprüfung und Massnahmen
+# Art. 34a Beurteilung der Aufgabenerfüllung und Massnahmen
 
-Das WBF überprüft die Auftragserfüllung und beantragt dem Bundesrat nötigenfalls Massnahmen. Es orientiert die Bundesversammlung jeweils zusammen mit dem Antrag für die nächste Leistungsperiode in einem Zwischenbericht über die Zielerreichung.
+1 Das WBF überprüft periodisch die Erfüllung des Grundauftrags und der strategischen Ziele des Bundesrates für den ETH-Bereich und beantragt dem Bundesrat nötigenfalls Massnahmen.
+
+2 Der Bundesrat informiert die Bundesversammlung.

@@ -11,3 +11,5 @@
   - c. Angestellte in Lehr- und Forschungsprojekten sowie Personen in Projekten, die mit Drittmitteln finanziert werden, während maximal neun Jahren;
 
   - d. die übrigen Angestellten während maximal fünf Jahren.
+
+3 Die Fristen gemäss Absatz 2 Buchstaben a und b können bei längerer Abwesenheit wegen Krankheit, Unfall, Mutterschaft, Adoption oder anderen wichtigen Gründen auf Antrag verlängert werden.
