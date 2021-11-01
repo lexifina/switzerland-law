@@ -40,6 +40,10 @@ Diese Ausführungsordnung tritt am 1. Februar 2020 in Kraft und ersetzt von dies
 
 5) …
 
-(6) [Unvereinbarkeit mit nationalem oder regionalem Recht]
+6) [Unvereinbarkeit mit nationalem oder regionalem Recht]
 
 Ist an dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, von dem an eine Vertragspartei durch das Protokoll gebunden ist, Regel 27bis Absatz 1 oder Regel 27ter Absatz 2 Buchstabe a nicht mit dem innerstaatlichen oder regionalen Recht dieser Vertragspartei vereinbar, so ist der betreffende Absatz beziehungsweise sind die betreffenden Absätze in Bezug auf diese Vertragspartei nicht anwendbar, solange er oder sie weiterhin nicht mit diesem Recht vereinbar ist oder sind, vorausgesetzt, diese Vertragspartei teilt dies vor dem Datum, an dem diese Regel in Kraft tritt, oder dem Datum, von dem an diese Vertragspartei durch das Protokoll gebunden ist, dem Internationalen Büro mit. Diese Mitteilung kann jederzeit zurückgenommen werden.
+
+7) [Übergangsbestimmung hinsichtlich der Teilersetzung]
+
+Kein Amt ist verpflichtet, Regel 21 Absatz 3 Buchstabe d Satz 2 vor dem 1. Februar 2025 anzuwenden.
