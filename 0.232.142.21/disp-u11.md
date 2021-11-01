@@ -1,5 +1,5 @@
 # Übergangsbestimmungen der Änderung vom 13. Dezember 2013
 
-(1) Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 164 (1) EPÜ gilt für alle Anmeldungen, für die der ergänzende europäische Recherchenbericht nach Artikel 153 (7) EPÜ bei ihrem Inkrafttreten nicht erstellt worden ist.
+(1) Regel 6 EPÜ und Artikel 14 (1) der Gebührenordnung in der gemäss Artikel 1 und Artikel 2 dieses Beschlusses geänderten Fassung gelten für europäische Patentanmeldungen, die ab dem 1. April 2014 eingereicht werden, sowie für internationale Anmeldungen, die ab diesem Zeitpunkt in die europäische Phase eintreten.
 
-(2) Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 164 (2) EPÜ gilt für alle Anmeldungen, für die die erste Mitteilung nach Artikel 94 (3) EPÜ und Regel 71 (1) und (2) EPÜ bzw. gegebenenfalls Regel 71 (3) EPÜ bei ihrem Inkrafttreten nicht erstellt worden ist.
+(2) Regel 6 EPÜ und Artikel 14 (1) der Gebührenordnung in der gemäss Artikel 1 und Artikel 2 dieses Beschlusses geänderten Fassung gelten für Einsprüche und Beschwerden, die ab dem 1. April 2014 eingelegt werden, sowie für Überprüfungsanträge und Anträge auf Beschränkung oder Widerruf, die ab diesem Zeitpunkt gestellt werden.
