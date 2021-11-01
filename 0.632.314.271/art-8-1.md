@@ -1,0 +1,15 @@
+# Art. 8.1 Kontext, Ziele und Anwendungsbereich
+
+1. Die Vertragsparteien erinnern an die Erklärung der Konferenz der Vereinten Nationen über die Umwelt des Menschen von 1972, die Rio-Erklärung über Umwelt und Entwicklung von 1992, die Agenda 21 für Umwelt und Entwicklung von 1992, den Aktionsplan von Johannesburg für nachhaltige Entwicklung von 2002, das Rio+20-Ergebnisdokument «Die Zukunft, die wir wollen» von 2012, das Ergebnisdokument «Transformation unserer Welt – Die Agenda 2030 für nachhaltige Entwicklung» des UN-Gipfels für nachhaltige Entwicklung von 2015, den Monterrey-Konsens der UN-Konferenz über Entwicklungsfinanzierung von 2002, die Erklärung von Doha über Entwicklungsfinanzierung von 2008 und die Aktionsagenda von Addis Abeba aus dem Jahr 2015, die Erklärung der IAO über grundlegende Prinzipien und Rechte bei der Arbeit und ihre Folgemassnahmen von 1998, die Ministererklärung des Wirtschafts- und Sozialrats der Vereinten Nationen zu Vollbeschäftigung und menschenwürdiger Arbeit von 2006 sowie an die Erklärung der IAO über soziale Gerechtigkeit für eine faire Globalisierung von 2008.
+
+2. Die Vertragsparteien bekräftigen ihre Verpflichtung, die Entwicklung des internationalen Handels in einer Weise zu fördern, die einen Beitrag zum Ziel der nachhaltigen Entwicklung leistet, sowie sicherzustellen, dass dieses Ziel in ihren Handelsbeziehungen einbezogen und berücksichtigt wird.
+
+3. Die Vertragsparteien anerkennen, dass die Wirtschaftsentwicklung, die soziale Entwicklung und der Umweltschutz Elemente der nachhaltigen Entwicklung sind, die voneinander abhängig sind und sich gegenseitig verstärken. Sie betonen den Nutzen der Zusammenarbeit in handelsbezogenen Arbeits- und Umweltfragen als Teil eines umfassenden Ansatzes zu Handel und nachhaltiger Entwicklung. Sie anerkennen ausserdem, dass die Beendigung der Armut eine unabdingbare Voraussetzung für nachhaltige Entwicklung ist und dass der Handel als Motor für inklusives Wirtschaftswachstum und Armutsminderung dienen kann.
+
+4. Die Vertragsparteien sind sich einig, dass dieses Kapitel einen auf Zusammenarbeit ausgerichteten Ansatz zum Ausdruck bringt, der auf gemeinsamen Werten und Interessen gründet, wobei sie, wo angebracht, ihren unterschiedlichen Entwicklungsstand berücksichtigen.
+
+5. Die Vertragsparteien sind sich einig, dass die Bestimmungen dieses Kapitels nicht so angewendet werden, dass sie zu einer willkürlichen oder ungerechtfertigten Diskriminierung oder zu einer versteckten Beschränkung des Handels zwischen den Vertragsparteien führen.
+
+6. Sofern in diesem Kapitel nicht anders bestimmt, findet dieses Kapitel Anwendung auf Handels- und Investitionsaspekte der nachhaltigen Entwicklung in allen ihren Dimensionen.
+
+7. Der Verweis auf Arbeit in diesem Kapitel schliesst das Ziel der Förderung eines inklusiven und nachhaltigen Wirtschaftswachstums, von Beschäftigung und menschenwürdiger Arbeit für alle gemäss Ziel 8 der Agenda 2030 für nachhaltige Entwicklung und die Themen ein, die für die von der IAO verabschiedeten Agenda für menschenwürdige Arbeit massgebend sind.

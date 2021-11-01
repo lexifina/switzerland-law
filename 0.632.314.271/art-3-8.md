@@ -1,0 +1,7 @@
+# Art. 3.8 Anerkennung
+
+1. Zum Zweck der Erfüllung der massgebenden Normen oder Kriterien für die Zulassung, Genehmigung oder Bescheinigung von Dienstleistungserbringern zieht jede Vertragspartei Gesuche einer anderen Vertragspartei um Anerkennung der Ausbildung oder Berufserfahrung, der Anforderungen oder Zulassungen oder Bescheinigungen, die in dieser Vertragspartei erworben, erfüllt oder erteilt worden sind, in Betracht. Diese Anerkennung kann auf einem Übereinkommen oder einer Vereinbarung mit der gesuchstellenden Vertragspartei beruhen oder einseitig gewährt werden.
+
+2. Anerkennt eine Vertragspartei durch Übereinkunft oder Vereinbarung die Ausbildung oder Berufserfahrung, die Anforderungen oder die Zulassungen oder Bescheinigungen, die im Hoheitsgebiet einer Nichtvertragspartei erworben, erfüllt oder erteilt worden sind, so räumt diese Vertragspartei einer anderen Vertragspartei angemessene Gelegenheit ein, eine vergleichbare Übereinkunft oder Vereinbarung auszuhandeln. Gewährt eine Vertragspartei eine Anerkennung einseitig, so gibt sie einer anderen Vertragspartei angemessene Gelegenheit, den Nachweis zu erbringen, dass die Ausbildung oder Berufserfahrung, die Anforderungen, Zulassungen oder Bescheinigungen, die im Hoheitsgebiet dieser Vertragspartei erworben, erfüllt oder erteilt worden sind, ebenfalls anzuerkennen sind.
+
+3. Jede derartige Übereinkunft oder Vereinbarung oder jede derartige einseitige Anerkennung muss mit den entsprechenden Bestimmungen des WTO-Übereinkommens, insbesondere mit Artikel VII Absatz 3 des GATS, vereinbar sein.
