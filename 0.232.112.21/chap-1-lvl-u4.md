@@ -8,11 +8,11 @@
 
   - c) Ist eine Kanzlei oder Kanzleigemeinschaft von Rechtsanwälten, Patentanwälten oder Markenanwälten als Vertreterin beim Internationalen Büro angegeben worden, so gilt diese als ein Vertreter.
 
-  - d) ….
+  - d) …
 
 2) [Bestellung des Vertreters]
 
-  - a) Die Bestellung eines Vertreters kann in dem internationalen Gesuch, in einer nachträglichen Benennung oder in einem Antrag nach Regel 25 erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
+  - a) Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
 
   - b) Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, die sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder beziehen kann. Einzureichen ist diese Mitteilung beim Internationalen Büro:
 
@@ -32,7 +32,7 @@
 
 4) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
 
-  - a) Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Hinterleger oder Inhaber einen Vertreter hat, sowie Namen, Anschrift und E-Mail-Adresse des Vertreters im internationalen Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro das internationale Gesuch, die nachträgliche Benennung, den Antrag oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
+  - a) Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Hinterleger oder Inhaber einen Vertreter hat, sowie Namen, Anschrift und E-Mail-Adresse des Vertreters im internationalen Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro das internationale Gesuch, den Antrag oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
 
   - b) Das Internationale Büro unterrichtet sowohl den Hinterleger oder den Inhaber – und im letzteren Fall auch die Ämter der benannten Vertragsparteien – als auch den Vertreter von der Eintragung nach Buchstabe a. Erfolgte die Bestellung in einer gesonderten Mitteilung über eine Behörde, so unterrichtet das Internationale Büro auch diese Behörde von der Eintragung.
 
@@ -58,7 +58,7 @@
 
   - Bis zum Datum des Wirksamwerdens der Löschung richtet das Internationale Büro alle in Absatz 5 Buchstabe b genannten Mitteilungen sowohl an den Hinterleger oder den Inhaber als auch an den Vertreter.
 
-  - d) Das Internationale Büro unterrichtet nach Eingang eines vom Vertreter gestellten Antrags auf Löschung den Hinterleger oder den Inhaber entsprechend und fügt der Unterrichtung Kopien aller Mitteilungen bei, die in den sechs Monaten vor dem Zeitpunkt der Unterrichtung an den Vertreter übersandt worden sind oder die das Internationale Büro in diesem Zeitraum vom Vertreter erhalten hat.
+  - d) Das Internationale Büro unterrichtet nach Eingang eines vom Vertreter gestellten Antrags auf Löschung den Hinterleger oder den Inhaber entsprechend.
 
   - e) Sobald der Zeitpunkt des Wirksamwerdens der Löschung bekannt ist, unterrichtet das Internationale Büro den Vertreter, dessen Eintragung gelöscht worden ist, den Hinterleger oder den Inhaber, und, wenn die Bestellung des Vertreters über eine Behörde eingereicht worden ist, diese Behörde über die Löschung und das Datum des Wirksamwerdens.
 

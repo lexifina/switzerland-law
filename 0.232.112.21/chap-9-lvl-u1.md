@@ -4,7 +4,7 @@
 
   - i) Hinterlegung eines Gesuchs beim Internationalen Büro um Fortdauer der Wirkungen der betreffenden internationalen Registrierung im Nachfolgestaat innerhalb von sechs Monaten nach dem Datum einer vom Internationalen Büro zu diesem Zweck an den Inhaber der internationalen Registrierung übersandten Mitteilung; und
 
-  - ii) Zahlung an das Internationale Büro innerhalb derselben Frist einer Gebühr von 41 Schweizer Franken, die diese an die Behörde des Nachfolgestaats überweist und einer Gebühr von 23 Schweizer Franken zugunsten des Internationalen Büros.
+  - ii) Zahlung an das Internationale Büro innerhalb derselben Frist der unter der Nr. 10.1 des Gebührenverzeichnisses dem Internationalen Büro zustehenden Gebühr und der unter der Nr. 10.2 dieses Gebührenverzeichnisses angegebenen Gebühr, die dieses an den Nachfolgestaat überweist.
 
 2) Das in Absatz 1 genannte Datum ist das vom Nachfolgestaat dem Internationalen Büro für die Zwecke dieser Regel notifizierte Datum; allerdings darf dieses Datum nicht vor dem Datum der Unabhängigkeit des Nachfolgestaats liegen.
 

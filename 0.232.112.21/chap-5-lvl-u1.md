@@ -26,7 +26,7 @@
 
     - i) die Nummer der betreffenden internationalen Registrierung;
 
-    - ii) den Namen und die Anschrift des Inhabers;
+    - ii) den Namen des Inhabers;
 
     - iii) die Vertragspartei, die benannt worden ist;
 
@@ -36,7 +36,7 @@
 
     - vi) falls die nachträgliche Benennung von einer Behörde eingereicht wird, das Datum, an dem diese bei der Behörde eingegangen ist.
 
-  - b) Betrifft die nachträgliche Benennung eine Vertragspartei, die eine Notifikation nach Regel 7 Absatz 2 vorgenommen hat, so hat die nachträgliche Benennung ebenfalls eine Erklärung über die beabsichtigte Benutzung der Marke im Gebiet dieser Vertragspartei zu enthalten; auf Verlangen dieser Vertragspartei ist die Erklärung
+  - b) Betrifft die nachträgliche Benennung eine Vertragspartei, die eine Notifikation nach Regel 7 Absatz 2 vorgenommen hat, so hat die nachträgliche Benennung ebenfalls eine Erklärung über die beabsichtigte Benutzung der Marke im Gebiet dieser Vertragspartei zu enthalten; auf Verlangen dieser Vertragspartei ist die Erklärung:
 
     - i) vom Inhaber persönlich zu unterschreiben und auf einem der nachträglichen Benennung beigefügten gesonderten amtlichen Formblatt abzugeben; oder
 

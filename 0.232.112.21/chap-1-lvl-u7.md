@@ -2,7 +2,7 @@
 
 1) [Antrag]
 
-  - a) Hat ein Hinterleger oder Inhaber eine der in den Regeln 11 Absätze 2 und 3, 20bis Absatz 2, 24 Absatz 5 Buchstabe b, 26 Absatz 2, 34 Absatz 3 Buchstabe c Ziffer iii und 39 Absatz 1 angegebenen oder genannten Fristen nicht eingehalten, so behandelt das Internationale Büro das internationale Gesuch, die nachträgliche Benennung, die betreffende Zahlung oder den betreffenden Antrag dennoch weiter, wenn:
+  - a) Hat ein Hinterleger oder Inhaber eine der in den Regeln 11 Absätze 2 und 3, 12 Absatz 7, 20bis Absatz 2, 24 Absatz 5 Buchstabe b, 26 Absatz 2, 27bis Absatz 3 Buchstabe c, 34 Absatz 3 Buchstabe c Ziffer iii und 39 Absatz 1 angegebenen oder genannten Fristen nicht eingehalten, so behandelt das Internationale Büro das internationale Gesuch, die nachträgliche Benennung, die betreffende Zahlung oder den betreffenden Antrag dennoch weiter, wenn:
 
     - i) ein dahin gehender vom Hinterleger oder Inhaber unterschriebener Antrag auf dem amtlichen Formblatt beim Internationalen Büro eingereicht wird; und
 
