@@ -30,4 +30,4 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 
   - m. Impfung gegen Tollwut | Postexpositionelle Impfung nach Biss durch ein tollwütiges oder tollwutverdächtiges Tier.Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.
 
-  - n. Impfung gegen Covid-19 | Während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen.Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.
+  - n. Impfung gegen Covid-19 | 1. Grundimmunisierung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. 2. Auffrischimpfung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. In Evaluation.Auf den Leistungen nach den Ziffern 1 und 2 wird keine Franchise erhoben. Für die Impfung einschliesslich Impfstoff wird eine pauschale Vergütung vereinbart.
