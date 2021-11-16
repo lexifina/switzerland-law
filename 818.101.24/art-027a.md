@@ -30,9 +30,13 @@
 
 10bis Nicht als besonders gefährdet gelten:
 
-  - a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 12 Monaten ab vollständig erfolgter Impfung;
+  - a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 365 Tagen ab vollständig erfolgter Impfung;
 
-  - b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten ab dem 11. Tag nach der Bestätigung der Ansteckung.
+  - b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
+
+    - 1. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 365 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
+
+    - 2. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021: während der Gültigkeit des entsprechenden Zertifikats.
 
 11 Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10bis als besonders gefährdet eingestuft werden.
 
