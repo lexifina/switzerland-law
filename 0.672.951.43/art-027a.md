@@ -1,0 +1,3 @@
+# Art. 27a Anspruch auf Abkommensvorteile
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der relevanten Bestimmungen dieses Abkommens im Einklang steht.
