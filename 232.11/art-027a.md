@@ -2,7 +2,7 @@
 
 In Abweichung von Artikel 2 Buchstabe a kann eine geografische Marke eingetragen werden:
 
-  - a. für eine nach Artikel 16 des Landwirtschaftsgesetzes vom 29. April 1998 (LwG) eingetragene Ursprungsbezeichnung oder eingetragene geografische Angabe oder für eine nach Artikel 50a des vorliegenden Gesetzes eingetragene geografische Angabe;
+  - a. für eine nach Artikel 16 des Landwirtschaftsgesetzes vom 29. April 1998 (LwG) eingetragene Ursprungsbezeichnung oder eingetragene geografische Angabe oder für eine nach Artikel 50b des vorliegenden Gesetzes eingetragene geografische Angabe;
 
   - b. für eine nach Artikel 63 LwG geschützte kontrollierte Ursprungsbezeichnung oder für eine ausländische Weinbezeichnung, die den Anforderungen im Sinne von Artikel 63 LwG entspricht;
 
