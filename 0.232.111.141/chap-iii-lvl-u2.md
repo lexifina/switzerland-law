@@ -1,0 +1,15 @@
+# Regel 10Nicht vorschriftsmässige Mitteilung der Schutzverweigerung
+
+  - 1. a) Eine Mitteilung der Schutzverweigerung wird vom Internationalen Büro nicht als solche betrachtet:
+
+    - i) wenn sie die Nummer der betreffenden internationalen Registrierung nicht angibt, es sei denn, andere in der Mitteilung enthaltene Angaben erlauben die zweifelsfreie Identifizierung der Registrierung;
+
+    - ii) wenn sie keine Gründe für die Schutzverweigerung nennt;
+
+    - iii) wenn sie dem Internationalen Büro nach Ablauf der in Regel 9 Absatz 1 genannten Frist zugesandt wird;
+
+    - iv) wenn sie dem Internationalen Büro nicht durch die zuständige Behörde mitgeteilt wird.
+
+  - b) Findet Buchstabe a Anwendung, so benachrichtigt das Internationale Büro die zuständige Behörde, die die Mitteilung der Schutzverweigerung unterbreitet hat, dass die Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird und nicht in das internationale Register eingetragen worden ist, gibt die Gründe hierfür an und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung, es sei denn, es kann die betreffende internationale Registrierung nicht identifizieren.
+
+2. Enthält die Mitteilung der Schutzverweigerung einen anderen Mangel als die in Absatz 1 genannten Mängel, so trägt das Internationale Büro die Schutzverweigerung trotzdem in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Schutzverweigerung. Auf Verlangen dieser zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte der Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte fordert das Internationale Büro die zuständige Behörde, die die Mitteilung der Schutzverweigerung unterbreitet hat, auf, die Mitteilung unverzüglich zu berichtigen.

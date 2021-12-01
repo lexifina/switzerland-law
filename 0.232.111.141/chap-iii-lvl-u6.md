@@ -1,0 +1,15 @@
+# Regel 14Übergangsfrist zugunsten Dritter
+
+1. Ist einem Dritten gemäss Artikel 5 Absatz 6 der Akte von 1967 oder gemäss Artikel 17 Absatz 1 der Genfer Akte eine in einer Vertragspartei festgelegte Frist für die Einstellung der Verwendung einer eingetragenen Ursprungsbezeichnung oder einer eingetragenen geografischen Angabe gewährt worden, so teilt die zuständige Behörde dieser Vertragspartei dies dem Internationalen Büro mit. Die Mitteilung ist von der genannten Behörde zu unterzeichnen und hat Folgendes anzugeben:
+
+  - i) die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt;
+
+  - ii) die Identität des betroffenen Dritten;
+
+  - iii) die dem Dritten gewährte Frist, vorzugsweise zusammen mit Angaben zum Umfang der Verwendung während der Übergangsfrist;
+
+  - iv) das Datum, an dem die festgelegte Frist zu laufen beginnt, wobei dieses Datum nicht mehr als ein Jahr und drei Monate nach dem Eingang der Mitteilung der internationalen Registrierung gemäss Artikel 5 Absatz 2 der Akte von 1967 oder gemäss Artikel 6 Absatz 4 der Genfer Akte und zwei Jahre und drei Monate nach dem Eingang dieser Mitteilung gemäss Artikel 29 Absatz 4 der Genfer Akte liegen darf.
+
+2. Die Dauer der einem Dritten gemäss Artikel 17 der Genfer Akte gewährten Frist darf nicht länger als 15 Jahre sein, wobei die Frist von jedem Einzelfall abhängen kann und eine Frist von mehr als zehn Jahren ausserordentlich wäre.
+
+3. Sofern die in Absatz 1 genannte Mitteilung dem Internationalen Büro von der zuständigen Behörde vor dem in Absatz 1 Ziffer iv angegebenen Datum zugesandt wird, trägt das Internationale Büro diese Mitteilung mit den darin enthaltenen Angaben in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Mitteilung

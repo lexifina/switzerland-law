@@ -1,0 +1,7 @@
+# Regel 2Berechnung der Fristen
+
+1. Jede nach Jahren bemessene Frist endet im folgenden Jahr am selben Tag desselben Monats wie das Ereignis, an dem die Frist begann; hat sich das Ereignis jedoch am 29. Februar zugetragen, so endet die Frist am 28. Februar des folgenden Jahres.
+
+2. Jede nach Monaten bemessene Frist endet im folgenden Monat am selben Tag wie der Tag des Ereignisses, an dem die Frist begann; hat der massgebliche folgende Monat jedoch keinen Tag mit der entsprechenden Zahl, so endet die Frist am letzten Tag des betreffenden Monats.
+
+3. Endet eine für das Internationale Büro oder eine zuständige Behörde gültige Frist an einem Tag, der für das Internationale Büro oder eine zuständige Behörde kein Arbeitstag ist, so endet diese Frist ungeachtet der Absätze 1 und 2 für das Internationale Büro oder die zuständige Behörde je nach Fall am ersten folgenden Arbeitstag.

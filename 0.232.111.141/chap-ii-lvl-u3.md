@@ -1,0 +1,29 @@
+# Regel 7Eintragung in das internationale Register
+
+  - 1. a) Stellt das Internationale Büro fest, dass das Gesuch die Erfordernisse von Regel 3 Absatz 1 und Regel 5 erfüllt, trägt es die Ursprungsbezeichnung oder die geografische Angabe in das internationale Register ein.
+
+  - b) Das Internationale Büro gibt für jede Vertragspartei an, ob die internationale Registrierung durch die Genfer Akte oder das Lissabonner Abkommen vom 31. Oktober 1958 oder die Akte von 1967 geregelt ist.
+
+2. Die internationale Registrierung hat Folgendes zu enthalten oder anzugeben:
+
+  - i) alle im Gesuch enthaltenen Angaben;
+
+  - ii) die Sprache, in der das Gesuch beim Internationalen Büro eingegangen ist;
+
+  - iii) die Nummer der internationalen Registrierung;
+
+  - iv) das Datum der internationalen Registrierung.
+
+3. Das Internationale Büro:
+
+  - i) übersendet der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii, die die Registrierung beantragt haben, eine Bescheinigung über die internationale Registrierung; und
+
+  - ii) teilt die internationale Registrierung der zuständigen Behörde jeder Vertragspartei mit.
+
+  - 4. a) Im Fall der Ratifikation der Genfer Akte durch einen Staat, der Partei der Akte von 1967 ist, oder im Fall des Beitritts dieses Staates zur Genfer Akte findet Regel 5 Absatz 2 und 4 auf internationale Registrierungen oder Ursprungsbezeichnungen, die in Bezug auf diesen Staat gemäss der Akte von 1967 in Kraft sind, sinngemäss Anwendung. Das Internationale Büro prüft bei der betroffenen zuständigen Behörde alle vorzunehmenden Änderungen unter Berücksichtigung der in Regel 3 Absatz 1 und Regel 5 Absatz 2–4 vorgeschriebenen Erfordernisse hinsichtlich ihrer Eintragung gemäss der Genfer Akte und teilt die auf diese Weise vorgenommenen internationalen Registrierungen allen anderen Vertragsparteien mit, die Partei der Genfer Akte sind. Für die Änderungen ist die Zahlung der Gebühr gemäss Regel 8 Absatz 1 Ziffer ii erforderlich.
+
+  - b) Eine von einer Vertragspartei der Genfer Akte und der Akte von 1967 erlassene Schutzverweigerung oder Ungültigerklärung bleibt gemäss der Genfer Akte in Bezug auf die in Buchstabe a genannte internationale Registrierung in Kraft, ausser wenn die Vertragspartei eine Rücknahme der Schutzverweigerung gemäss Artikel 16 der Genfer Akte oder eine Erklärung über die Schutzgewährung gemäss Artikel 18 der Genfer Akte mitteilt.
+
+  - c) Ist Buchstabe b nicht anwendbar, so hat jede Vertragspartei der Genfer Akte und der Akte von 1967 beim Eingang der Mitteilung gemäss Buchstabe a die betreffende Ursprungsbezeichnung ausser im Fall einer gegenteiligen Angabe der Vertragspartei innerhalb der in Artikel 5 Absatz 3 der Akte von 1967 und der in Artikel 15 Absatz 1 der Genfer Akte genannten Frist auch gemäss der Genfer Akte für die restliche Dauer ihrer Gültigkeit weiter zu schützen. Jede gemäss Artikel 5 Absatz 6 der Akte von 1967 gewährte, zum Zeitpunkt des Eingangs der Mitteilung gemäss Buchstabe a noch gültige Frist wird für die restliche Dauer ihrer Gültigkeit durch die Bestimmungen von Artikel 17 der Genfer Akte geregelt.
+
+  - d) Die zuständige Behörde einer Partei, die Vertragspartei der Genfer Akte, jedoch nicht der Akte von 1967 ist und bei der eine Mitteilung gemäss Buchstabe a eingegangen ist, kann gemäss Artikel 15 der Genfer Akte dem Internationalen Büro die Verweigerung der Wirksamkeit irgendeiner dieser internationalen Registrierungen in ihrem Gebiet mitteilen. Die Verweigerung ist über diese zuständige Behörde innerhalb der in Regel 9 Absatz 1 Buchstabe b und c genannten Frist dem Internationalen Büro zu übersenden. Regel 6 Absatz 1 Buchstabe d und die Regeln 9–12 sind sinngemäss anzuwenden.

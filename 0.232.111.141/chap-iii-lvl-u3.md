@@ -1,0 +1,13 @@
+# Regel 11Rücknahme der Schutzverweigerung
+
+1. Jede Schutzverweigerung kann jederzeit von der zuständigen Behörde, die sie mitgeteilt hat, ganz oder teilweise zurückgenommen werden. Die Rücknahme einer Schutzverweigerung ist dem Internationalen Büro durch die betroffene zuständige Behörde mitzuteilen und von dieser Behörde zu unterzeichnen.
+
+2. Die Mitteilung der Rücknahme einer Schutzverweigerung hat Folgendes anzugeben:
+
+  - i) die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt;
+
+  - ii) den Grund der Rücknahme und, im Fall einer teilweisen Rücknahme, die in Regel 9 Absatz 2 Ziffer v genannten Angaben;
+
+  - iii) das Datum der Rücknahme der Schutzverweigerung.
+
+3. Das Internationale Büro trägt alle Rücknahmen gemäss Absatz 1 in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie der Mitteilung der Rücknahme.

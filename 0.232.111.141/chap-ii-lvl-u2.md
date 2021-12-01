@@ -1,0 +1,13 @@
+# Regel 6Nicht vorschriftsmässige Gesuche
+
+  - 1. a) Stellt das Internationale Büro vorbehaltlich Absatz 2 fest, dass das Gesuch die Erfordernisse von Regel 3 Absatz 1 oder Regel 5 nicht erfüllt, so setzt es die Registrierung aus und fordert die zuständige Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte auf, den festgestellten Mangel innerhalb von drei Monaten ab dem Datum, an dem diese Aufforderung übersandt wurde, zu beheben.
+
+  - b) Wird der festgestellte Mangel nicht innerhalb von zwei Monaten ab dem Datum der in Buchstabe a genannten Aufforderung behoben, so übersendet das Internationale Büro eine Mitteilung, in der an seine Aufforderung erinnert wird. Die in Buchstabe a genannte Frist von drei Monaten bleibt von der Übersendung einer solchen Mitteilung unberührt.
+
+  - c) Geht die Behebung des Mangels nicht innerhalb der in Buchstabe a genannten Frist von drei Monaten beim Internationalen Büro ein, so wird das Gesuch vorbehaltlich Buchstabe d vom Internationalen Büro abgewiesen, das die zuständige Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie die zuständige Behörde darüber unterrichtet.
+
+  - d) Im Fall eines Mangels in Bezug auf ein Erfordernis, das auf der Grundlage einer gemäss Regel 5 Absatz 3 oder 4 erfolgten Mitteilung oder einer gemäss Artikel 7 Absatz 4 der Genfer Akte abgegebenen Erklärung basiert, wird davon ausgegangen, dass in der Vertragspartei, die die Mitteilung eingereicht oder die Erklärung abgegeben hat, auf den Schutz aus der internationalen Registrierung verzichtet wird, falls die Behebung des Mangels nicht innerhalb der in Buchstabe a genannten Frist von drei Monaten beim Internationalen Büro eingeht.
+
+  - e) Wird das Gesuch gemäss Buchstabe c zurückgewiesen, erstattet das Internationale Büro die für dieses Gesuch entrichteten Gebühren nach Abzug eines Betrags in Höhe der halben in Regel 8 genannten Registrierungsgebühr zurück.
+
+2. Wird das Gesuch nicht von der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte eingereicht, so wird es vom Internationalen Büro nicht als solches betrachtet und an den Absender zurückgesandt.

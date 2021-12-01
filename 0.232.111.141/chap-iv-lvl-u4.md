@@ -1,0 +1,3 @@
+# Regel 22Datum des Versands verschiedener Mitteilungen
+
+Werden die Mitteilungen gemäss den Regeln 9 Absatz 1, 14 Absatz 1, 16 Absatz 4 und 18 Absatz 4 durch einen Postdienst übersandt, so wird das Versanddatum durch den Poststempel bestimmt. Ist der Poststempel unleserlich oder nicht vorhanden, so behandelt das Internationale Büro die Mitteilung so, als wäre sie 20 Tage vor dem Datum des Eingangs beim Internationalen Büro versandt worden. Werden die genannten Mitteilungen über einen Zustelldienst übersandt, bestimmen dessen Angaben anhand des Versandprotokolls das Versanddatum. Diese Mitteilungen können gemäss den Verwaltungsvorschriften auch per Telefax oder elektronisch übermittelt werden.

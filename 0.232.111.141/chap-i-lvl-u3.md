@@ -1,0 +1,11 @@
+# Regel 3Arbeitssprachen
+
+1. Das Gesuch ist in englischer, französischer oder spanischer Sprache abzufassen.
+
+2. Mitteilungen über ein internationales Gesuch oder eine internationale Registrierung sind nach Wahl der betroffenen zuständigen Behörde oder im Fall von Artikel 5 Absatz 3 der Genfer Akte nach Wahl der Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte in englischer, französischer oder spanischer Sprache abzufassen. Die für diese Verfahren notwendigen Übersetzungen werden vom Internationalen Büro angefertigt.
+
+3. Die Eintragungen in das internationale Register und die Veröffentlichung dieser Eintragungen durch das Internationale Büro erfolgen in englischer, französischer und spanischer Sprache. Die zu diesem Zweck notwendigen Übersetzungen werden vom Internationalen Büro angefertigt. Das Internationale Büro übersetzt jedoch die Ursprungsbezeichnung oder die geografische Angabe nicht.
+
+4. Enthält das Gesuch eine Transliteration der Ursprungsbezeichnung oder der geografischen Angabe gemäss Regel 5 Absatz 2 Buchstabe b, so überprüft das Internationale Büro nicht deren Richtigkeit.
+
+5. Enthält ein durch die Akte von 1967 geregeltes Gesuch eine oder mehrere Übersetzungen der Ursprungsbezeichnung gemäss Regel 5 Absatz 6 Ziffer v, so überprüft das Internationale Büro nicht deren Richtigkeit.

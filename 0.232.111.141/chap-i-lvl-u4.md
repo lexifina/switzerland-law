@@ -1,0 +1,9 @@
+# Regel 4Zuständige Behörde
+
+1. Jede Vertragspartei teilt dem Internationalen Büro den Namen und die Kontaktdaten ihrer zuständigen Behörde, d.h. der von ihr für die Einreichung der Gesuche und der übrigen Mitteilungen beim Internationalen Büro sowie den Empfang der Mitteilungen des Internationalen Büros bezeichneten Behörde, mit.
+
+2. In der Mitteilung nach Absatz 1 ist vorzugsweise eine einzige zuständige Behörde anzugeben. Teilt eine Vertragspartei unterschiedliche zuständige Behörden mit, so sind in dieser Mitteilung die jeweiligen Zuständigkeiten für die Einreichung der Gesuche und der übrigen Mitteilungen beim Internationalen Büro sowie den Empfang der Mitteilungen des Internationalen Büros klar anzugeben.
+
+3. Die zuständige Behörde teilt die Angaben zu den in ihrem Gebiet anwendbaren Verfahren für die Anfechtung und Anwendung der Rechte an den Ursprungsbezeichnungen und den geografischen Angaben mit.
+
+4. Die Vertragsparteien teilen dem Internationalen Büro alle Änderungen der Angaben gemäss den Absätzen 1 und 3 mit. Das Internationale Büro kann jedoch auch ohne Mitteilung von Amtes wegen Kenntnis von einer Änderung nehmen, wenn es über klare Hinweise verfügt, dass eine solche Änderung eingetreten ist.

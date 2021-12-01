@@ -1,0 +1,25 @@
+# Regel 12Schutzgewährung
+
+  - 1. a) Die zuständige Behörde einer Vertragspartei, die die Wirksamkeit einer internationalen Registrierung nicht verweigert, kann in der Frist gemäss Regel 9 Absatz 1 dem Internationalen Büro eine Erklärung übersenden, die bestätigt, dass der Ursprungsbezeichnung oder der geografischen Angabe, die Gegenstand der internationalen Registrierung ist, der Schutz gewährt wird.
+
+  - b) Die Erklärung über die Schutzgewährung hat Folgendes anzugeben:
+
+    - i) die zuständige Behörde der Vertragspartei, die die Erklärung abgibt;
+
+    - ii) die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt; und
+
+    - iii) das Datum der Erklärung.
+
+  - 2. a) Möchte die zuständige Behörde einer Vertragspartei, die zuvor eine Mitteilung der Schutzverweigerung unterbreitet hat, diese Schutzverweigerung zurücknehmen, so kann sie anstelle einer Mitteilung über die Rücknahme der Schutzverweigerung gemäss Regel 11 Absatz 1 dem Internationalen Büro eine Erklärung übersenden, dass der betroffenen Ursprungsbezeichnung oder der betroffenen geografischen Angabe der Schutz gewährt wird.
+
+  - b) Die Erklärung über die Schutzgewährung hat Folgendes anzugeben:
+
+    - i) die zuständige Behörde der Vertragspartei, die die Erklärung abgibt;
+
+    - ii) die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt;
+
+    - iii) den Grund der Rücknahme und, im Fall einer Schutzgewährung, die einer teilweisen Rücknahme entspricht, die in Regel 9 Absatz 2 Ziffer v genannten Angaben; und
+
+    - iv) das Datum der Schutzgewährung.
+
+3. Das Internationale Büro trägt alle Erklärungen über die Schutzgewährung gemäss Absatz 1 oder 2 in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Erklärung.

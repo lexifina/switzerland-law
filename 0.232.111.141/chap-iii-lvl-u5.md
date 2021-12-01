@@ -1,0 +1,17 @@
+# Regel 13Ungültigerklärung der Wirksamkeit einer internationalen Registrierung in einer Vertragspartei
+
+1. Wird die Wirksamkeit einer internationalen Registrierung in einer Vertragspartei ganz oder teilweise für ungültig erklärt und ist die Ungültigerklärung nicht mehr Gegenstand von Rechtsmitteln, so übermittelt die zuständige Behörde der betroffenen Vertragspartei dem Internationalen Büro eine Mitteilung der Ungültigerklärung. Die Mitteilung hat Folgendes anzugeben oder zu enthalten:
+
+  - i) die Nummer der betreffenden internationalen Registrierung, vorzugsweise versehen mit einer anderen Angabe, die die Identifizierung der internationalen Registrierung erlaubt, wie zum Beispiel die Bezeichnung, die die Ursprungsbezeichnung darstellt, oder die Angabe, die die geografische Angabe darstellt;
+
+  - ii) die Behörde, welche die Ungültigerklärung ausgesprochen hat;
+
+  - iii) das Datum, an dem die Ungültigerklärung ausgesprochen wurde;
+
+  - iv) im Fall einer teilweisen Ungültigerklärung die in Regel 9 Absatz 2 Ziffer v genannten Angaben;
+
+  - v) die Gründe, aus denen die Ungültigerklärung ausgesprochen wurde;
+
+  - vi) eine Kopie der Entscheidung, die die Wirksamkeit der internationalen Registrierung für ungültig erklärt hat.
+
+2. Das Internationale Büro trägt die Ungültigerklärung mit den Angaben gemäss Absatz 1 Ziffer i–v in das internationale Register ein und übermittelt der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte sowie der zuständigen Behörde der Ursprungsvertragspartei eine Kopie dieser Mitteilung.
