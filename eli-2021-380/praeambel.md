@@ -2,6 +2,6 @@
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 41 Absätze 1 und 3 des Epidemiengesetzes vom 28. September 2012 (EpG),
+gestützt auf die Artikel 41 Absätze 1 und 3 sowie 79 Absatz 1 des Epidemiengesetzes vom 28. September 2012 (EpG),
 
 verordnet:
