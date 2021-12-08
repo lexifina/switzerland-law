@@ -1,4 +1,4 @@
-# Regel 7bisDatum der internationalen Registrierung gemäss der Akte von 1967 und Datum ihrer Wirksamkeit
+# Regel 7bis Datum der internationalen Registrierung gemäss der Akte von 1967 und Datum ihrer Wirksamkeit
 
   - 1. a) Vorbehaltlich Buchstabe b ist das Datum der internationalen Registrierung für ein gemäss der Akte von 1967 eingereichtes Gesuch das Datum, an dem dieses Gesuch beim Internationalen Büro eingegangen ist.
 
