@@ -1,6 +1,6 @@
 # Art. 10a Teilnahme an Abstimmungen im Nationalrat in Abwesenheit wegen Covid-19
 
-1 Bis zum Ende der Herbstsession 2021 können Mitglieder des Nationalrates ihre Stimme in Abwesenheit abgeben, falls sie sich aufgrund behördlicher Weisungen wegen Covid-19 in Isolation oder Quarantäne begeben müssen.
+1 Mitglieder des Nationalrates können ihre Stimme in Abwesenheit abgeben, falls sie sich aufgrund behördlicher Weisungen wegen Covid-19 in Isolation oder Quarantäne begeben müssen.
 
 2 Ein Mitglied des Nationalrates, das aufgrund von Absatz 1 seine Stimme in Abwesenheit abgeben möchte, informiert am Vortag der Sitzung das Ratssekretariat.
 
