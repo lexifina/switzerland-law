@@ -2,7 +2,7 @@
 
 1 Ist nach Artikel 26a Absätze 1 und 3 Buchstabe a ein Versicherer Schuldner der Vergütung der Leistung, so senden die Leistungserbringer die Rechnung über Leistungen nach Anhang 6 pro getestete Person einzelfallweise oder quartalsweise gesammelt spätestens neun Monate nach Erbringung der Leistungen dem zuständigen Versicherer. Die Rechnung darf nur die Leistungen nach Anhang 6 beinhalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
 
-2 Die Leistungserbringer dürfen Leistungen nach Anhang 6 nicht nach der Position 3186.00 von Anhang 3 der Krankenpflege-Leistungsverordnung vom 29. September 1995 (KLV) verrechnen.
+2 Die Leistungserbringer dürfen Leistungen nach Anhang 6 nicht nach den Positionen 3186.00, 3188.00 und 3189.00 von Anhang 3 der Krankenpflege-Leistungsverordnung vom 29. September 1995 (KLV) verrechnen.
 
 3 Die Versicherer kontrollieren die Rechnungen und prüfen, ob der Leistungserbringer die Leistungen nach Anhang 6 korrekt abgerechnet hat. Sie beachten bei der Bearbeitung der Daten die Artikel 84–84b KVG.
 
