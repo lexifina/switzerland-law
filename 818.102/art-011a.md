@@ -1,6 +1,6 @@
 # Art. 11a Massnahmen betreffend Publikumsanlässe
 
-1 Der Bund kann sich auf Gesuch hin an nicht gedeckten Kosten von Veranstaltern von Publikumsanlässen von überkantonaler Bedeutung zwischen dem 1. Juni 2021 und dem 30. April 2022 beteiligen, die über eine kantonale Bewilligung verfügen und die im Zusammenhang mit der Bewältigung der Covid-19-Epidemie aufgrund behördlicher Anordnung abgesagt oder verschoben werden.
+1 Der Bund kann sich auf Gesuch hin an nicht gedeckten Kosten von Veranstaltern von Publikumsanlässen von überkantonaler Bedeutung zwischen dem 1. Juni 2021 und dem 31. Dezember 2022 beteiligen, die über eine kantonale Bewilligung verfügen und die im Zusammenhang mit der Bewältigung der Covid-19-Epidemie aufgrund behördlicher Anordnung abgesagt oder verschoben werden.
 
 2 Ist der Eintritt kostenpflichtig, haben die Veranstalter zu belegen, dass bezahlte Eintritte bei einer Absage vollumfänglich zurückerstattet werden.
 
