@@ -1,11 +1,11 @@
-# Art. 3a Personen mit einem Impf- oder Genesungszertifikat
+# Art. 3a Zugangsbeschränkungen
 
-Als Personen mit einem Impf- oder Genesungszertifikat im Sinne dieser Verordnung gelten Personen, die über eines der folgenden Zertifikate verfügen:
+1 Beschränkungen des Zugangs zu Einrichtungen, Betrieben oder Veranstaltungen auf Personen mit bestimmten Zertifikaten gelten nur für Personen ab 16 Jahren.
 
-  - a. ein Covid-19-Impfzertifikat nach Artikel 1 Buchstabe a Ziffer 1 Covid-19-Verordnung Zertifikate vom 4. Juni 2021;
+2 Wird der Zugang auf Personen beschränkt, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen, so braucht eine Person kein Testzertifikat, wenn ihr Impf- oder Genesungszertifikat noch nicht länger als 120 Tage gültig ist. Dies gilt nicht für Personen mit einem Genesungszertifikat für Antikörpertests nach Artikel 16 Absatz 3 Covid-19-Verordnung Zertifikate vom 4. Juni 2021.
 
-  - b. ein Covid-19-Genesungszertifikat nach Artikel 1 Buchstabe a Ziffer 2 Covid-19-Verordnung Zertifikate;
+3 …
 
-  - c. …
+4 Personen, die über ein Attest verfügen, das bestätigt, dass sie sich aus einem medizinischen Grund nach Anhang 4 nicht impfen lassen können, sind beim Zugang zu Einrichtungen, Betrieben oder Veranstaltungen Personen mit einem Impf- oder Genesungszertifikat gleichgestellt, sofern sie ein Testzertifikat vorweisen. Die Ausnahme von der Maskenpflicht nach Artikel 6 Absatz 2 Buchstabe i gilt für sie nicht.
 
-  - d. ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Impfungen oder Genesungen nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate.
+5 Das Attest muss von einer in der Schweiz niedergelassenen Ärztin oder einem in der Schweiz niedergelassenen Arzt ausgestellt sein, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006 zur Berufsausübung in eigener fachlicher Verantwortung befugt ist und über einen eidgenössischen Weiterbildungstitel in dem Fachgebiet verfügt, dem der betreffende Grund zugeordnet ist.
