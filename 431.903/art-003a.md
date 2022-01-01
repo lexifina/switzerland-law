@@ -6,11 +6,11 @@
 
   - b. Angaben über Mutationen in Quellen nach Artikel 4;
 
-  - c. Angaben über den Betriebsleiter oder die Betriebsleiterin, insbesondere Name, Geburtsjahr, Geschlecht und AHV-Versichertennummer;
+  - c. Angaben über den Betriebsleiter oder die Betriebsleiterin, insbesondere Name, Geburtsjahr, Geschlecht und AHV-Nummer;
 
   - d. Angaben über rechtliche und wirtschaftliche Verbindungen zwischen Unternehmen und Betrieben;
 
-  - e. Angaben über die Beschäftigten eines Unternehmens oder Betriebs, insbesondere Geburtsjahr, Geschlecht, Nationalität, AHV-Versichertennummer, Nebenerwerbstätigkeit, Lohn oder Einkommen und Tätigkeitsdauer.
+  - e. Angaben über die Beschäftigten eines Unternehmens oder Betriebs, insbesondere Geburtsjahr, Geschlecht, Nationalität, AHV-Nummer, Nebenerwerbstätigkeit, Lohn oder Einkommen und Tätigkeitsdauer.
 
 2 Diese Zusatzdaten dürfen nur mit der jeweiligen Quelle nach Artikel 4 ausgetauscht werden.
 
