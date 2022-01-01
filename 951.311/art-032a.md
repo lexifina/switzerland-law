@@ -14,7 +14,7 @@
 
   - b. die Schätzberichte der ständigen Schätzungsexperten;
 
-  - c. den Bericht über die Marktkonformität des Kaufs- oder Verkaufspreises der Schätzungsexperten nach Absatz 1 Buchstabe c .
+  - c. den Bericht über die Marktkonformität des Kaufs- oder Verkaufspreises der Schätzungsexperten nach Absatz 1 Buchstabe c.
 
 3 Die Prüfgesellschaft bestätigt im Rahmen ihrer Prüfung der Fondsleitung oder der SICAV die Einhaltung der besonderen Treuepflicht bei Immobilienanlagen;
 

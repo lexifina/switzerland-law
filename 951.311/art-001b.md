@@ -2,9 +2,7 @@
 
 1 Als operative Gesellschaften, die eine unternehmerische Tätigkeit ausüben, gelten für die Zwecke der Anwendung des Gesetzes und unabhängig von ihrer Rechtsform Unternehmen:
 
-  - a. die ihren satzungsmässigen oder tatsächlichen Sitz in der Schweiz haben
-
-  - oder in der Schweiz niedergelassen sind, soweit sich ihr satzungsmässiger Sitz in einem anderen Staat befindet;
+  - a. die ihren satzungsmässigen oder tatsächlichen Sitz in der Schweiz haben oder in der Schweiz niedergelassen sind, soweit sich ihr satzungsmässiger Sitz in einem anderen Staat befindet;
 
   - b. die eine Tätigkeit gewerbsmässig oder in einem Umfang betreiben, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert; und
 
