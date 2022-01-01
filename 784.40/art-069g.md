@@ -12,7 +12,7 @@
 
 4 Die Erhebungsstelle leistet aus dem Ertrag der Abgabe Beiträge an Gemeinden und Kantone für deren spezifische Investitionen, welche für die Übermittlung der Daten an die Erhebungsstelle notwendig sind.
 
-5 Die Erhebungsstelle kann die Versichertennummer nach Artikel 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) systematisch verwenden:
+5 Die Erhebungsstelle kann die AHV-Nummer nach Artikel 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) systematisch verwenden:
 
   - a. zur Erfüllung ihrer Aufgaben in Zusammenhang mit der Erhebung der Abgabe;
 
