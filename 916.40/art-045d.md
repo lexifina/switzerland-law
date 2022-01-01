@@ -6,7 +6,7 @@
 
   - a. das BLV und das BLW: zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes sowie einer einwandfreien Primärproduktion;
 
-  - b. die Eidgenössische Zollverwaltung: zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes sowie einer einwandfreien Primärproduktion im Zusammenhang mit dem Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet;
+  - b. das BAZG: zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes sowie einer einwandfreien Primärproduktion im Zusammenhang mit dem Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet;
 
   - c. die kantonalen Vollzugsbehörden sowie Dritte, die mit Vollzugsaufgaben betraut sind: zur Erfüllung der Aufgaben in ihrem jeweiligen Zuständigkeitsbereich.
 
