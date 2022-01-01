@@ -1,6 +1,6 @@
 # Art. 43a Aufsichtsorganisation
 
-1 Die laufende Aufsicht über Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018 und über Handelsprüfer nach Artikel 42bis des Edelmetallkontrollgesetzes vom 20. Juni 1933 wird von einer oder mehreren Aufsichtsorganisationen mit Sitz in der Schweiz ausgeübt.
+1 Die laufende Aufsicht über Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018 wird von einer oder mehreren Aufsichtsorganisationen mit Sitz in der Schweiz ausgeübt.
 
 2 Die Aufsichtsorganisation bedarf vor der Aufnahme ihrer Aufsichtstätigkeit einer Bewilligung der FINMA und wird von ihr beaufsichtigt.
 
