@@ -1,6 +1,6 @@
 # Art. 15b Zuständigkeiten
 
-1 Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die operative Führung im Rahmen der Zusammenarbeit mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur). Es konsultiert und informiert die Eidgenössische Zollverwaltung (EZV) dabei. Es nimmt insbesondere die folgenden Aufgaben wahr:
+1 Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die operative Führung im Rahmen der Zusammenarbeit mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur). Es konsultiert und informiert das Bundesamt für Zoll und Grenzsicherheit (BAZG) dabei. Es nimmt insbesondere die folgenden Aufgaben wahr:
 
   - a. Es ist die nationale Koordinationsstelle für die Teilnahme der Schweiz an internationalen Rückführungseinsätzen.
 
