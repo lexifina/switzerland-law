@@ -1,6 +1,6 @@
 # Art. 110f Informationssystem für Bildaufnahme-, Bildaufzeichnungs- und andere Überwachungsgeräte
 
-1 Die EZV betreibt ein Informationssystem für die Bewirtschaftung von Aufzeichnungen, die gestützt auf Artikel 108 oder 128a erstellt werden.
+1 Das BAZG betreibt ein Informationssystem für die Bewirtschaftung von Aufzeichnungen, die gestützt auf Artikel 108 oder 128a erstellt werden.
 
 2 Im Informationssystem können insbesondere Daten bearbeitet werden von:
 

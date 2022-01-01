@@ -1,6 +1,6 @@
 # Art. 128a Observation
 
-1 Die EZV kann im Rahmen ihrer Strafverfolgungskompetenz anordnen, dass Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachtet werden und dabei Bild- oder Tonaufzeichnungen gemacht werden können, wenn:
+1 Das BAZG kann im Rahmen seiner Strafverfolgungskompetenz anordnen, dass Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachtet werden und dabei Bild- oder Tonaufzeichnungen gemacht werden können, wenn:
 
   - a. aufgrund konkreter Anhaltspunkte anzunehmen ist, dass Verbrechen oder Vergehen begangen worden sind; und
 
@@ -8,7 +8,7 @@
 
 2 Hat eine nach Absatz 1 angeordnete Massnahme 30 Tage gedauert, so bedarf ihre Fortsetzung der Genehmigung durch die Oberzolldirektion.
 
-3 Die EZV teilt den von einer Observation direkt betroffenen Personen spätestens mit Abschluss der Untersuchung Grund, Art und Dauer der Observation mit.
+3 Das BAZG teilt den von einer Observation direkt betroffenen Personen spätestens mit Abschluss der Untersuchung Grund, Art und Dauer der Observation mit.
 
 4 Die Mitteilung wird aufgeschoben oder unterlassen, wenn:
 

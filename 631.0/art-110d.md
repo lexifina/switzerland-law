@@ -1,6 +1,6 @@
 # Art. 110d Informationssystem für die Führungsunterstützung
 
-1 Die EZV betreibt für die Führungsunterstützung ein Informationssystem.
+1 Das BAZG betreibt für die Führungsunterstützung ein Informationssystem.
 
 2 Das Informationssystem dient der Beschaffung und Bearbeitung aller notwendigen Informationen zur operativen und strategischen Steuerung und Leitung der Einsätze.
 
@@ -10,4 +10,4 @@
 
   - b. Angaben über Ereignisse, welche die Einsatzzentralen bearbeiten;
 
-  - c. Angaben über die Ressourcen der EZV und der beteiligten Behörden.
+  - c. Angaben über die Ressourcen des BAZG und der beteiligten Behörden.

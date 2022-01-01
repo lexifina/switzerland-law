@@ -1,6 +1,6 @@
 # Art. 110b Informationssystem für die Bewirtschaftung der Resultate von Zollkontrollen
 
-1 Die EZV betreibt für die Bewirtschaftung der Resultate von Zollkontrollen ein Informationssystem.
+1 Das BAZG betreibt für die Bewirtschaftung der Resultate von Zollkontrollen ein Informationssystem.
 
 2 Das Informationssystem dient dem Vollzug dieses Gesetzes, insbesondere:
 
@@ -8,7 +8,7 @@
 
   - b. der Beschaffung der Datengrundlage für die Risikoanalyse;
 
-  - c. der Beschaffung der Datengrundlage für die Berichterstattung über die Erfüllung der Aufgaben der EZV.
+  - c. der Beschaffung der Datengrundlage für die Berichterstattung über die Erfüllung der Aufgaben des BAZG.
 
 3 Im Informationssystem können folgende besonders schützenswerte Personendaten bearbeitet werden:
 

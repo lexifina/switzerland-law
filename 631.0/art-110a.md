@@ -1,6 +1,6 @@
 # Art. 110a Informationssystem für Strafsachen
 
-1 Die EZV betreibt für die Verfolgung und Beurteilung von Straffällen sowie das Behandeln von Amts- und Rechtshilfeersuchen ein Informationssystem.
+1 Das BAZG betreibt für die Verfolgung und Beurteilung von Straffällen sowie das Behandeln von Amts- und Rechtshilfeersuchen ein Informationssystem.
 
 2 Das Informationssystem dient dem Vollzug dieses Gesetzes, des VStrR und des Rechtshilfegesetzes vom 20. März 1981, insbesondere:
 

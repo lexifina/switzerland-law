@@ -1,6 +1,6 @@
 # Art. 110e Informationssystem für die Dokumentation der Tätigkeit des Grenzwachtkorps
 
-1 Die EZV betreibt für die Dokumentation der Tätigkeit des Grenzwachtkorps und für die Erstellung von Statistiken und Risikoanalysen ein Informationssystem.
+1 Das BAZG betreibt für die Dokumentation der Tätigkeit des Grenzwachtkorps und für die Erstellung von Statistiken und Risikoanalysen ein Informationssystem.
 
 2 Im Informationssystem können folgende besonders schützenswerte Personendaten bearbeitet werden:
 

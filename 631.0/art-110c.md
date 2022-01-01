@@ -1,6 +1,6 @@
 # Art. 110c Informationssystem für die Erstellung von Risikoanalysen
 
-1 Das Lage- und Analysezentrum der EZV betreibt für das Erstellen von Risikoanalysen ein Informationssystem.
+1 Das Lage- und Analysezentrum des BAZG betreibt für das Erstellen von Risikoanalysen ein Informationssystem.
 
 2 Das Informationssystem dient dem Vollzug dieses Gesetzes, insbesondere:
 
@@ -22,4 +22,4 @@
 
   - e. Angaben über hängige oder abgeschlossene Strafverfahren.
 
-4 Die Resultate von Risikoanalysen können auf den Intranetseiten der EZV berechtigten Personen zugänglich gemacht werden.
+4 Die Resultate von Risikoanalysen können auf den Intranetseiten des BAZG berechtigten Personen zugänglich gemacht werden.
