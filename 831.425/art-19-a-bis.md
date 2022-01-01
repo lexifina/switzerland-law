@@ -6,7 +6,7 @@
 
 3 In das Register werden folgende Daten aufgenommen:
 
-  - a. Name und Vorname, Geburtsdatum und AHV-Versichertennummer der Versicherten; sowie
+  - a. Name und Vorname, Geburtsdatum und AHV-Nummer der Versicherten; sowie
 
   - b. der Name der Vorsorgeeinrichtungen oder der Einrichtungen, die für die betroffenen Versicherten Freizügigkeitskonten oder -policen führen.
 
