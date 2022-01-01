@@ -1,6 +1,6 @@
 # Art. 146h Vorläufige Rückerstattung der CO2-Abgabe
 
-1 Die EZV kann die CO2-Abgabe folgenden Betreibern von Anlagen auf Gesuch vorläufig rückerstatten:
+1 Das BAZG kann die CO2-Abgabe folgenden Betreibern von Anlagen auf Gesuch vorläufig rückerstatten:
 
   - a. Betreibern von Anlagen, die ihre Pflicht zur Teilnahme am EHS gemäss Artikel 146g Absatz 1 gemeldet beziehungsweise ein Gesuch um Teilnahme am EHS gemäss Artikel 146g Absatz 4 eingereicht haben;
 
