@@ -16,10 +16,8 @@
 
   - a. Es erlässt ein Reglement über die Organisation der Fonds, die Grundsätze und Ziele der Vermögensanlage sowie über den Anlagerahmen.
 
-  - b. Es legt die Vorgaben für die Erstellung der Kostenstudie im Einzelfall fest.
+  - b. und c. …
 
-  - c. Es legt die voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten im Einzelfall fest.
-
-  - d. Es legt auf Vorschlag der Kommission das Anforderungsprofil für die Mitglieder der Kommission, die Vorsitzenden des Anlage- und des Kostenausschusses sowie für deren Mitglieder fest.
+  - d. Es legt auf Vorschlag der Kommission das Anforderungsprofil für die Mitglieder der Kommission, die Vorsitzenden des Anlage- und des Kostenkomitees und für deren Mitglieder sowie das Mitglied nach Artikel 23 Buchstabe qbis fest.
 
 3 Das BFE ist zuständig für Vorbereitung und Vollzug der Entscheidungen des Bundesrats und des UVEK.
