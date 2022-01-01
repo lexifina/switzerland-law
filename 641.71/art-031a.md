@@ -6,7 +6,7 @@
 
   - b. gegenüber dem Referenzjahr 2012 in einem vom Bundesrat bestimmten Mass zusätzlich Strom produzieren, der ausserhalb der Anlage verwendet wird.
 
-2 40 Prozent der CO2-Abgabe auf Brennstoffen, die nachweislich für die Produktion des Stroms nach Absatz 1 eingesetzt werden, werden in diesem Fall nur zurückerstattet, sofern das Betreiber gegenüber dem Bund nachweist, dass es im Umfang dieser Mittel Massnahmen ergriffen hat für die Steigerung seiner eigenen Energieeffizienz oder der Energieeffizienz von Anlagen, die aus der WKK-Anlage Strom oder Wärme beziehen.
+2 40 Prozent der CO2-Abgabe auf Brennstoffen, die nachweislich für die Produktion des Stroms nach Absatz 1 eingesetzt werden, werden in diesem Fall nur zurückerstattet, sofern der Betreiber gegenüber dem Bund nachweist, dass er im Umfang dieser Mittel Massnahmen ergriffen hat für die Steigerung seiner eigenen Energieeffizienz oder der Energieeffizienz von Anlagen, die aus der WKK-Anlage Strom oder Wärme beziehen.
 
 3 Der Bundesrat regelt die Einzelheiten, insbesondere:
 
