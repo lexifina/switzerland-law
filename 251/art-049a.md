@@ -1,6 +1,6 @@
 # Art. 49a Sanktion bei unzulässigen Wettbewerbsbeschränkungen
 
-1 Ein Unternehmen, das an einer unzulässigen Abrede nach Artikel 5 Absätze 3 und 4 beteiligt ist oder sich nach Artikel 7 unzulässig verhält, wird mit einem Betrag bis zu 10 Prozent des in den letzten drei Geschäftsjahren in der Schweiz erzielten Umsatzes belastet. Artikel 9 Absatz 3 ist sinngemäss anwendbar. Der Betrag bemisst sich nach der Dauer und der Schwere des unzulässigen Verhaltens. Der mutmassliche Gewinn, den das Unternehmen dadurch erzielt hat, ist angemessen zu berücksichtigen.
+1 Ein Unternehmen, das an einer unzulässigen Abrede nach Artikel 5 Absätze 3 und 4 beteiligt ist oder marktbeherrschend ist und sich nach Artikel 7 unzulässig verhält, wird mit einem Betrag bis zu 10 Prozent des in den letzten drei Geschäftsjahren in der Schweiz erzielten Umsatzes belastet. Artikel 9 Absatz 3 ist sinngemäss anwendbar. Der Betrag bemisst sich nach der Dauer und der Schwere des unzulässigen Verhaltens. Der mutmassliche Gewinn, den das Unternehmen dadurch erzielt hat, ist angemessen zu berücksichtigen.
 
 2 Wenn das Unternehmen an der Aufdeckung und der Beseitigung der Wettbewerbsbeschränkung mitwirkt, kann auf eine Belastung ganz oder teilweise verzichtet werden.
 
