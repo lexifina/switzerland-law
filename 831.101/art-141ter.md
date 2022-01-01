@@ -4,7 +4,7 @@
 
   - a. Angaben zur versicherten Person;
 
-  - b. Versichertennummern;
+  - b. AHV-Nummern;
 
   - c. versicherte Risiken;
 
