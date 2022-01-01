@@ -1,6 +1,6 @@
 # Art. 24b Gesuche um Kontingentsanteile nach der Zahl der geschlachteten Tiere
 
-1 Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer und die TVD-Nummer nach Artikel 2 Buchstabe e beziehungsweise 21 Absatz 5 der TVD-Verordnung vom 26. Oktober 2011 anzugeben.
+1 Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer und die TVD-Nummer der Gesuchstellerin nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkehrsdatenbank anzugeben.
 
 2 Die Gesuche sind bis zum 31. August vor Beginn der Kontingentsperiode über das Internetportal Agate einzureichen.
 
