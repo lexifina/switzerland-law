@@ -1,6 +1,6 @@
 # Art. 51b Vergütung von Kosten der familienergänzenden Kinderbetreuung
 
-1 Die Höhe der Vergütung von Kosten für die familienergänzende Kinderbetreuung bemisst sich nach Anhang 2.
+1 Die Höhe der Vergütung von Kosten für die familienergänzende Kinderbetreuung bemisst sich nach Anhang 2. Die Vergütung darf die effektiven Kosten nicht übersteigen.
 
 2 und 3 …
 
