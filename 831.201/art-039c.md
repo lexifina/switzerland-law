@@ -14,7 +14,7 @@ In den folgenden Bereichen kann Hilfebedarf anerkannt werden:
 
   - f. berufliche Aus- und Weiterbildung;
 
-  - g. Ausübung einer Erwerbstätigkeit auf dem regulären Arbeitsmarkt;
+  - g. Ausübung einer Erwerbstätigkeit im ersten Arbeitsmarkt;
 
   - h. Überwachung während des Tages;
 
