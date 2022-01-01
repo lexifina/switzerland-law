@@ -28,7 +28,7 @@
 
   - b. Personen mit den Erkrankungen oder genetischen Anomalien nach Anhang 7, die sich aus medizinischen Gründen nicht impfen lassen können.
 
-10bis Nicht als besonders gefährdet gelten:
+11 Nicht als besonders gefährdet gelten:
 
   - a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 365 Tagen ab vollständig erfolgter Impfung;
 
@@ -38,8 +38,8 @@
 
     - 2. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021: während der Gültigkeit des entsprechenden Zertifikats.
 
-11 Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10bis als besonders gefährdet eingestuft werden.
+12 Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 11 als besonders gefährdet eingestuft werden.
 
-12 Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
+13 Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
-13 Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom vom 23. Juni 2021 .
+14 Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021.
