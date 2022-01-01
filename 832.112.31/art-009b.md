@@ -1,6 +1,6 @@
 # Art. 9b
 
-1 Der Ernährungsberater, die Ernährungsberaterin oder die Organisation der Ernährungsberatung im Sinne der Artikel 46, 50a und 52b KVV berät auf ärztliche Anordnung hin oder in ärztlichem Auftrag Patienten und Patientinnen mit folgenden Krankheiten:
+1 Die nach Artikel 50a zugelassenen Ernährungsberater und Ernährungsberaterinnen und die nach 52c KVV zugelassenen Organisationen der Ernährungsberatung beraten auf ärztliche Anordnung hin oder in ärztlichem Auftrag Patienten und Patientinnen mit folgenden Krankheiten:
 
   - a. Stoffwechselkrankheiten;
 
