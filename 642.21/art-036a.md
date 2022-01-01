@@ -2,7 +2,7 @@
 
 1 Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
 
-2 Die ESTV und die Behörden nach Artikel 36 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 36 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.
+2 Die ESTV und die Behörden nach Artikel 36 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 36 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können. …
 
 3 Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt. Sie können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Diese Amtshilfe ist kostenlos.
 
