@@ -8,7 +8,7 @@
 
   - b. für diese Prüfung ausreichend organisiert ist; und
 
-  - c. keine andere nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007 bewilligungspflichtige Tätigkeit ausübt.
+  - c. keine andere nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 FINMAG bewilligungspflichtige Tätigkeit ausübt.
 
 3 Die leitende Prüferin oder der leitende Prüfer wird zur Leitung von Prüfungen nach Absatz 1 zugelassen, wenn sie oder er:
 
