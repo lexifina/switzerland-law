@@ -10,4 +10,4 @@
 
   - b. die Ausfuhr der Tabakfabrikate zollamtlich bestätigt worden ist.
 
-4 Der Betreiber des zugelassenen Steuerlagers muss der Zollverwaltung jeden Versand von unversteuerten Tabakfabrikaten melden.
+4 Der Betreiber des zugelassenen Steuerlagers muss dem BAZG jeden Versand von unversteuerten Tabakfabrikaten melden.

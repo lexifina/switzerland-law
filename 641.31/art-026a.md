@@ -6,7 +6,7 @@
 
   - b. Steuerfreilager.
 
-2 Der Bundesrat legt die Voraussetzungen für die Einrichtung und den Betrieb von zugelassenen Steuerlagern fest; die Zollverwaltung erteilt die Bewilligung.
+2 Der Bundesrat legt die Voraussetzungen für die Einrichtung und den Betrieb von zugelassenen Steuerlagern fest; das BAZG erteilt die Bewilligung.
 
 3 Die Bewilligung wird entzogen, wenn:
 
