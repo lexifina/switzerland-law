@@ -4,7 +4,7 @@
 
   - a. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
 
-  - abis. Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der Versichertennummer der AHV;
+  - abis. Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 
   - b. den mit der Durchführung des Bundesgesetzes vom 12. Juni 1959 über den Wehrpflichtersatz betrauten Behörden, nach Artikel 24 des genannten Gesetzes;
 
