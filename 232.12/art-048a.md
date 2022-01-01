@@ -1,6 +1,6 @@
 # Art. 48a Proben oder Muster
 
-1 Während des Zurückbehaltens der Gegenstände ist die Zollverwaltung ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.
+1 Während des Zurückbehaltens der Gegenstände ist das BAZG ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.
 
 2 Die Proben oder Muster werden auf Kosten der Antragstellerin entnommen und versandt.
 
