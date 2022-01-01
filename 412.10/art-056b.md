@@ -8,7 +8,7 @@
 
   - b. Angaben zur Identifikation von Absolventinnen und Absolventen von eidgenössischen Berufsprüfungen und eidgenössischen höheren Fachprüfungen nach Artikel 28;
 
-  - c. die Versichertennummer nach Artikel 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung von den Personen nach den Buchstaben a und b;
+  - c. …
 
   - d. Angaben über den empfangenen Beitrag nach Artikel 56a Absätze 1 und 4;
 
