@@ -8,7 +8,9 @@
 
   - c. Bruttoeinkommen nach Artikel 75b Buchstabe d;
 
-  - d. Fremdbetreuungsquote.
+  - d. Fremdbetreuungsquote;
+
+  - e. effektive Kosten der familienergänzenden Kinderbetreuung.
 
 2 Die zuständige Stelle führt jährlich bei mindestens 10 Prozent der bewilligten Gesuche Stichproben durch. Sie überprüft dabei die Richtigkeit der Angaben des Gesuchs und kann zusätzliche Angaben verlangen.
 
