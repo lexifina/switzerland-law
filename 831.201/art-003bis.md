@@ -1,3 +1,5 @@
-# Art. 3bis Aufenthalt in einer Kranken- oder Kuranstalt in Sonderfällen
+# Art. 3bis Liste der Geburtsgebrechen
 
-Dient der Aufenthalt in einer Kranken- oder Kuranstalt gleichzeitig der Durchführung medizinischer und anderer Massnahmen der Versicherung, so übernimmt diese die Kosten für Unterkunft und Verpflegung, wenn die medizinische Massnahme in einer Heilanstalt durchgeführt werden muss.
+1 Das Eidgenössische Departement des Innern (EDI) erstellt die Liste nach Artikel 14ter Absatz 1 Buchstabe b IVG mit den Geburtsgebrechen, für die medizinischen Massnahmen nach Artikel 13 IVG gewährt werden.
+
+2 Es kann nähere Vorschriften über die Liste erlassen.

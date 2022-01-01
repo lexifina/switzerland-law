@@ -1,10 +1,6 @@
 # Art. 20sexies Erwerbstätige Versicherte
 
-1 Als erwerbstätig gelten Versicherte, die:
-
-  - a. unmittelbar vor Beginn ihrer Arbeitsunfähigkeit (Art. 6 ATSG) eine Erwerbstätigkeit ausgeübt haben; oder
-
-  - b. glaubhaft machen, dass sie nach Eintritt der Arbeitsunfähigkeit eine Erwerbstätigkeit von längerer Dauer aufgenommen hätten.
+1 Als erwerbstätig gelten Versicherte, die unmittelbar vor Beginn ihrer Arbeitsunfähigkeit (Art. 6 ATSG) eine Erwerbstätigkeit ausgeübt haben.
 
 2 Den erwerbstätigen Versicherten gleichgestellt sind:
 

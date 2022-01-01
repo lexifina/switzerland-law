@@ -25,3 +25,5 @@
   - c. bei versicherten Personen mit leichter Hilflosigkeit im Sinne von Artikel 37 Absatz 3 Buchstabe b, c, d oder e: zwei alltägliche Lebensverrichtungen.
 
 4 Die Höchstansätze werden für jeden Tag und jede Nacht, die die versicherte Person pro Woche in einer Institution verbringt, um 10 Prozent gekürzt.
+
+5 Die von der Invalidenversicherung gewährten Beiträge an die Langzeitüberwachung nach Artikel 3quinquies Absatz 3 werden vom Hilfebedarf nach Artikel 39c Buchstabe h anteilsmässig abgezogen.

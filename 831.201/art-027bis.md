@@ -1,17 +1,21 @@
-# Art. 27bis Teilerwerbstätige und Versicherte, die unentgeltlich im Betrieb des Ehegatten oder der Ehegattin mitarbeiten
+# Art. 27bis Bemessung des Invaliditätsgrades von Teilerwerbstätigen
 
-1 Ist bei Versicherten, die nur zum Teil erwerbstätig sind oder die unentgeltlich im Betrieb des Ehegatten oder der Ehegattin mitarbeiten, anzunehmen, dass sie im Zeitpunkt der Prüfung des Rentenanspruchs ohne Gesundheitsschaden ganztägig erwerbstätig wären, so ist die Invaliditätsbemessung ausschliesslich nach den Grundsätzen für Erwerbstätige zu bemessen.
-
-2 Bei Teilerwerbstätigen, die sich zusätzlich im Aufgabenbereich nach Artikel 7 Absatz 2 IVG betätigen, werden für die Bestimmung des Invaliditätsgrads folgende Invaliditätsgrade summiert:
+1 Für die Bestimmung des Invaliditätsgrades von Teilerwerbstätigen werden folgende Invaliditätsgrade zusammengezählt:
 
   - a. der Invaliditätsgrad in Bezug auf die Erwerbstätigkeit;
 
   - b. der Invaliditätsgrad in Bezug auf die Betätigung im Aufgabenbereich.
 
-3 Die Berechnung des Invaliditätsgrads in Bezug auf die Erwerbstätigkeit richtet sich nach Artikel 16 ATSG, wobei:
+2 Für die Berechnung des Invaliditätsgrades in Bezug auf die Erwerbstätigkeit wird:
 
-  - a. das Erwerbseinkommen, das die versicherte Person durch die Teilerwerbstätigkeit erzielen könnte, wenn sie nicht invalid geworden wäre, auf eine Voll-erwerbstätigkeit hochgerechnet wird;
+  - a. das Einkommen ohne Invalidität auf eine Erwerbstätigkeit, die einem Beschäftigungsgrad von 100 Prozent entspricht, hochgerechnet;
 
-  - b. die prozentuale Erwerbseinbusse anhand des Beschäftigungsgrads, den die Person hätte, wenn sie nicht invalid geworden wäre, gewichtet wird.
+  - b. das Einkommen mit Invalidität auf der Basis einer Erwerbstätigkeit, die einem Beschäftigungsgrad von 100 Prozent entspricht, berechnet und entsprechend an die massgebliche funktionelle Leistungsfähigkeit angepasst;
 
-4 Für die Berechnung des Invaliditätsgrads in Bezug auf die Betätigung im Aufgabenbereich wird der prozentuale Anteil der Einschränkungen bei der Betätigung im Aufgabenbereich im Vergleich zur Situation, wenn die versicherte Person nicht invalid geworden wäre, ermittelt. Der Anteil wird anhand der Differenz zwischen dem Beschäftigungsgrad nach Absatz 3 Buchstabe b und einer Vollerwerbstätigkeit gewichtet.
+  - c. die prozentuale Erwerbseinbusse anhand des Beschäftigungsgrades, den die Person hätte, wenn sie nicht invalid geworden wäre, gewichtet.
+
+3 Für die Berechnung des Invaliditätsgrades in Bezug auf die Betätigung im Aufgabenbereich wird:
+
+  - a. der prozentuale Anteil der Einschränkungen bei der Betätigung im Aufgabenbereich im Vergleich zur Situation, wenn die versicherte Person nicht invalid geworden wäre, ermittelt;
+
+  - b. der Anteil nach Buchstabe a anhand der Differenz zwischen dem Beschäftigungsgrad nach Absatz 2 Buchstabe c und einer Vollerwerbstätigkeit gewichtet.

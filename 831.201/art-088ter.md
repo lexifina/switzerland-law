@@ -1,3 +1,3 @@
-# Art. 88ter Meldungen an die Krankenversicherer nach Art. 11 KVG
+# Art. 88ter Meldungen an die Krankenversicherer nach dem KVAG
 
-Die zuständigen IV-Stellen haben die Versicherten der Krankenversicherer nach Artikel 11 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) – (im folgenden Krankenversicherer genannt), die Anspruch auf medizinische Massnahmen der Versicherung erheben, den betreffenden Krankenversicherern oder einer Verbindungsstelle zu melden.
+Die zuständigen IV-Stellen haben Personen, die bei einem Krankenversicherer nach dem KVAG versichert sind und Anspruch auf medizinische Massnahmen der Invalidenversicherung erheben, den betreffenden Krankenversicherern nach dem KVAG zu melden.
