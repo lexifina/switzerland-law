@@ -8,13 +8,7 @@
 
   - c. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
 
-1bis Er übernimmt zudem die Kosten von Covid-19-Impfungen, die zwischen dem 1. Juli 2021 und dem 31. August 2021 bei Personen nach Absatz 1 Buchstabe b durchgeführt worden sind.
-
-2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1:
-
-  - a. weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind; und
-
-  - b. …
+2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind.
 
 3 Er übernimmt die Kosten nur, wenn die Leistungserbringer:
 
@@ -24,9 +18,11 @@
 
 4 Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
 
-  - a. Fr. 14.50 für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
+  - a. 20 Franken für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
 
-  - b. Fr. 24.50 für Impfungen in Arztpraxen.
+  - b. 29 Franken für Impfungen in Arztpraxen;
+
+  - c. Fr. 40.45 für Impfungen in Arztpraxen bei Kindern bis zum vollendeten 11. Altersjahr.
 
 5 Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
 
@@ -38,9 +34,7 @@
 
   - d. die Dokumentation;
 
-  - e. die Ausstellung der Impfbescheinigung.
-
-5bis …
+  - e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
 
 6 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 

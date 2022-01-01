@@ -10,11 +10,9 @@
 
     - 1. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben,
 
-    - 2. Person, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind,
+    - 2. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind,
 
     - 3. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
-
-1bis Er übernimmt zudem die Kosten von Covid-19-Impfungen, die zwischen dem 1. Juli 2021 und dem 31. August 2021 bei Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind, durchgeführt worden sind.
 
 2 Die Apothekerinnen und Apotheker müssen:
 
@@ -24,7 +22,7 @@
 
   - c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-3 Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 24.50.
+3 Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von 29 Franken.
 
 4 Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
 
@@ -37,7 +35,5 @@
   - d. die Dokumentation;
 
   - e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
-
-4bis …
 
 5 Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
