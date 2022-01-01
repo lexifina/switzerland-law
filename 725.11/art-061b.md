@@ -9,3 +9,5 @@
   - c. keine bedeutenden zusätzlichen sachlichen und personellen Mittel erfordern.
 
 2 Gewerbliche Leistungen sind auf der Grundlage einer Kosten- und Leistungsrechnung zu mindestens kostendeckenden Preisen zu erbringen. Das Departement kann für bestimmte Leistungen Ausnahmen zulassen, wenn dadurch die Privatwirtschaft nicht konkurrenziert wird.
+
+3 Die erzielten Erträge werden dem Fonds zur Finanzierung der Nationalstrassen und des Agglomerationsverkehrs zugewiesen.
