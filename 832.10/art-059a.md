@@ -16,6 +16,6 @@
 
 2 Die befragten natürlichen und juristischen Personen sind zur Auskunft verpflichtet. Die Angaben sind kostenlos zur Verfügung zu stellen.
 
-3 Die Angaben werden vom Bundesamt für Statistik erhoben. Es stellt die Angaben nach Absatz 1 zur Durchführung dieses Gesetzes dem Bundesamt für Gesundheit, dem Preisüberwacher, dem Bundesamt für Justiz, den Kantonen und Versicherern sowie den in Artikel 84a aufgeführten Organen je Leistungserbringer zur Verfügung. Die Daten werden veröffentlicht.
+3 Die Angaben werden vom Bundesamt für Statistik erhoben. Es stellt die Angaben nach Absatz 1 zur Durchführung dieses Gesetzes dem BAG, dem Preisüberwacher, dem Bundesamt für Justiz, den Kantonen und Versicherern sowie den in Artikel 84a aufgeführten Organen je Leistungserbringer zur Verfügung. Die Daten werden veröffentlicht.
 
 4 Der Bundesrat erlässt nähere Vorschriften zur Erhebung, Bearbeitung, Weitergabe und Veröffentlichung der Daten unter Wahrung des Verhältnismässigkeitsprinzips.

@@ -4,4 +4,4 @@
 
 2 Die Verwaltungsbehörden der Kantone und Gemeinden sowie ausnahmsweise des Bundes geben auf schriftliche Anfrage hin den zuständigen Organen der sozialen Krankenversicherung kostenlos diejenigen Daten bekannt, die für die Ermittlung der Versicherten nach Absatz 1 notwendig sind.
 
-3 Zur Erfüllung seiner Aufgaben nach diesem Gesetz kann das Bundesamt von den Versicherern Daten zu den Versicherten nach Absatz 1 verlangen.
+3 Zur Erfüllung seiner Aufgaben nach diesem Gesetz kann das BAG von den Versicherern Daten zu den Versicherten nach Absatz 1 verlangen.
