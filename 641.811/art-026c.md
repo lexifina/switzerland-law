@@ -8,10 +8,10 @@
 
   - c. die Fahrleistung der Motorfahrzeuge, für die die Abgabe geschuldet ist, erfassen;
 
-  - d. die für die Erhebung der Abgabe erforderlichen Daten an die EZV übermitteln;
+  - d. die für die Erhebung der Abgabe erforderlichen Daten an das BAZG übermitteln;
 
-  - e. die Abgabe innerhalb der Zahlungsfrist der EZV bezahlen.
+  - e. die Abgabe innerhalb der Zahlungsfrist dem BAZG bezahlen.
 
 2 Die Zulassung kann mit weiteren Auflagen verbunden werden.
 
-3 Die EETS-Anbieter erhalten für ihre Dienstleistungen gegenüber der EZV zur Erfassung und Übermittlung der Daten und zur Entrichtung der Abgabe ein Entgelt. Das EFD bestimmt dessen Höhe. Es kann eine Bezugsprovision vorsehen.
+3 Die EETS-Anbieter erhalten für ihre Dienstleistungen gegenüber dem BAZG zur Erfassung und Übermittlung der Daten und zur Entrichtung der Abgabe ein Entgelt. Das EFD bestimmt dessen Höhe. Es kann eine Bezugsprovision vorsehen.

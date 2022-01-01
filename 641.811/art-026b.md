@@ -1,6 +1,6 @@
 # Art. 26b Zulassung von EETS-Anbietern
 
-1 Die EZV erteilt einem EETS-Anbieter die Zulassung, wenn dieser:
+1 Das BAZG erteilt einem EETS-Anbieter die Zulassung, wenn dieser:
 
   - a. in einem Mitgliedstaat des Europäischen Wirtschaftsraumes oder in der Schweiz niedergelassen ist;
 
@@ -12,4 +12,4 @@
 
 2 Das EFD legt die technischen und betrieblichen Vorgaben fest.
 
-3 Die EZV kann eine Zulassung sistieren oder entziehen, wenn der EETS-Anbieter die Voraussetzung für die Zulassungserteilung nicht mehr vollumfänglich erfüllt.
+3 Das BAZG kann eine Zulassung sistieren oder entziehen, wenn der EETS-Anbieter die Voraussetzung für die Zulassungserteilung nicht mehr vollumfänglich erfüllt.
