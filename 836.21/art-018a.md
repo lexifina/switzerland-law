@@ -2,9 +2,9 @@
 
 1 Das Familienzulagenregister enthält die folgenden Daten:
 
-  - a. Versichertennummer, Familienname, Vornamen, Geburtsdatum, Geschlecht und Wohnsitzstaat des anspruchsbegründenden Kindes;
+  - a. AHV-Nummer, Familienname, Vornamen, Geburtsdatum, Geschlecht und Wohnsitzstaat des anspruchsbegründenden Kindes;
 
-  - b. Versichertennummer, Familienname, Vornamen, Geburtsdatum und Geschlecht der anspruchsberechtigten Person;
+  - b. AHV-Nummer, Familienname, Vornamen, Geburtsdatum und Geschlecht der anspruchsberechtigten Person;
 
   - c. die Beziehung des anspruchsbegründenden Kindes zur anspruchsberechtigten Person;
 
