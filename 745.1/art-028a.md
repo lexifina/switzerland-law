@@ -4,8 +4,8 @@
 
 2 Finanzhilfen des Bundes setzen voraus, dass:
 
-  - a. die COVID-19-bedingten finanziellen Ausfälle in der Zeit vom 1. März bis zum 30. September 2020 nach Abzug aller Reserven den in den Geschäftsjahren 2017–2019 erzielten Reingewinn des Unternehmens übersteigen;
+  - a. die Covid-19-bedingten finanziellen Verluste in der Zeit vom 1. März 2020 bis 31. Dezember 2021 grösser sind als ein Drittel der Reserven, die in den Geschäftsjahren 2017–2019 gebildet wurden;
 
-  - b. das Unternehmen für die Geschäftsjahre 2020 und 2021 keine Dividenden ausschüttet.
+  - b. das Unternehmen für die Geschäftsjahre 2020, 2021 und 2022 keine Dividenden ausschüttet.
 
 3 Die Finanzhilfe des Bundes beträgt 80 Prozent des Beitrags des Kantons.
