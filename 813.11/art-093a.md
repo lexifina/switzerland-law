@@ -2,4 +2,4 @@
 
 1 Herstellerinnen von Stoffen, Zubereitungen und Nanomaterialien nach Artikel 48, die zum Zeitpunkt des Inkrafttretens der Änderung vom 31. Januar 2018 bereits in Verkehr gebracht worden sind und die nach Inkrafttreten der Änderung vom 31. Januar 2018 erneut in Verkehr gebracht werden, müssen der Meldepflicht nach den Artikeln 48–54 spätestens drei Monate nach dem erneuten Inverkehrbringen nachkommen.
 
-2 Herstellerinnen dürfen Zubereitungen nach Artikel 15a noch längstens bis zum 31. Dezember 2021 ohne UFI in Verkehr bringen.
+2 …
