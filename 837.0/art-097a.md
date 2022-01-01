@@ -8,7 +8,7 @@
 
   - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
 
-  - bbis.Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der Versichertennummer der AHV;
+  - bbis.Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 
   - bter. den Ausländerbehörden, nach Artikel 97 Absatz 3 des Ausländer- und Integrationsgesetzesvom 16. Dezember 2005 (AIG);
 
@@ -20,7 +20,7 @@
 
   - e. den Strafuntersuchungsbehörden, wenn die Anzeige oder die Abwendung eines Verbrechens die Datenbekanntgabe erfordert;
 
-  - ebis. dem Nachrichtendienst das Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015 gegeben ist;
+  - ebis. dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015 gegeben ist;
 
   - f. im Einzelfall und auf schriftlich begründetes Gesuch hin:
 
