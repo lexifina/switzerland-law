@@ -1,3 +1,3 @@
-# Art. 22c Kontrolle durch die Eidgenössische Zollverwaltung
+# Art. 22c Kontrolle durch das Bundesamt für Zoll und Grenzsicherheit
 
-Die Eidgenössische Zollverwaltung überprüft stichprobenweise, ob die Angaben im Begleitschein mit den auszuführenden Feuerwaffen, deren wesentlichen Bestandteilen oder der Munition übereinstimmen.
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG) überprüft stichprobenweise, ob die Angaben im Begleitschein mit den auszuführenden Feuerwaffen, deren wesentlichen Bestandteilen oder der Munition übereinstimmen.
