@@ -7,3 +7,5 @@
 3 Das EAZW kann seine Mitarbeiterinnen und Mitarbeiter ermächtigen, Zivilstandsdokumente einschliesslich öffentlicher Urkunden und Beglaubigungen im Bereich von Artikel 92b Absatz 1bis elektronisch zu erstellen.
 
 4 Die EÖBV ist anwendbar.
+
+5 Für die elektronische Übermittlung von Zivilstandsdokumenten gilt Artikel 89 Absatz 4.
