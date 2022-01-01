@@ -14,7 +14,9 @@
 
   - d. bei einem Fahrzeugwechsel während des Tages: den Kilometerstand des vorherigen und des neuen Fahrzeugs;
 
-  - e. gegebenenfalls die Zeit des Fahrzeugwechsels.
+  - e. gegebenenfalls die Zeit des Fahrzeugwechsels;
+
+  - f. zu Beginn des nächstmöglichen Halts nach Überqueren der Landesgrenze: das Land, in das eingereist wurde.
 
 2 Befindet sich der Führer oder die Führerin nicht in der Nähe des Fahrzeugs und ist dadurch nicht in der Lage, den Fahrtschreiber zu bedienen, so hat er oder sie laufend die Angaben über die Arbeits-, Bereitschafts- und Ruhezeiten von Hand oder auf andere geeignete Weise leserlich auf dem Einlageblatt einzutragen. Die handschriftlichen Eintragungen dürfen die Aufzeichnungen des Gerätes nicht beeinträchtigen.
 
