@@ -26,9 +26,11 @@
 
   - 4a. die Zustimmung bei Kapitalabfindung (Art. 37a),
 
+  - 4b. die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
+
   - 5. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41),
 
-  - 5a. die Verwendung, Bearbeitung und Bekanntgabe der Versichertennummer der Alters- und Hinterlassenenversicherung (Art. 48 Abs. 4, Art. 85a Bst. f und Art. 86a Abs. 2 Bst. bbis),
+  - 5a. die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85a Bst. f und Art. 86a Abs. 2 Bst. bbis),
 
   - 6. die Verantwortlichkeit (Art. 52),
 
@@ -70,7 +72,7 @@
 
   - 1. die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1);
 
-  - 2. die Verwendung, Bearbeitung und Bekanntgabe der Versichertennummer der AHV (Art. 48 Abs. 4, 85a Bst. f und 86a Abs. 2 Bst. bbis);
+  - 2. die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, 85a Bst. f und 86a Abs. 2 Bst. bbis);
 
   - 3. die Verantwortlichkeit (Art. 52);
 
