@@ -6,4 +6,4 @@
 
   - b. für jede Chemikalie nach Anhang 2, sofern die Ausfuhrbeschränkungen voraussichtlich eingehalten werden.
 
-2 Das BAFU informiert die Eidgenössische Zollverwaltung über die Ausfuhrmeldungen nach Artikel 3 sowie die nach Absatz 1 erteilten Kennnummern.
+2 Das BAFU informiert das Bundesamt für Zoll und Grenzsicherheit (BAZG) über die Ausfuhrmeldungen nach Artikel 3 sowie die nach Absatz 1 erteilten Kennnummern.
