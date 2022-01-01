@@ -10,7 +10,7 @@
 
   - d. Weiterbildung von Hilfspersonal.
 
-2 Die Beitragsgewährung erfolgt mittels Leistungsverträgen. Der Bundesrat bestimmt die Subventionskriterien und setzt die Höchstgrenzen der Beiträge fest. Er kann deren Ausrichtung von weiteren Voraussetzungen abhängig machen oder mit Auflagen verbinden. Das zuständige Bundesamt schliesst die Leistungsverträge ab und regelt die Berechnung der Beiträge sowie die Einzelheiten der Anspruchsvoraussetzungen.
+2 Die Beitragsgewährung erfolgt mittels Leistungsverträgen. Der Bundesrat bestimmt die Subventionskriterien und setzt die Höchstgrenzen der Beiträge fest. Er legt eine Prioritätenordnung fest und kann die Ausrichtung der Beiträge von weiteren Voraussetzungen abhängig machen oder mit Auflagen verbinden. Das zuständige Bundesamt schliesst die Leistungsverträge ab und regelt die Berechnung der Beiträge sowie die Einzelheiten der Anspruchsvoraussetzungen.
 
 3 …
 
