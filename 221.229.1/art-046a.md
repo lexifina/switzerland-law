@@ -1,3 +1,5 @@
 # Art. 46a
 
-Die Versicherer müssen ihre Verpflichtungen aus Versicherungsverträgen am schweizerischen Wohnsitz des Versicherten oder Versicherungsnehmers erfüllen. Der Gerichtsstand richtet sich nach dem Gerichtsstandsgesetz vom 24. März 2000.
+1 Wird über den Versicherungsnehmer der Konkurs eröffnet, so bleibt der Vertrag bestehen und die Konkursverwaltung ist zu dessen Erfüllung verpflichtet. Artikel 81 und die Vorschriften dieses Gesetzes über die Beendigung des Vertrags bleiben vorbehalten.
+
+2 Ansprüche und Leistungen aus der Versicherung von unpfändbaren Vermögenswerten nach Artikel 92 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs fallen nicht in die Konkursmasse.
