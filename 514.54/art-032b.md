@@ -10,7 +10,7 @@
 
 2 Die DEBBWA enthält folgende Daten:
 
-  - a. Personalien und Versichertennummer von Personen, denen Bewilligungen entzogen oder verweigert oder bei denen Waffen beschlagnahmt wurden;
+  - a. Personalien und AHV-Nummer von Personen, denen Bewilligungen entzogen oder verweigert oder bei denen Waffen beschlagnahmt wurden;
 
   - b. Umstände, die zum Entzug oder zur Verweigerung der Bewilligung geführt haben;
 
@@ -24,11 +24,11 @@
 
 3 Die DAWA enthält folgende Daten:
 
-  - a. Personalien und Versichertennummer der Personen, denen beim Austritt aus der Armee eine Waffe zum Eigentum überlassen wurde;
+  - a. Personalien und AHV-Nummer der Personen, denen beim Austritt aus der Armee eine Waffe zum Eigentum überlassen wurde;
 
-  - b. Personalien und Versichertennummer der Personen, denen aufgrund der Militärgesetzgebung die persönliche Waffe oder die Leihwaffe abgenommen oder entzogen wurde;
+  - b. Personalien und AHV-Nummer der Personen, denen aufgrund der Militärgesetzgebung die persönliche Waffe oder die Leihwaffe abgenommen oder entzogen wurde;
 
-  - c. Personalien und Versichertennummer der Personen, denen aufgrund von Hinderungsgründen betreffend die Abgabe der persönlichen Waffe nach Artikel 113 des Militärgesetzes vom 3. Februar 1995 keine Waffe abgegeben wurde;
+  - c. Personalien und AHV-Nummer der Personen, denen aufgrund von Hinderungsgründen betreffend die Abgabe der persönlichen Waffe nach Artikel 113 des Militärgesetzes vom 3. Februar 1995 keine Waffe abgegeben wurde;
 
   - d. Waffenart, -typ und -nummer sowie Datum der Übertragung oder des Entzugs;
 
@@ -68,4 +68,4 @@
 
   - d. Personalien der Inhaber und Inhaberinnen einer Waffentragbewilligung nach Artikel 27 und Angaben daraus.
 
-7 Die Informationssysteme nach Artikel 32a Absätze 2 und 3 dürfen auch die Versichertennummer enthalten.
+7 Die Informationssysteme nach Artikel 32a Absätze 2 und 3 dürfen auch die AHV-Nummer enthalten.
