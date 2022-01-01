@@ -1,9 +1,5 @@
-# Art. 4a Voraussetzungen für die Gewährung von Finanzhilfen an Konsumentenorganisationen nach Artikel 1 Absatz 1
+# Art. 4a Kürzung der Finanzhilfen an Konsumentenorganisationen nach Artikel 1 Absatz 1
 
-1 Die Finanzhilfen an Konsumentenorganisationen nach Artikel 1 Absatz 1 werden in voller Höhe ausgerichtet, wenn folgende Voraussetzungen erfüllt sind:
+1 Beträgt bei Konsumentenorganisationen nach Artikel 1 Absatz 1 das Eigenkapital einschliesslich freier und gebundener Reserven gemäss Jahresrechnung des Vorjahres insgesamt mehr als 50 Prozent des Jahresaufwands des Vorjahres, so wird die Finanzhilfe um den Betrag gekürzt, um den die Höchstgrenze von 50 Prozent des Jahresaufwands überschritten wird.
 
-  - a. Der letztjährige Gewinn beträgt höchstens 10 Prozent der Eigenmittel der Organisation, bei kleinen Organisationen höchstens 10 000 Franken.
-
-  - b. Die Reserven betragen höchstens 50 Prozent der letztjährigen Einnahmen der Organisation.
-
-2 Sind die Voraussetzungen nach Absatz 1 nicht oder nur teilweise erfüllt, so wird die Finanzhilfe um den Betrag gekürzt, um den die Ansätze nach Absatz 1 überschritten werden.
+2 Ist die Überschreitung des Höchstbetrags nach Absatz 1 auf einmalige Effekte zurückzuführen, so kann in begründeten Fällen auf eine Kürzung der Finanzhilfe verzichtet werden.
