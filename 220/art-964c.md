@@ -1,9 +1,11 @@
 # Art. 964c
 
-1 Der Bericht über Zahlungen an staatliche Stellen erstreckt sich nur auf Zahlungen, die sich aus der Geschäftstätigkeit in der mineral-, erdöl- oder erdgasgewinnenden Industrie oder auf dem Gebiet des Holzeinschlags in Primärwäldern ergeben.
+1 Der Bericht über nichtfinanzielle Belange bedarf der Genehmigung und Unterzeichnung durch das oberste Leitungs- oder Verwaltungsorgan sowie der Genehmigung des für die Genehmigung der Jahresrechnung zuständigen Organs.
 
-2 Er umfasst alle Zahlungen von mindestens 100 000 Franken pro Geschäftsjahr an staatliche Stellen, und zwar sowohl Einzelzahlungen wie auch Zahlungen in mehreren Teilbeträgen, die zusammen mindestens 100 000 Franken erreichen.
+2 Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 
-3 Anzugeben ist der Betrag der Zahlungen, die insgesamt und aufgeschlüsselt nach Art der Leistung an jede staatliche Stelle und an jedes Projekt geleistet werden.
+  - 1. umgehend nach der Genehmigung elektronisch veröffentlicht wird;
 
-4 Der Bericht ist schriftlich in einer Landessprache oder in Englisch abzufassen und vom obersten Leitungs- oder Verwaltungsorgan zu genehmigen.
+  - 2. mindestens zehn Jahre lang öffentlich zugänglich bleibt.
+
+3 Für die Führung und Aufbewahrung der Berichte gilt Artikel 958f sinngemäss.

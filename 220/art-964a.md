@@ -1,11 +1,19 @@
 # Art. 964a
 
-1 Unternehmen, die von Gesetzes wegen zu einer ordentlichen Revision verpflichtet und selber oder durch ein von ihnen kontrolliertes Unternehmen im Bereich der Gewinnung von Mineralien, Erdöl oder Erdgas oder des Einschlags von Holz in Primärwäldern tätig sind, müssen jährlich einen Bericht über die Zahlungen an staatliche Stellen verfassen.
+1 Unternehmen erstatten jährlich einen Bericht über nichtfinanzielle Belange, wenn sie:
 
-2 Hat das Unternehmen eine konsolidierte Jahresrechnung zu erstellen, so muss es einen konsolidierten Bericht über Zahlungen an staatliche Stellen verfassen (Konzernzahlungsbericht); dieser ersetzt die Berichterstattung der einzelnen Gesellschaften.
+  - 1. Gesellschaften des öffentlichen Interesses im Sinne von Artikel 2 Buchstabe c des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 sind;
 
-3 Ist das Unternehmen mit Sitz in der Schweiz in den von ihm oder einem anderen Unternehmen mit Sitz im Ausland nach schweizerischen oder gleichwertigen Vorschriften erstellten Konzernzahlungsbericht einbezogen, so muss es keinen separaten Bericht über Zahlungen an staatliche Stellen verfassen. Es muss jedoch im Anhang der Jahresrechnung angeben, bei welchem anderen Unternehmen es in den Bericht einbezogen wurde, und diesen Bericht veröffentlichen.
+  - 2. zusammen mit den von ihnen kontrollierten in- oder ausländischen Unternehmen, in zwei aufeinanderfolgenden Geschäftsjahren mindestens 500 Vollzeitstellen im Jahresdurchschnitt haben; und
 
-4 Die Gewinnung umfasst alle Unternehmenstätigkeiten auf den Gebieten der Exploration, Prospektion, Entdeckung, Erschliessung und Förderung von Mineralien, Erdöl- und Erdgasvorkommen und des Einschlags von Holz in Primärwäldern.
+  - 3. zusammen mit den von ihnen kontrollierten in- oder ausländischen Unternehmen, mindestens eine der nachstehenden Grössen in zwei aufeinanderfolgenden Geschäftsjahren überschreiten:
 
-5 Als staatliche Stellen gelten nationale, regionale oder kommunale Behörden eines Drittlandes sowie von diesen Behörden kontrollierte Abteilungen oder Unternehmen.
+    - a. Bilanzsumme von 20 Millionen Franken,
+
+    - b. Umsatzerlös von 40 Millionen Franken.
+
+2 Von dieser Pflicht befreit sind Unternehmen, die von einem anderen Unternehmen kontrolliert werden:
+
+  - 1. für welches Absatz 1 anwendbar ist; oder
+
+  - 2. das einen gleichwertigen Bericht nach ausländischem Recht erstellen muss.
