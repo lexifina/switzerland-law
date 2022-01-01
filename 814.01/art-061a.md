@@ -6,6 +6,6 @@
 
 3 Der Versuch einer Widerhandlung nach den Absätzen 1 und 2 ist strafbar.
 
-4 Verfolgende und urteilende Behörde ist die Eidgenössische Zollverwaltung.
+4 Verfolgende und urteilende Behörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG).
 
-5 Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch die Eidgenössische Zollverwaltung zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+5 Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch das BAZG zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
