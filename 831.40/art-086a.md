@@ -4,6 +4,8 @@
 
   - a. Sozialhilfebehörden, wenn sie für die Festsetzung, Änderung oder Rückforderung von Leistungen beziehungsweise für die Verhinderung ungerechtfertigter Bezüge erforderlich sind;
 
+  - abis. die vom kantonalen Recht bezeichnete Fachstelle (Art. 40), wenn sie für die Einforderung von ausstehenden oder die Sicherung zukünftiger Unterhaltszahlungen erforderlich sind;
+
   - b. Zivilgerichte, wenn sie für die Beurteilung eines familien- oder erbrechtlichen Streitfalles erforderlich sind;
 
   - c. Strafgerichte und Strafuntersuchungsbehörden, wenn sie für die Abklärung eines Verbrechens oder eines Vergehens erforderlich sind;
@@ -22,7 +24,7 @@
 
   - b. Organe einer anderen Sozialversicherung, wenn sich eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
 
-  - bbis. Organe einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der Versichertennummer der AHV;
+  - bbis. Organe einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 
   - c. die für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
 
