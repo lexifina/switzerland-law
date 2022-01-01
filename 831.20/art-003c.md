@@ -2,7 +2,7 @@
 
 1 Die IV-Stelle informiert die versicherte Person über Zweck und Umfang der beabsichtigten Datenbearbeitung.
 
-2 Sie klärt die persönliche Situation der versicherten Person, insbesondere die Arbeitsunfähigkeit und deren Ursachen und Auswirkungen ab und beurteilt, ob Massnahmen zur Frühintervention nach Artikel 7d angezeigt sind. Sie kann die versicherte Person und bei Bedarf ihren Arbeitgeber zu einem Beratungsgespräch einladen.
+2 Sie klärt die persönliche Situation der versicherten Person ab; dabei berücksichtigt sie insbesondere die Ursachen und Auswirkungen der verminderten Fähigkeit der Person, eine Ausbildung zu absolvieren, oder von deren Arbeitsunfähigkeit. Sie beurteilt, ob Massnahmen zur Frühintervention nach Artikel 7d angezeigt sind. Sie kann die versicherte Person und bei Bedarf ihren Arbeitgeber zu einem Beratungsgespräch einladen.
 
 3 Sie fordert die versicherte Person auf, den Arbeitgeber, Leistungserbringer nach den Artikeln 36–40 KVG, Versicherungen sowie Amtsstellen generell zu ermächtigen, alle Auskünfte zu erteilen und alle Unterlagen zur Verfügung zu stellen, die für die Abklärung im Rahmen der Früherfassung erforderlich sind.
 

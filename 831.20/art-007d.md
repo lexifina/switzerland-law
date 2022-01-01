@@ -1,6 +1,12 @@
 # Art. 7d
 
-1 Mit Hilfe der Massnahmen der Frühintervention soll der bisherige Arbeitsplatz von arbeitsunfähigen (Art. 6 ATSG) Versicherten erhalten bleiben oder sollen die Versicherten an einem neuen Arbeitsplatz innerhalb oder ausserhalb des bisherigen Betriebes eingegliedert werden.
+1 Massnahmen der Frühintervention sollen dazu beitragen, dass:
+
+  - a. gesundheitlich beeinträchtigte Minderjährige ab dem vollendeten 13. Altersjahr und gesundheitlich beeinträchtigte junge Erwachsene bis zum vollendeten 25. Altersjahr beim Zugang zu einer erstmaligen beruflichen Ausbildung und bei ihrem Eintritt in den Arbeitsmarkt unterstützt werden;
+
+  - b. arbeitsunfähige (Art. 6 ATSG) Versicherte ihren bisherigen Arbeitsplatz behalten können;
+
+  - c. die Versicherten an einem neuen Arbeitsplatz innerhalb oder ausserhalb des bisherigen Betriebes eingegliedert werden.
 
 2 Die IV-Stellen können folgende Massnahmen anordnen:
 
@@ -14,7 +20,9 @@
 
   - e. sozial-berufliche Rehabilitation;
 
-  - f. Beschäftigungsmassnahmen.
+  - f. Beschäftigungsmassnahmen;
+
+  - g. Beratung und Begleitung.
 
 3 Auf Massnahmen der Frühintervention besteht kein Rechtsanspruch.
 

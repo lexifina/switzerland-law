@@ -14,7 +14,7 @@
 
   - e. der Krankentaggeldversicherer nach Artikel 12 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG);
 
-  - f. private Versicherungseinrichtungen, die dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004 unterstehen und eine Krankentaggeld- oder eine Rentenversicherung anbieten;
+  - f. die dem VAG unterstellten Versicherungsunternehmen, die eine Krankentaggeld- oder Rentenversicherung anbieten;
 
   - g. der Unfallversicherer nach Artikel 58 des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung (UVG);
 
@@ -26,8 +26,10 @@
 
   - k. die Militärversicherung;
 
-  - l. der Krankenversicherer.
+  - l. der Krankenversicherer;
 
-3 Die Personen oder Stellen nach Absatz 2 Buchstaben b–l haben die versicherte Person vor der Meldung darüber zu informieren.
+  - m. die kantonalen Instanzen nach Artikel 68bis Absätze 1bis und 1ter.
 
-4 Der Bundesrat kann eine Mindestdauer der Arbeitsunfähigkeit als Voraussetzung für die Meldung festlegen und weitere Vorschriften über die Meldung erlassen.
+3 Die Personen oder Stellen nach Absatz 2 Buchstaben b–m haben die versicherte Person oder deren gesetzliche Vertretung im Voraus über die Meldung zu informieren.
+
+4 …

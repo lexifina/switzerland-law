@@ -4,4 +4,4 @@
 
 2 Der Bundesrat setzt jedoch einen Mindestbetrag fest.
 
-3 Der Bundesrat regelt die Einzelheiten, insbesondere die Kürzung von Teilrenten sowie von Dreiviertelsrenten, halben und Viertelsrenten.
+3 …

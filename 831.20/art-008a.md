@@ -1,4 +1,4 @@
-# Art. 8a Wiedereingliederung von Rentenbezügerinnen und Rentenbezügern
+# Art. 8a Wiedereingliederung von Rentenbezügerinnen und Rentenbezügern mit Eingliederungspotenzial
 
 1 Rentenbezügerinnen und Rentenbezüger haben Anspruch auf Massnahmen zur Wiedereingliederung, sofern:
 
@@ -6,18 +6,10 @@
 
   - b. die Massnahmen geeignet sind, die Erwerbsfähigkeit zu verbessern.
 
-2 Massnahmen zur Wiedereingliederung sind:
-
-  - a. Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung nach Artikel 14a Absatz 2;
-
-  - b. Massnahmen beruflicher Art nach den Artikeln 15–18c;
-
-  - c. die Abgabe von Hilfsmitteln nach den Artikeln 21–21quater;
-
-  - d. die Beratung und Begleitung der Rentenbezügerinnen und Rentenbezüger und ihrer Arbeitgeber.
+2 Massnahmen zur Wiedereingliederung sind Massnahmen nach Artikel 8 Absatz 3 Buchstaben abis–b und d.
 
 3 Integrationsmassnahmen können mehrmals zugesprochen werden und insgesamt länger als ein Jahr dauern.
 
-4 Versicherte Personen, deren Rente nach Abschluss der Massnahmen nach Absatz 2 aufgehoben wird, und deren Arbeitgeber haben noch während längstens drei Jahren ab dem Entscheid der IV-Stelle Anspruch auf Beratung und Begleitung.
+4 …
 
-5 Der Bundesrat kann Höchstbeträge festlegen, die den IV-Stellen für Massnahmen nach den Absätzen 2 und 4 zur Verfügung stehen.
+5 Der Bundesrat kann Höchstbeträge festlegen, die den IV-Stellen für Massnahmen nach Absatz 2 zur Verfügung stehen.
