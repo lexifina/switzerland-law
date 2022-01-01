@@ -1,6 +1,6 @@
 # Art. 221c Verzicht auf Zollpfandverwertung
 
-Die EZV kann auf die Verwertung eines Zollpfands verzichten und die Ware oder Sache an anerkannte gemeinnützige Organisationen und Hilfswerke oder an bedürftige Personen abgeben, wenn:
+Das BAZG kann auf die Verwertung eines Zollpfands verzichten und die Ware oder Sache an anerkannte gemeinnützige Organisationen und Hilfswerke oder an bedürftige Personen abgeben, wenn:
 
   - a. deren Wert 1000 Franken nicht übersteigt; und
 

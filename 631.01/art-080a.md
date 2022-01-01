@@ -1,6 +1,6 @@
 # Art. 80a Verzicht auf Vorlage eines Ursprungsnachweises
 
-1 Für Ursprungserzeugnisse gewährt die EZV die präferenzielle Veranlagung nach einem Freihandelsabkommen nach Anhang 1 der Freihandelsverordnung 1 vom 18. Juni 2008 oder Anhang 1 der Freihandelsverordnung 2 vom 27. Juni 1995 ohne Vorlage eines Ursprungsnachweises, wenn:
+1 Für Ursprungserzeugnisse gewährt das BAZG die präferenzielle Veranlagung nach einem Freihandelsabkommen nach Anhang 1 der Freihandelsverordnung 1 vom 18. Juni 2008 oder Anhang 1 der Freihandelsverordnung 2 vom 27. Juni 1995 ohne Vorlage eines Ursprungsnachweises, wenn:
 
   - a. es sich um eine Sendung von Privatperson an Privatperson handelt;
 

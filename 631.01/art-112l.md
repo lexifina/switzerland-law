@@ -2,7 +2,7 @@
 
 1 Die Eignung von Sicherheitsstandards nach Artikel 112g kann auch mit einem international anerkannten Sicherheitszeugnis oder Zertifikat oder einer Sicherheitsprüfung einer schweizerischen Bundesbehörde nachgewiesen werden.
 
-2 Die EZV anerkennt folgende Nachweise:
+2 Das BAZG anerkennt folgende Nachweise:
 
   - a. ein auf der Grundlage einer internationalen Übereinkunft ausgestelltes international anerkanntes Sicherheitszeugnis;
 

@@ -1,6 +1,6 @@
 # Art. 112r Sistierung des AEO-Status
 
-1 Die EZV sistiert den AEO-Status, wenn sie feststellt oder hinreichenden Grund zur Annahme hat, dass:
+1 Das BAZG sistiert den AEO-Status, wenn es feststellt oder hinreichenden Grund zur Annahme hat, dass:
 
   - a. die Voraussetzungen nach den Artikeln 112b, 112e und 112g Buchstaben
 
@@ -16,12 +16,12 @@
 
     - 3. geschuldete Zölle oder andere geschuldete Steuern, Abgaben und Gebühren nicht entrichtet hat.
 
-2 Sie sistiert den AEO-Status zudem, wenn der AEO darum ersucht.
+2 Es sistiert den AEO-Status zudem, wenn der AEO darum ersucht.
 
 3 Die Sistierung erfolgt mit sofortiger Wirkung, wenn die Sicherheit und die Gesundheit der Bevölkerung oder die Umwelt dies erfordert.
 
 4 Die Sistierung hat keine Auswirkung auf Zollveranlagungsverfahren, die bereits vor dem Zeitpunkt der Sistierung eingeleitet wurden.
 
-5 Die EZV setzt die Dauer der Sistierung angemessen fest.
+5 Das BAZG setzt die Dauer der Sistierung angemessen fest.
 
-6 Erfüllt der AEO die Voraussetzungen erneut, so hebt die EZV die Sistierung auf.
+6 Erfüllt der AEO die Voraussetzungen erneut, so hebt das BAZG die Sistierung auf.

@@ -6,13 +6,13 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird nach Arti
 
   - b. zollpflichtige Waren mit einer falschen Tarifnummer anmeldet, wenn die richtige Tarifnummer zu einer gleichen oder tieferen Zollabgabe führt;
 
-  - c. im grenzüberschreitenden Luftverkehr einen Flugplatz benutzt, für dessen Benutzung die EZV keine Bewilligung ausgestellt hat;
+  - c. im grenzüberschreitenden Luftverkehr einen Flugplatz benutzt, für dessen Benutzung das BAZG keine Bewilligung ausgestellt hat;
 
-  - d. mit einem Fahrzeug die Zollgrenze nicht über eine von der EZV für diese Fahrt als zulässig bezeichnete Zollstrasse überquert;
+  - d. mit einem Fahrzeug die Zollgrenze nicht über eine vom BAZG für diese Fahrt als zulässig bezeichnete Zollstrasse überquert;
 
   - e. die Vorschriften der Artikel 5–12 der Verordnung vom 12. Oktober 2011 über die Statistik des Aussenhandels missachtet;
 
-  - f. die von der EZV gesetzten Fristen nicht einhält;
+  - f. die vom BAZG gesetzten Fristen nicht einhält;
 
   - g. die Hinweispflicht nach Artikel 61 missachtet;
 

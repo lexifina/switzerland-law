@@ -26,4 +26,4 @@
 
   - b. keine nichtzollrechtlichen Erlasse umgangen werden.
 
-4 Die EZV kann die Bewilligung für die Anwendung der vereinfachten Zollanmeldung verweigern oder entziehen, wenn die Abgabenerhebung oder die Einhaltung nichtzollrechtlicher Erlasse gefährdet ist oder wenn die in der Bewilligung nach Artikel 103 festgelegten Bedingungen und Auflagen nicht eingehalten werden.
+4 Das BAZG kann die Bewilligung für die Anwendung der vereinfachten Zollanmeldung verweigern oder entziehen, wenn die Abgabenerhebung oder die Einhaltung nichtzollrechtlicher Erlasse gefährdet ist oder wenn die in der Bewilligung nach Artikel 103 festgelegten Bedingungen und Auflagen nicht eingehalten werden.

@@ -1,3 +1,3 @@
 # Art. 105c Verzicht auf Veranlagungsverfügung
 
-Die EZV kann in der Bewilligung nach Artikel 103 festlegen, dass für Sendungen nach Artikel 105a Absatz 2 keine Veranlagungsverfügung ausgestellt wird.
+Das BAZG kann in der Bewilligung nach Artikel 103 festlegen, dass für Sendungen nach Artikel 105a Absatz 2 keine Veranlagungsverfügung ausgestellt wird.

@@ -1,6 +1,6 @@
 # Art. 221a Freihandverkauf
 
-1 Die EZV kann anstelle der Versteigerung den Freihandverkauf eines Zollpfands durchführen:
+1 Das BAZG kann anstelle der Versteigerung den Freihandverkauf eines Zollpfands durchführen:
 
   - a. mit dem Einverständnis der Eigentümerin oder des Eigentümers;
 
@@ -10,8 +10,8 @@
 
 2 Das Einverständnis der Eigentümerin oder des Eigentümers ist unwiderruflich. Es muss schriftlich erfolgen und darf nicht an Bedingungen geknüpft oder mit Auflagen versehen sein.
 
-3 Die EZV holt vor dem Freihandverkauf drei unabhängige Offerten ein. Erfolgen diese nicht schriftlich, so werden die entsprechenden Angaben in den Akten protokolliert.
+3 Das BAZG holt vor dem Freihandverkauf drei unabhängige Offerten ein. Erfolgen diese nicht schriftlich, so werden die entsprechenden Angaben in den Akten protokolliert.
 
 4 Die Ware oder Sache wird der meistbietenden Person gegen sofortige Bezahlung des gesamten Kaufpreises ausgehändigt.
 
-5 Die EZV führt ein Protokoll über den Freihandverkauf.
+5 Das BAZG führt ein Protokoll über den Freihandverkauf.

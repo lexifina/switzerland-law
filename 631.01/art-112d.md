@@ -1,6 +1,6 @@
 # Art. 112d Einhaltung der Zollvorschriften
 
-Die Zollvorschriften gelten als eingehalten, wenn die folgenden Personen in den drei Jahren vor der Antragstellung weder eine schwere strafrechtliche Widerhandlung noch wiederholte strafrechtliche Widerhandlungen gegen Bundesrecht, dessen Vollzug der EZV obliegt, begangen haben:
+Die Zollvorschriften gelten als eingehalten, wenn die folgenden Personen in den drei Jahren vor der Antragstellung weder eine schwere strafrechtliche Widerhandlung noch wiederholte strafrechtliche Widerhandlungen gegen Bundesrecht, dessen Vollzug dem BAZG obliegt, begangen haben:
 
   - a. die antragstellende Person;
 

@@ -14,6 +14,6 @@ Das System zur Führung der Geschäftsbücher und gegebenenfalls der Beförderun
 
   - f. über Abläufe für die Archivierung der Daten und Dokumente des Unternehmens und für den Schutz vor Verlust verfügt;
 
-  - g. sicherstellt, dass die EZV informiert wird, wenn im Unternehmen Unsicherheit darüber besteht, wie eine Vorschrift anzuwenden ist;
+  - g. sicherstellt, dass das BAZG informiert wird, wenn im Unternehmen Unsicherheit darüber besteht, wie eine Vorschrift anzuwenden ist;
 
   - h. informationstechnische Schutzmassnahmen ergriffen hat, mit denen das Computersystem des Unternehmens vor unbefugtem Eindringen geschützt und dessen Daten gesichert werden.

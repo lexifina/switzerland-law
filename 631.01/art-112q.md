@@ -1,8 +1,8 @@
 # Art. 112q Kontrolle, Sistierung und Widerruf des AEO-Status
 
-1 Die EZV ist befugt zu kontrollieren, ob der AEO die Voraussetzungen und Kriterien weiterhin erfüllt.
+1 Das BAZG ist befugt zu kontrollieren, ob der AEO die Voraussetzungen und Kriterien weiterhin erfüllt.
 
-2 Sie nimmt eine erneute Überprüfung insbesondere dann vor, wenn:
+2 Es nimmt eine erneute Überprüfung insbesondere dann vor, wenn:
 
   - a. sich die Rechtsgrundlagen massgebend ändern; oder
 
