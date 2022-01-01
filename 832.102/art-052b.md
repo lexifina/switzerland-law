@@ -1,13 +1,13 @@
-# Art. 52b Organisationen der Ernährungsberatung
+# Art. 52b Organisationen der Logopädie
 
-Organisationen der Ernährungsberatung werden zugelassen, wenn sie:
+Organisationen der Logopädie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-  - a. nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen sind;
+  - a. Sie sind nach der Gesetzgebung des Kantons zugelassen, in dem sie ihre Tätigkeit ausüben.
 
-  - b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
+  - b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
 
-  - c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 50a erfüllen;
+  - c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50 Buchstaben a–c erfüllen.
 
-  - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
+  - d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
 
-  - e. …
+  - e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58g erfüllen.

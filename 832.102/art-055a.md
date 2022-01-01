@@ -1,11 +1,11 @@
 # Art. 55a
 
-Die Geburtshäuser sind zugelassen, wenn sie:
+Geburtshäuser werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
-  - a. den Anforderungen nach Artikel 39 Absatz 1 Buchstaben b–e des Gesetzes entsprechen;
+  - a. Sie erfüllen die Anforderungen nach Artikel 39 Absatz 1 Buchstaben b–f KVG.
 
-  - b. ihren sachlichen Tätigkeitsbereich nach Artikel 29 des Gesetzes festgelegt haben;
+  - b. Sie haben ihren sachlichen Tätigkeitsbereich nach Artikel 29 KVG festgelegt.
 
-  - c. eine ausreichende medizinische Betreuung durch eine Hebamme sicherstellen;
+  - c. Sie stellen eine ausreichende medizinische Betreuung durch eine Hebamme sicher.
 
-  - d. Vorkehrungen zur Einleitung von Massnahmen im medizinischen Notfall getroffen haben.
+  - d. Sie haben Vorkehrungen zur Einleitung von Massnahmen im medizinischen Notfall getroffen.
