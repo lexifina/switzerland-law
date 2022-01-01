@@ -10,4 +10,4 @@ Bei der Bekanntgabe nach Artikel 64a Absatz 3 des Gesetzes muss der Versicherer 
 
   - d. den Wohnsitz;
 
-  - e. die AHV-Versichertennummer.
+  - e. die AHV-Nummer.
