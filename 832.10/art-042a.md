@@ -1,6 +1,6 @@
 # Art. 42a Versichertenkarte
 
-1 Der Bundesrat kann bestimmen, dass jede versicherte Person für die Dauer ihrer Unterstellung unter die obligatorische Krankenpflegeversicherung eine Versichertenkarte erhält. Diese enthält den Namen der versicherten Person und die Versichertennummer der Alters- und Hinterlassenenversicherung (AHV).
+1 Der Bundesrat kann bestimmen, dass jede versicherte Person für die Dauer ihrer Unterstellung unter die obligatorische Krankenpflegeversicherung eine Versichertenkarte erhält. Diese enthält den Namen der versicherten Person und die AHV-Nummer.
 
 2 Diese Karte mit Benutzerschnittstelle wird für die Rechnungsstellung der Leistungen nach diesem Gesetz verwendet.
 
