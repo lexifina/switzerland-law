@@ -1,5 +1,3 @@
-# Art. 10a Aufsicht und Kontrolle
+# Art. 10a Besonderheiten des Rechtspflegeverfahrens
 
-1 Das Bundesamt für Sozialversicherungen (BSV) überwacht die Durchführung der vorliegenden Verordnung. Die AHV-Ausgleichskassen sowie deren Beauftragte haben dem BSV und weiteren Aufsichtsbehörden die Auskünfte zu erteilen, die diese zur Erfüllung ihrer Aufgabe benötigen.
-
-2 Die Eidgenössische Finanzkontrolle arbeitet mit dem BSV zusammen, um Risiken zu ermitteln und unrechtmässige Leistungsbezüge zu vermeiden. Sie kann die AHV-Ausgleichskassen gezielt kontrollieren und hat zu diesem Zweck Zugang zu den notwendigen Daten über den Covid-19-Erwerbsersatz.
+Über Beschwerden gegen Verfügungen und Einspracheentscheide kantonaler Ausgleichskassen entscheidet in Abweichung von Artikel 58 Absatz 1 ATSG das Versicherungsgericht am Ort der Ausgleichskasse.
