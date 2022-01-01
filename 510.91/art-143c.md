@@ -6,7 +6,7 @@ Das SPHAIR-Expert enthält folgende Daten:
 
   - b. Zivilstand;
 
-  - c. AHV-Versichertennummer;
+  - c. AHV-Nummer;
 
   - d. Geburtsdatum und -ort;
 

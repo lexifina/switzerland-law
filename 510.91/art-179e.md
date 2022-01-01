@@ -18,11 +18,11 @@
 
   - a. den militärischen Kommandos und den Militärbehörden;
 
-  - b. auf Anfrage der zuständigen Strafbehörde und Strafvollzugsbehörde: Personalien und AHV-Versichertennummer der Besitzerinnen und Besitzer von persönlichen Waffen und Leihwaffen;
+  - b. auf Anfrage der zuständigen Strafbehörde und Strafvollzugsbehörde: Personalien und AHV-Nummer der Besitzerinnen und Besitzer von persönlichen Waffen und Leihwaffen;
 
   - c. der Zentralstelle Waffen im automatisierten Verfahren:
 
-    - 1. Personalien und AHV-Versichertennummer von Angehörigen der Armee, denen die persönliche Waffe zu Eigentum überlassen wurde, sowie Waffenart und Waffennummer,
+    - 1. Personalien und AHV-Nummer von Angehörigen der Armee, denen die persönliche Waffe zu Eigentum überlassen wurde, sowie Waffenart und Waffennummer,
 
     - 2. die Daten des PSN betreffend Entscheide und Hinweise über Hinderungsgründe zur Abgabe der persönlichen Waffe sowie über deren Abnahme oder Entzug zur Bearbeitung in der Datenbank nach Artikel 32a Absatz 1 Buchstabe d WG;
 

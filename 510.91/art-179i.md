@@ -4,7 +4,7 @@ Das VVAdmin enthält folgende für die Kontrolle von obligatorischen Schiessen u
 
   - a. Personalien;
 
-  - b. AHV-Versichertennummer;
+  - b. AHV-Nummer;
 
   - c. militärische Kontrolldaten mit Einteilung, Grad und Funktion;
 
