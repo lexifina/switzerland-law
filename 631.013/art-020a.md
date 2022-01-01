@@ -4,4 +4,4 @@
 
 2 …
 
-3 Im Anwendungsbereich Ausfuhr des Systems «NCTS/Ausfuhr» wird die Veranlagungsverfügung durch die Zollverwaltung in Papierform ausgestellt.
+3 Im Anwendungsbereich Ausfuhr des Systems «NCTS/Ausfuhr» wird die Veranlagungsverfügung durch das BAZG in Papierform ausgestellt.
