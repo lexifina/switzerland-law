@@ -6,7 +6,7 @@
 
 3 …
 
-4 Bis zur Passausstellung gilt die Aufnahmebestätigung nach Artikel 22 Absatz 2 der TVD-Verordnung vom 26. Oktober 2011 als Ausweispapier.
+4 Bis zur Passausstellung gilt die Aufnahmebestätigung nach Artikel 27 Absatz 2 IdTVD-V als Ausweispapier.
 
 5 Die Aufbewahrung des Equidenpasses obliegt dem Eigentümer. Der Pass, eine Kopie des Signalementblattes oder eine Kopie des Deckblattes des Passes mit Mikrochipnummer muss sich beim Tier befinden.
 
