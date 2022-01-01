@@ -10,6 +10,6 @@
 
   - d. weder eine unmittelbare oder verzögerte schädigende Wirkung auf die Gesundheit von Mensch oder Tier noch eine unannehmbare Wirkung auf die Umwelt hat.
 
-2 Das BLW kann für Grundstoffe die Bedingungen und Einschränkungen nach Artikel 5 Absatz 2 sinngemäss festlegen.
+2 Die Zulassungsstelle kann für Grundstoffe die Bedingungen und Einschränkungen nach Artikel 5 Absatz 2 sinngemäss festlegen.
 
-3 Makroorganismen, die nach Artikel 3 Absatz 1 Buchstabe f der Freisetzungsverordnung vom 10. September 2008 als gebietsfremde Organismen gelten, sowie Mikroorganismen können nicht als Grundstoffe genehmigt werden.
+3 Makroorganismen, die nach Artikel 3 Absatz 1 Buchstabe f der Freisetzungsverordnung vom 10. September 2008 (FrSV) als gebietsfremde Organismen gelten, sowie Mikroorganismen können nicht als Grundstoffe genehmigt werden.
