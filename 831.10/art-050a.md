@@ -6,7 +6,7 @@
 
   - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
 
-  - bbis. Organen einer anderen Sozialversicherung und weiteren Stellen oder Institutionen, die zur Verwendung der Versichertennummer berechtigt sind, wenn die Daten für die Zuweisung oder Verifizierung dieser Nummer erforderlich sind;
+  - bbis. Organen einer anderen Sozialversicherung und weiteren Stellen oder Institutionen, die zur Verwendung der AHV-Nummer berechtigt sind, wenn die Daten für die Zuweisung oder Verifizierung dieser Nummer erforderlich sind;
 
   - bter. den für den Betrieb der zentralen Datenbank zur Beurkundung des Personenstandes oder für die Führung des Informationssystems für den Ausländer- und den Asylbereich zuständigen Stellen, wenn die Daten für die Zuweisung oder Verifizierung dieser Nummer erforderlich sind;
 
