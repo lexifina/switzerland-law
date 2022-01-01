@@ -1,9 +1,7 @@
 # Art. 325bis
 
-Wer den Mieter unter Androhung von Nachteilen, insbesondere der späteren Kündigung des Mietverhältnisses, davon abhält oder abzuhalten versucht, Mietzinse oder sonstige Forderungen des Vermieters anzufechten,
+Mit Busse wird bestraft, wer vorsätzlich:
 
-wer dem Mieter kündigt, weil dieser die ihm nach dem Obligationenrecht zustehenden Rechte wahrnimmt oder wahrnehmen will,
+  - a. im Bericht über Zahlungen an staatliche Stellen gemäss Artikel 964d OR falsche Angaben macht oder die Berichterstattung ganz oder teilweise unterlässt;
 
-wer Mietzinse oder sonstige Forderungen nach einem gescheiterten Einigungsversuch oder nach einem richterlichen Entscheid in unzulässiger Weise durchsetzt oder durchzusetzen versucht,
-
-wird auf Antrag des Mieters mit Busse bestraft.
+  - b. der Pflicht zur Führung und Aufbewahrung der Berichte über Zahlungen an staatliche Stellen gemäss Artikel 964h OR nicht nachkommt.
