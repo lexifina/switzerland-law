@@ -16,7 +16,7 @@
 
     - i) vom Inhaber unterzeichnet ist; oder
 
-    - ii) von dem neuen Inhaber unterzeichnet ist und eine Bestätigung der zuständigen Behörde der Vertragspartei des Inhabers beigefügt ist, dass der neue Inhaber der Rechtsnachfolger des Inhabers zu sein scheint.
+    - ii) von dem neuen Inhaber unterzeichnet ist und ein Beweisdokument beigefügt ist, dass der neue Inhaber der Rechtsnachfolger des Inhabers zu sein scheint.
 
 2) [Inhalt des Antrags] Neben der beantragten Änderung muss das Gesuch um Eintragung einer Änderung folgendes enthalten oder angeben:
 
@@ -43,6 +43,8 @@
   - a) Ist der Antrag in Ordnung, so trägt das Internationale Büro die Änderung umgehend in das internationale Register ein und benachrichtigt den Inhaber. Im Falle einer Änderung des Inhabers benachrichtigt das Internationale Büro sowohl den neuen als auch den früheren Inhaber.
 
   - b) Die Änderung wird mit dem Datum eingetragen, an dem der den geltenden Erfordernissen entsprechende Antrag beim Internationalen Büro eingegangen ist. Ist in dem Antrag jedoch angegeben, dass die Änderung nach einer weiteren Änderung oder nach Verlängerung der internationalen Eintragung eingetragen werden soll, so handelt das Internationale Büro entsprechend.
+
+  - c) Wird eine Änderung des Inhabers infolge eines Gesuchs durch den neuen Inhaber nach Absatz 1)b)ii) eingetragen und erhebt der frühere Inhaber beim Internationalen Büro schriftlich gegen diese Änderung Einspruch, gilt die Änderung als nicht eingetragen. Das Internationale Büro informiert beide Parteien entsprechend darüber.
 
 7) [Eintragung einer teilweisen Änderung der Inhaberschaft] Eine Abtretung oder sonstige Übertragung der internationalen Eintragung in Bezug auf nur einige der gewerblichen Muster oder Modelle oder nur einige der bestimmten Vertragsparteien wird im internationalen Register unter der Nummer der internationalen Eintragung registriert, die teilweise abgetreten oder auf andere Weise übertragen worden ist; jeder abgetretene oder auf andere Weise übertragene Teil wird unter der Nummer der genannten internationalen Eintragung gelöscht und als eigenständige internationale Eintragung registriert. Die eigenständige internationale Eintragung trägt die Nummer der teilweise abgetretenen oder auf andere Weise übertragenen internationalen Eintragung mit einem Grossbuchstaben.
 

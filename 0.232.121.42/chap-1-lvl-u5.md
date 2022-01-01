@@ -1,20 +1,10 @@
 # Regel 5Entschuldigung von Fristüberschreitungen
 
-1) [Durch einen Postdienst übersandte Mitteilungen] Versäumt ein Beteiligter, eine Frist für eine Mitteilung, die an das Internationale Büro gerichtet ist und durch einen Postdienst versandt wird, einzuhalten, so wird dies entschuldigt, wenn der Beteiligte dem Internationalen Büro gegenüber überzeugend beweist,
+1) [Entschuldigung der Fristversäumnis aufgrund von höherer Gewalt] Versäumt ein Beteiligter eine in der Ausführungsordnung vorgesehene Frist für die Vornahme einer Handlung, die an das Internationale Büro gerichtet ist, so wird dies entschuldigt, wenn der Beteiligte dem Internationalen Büro überzeugend nachweist, dass die Fristversäumnis durch einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe, eine Epidemie, eine Störung der Postdienste, des Postversands oder der elektronischen Kommunikation infolge von Umständen, auf die der Beteiligte keinen Einfluss hat, oder aus einem anderen Grund höherer Gewalt verursacht wurde.
 
-  - i) dass die Mitteilung mindestens fünf Tage vor Ablauf der Frist aufgegeben wurde, oder, sofern der Postdienst an einem der letzten zehn Tage vor Ablauf der Frist infolge eines Kriegs, einer Revolution, einer Störung der öffentlichen Ordnung, eines Streiks, einer Naturkatastrophe oder ähnlicher Ursachen unterbrochen war, dass die Mitteilung innerhalb von fünf Tagen nach Wiederaufnahme des Postdienstes aufgegeben wurde;
+2) [Befreiung vom Nachweis; Mitteilung statt Nachweis] Das Internationale Büro kann die in Absatz 1) bezeichnete Nachweispflicht aufheben. In diesem Fall muss der Beteiligte eine Mitteilung einreichen, gemäss der das Fristversäumnis auf denselben Grund wie die Aufhebung der Nachweispflicht durch das Internationale Büro zurückzuführen ist.
 
-  - ii) dass die Mitteilung mit Einschreiben aufgegeben wurde, oder Einzelheiten der Versendung zum Zeitpunkt der Aufgabe vom Postdienst eingetragen worden sind; und
-
-  - iii) in Fällen, in denen Sendungen nicht bei jeder Versandart üblicherweise innerhalb von zwei Tagen beim Internationalen Büro eingehen, dass die Mitteilung in einer Versandart, mit der sie üblicherweise innerhalb von zwei Tagen nach Aufgabe beim Internationalen Büro eingeht, oder per Luftpost befördert wurde.
-
-2) [Durch einen Zustelldienst übersandte Mitteilungen] Versäumt ein Beteiligter, die Frist für eine Mitteilung, die an das Internationale Büro gerichtet ist und durch einen Zustelldienst übersandt wird, einzuhalten, so wird dies entschuldigt, wenn der Beteiligte gegenüber dem Internationalen Büro überzeugend beweist,
-
-  - i) dass die Mitteilung mindestens fünf Tage vor Ablauf der Frist aufgegeben wurde, oder, sofern der Zustelldienst an einem der letzten zehn Tagen vor Fristablauf als Folge eines Krieges, einer Revolution, einer Störung der öffentlichen Ordnung, eines Streiks, einer Naturkatastrophe oder ähnlichen Ursachen unterbrochen war, dass die Mitteilung innerhalb von fünf Tagen nach Wiederaufnahme des Zustelldienstes abgesandt wurde, und
-
-  - ii) dass Einzelheiten der Versendung zum Zeitpunkt der Aufgabe vom Zustelldienst eingetragen worden sind.
-
-3) [Auf elektronischem Weg übersandte Mitteilungen] Versäumt ein Beteiligter, die Frist für eine Mitteilung, die an das Internationale Büro gerichtet ist und auf elektronischem Weg übersandt wird, einzuhalten, so wird dies entschuldigt, wenn der Beteiligte gegenüber dem Internationalen Büro überzeugend beweist, dass die Frist wegen eines Ausfalls der elektronischen Kommunikation mit dem Internationalen Büro oder in Bezug auf den Standort des Beteiligten aufgrund von ausserordentlichen, vom Willen des Beteiligten unabhängigen Umständen nicht eingehalten wurde und dass die Mitteilung innerhalb von fünf Tagen nach Wiederaufnahme der elektronischen Kommunikation erfolgt ist.
+3) [Einschränkung der Entschuldigung] Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachweis nach Absatz 1) oder die Mitteilung nach Absatz 2) sobald als vernunftgemäss möglich und spätestens sechs Monate nach Ablauf der anwendbaren Frist beim Internationalen Büro eingeht beziehungsweise die entsprechende Handlung vorgenommen wird.
 
 4) [Einschränkung der Entschuldigung] Ein Fristversäumnis wird nach dieser Regel nur entschuldigt, wenn der in Absatz 1), 2) oder 3) bezeichnete Nachweis und die Mitteilung oder gegebenenfalls ein Duplikat davon innerhalb von sechs Monaten nach Fristablauf beim Internationalen Büro eingehen.
 
