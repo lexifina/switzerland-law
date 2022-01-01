@@ -6,6 +6,6 @@
 
 3 Die Anbieterinnen des öffentlichen Telefondienstes tragen die Investitions- und Betriebskosten für das Anbieten des Standortidentifikationsdienstes.
 
-4 …
+4 Die wiederkehrenden Kosten der Leistungsbereitstellung sind zwischen den Anbieterinnen des öffentlichen Telefondienstes auf Vorleistungsstufe über die Anzahl der jährlich zu erwartenden Notrufe abzugelten.
 
 5 Die Alarmzentralen tragen lediglich die Kosten für die Inanspruchnahme des Standortidentifikationsdienstes.
