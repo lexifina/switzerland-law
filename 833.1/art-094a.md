@@ -10,4 +10,4 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
 
   - d. Statistiken zu führen;
 
-  - e. die Versichertennummer der AHV zuzuweisen oder zu verifizieren.
+  - e. die AHV-Nummer zuzuweisen oder zu verifizieren.
