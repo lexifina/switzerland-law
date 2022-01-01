@@ -28,4 +28,4 @@
 
 8 Werden Bedingungen nach Absatz 6 Buchstabe a oder d oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990. Werden die Bedingungen nach Absatz 6 Buchstabe b oder c nicht eingehalten, so hat ein Klub diejenigen Beiträge zurückzuerstatten, die 50 Prozent der entgangenen Ticketeinnahmen nach Absatz 4 übersteigen.
 
-9 Gesuche für Spiele zwischen dem 29. Oktober 2020 und dem 31. Dezember 2020 können bis zum 30. April 2021 eingereicht werden.
+9 …
