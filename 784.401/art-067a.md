@@ -10,6 +10,6 @@
 
   - d. Legitimationskartendaten;
 
-  - e. Versichertennummer im Sinne von Artikel 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG).
+  - e. AHV-Nummer.
 
 2 Die Daten sind der Erhebungsstelle monatlich innerhalb der ersten drei Werktage des Monats über die Informatik- und Kommunikationsplattform des Bundes zu liefern. Jede Lieferung umfasst den vollen Datenbestand zu jedem Datenmerkmal. Das BAKOM bezeichnet in einer Weisung die anwendbaren Standards für die Datenlieferungen und für die Bereinigung von mangelhaften Datenlieferungen.
