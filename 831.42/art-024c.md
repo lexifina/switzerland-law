@@ -4,7 +4,7 @@ Die Meldung umfasst:
 
   - a. Name und Vorname des Versicherten;
 
-  - b. seine AHV-Versichertennummer;
+  - b. seine AHV-Nummer;
 
   - c. sein Geburtsdatum;
 
