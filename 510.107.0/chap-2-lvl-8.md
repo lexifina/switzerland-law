@@ -1,6 +1,6 @@
 # 8 Eid/Gelübde
 
-«Ich schwöre/Ich gelobe,
+«Ich schwöre/Ich gelobe:
 
   - – der Schweizerischen Eidgenossenschaft mit ganzer Kraft zu dienen;
 
