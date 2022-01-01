@@ -2,7 +2,7 @@
 
 1 Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
 
-1bis Die ESTV und die Behörden nach Artikel 111 sind berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung nach den Bestimmungen des AHVG für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden..
+1bis …
 
 2 Die ESTV und die Behörden nach Artikel 111 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 112 geben den mit dem Vollzug dieses Gesetzes betrauten Behörden die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.
 
