@@ -1,6 +1,6 @@
 # Art. 3b Einsatz im Ausland
 
-Bei einem gestützt auf die Verordnung (EU) 2016/1624 beschlossenen Einsatz von schweizerischem Personal im Ausland ist die EZV zuständig für:
+Bei einem gestützt auf die Verordnung (EU) 2016/1624 beschlossenen Einsatz von schweizerischem Personal im Ausland ist das BAZG zuständig für:
 
   - a. die Auswahl ihres Personals und die Dauer seiner Entsendung;
 

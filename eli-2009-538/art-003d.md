@@ -1,6 +1,6 @@
 # Art. 3d Zusammenarbeit im Rahmen von EUROSUR
 
-Die EZV ist zuständig für:
+Das BAZG ist zuständig für:
 
   - a. die Zusammenarbeit und den Informationsaustausch auf der Grundlage der EUROSUR-Verordnung;
 
