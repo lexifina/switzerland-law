@@ -1,6 +1,6 @@
 # Art. 27a
 
-1 Der Arbeitgeber ermöglicht seinen besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern, ihre Arbeitsverpflichtungen von zu Hause aus zu erfüllen. Er trifft zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen. Für die gestützt auf diese Bestimmung angeordnete Erfüllung der Arbeitsverpflichtung von zu Hause aus sind den Arbeitnehmerinnen und Arbeitnehmern keine Auslagenentschädigungen geschuldet.
+1 Der Arbeitgeber ermöglicht seinen besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern, ihre Arbeitsverpflichtungen von zu Hause aus zu erfüllen. Er trifft zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen.
 
 2 Ist es nicht möglich, die angestammte Arbeitsverpflichtung von zu Hause aus zu erfüllen, so weist der Arbeitgeber der betroffenen Arbeitnehmerin oder dem betroffenen Arbeitnehmer in Abweichung vom Arbeitsvertrag bei gleicher Entlöhnung eine gleichwertige Ersatzarbeit zu, die von zu Hause aus erledigt werden kann.
 
