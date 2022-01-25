@@ -1,4 +1,4 @@
-# Art. 19a Besondere Bestimmungen für den Hochschulbereich, die höhere Berufsbildung und die Weiterbildung
+# Art. 19a Besondere Bestimmungen für den Bildungsbereich
 
 Bei folgenden Bildungs- und Weiterbildungsangeboten und -aktivitäten muss der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat beschränkt werden:
 
@@ -14,6 +14,12 @@ Bei folgenden Bildungs- und Weiterbildungsangeboten und -aktivitäten muss der Z
 
   - f. vorbereitende Kurse für eidgenössische Prüfungen;
 
-  - g. Angebote im Bereich des Grundkompetenzenerwerbs gemäss Artikel 13 WeBiG;
+  - g. Angebote im Bereich des Grundkompetenzenerwerbs nach Artikel 13 WeBiG;
 
-  - h. Angebote zur Erfüllung von Integrationskriterien nach Artikel 58a des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005.
+  - h. Angebote zur Erfüllung von Integrationskriterien nach Artikel 58a des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005;
+
+  - i. schweizerische Maturitätsprüfungen nach der Verordnung vom 7. Dezember 1998 über die schweizerische Maturitätsprüfung;
+
+  - j. eidgenössische Berufsmaturitätsprüfungen nach der Verordnung des SBFI vom 16. November 2016 über die eidgenössische Berufsmaturitätsprüfung;
+
+  - k. Ergänzungsprüfungen nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen.
