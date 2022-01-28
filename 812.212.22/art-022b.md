@@ -1,6 +1,6 @@
 # Art. 22b Sammelgesuche
 
-1 Änderungen nach Artikel 21, 22 oder 23 VAM können als Sammelgesuch zusammen eingereicht werden, sofern es sich um die gleiche Änderung für mehrere Arzneimittel handelt und für alle die identische Dokumentation vorgelegt wird.
+1 Änderungen nach den Artikeln 21–23, 25a und 25b VAM können als Sammelgesuch zusammen eingereicht werden, sofern es sich um die gleiche Änderung für mehrere Arzneimittel handelt und für alle die identische Dokumentation vorgelegt wird.
 
 2 Sammelgesuche, die Änderungen der Fachinformation nach Anhang 4 Ziffer 3 Rubriken 4–16 oder, bei Tierarzneimitteln, nach Anhang 6 Rubriken 4–6 nach sich ziehen, sind nur zulässig, wenn es sich um Sammeltexte gemäss Absatz 4 handelt.
 
