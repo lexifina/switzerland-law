@@ -30,11 +30,11 @@
 
 11 Nicht als besonders gefährdet gelten:
 
-  - a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 365 Tagen ab vollständig erfolgter Impfung;
+  - a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 270 Tagen ab vollständig erfolgter Impfung;
 
   - b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
-    - 1. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 365 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
+    - 1. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 270 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
 
     - 2. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021: während der Gültigkeit des entsprechenden Zertifikats.
 
