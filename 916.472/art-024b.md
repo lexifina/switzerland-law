@@ -1,6 +1,6 @@
 # Art. 24b
 
-1 Das BLV erhebt für die Benutzung des Informationssystems E-Tierversuche von den Kantonen folgende Gebühren:
+1 Das BLV erhebt für die Benutzung des Informationssystems Animex-ch von den Kantonen folgende Gebühren:
 
   - Fr.
 
@@ -14,4 +14,4 @@
 
   - e. jährlich für die Akkreditierung einer Person einschliesslich des fortlaufenden Managements der Aus-, Weiter- und Fortbildung | 60.– bis 80.–
 
-2 Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem E-Tierversuche arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
+2 Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem Animex-ch arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
