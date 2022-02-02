@@ -1,6 +1,6 @@
 # Art. 14b Bedienung des digitalen Fahrtschreibers
 
-1 Der Führer oder die Führerin hat das Land des Beginns und des Endes der beruflichen Tätigkeit in den Fahrtschreiber einzugeben. Diese Eingabe ist nicht erforderlich, wenn der Fahrtschreiber mit einem Positionsbestimmungsdienst auf der Basis eines Satellitennavigationssystems verbunden ist und diese Angaben automatisch aufzeichnet.
+1 Der Führer oder die Führerin hat das Land des Beginns und des Endes der beruflichen Tätigkeit in den Fahrtschreiber einzugeben. Ferner hat er oder sie zu Beginn des nächstmöglichen Halts nach Überqueren der Landesgrenze das Land einzugeben, in das eingereist wurde. Diese Eingaben sind nicht erforderlich, wenn der Fahrtschreiber mit einem Positionsbestimmungsdienst auf der Basis eines Satellitennavigationssystems verbunden ist und diese Angaben automatisch aufzeichnet.
 
 2 Die Fahrer- und die Beifahrerkarte müssen während der gesamten beruflichen Tätigkeit eingesteckt bleiben. Beim Einstecken und bei der Entnahme der Fahrerkarte muss der Führer oder die Führerin die Eingabeaufforderungen des Fahrtschreibers mit Ja oder Nein beantworten.
 
