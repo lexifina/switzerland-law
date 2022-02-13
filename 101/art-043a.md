@@ -6,6 +6,6 @@
 
 3 Das Gemeinwesen, das die Kosten einer staatlichen Leistung trägt, kann über diese Leistung bestimmen.
 
-4 Leistungen der Grundversorgung müssen allen Personen in vergleichbarer Weise offen stehen.
+4 Leistungen der Grundversorgung müssen allen Personen in vergleichbarer Weise offenstehen.
 
 5 Staatliche Aufgaben müssen bedarfsgerecht und wirtschaftlich erfüllt werden.
