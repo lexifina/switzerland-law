@@ -20,7 +20,7 @@
 
 2 Von der Testpflicht nach Artikel 8 ausgenommen sind zudem:
 
-  - a. Personen unter 16 Jahren, ausser sie reisen aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 ein;
+  - a. …
 
   - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können;
 
