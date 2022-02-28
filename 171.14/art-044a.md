@@ -6,15 +6,7 @@
 
 3 Die Präsidentin oder der Präsident gibt das Ergebnis bekannt.
 
-4 Das Ergebnis wird in Form einer Namensliste veröffentlicht:
-
-  - a. bei Gesamtabstimmungen;
-
-  - b. bei Schlussabstimmungen;
-
-  - c. bei Abstimmungen über Bestimmungen, für deren Annahme die Mehrheit der Ratsmitglieder gemäss Artikel 159 Absatz 3 der Bundesverfassung erforderlich ist;
-
-  - d. wenn mindestens zehn Ratsmitglieder dies verlangen.
+4 Das Ergebnis wird in Form einer Namensliste veröffentlicht.
 
 5 Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
 
@@ -32,4 +24,4 @@
 
 6bis Als teilweise entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für Teile des Sitzungstages aufgrund eines Auftrages eines parlamentarischen Organes abgemeldet hat.
 
-7 Das Büro kann auf Gesuch hin eine wissenschaftliche Auswertung der nicht veröffentlichten Abstimmungsergebnisse bewilligen.
+7 …
