@@ -56,4 +56,6 @@
 
   - a. zum System ZEMIS, um die Daten der Asylsuchenden, die zur Planung der Anhörung notwendig sind, abzurufen, insbesondere die Referenznummern, die Nationalität, die Sprache sowie Datum und Ort der Gesuchseinreichung;
 
-  - b. zum Personalinformationssystem BV PLUS, um die für die Entlöhnung nach Absatz 1 Buchstabe c relevanten Daten zu übernehmen.
+  - b. zum Personalinformationssystem BV PLUS, um die für die Entlöhnung nach Absatz 1 Buchstabe c relevanten Daten zu übernehmen;
+
+  - c. zum Standardprodukt GEVER Bund, um die elektronische Personaldossierverwaltung und Verbesserungen im Prozessmanagement zu gewährleisten.
