@@ -34,7 +34,7 @@
 
   - b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
-    - 1. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 270 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
+    - 1. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 180 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
 
     - 2. aufgrund einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34a Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021).
 
