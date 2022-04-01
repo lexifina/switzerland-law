@@ -24,7 +24,11 @@
 
   - k. Fahrten mit Raupenfahrzeugen zur Pistenbereitung;
 
-  - l. Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist.
+  - l. Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist;
+
+  - m. schwere Motorwagen mit einem Gesamtgewicht von höchstens 4250 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9a Abs. 2 VTS) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
+
+  - n. Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von höchstens 5750 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9a Abs. 2 VTS) verfügen und das 5000 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
 
 2 Vom Sonntags- und Nachtfahrverbot ausgenommen sind ferner Fahrten zur Hilfeleistung bei Unfällen, Fahrzeugpannen und Betriebsstörungen, namentlich in öffentlichen Transportunternehmungen und im Flugverkehr, sowie Fahrten bei Winterdiensteinsätzen.
 
