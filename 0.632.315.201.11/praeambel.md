@@ -26,7 +26,7 @@ Diese Vereinbarung bleibt so lange in Kraft wie das Freihandelsabkommen zwischen
 
 Eine Kündigung des Freihandelsabkommens durch Mazedonien oder durch die Schweiz wird auch diese Vereinbarung beenden; diese wird zum gleichen Zeitpunkt hinfällig werden wie das Freihandelsabkommen.
 
-Ich wäre Ihnen verbunden, wenn Sie bestätigen wollten, dass Mazedonien dem Inhalt dieses Briefes zustimmt. »
+Ich wäre Ihnen verbunden, wenn Sie bestätigen wollten, dass Mazedonien dem Inhalt dieses Briefes zustimmt.»
 
 Ich beehre mich zu bestätigen, dass die Regierung der Republik Mazedoniens dem Inhalt dieses Briefes zustimmt.
 
