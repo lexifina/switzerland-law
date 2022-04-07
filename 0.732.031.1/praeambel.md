@@ -1,4 +1,4 @@
-# Text
+# Präambel
 
 1. Der Titel des am 26. Oktober 1979 angenommenen Übereinkommens über den physischen Schutz von Kernmaterial (im Folgenden als «Übereinkommen» bezeichnet) wird durch folgenden Titel ersetzt:
 
@@ -40,12 +40,6 @@ ebenfalls in Anerkennung dessen, dass der wirksame physische Schutz von militär
 
 sind wie folgt übereingekommen:
 
-3. In Artikel 1 des Übereinkommens werden nach Buchstabe c zwei neue Buchstaben wie folgt angefügt:
-
-  - d) «Kernanlage» eine Anlage (einschliesslich dazugehöriger Gebäude und Ausrüstung), in der die Herstellung, Verarbeitung, Verwendung, Handhabung, Lagerung oder die endgültige Entsorgung von Kernmaterial stattfindet, wenn eine Beschädigung der Anlage oder Einwirkungen auf die Anlage zu einer erheblichen Strahlenbelastung oder zur Freisetzung erheblicher Mengen radioaktiver Stoffe führen könnten;
-
-  - e) «Sabotageakt» jede gegen eine Kernanlage oder gegen Kernmaterial, das genutzt, gelagert oder befördert wird, gerichtete vorsätzliche Handlung, welche die Gesundheit und Sicherheit des Personals oder der Öffentlichkeit oder welche die Umwelt durch Strahlenbelastung oder Freisetzung radioaktiver Stoffe unmittelbar oder mittelbar gefährden könnte.
-
 4. Nach Artikel 1 des Übereinkommens wird ein neuer Artikel 1 A wie folgt eingefügt:
 
 Art. 1 A
@@ -60,37 +54,11 @@ Die Ziele dieses Übereinkommens sind die Erreichung und Aufrechterhaltung eines
 
 3. Abgesehen von den aufgrund dieses Übereinkommens von den Vertragsstaaten ausdrücklich übernommenen Verpflichtungen ist dieses Übereinkommen nicht so auszulegen, als berühre es die souveränen Rechte eines Staates.
 
-  - 4. a) Dieses Übereinkommen berührt nicht die sonstigen Rechte, Verpflichtungen und Verantwortlichkeiten, die sich für Vertragsstaaten aus dem Völkerrecht, insbesondere den Zielen und Grundsätzen der Charta der Vereinten Nationen und dem humanitären Völkerrecht, ergeben.
-
-  - b) Die Tätigkeiten von Streitkräften während eines bewaffneten Konflikts im Sinne des humanitären Völkerrechts, die von jenem Recht erfasst werden, sind von diesem Übereinkommen nicht erfasst; die Tätigkeiten, welche die Streitkräfte eines Staates in Erfüllung ihrer dienstlichen Pflichten ausüben, sind von diesem Übereinkommen ebenfalls nicht erfasst, soweit sie von anderen Regeln des Völkerrechts erfasst sind.
-
-  - c) Dieses Übereinkommen ist nicht so auszulegen, als beinhalte es eine rechtmässige Befugnis zur Anwendung oder Androhung von Gewalt gegen für friedliche Zwecke genutztes Kernmaterial oder für friedliche Zwecke genutzte Kernanlagen.
-
-  - d) Durch dieses Übereinkommen werden weder ansonsten rechtswidrige Handlungen entschuldigt oder rechtmässig noch wird dadurch die strafrechtliche Verfolgung nach anderen Gesetzen verhindert.
-
 5. Dieses Übereinkommen findet keine Anwendung auf für militärische Zwecke genutztes oder vorbehaltenes Kernmaterial oder eine dieses Material enthaltende Kernanlage.
 
 6. Nach Artikel 2 des Übereinkommens wird ein neuer Artikel 2 A wie folgt eingefügt:
 
 Art. 2 A
-
-1. Jeder Vertragsstaat wird ein geeignetes System des physischen Schutzes von Kernmaterial und Kernanlagen unter seiner Hoheitsgewalt schaffen, durchführen und aufrechterhalten mit dem Ziel:
-
-  - a) Kernmaterial während der Nutzung, Lagerung und Beförderung vor Diebstahl oder sonstiger rechtswidriger Aneignung zu schützen;
-
-  - b) die Ergreifung umgehender und umfassender Massnahmen zur Lokalisierung und gegebenenfalls Wiederbeschaffung von abhanden gekommenem oder gestohlenem Kernmaterial zu gewährleisten; befindet sich das Material ausserhalb seines Hoheitsgebiets, so verfährt der betreffende Vertragsstaat in Übereinstimmung mit Artikel 5;
-
-  - c) Kernmaterial und Kernanlagen vor Sabotageakten zu schützen und
-
-  - d) die radiologischen Folgen von Sabotageakten zu mildern oder auf ein Mindestmass zu beschränken.
-
-2. Bei der Durchführung des Absatzes 1 wird jeder Vertragsstaat:
-
-  - a) einen Rahmen für Gesetzgebung und Vollzug zur Regelung des physischen Schutzes schaffen und aufrechterhalten;
-
-  - b) eine zuständige Behörde oder zuständige Behörden einrichten oder bestimmen, die für die Durchführung des Rahmens für Gesetzgebung und Vollzug verantwortlich ist beziehungsweise sind; und
-
-  - c) sonstige geeignete Massnahmen treffen, die für den physischen Schutz von Kernmaterial und Kernanlagen erforderlich sind.
 
 3. Bei der Erfüllung der Verpflichtungen nach den Absätzen 1 und 2 wendet jeder Vertragsstaat unbeschadet anderer Bestimmungen dieses Übereinkommens die folgenden Grundsätze des physischen Schutzes von Kernmaterial und Kernanlagen an, soweit dies sinnvoll und durchführbar ist:
 
@@ -142,37 +110,11 @@ Grundsatz L: Vertraulichkeit
 
 Der Staat soll Anforderungen zum Schutz der Vertraulichkeit von Informationen aufstellen, deren unbefugte Offenlegung den physischen Schutz von Kernmaterial und Kernanlagen gefährden könnte.
 
-  - 4. a) Dieser Artikel findet keine Anwendung auf Kernmaterial, das nach der angemessenen Entscheidung des Vertragsstaats nicht dem nach Absatz 1 geschaffenen System des physischen Schutzes zu unterliegen braucht, wobei Beschaffenheit, Menge und relative Attraktivität des Materials sowie die möglichen radiologischen und sonstigen Folgen einer gegen das Kernmaterial gerichteten unerlaubten Handlung sowie die gegenwärtige Bewertung der in Bezug auf das Material bestehenden Bedrohung berücksichtigt werden.
-
-  - b) Kernmaterial, das nach Buchstabe a nicht diesem Artikel unterliegt, soll entsprechend den Grundsätzen einer umsichtigen Betriebsführung geschützt werden.
-
 7. Artikel 5 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
 
 1. Die Vertragsstaaten bestimmen ihre Verbindungsstelle für in den Geltungsbereich dieses Übereinkommens fallende Angelegenheiten und geben sie einander unmittelbar oder über die Internationale Atomenergie-Organisation bekannt.
 
-2. Bei Diebstahl, Raub oder sonstiger rechtswidriger Aneignung von Kernmaterial oder im Fall der glaubhaften Androhung einer solchen Tat gewähren die Vertragsstaaten in Übereinstimmung mit ihrem innerstaatlichen Recht jedem Staat, der darum ersucht, im weitestmöglichen Umfang Zusammenarbeit und Unterstützung bei der Wiederbeschaffung und beim Schutz dieses Materials. Insbesondere:
-
-  - a) unternimmt jeder Vertragsstaat geeignete Massnahmen, um andere Staaten, die ihm betroffen erscheinen, so bald wie möglich von dem Diebstahl, dem Raub oder der sonstigen rechtswidrigen Aneignung von Kernmaterial oder der glaubhaften Androhung einer solchen Tat zu unterrichten und gegebenenfalls die Internationale Atomenergie-Organisation und andere einschlägige internationale Organisationen zu unterrichten;
-
-  - b) tauschen die betroffenen Vertragsstaaten dabei gegebenenfalls untereinander, mit der Internationalen Atomenergie-Organisation und mit anderen einschlägigen internationalen Organisationen Informationen aus, um bedrohtes Kernmaterial zu schützen, die Unversehrtheit von Versandbehältern zu prüfen oder rechtswidrig angeeignetes Kernmaterial wiederzubeschaffen, und:
-
-    - i) koordinieren ihre Massnahmen auf diplomatischem und anderem vereinbarten Weg,
-
-    - ii) leisten auf Ersuchen Unterstützung,
-
-    - iii) sorgen für die Rückgabe wiederbeschafften Kernmaterials, das gestohlen worden oder als Folge der oben genannten Ereignisse abhanden gekommen war.
-
 Die Art der Durchführung dieser Zusammenarbeit wird von den betroffenen Vertragsstaaten bestimmt.
-
-3. Bei Sabotageakten gegen Kernmaterial oder gegen eine Kernanlage oder im Fall der glaubhaften Androhung einer solchen Tat arbeiten die Vertragsstaaten in Übereinstimmung mit ihrem innerstaatlichen Recht und im Einklang mit ihren einschlägigen Verpflichtungen nach dem Völkerrecht im weitestmöglichen Umfang wie folgt zusammen:
-
-  - a) Hat ein Vertragsstaat Kenntnis von einer glaubhaften Androhung eines Sabotageakts gegen Kernmaterial oder gegen eine Kernanlage in einem anderen Staat, so beschliesst er geeignete Massnahmen, die zu treffen sind, um den betreffenden Staat so bald wie möglich und gegebenenfalls auch die Internationale Atomenergie-Organisation und andere einschlägige internationale Organisationen von dieser Androhung zu unterrichten, mit dem Ziel, den Sabotageakt zu verhindern;
-
-  - b) ist im Fall eines Sabotageakts gegen Kernmaterial oder gegen eine Kernanlage in einem Vertragsstaat dieser Staat der Ansicht, dass andere Staaten wahrscheinlich radiologisch betroffen sind, so trifft er unbeschadet seiner sonstigen Verpflichtungen nach dem Völkerrecht geeignete Massnahmen, um den Staat oder die Staaten, die wahrscheinlich radiologisch betroffen sind, so bald wie möglich und gegebenenfalls auch die Internationale Atomenergie-Organisation und andere einschlägige internationale Organisationen zu unterrichten, mit dem Ziel, die radiologischen Folgen eines solchen Sabotageakts auf ein Mindestmass zu beschränken oder zu mildern;
-
-  - c) ersucht ein Vertragsstaat im Zusammenhang mit den Buchstaben a und b um Unterstützung, so trifft jeder Vertragsstaat, an den ein solches Unterstützungsersuchen gerichtet wird, umgehend eine Entscheidung und teilt dem ersuchenden Vertragsstaat unmittelbar oder über die Internationale Atomenergie-Organisation mit, ob er in der Lage ist, die erbetene Unterstützung zu leisten, und in welchem Umfang und zu welchen Bedingungen die Unterstützung geleistet werden kann;
-
-  - d) die Koordinierung der Zusammenarbeit nach den Buchstaben a–c erfolgt auf diplomatischem oder anderem vereinbarten Weg. Die Art der Durchführung dieser Zusammenarbeit wird von den betroffenen Vertragsstaaten auf zwei- oder mehrseitiger Grundlage bestimmt.
 
 4. Die Vertragsstaaten arbeiten zusammen und konsultieren einander, soweit erforderlich, unmittelbar oder über die Internationale Atomenergie-Organisation oder andere einschlägige internationale Organisationen, um Anleitungen für die Ausgestaltung, Aufrechterhaltung und Verbesserung von Systemen des physischen Schutzes von Kernmaterial während des internationalen Transports zu erhalten.
 
@@ -185,38 +127,6 @@ Die Art der Durchführung dieser Zusammenarbeit wird von den betroffenen Vertrag
 2. Die Vertragsstaaten sind durch dieses Übereinkommen nicht verpflichtet, Informationen zur Verfügung zu stellen, welche sie aufgrund innerstaatlichen Rechts nicht mitteilen dürfen oder welche die Sicherheit des betreffenden Staates oder den physischen Schutz von Kernmaterial oder von Kernanlagen gefährden würden.
 
 9. Artikel 7 Absatz 1 des Übereinkommens wird durch folgenden Wortlaut ersetzt:
-
-1. Die vorsätzliche Begehung:
-
-  - a) einer Handlung ohne rechtmässige Befugnis, die in dem Empfang, dem Besitz, der Verwendung, der Weitergabe, der Veränderung, der Beseitigung oder der Verbreitung von Kernmaterial besteht und die den Tod oder eine schwere Körperverletzung eines anderen oder bedeutende Sach- oder Umweltschäden verursacht oder geeignet ist, diese Folgen zu verursachen;
-
-  - b) eines Diebstahls oder Raubes von Kernmaterial;
-
-  - c) einer Unterschlagung, einer Veruntreuung oder eines betrügerischen Erlangens von Kernmaterial;
-
-  - d) einer Handlung, die in dem Befördern, Versenden oder Verbringen von Kernmaterial in einen Staat beziehungsweise aus einem Staat ohne rechtmässige Befugnis besteht;
-
-  - e) einer gegen eine Kernanlage gerichteten oder auf den Betrieb einer Kernanlage einwirkenden Handlung, bei welcher der Täter vorsätzlich den Tod oder eine schwere Körperverletzung eines anderen oder bedeutende Sach- oder Umweltschäden durch Strahlenbelastung oder Freisetzung radioaktiver Stoffe verursacht oder bei der er Kenntnis davon hat, dass sie geeignet ist, diese Folgen zu verursachen, es sei denn, die Handlung wird im Einklang mit dem innerstaatlichen Recht des Vertragsstaats vorgenommen, in dessen Hoheitsgebiet sich die Kernanlage befindet;
-
-  - f) einer Handlung, die in einem Fordern von Kernmaterial durch Androhung oder Anwendung von Gewalt oder durch eine andere Form der Einschüchterung besteht;
-
-  - g) einer Drohung:
-
-    - i) Kernmaterial dazu zu verwenden, den Tod oder eine schwere Körperverletzung eines anderen oder bedeutende Sach- oder Umweltschäden zu verursachen oder die unter Buchstabe e beschriebene Straftat zu begehen, oder
-
-    - ii) eine unter den Buchstaben b und e beschriebene Straftat zu begehen, um eine natürliche oder juristische Person, eine internationale Organisation oder einen Staat zu einer Handlung oder Unterlassung zu zwingen;
-
-  - h) eines Versuchs einer unter den Buchstaben a–e beschriebenen Straftat;
-
-  - i) einer Teilnahmehandlung an einer unter den Buchstaben a–h beschriebenen Straftat;
-
-  - j) einer Handlung einer Person, die eine unter den Buchstaben a–h beschriebene Straftat organisiert oder andere Personen anweist, eine solche Straftat zu begehen; und
-
-  - k) einer Handlung, die zur Begehung einer unter den Buchstaben a–h beschriebenen Straftat durch eine Gruppe von mit einem gemeinsamen Ziel handelnden Personen beiträgt; eine derartige Handlung muss vorsätzlich sein und entweder:
-
-    - i) zu dem Zweck vorgenommen werden, die kriminelle Tätigkeit oder das kriminelle Ziel der Gruppe zu fördern, sofern diese Tätigkeit oder dieses Ziel die Begehung einer unter den Buchstaben a bis g beschriebenen Straftat beinhaltet; oder
-
-    - ii) in Kenntnis des Vorsatzes der Gruppe, eine unter den Buchstaben a–g beschriebene Straftat zu begehen, vorgenommen werden;
 
 wird von jedem Vertragsstaat nach innerstaatlichem Recht mit Strafe bedroht.
 
