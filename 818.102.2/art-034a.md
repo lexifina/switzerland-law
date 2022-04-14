@@ -6,7 +6,7 @@
 
   - 3. November 2021;
 
-  - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe b in der Fassung vom 1. Februar 2022;
+  - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe b in der Fassung vom 19. Januar 2022;
 
   - c. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3 in der Fassung vom 3. November 2021;
 
