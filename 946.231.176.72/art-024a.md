@@ -10,7 +10,7 @@
 
 2 Das Verbot nach Absatz 1 gilt nicht für:
 
-  - a. Transkationen, die unbedingt erforderlich sind für den Kauf, die Einfuhr oder den Transport von fossilen Brennstoffen, insbesondere Kohle, Erdöl und Erdgas, sowie von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz oder in einen EWR-Mitgliedstaat;
+  - a. Transaktionen, die unbedingt erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, sowie von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
 
   - b. Transaktionen im Zusammenhang mit Energieprojekten ausserhalb der Russischen Föderation, in denen Banken, Unternehmen oder Organisationen gemäss Anhang 15 Minderheitsgesellschafter sind;
 
