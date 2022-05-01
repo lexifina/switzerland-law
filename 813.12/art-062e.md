@@ -1,4 +1,4 @@
-# Art. 62e
+# Art. 62e Übergangsbestimmungen zur Änderung vom 18. November 2020
 
 Die folgenden Biozidprodukte dürfen, wenn sie am 1. Januar 2022 über keinen UFI verfügen, noch längstens bis zum 31. Dezember 2025 ohne Angabe des UFI nach Artikel 14a in Verkehr gebracht werden:
 
