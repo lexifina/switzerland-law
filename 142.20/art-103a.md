@@ -1,17 +1,15 @@
-# Art. 103a Automatisierte Grenzkontrolle am Flughafen
+# Art. 103a Informationssystem Einreiseverweigerungen
 
-1 Die für die Grenzkontrolle an den Flughäfen zuständigen Behörden können ein automatisiertes Grenzkontrollverfahren betreiben. Dieses dient der Vereinfachung der Kontrolle der daran teilnehmenden Personen bei der Einreise in den Schengen-Raum und bei der Ausreise aus dem Schengen-Raum.
+1 Das SEM führt ein internes Informationssystem über Einreiseverweigerungen nach Artikel 65 (INAD-System). Es dient zur Umsetzung von Sanktionierungen bei Sorgfaltspflichtverletzungen nach Artikel 122a sowie zur Erstellung von Statistiken.
 
-2 Am automatisierten Grenzkontrollverfahren können ausschliesslich Personen teilnehmen, die:
+2 Das System enthält folgende Daten über Personen, denen die Einreise in den Schengen-Raum verweigert wurde:
 
-  - a. über die Schweizer Staatsangehörigkeit verfügen; oder
+  - a. Name, Vorname, Geschlecht, Geburtsdatum, Staatsangehörigkeit;
 
-  - b. sich auf das FZA oder auf das EFTA-Übereinkommen berufen können.
+  - b. Angaben zum Flug;
 
-3 Die Teilnahme erfordert einen biometrischen Pass oder eine Teilnehmerkarte, auf der die biometrischen Daten gespeichert werden. Zur Ausstellung der Teilnehmerkarte können die für die Grenzkontrolle zuständigen Behörden biometrische Daten erheben.
+  - c. Angaben zum Grund der Einreiseverweigerung;
 
-4 Beim Grenzübertritt können die auf dem biometrischen Pass oder auf der Teilnehmerkarte enthaltenen Daten mit dem automatisierten Polizeifahndungssystem (RIPOL) und dem Schengener Informationssystem (SIS) abgeglichen werden.
+  - d. Angaben zu Verfahren wegen Sorgfaltspflichtverletzungen nach Artikel 122a im Zusammenhang mit der betreffenden Person.
 
-5 Die für die Grenzkontrolle zuständigen Behörden betreiben ein Informationssystem. Dieses dient der Bearbeitung der Personendaten derjenigen Personen, die eine Teilnehmerkarte für das automatisierte Grenzkontrollverfahren benötigen. Das Informationssystem enthält keine biometrischen Daten. Die betroffenen Personen sind vorgängig über den Zweck der Datenbearbeitung und die Kategorien der Datenempfänger zu informieren.
-
-6 Der Bundesrat regelt das Registrierungsverfahren, die Voraussetzungen für die Teilnahme am automatisierten Grenzkontrollverfahren, die Organisation und den Betrieb des Informationssystems sowie den Katalog der im Informationssystem zu bearbeitenden Personendaten.
+3 Die im System erfassten Daten werden nach zwei Jahren anonymisiert.
