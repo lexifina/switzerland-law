@@ -1,5 +1,3 @@
-# Art. 15p
+# Art. 15p Zuständigkeit
 
-1 Die medizinischen Daten können von den Anfrageberechtigten gemäss Artikel 71b Absatz 1 AIG bis zum Vollzug der Weg- oder Ausweisung oder der Landesverweisung bearbeitet werden.
-
-2 Die medizinischen Daten sind spätestens zwölf Monate nachdem die Person die Schweiz verlassen hat oder nachdem ihr Untertauchen festgestellt wurde zu löschen.
+Die Ärztin oder der Arzt, die oder der im Auftrag des SEM die medizinische Überwachung beim Vollzug der Weg- oder Ausweisung im Zeitpunkt der Ausreise wahrnimmt, ist für den Entscheid zuständig, ob eine betroffene Person im Rahmen des Vollzugs einer Weg- oder Ausweisung aus medizinischer Sicht transportfähig ist.
