@@ -8,4 +8,4 @@
 
 4 Bei schwerwiegenden Verstössen gegen die luftrechtlichen Vorschriften ist der Flugplatzleiter oder die Flugplatzleiterin ermächtigt, Fehlbaren die fliegerischen Ausweise abzunehmen. Er oder sie stellt diese innerhalb von zwei Tagen zusammen mit einem schriftlichen Bericht dem BAZL zu.
 
-5 Liegen bei Flugbesatzungsmitgliedern Anzeichen der Angetrunkenheit oder des Einflusses von Betäubungsmitteln oder psychotropen Substanzen vor, so ordnet der Flugplatzleiter oder die Flugplatzleiterin geeignete Massnahmen an. Er oder sie zieht unverzüglich die Polizei bei. Die Polizei kann eine Blutprobe anordnen.
+5 Bestehen bei einem Besatzungsmitglied Anzeichen für eine Angetrunkenheit oder bestehen Anzeichen, dass es unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen steht, so ordnet der Flugplatzleiter oder die Flugplatzleiterin geeignete Untersuchungen an. Er oder sie zieht unverzüglich die Polizei bei. Die Durchführung der Massnahmen richtet sich nach den Artikeln 38 ff. der Luftfahrtverordnung vom 14. November 1973.
