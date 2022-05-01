@@ -1,6 +1,6 @@
 # Art. 109a Abfrage der Daten des zentralen Visa-Informationssystems
 
-1 Das zentrale Visa-Informationssystem (C-VIS) enthält die Visadaten aller Staaten, für welche die Verordnung (EG) Nr. 767/2008 in Kraft ist.
+1 Das C-VIS enthält die Visadaten aller Staaten, für welche die Verordnung (EG) Nr. 767/2008 in Kraft ist.
 
 2 Folgende Behörden können die Daten des C-VIS online abfragen:
 
