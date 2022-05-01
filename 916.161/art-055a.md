@@ -1,6 +1,6 @@
 # Art. 55a Kennzeichnung von Pflanzenschutzmitteln, die ausschliesslich genehmigte Grundstoffe enthalten
 
-Für Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten und die in Verkehr gebracht werden, müssen auf der Etikette in einer der Sprachen des Verkaufsgebiets folgende Informationen deutlich lesbar und dauerhaft aufgeführt sein:
+Für Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten und die in Verkehr gebracht werden, müssen auf der Etikette in mindestens einer Amtssprache des Abgabeortes folgende Informationen deutlich lesbar und dauerhaft aufgeführt sein:
 
   - a. Handelsnamen;
 
