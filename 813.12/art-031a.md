@@ -6,4 +6,4 @@
 
   - b. die massgebenden Angaben nach der ChemRRV in der Gebrauchsanweisung übernehmen.
 
-2 Die Etikette muss in der oder den Amtssprachen des Ortes, an dem die behandelte Ware in Verkehr gebracht wird, abgefasst sein.
+2 Die Etikette muss in mindestens einer Amtssprache des Ortes, an dem die behandelte Ware in Verkehr gebracht wird, abgefasst sein.
