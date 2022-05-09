@@ -1,6 +1,6 @@
 # Art. V
 
-1. Die Anerkennung und Vollstreckung des Schiedsspruches darf auf Antrag der Partei, gegen die er geltend gemacht wird, nur versagt werden, wenn diese Partei der zuständigen Behörde des Landes, in dem die Anerkennung und Vollstreckung nachgesucht wird, den Beweis erbringt.
+1. Die Anerkennung und Vollstreckung des Schiedsspruches darf auf Antrag der Partei, gegen die er geltend gemacht wird, nur versagt werden, wenn diese Partei der zuständigen Behörde des Landes, in dem die Anerkennung und Vollstreckung nachgesucht wird, den Beweis erbringt:
 
   - a. dass die Parteien, die eine Vereinbarung im Sinne des Artikels II geschlossen haben, nach dem Recht, das für sie persönlich massgebend ist, in irgendeiner Hinsicht hierzu nicht fähig waren, oder dass die Vereinbarung nach dem Recht, dem die Parteien sie unterstellt haben, oder, falls die Parteien hierüber nichts bestimmt haben, nach dem Recht des Landes, in dem der Schiedsspruch ergangen ist, ungültig ist, oder
 
