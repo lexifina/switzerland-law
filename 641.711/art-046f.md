@@ -4,6 +4,6 @@
 
 2 …
 
-3 Führt ein Luftfahrzeugbetreiber, der nach Artikel 46d Absatz 1 zur Teilnahme am EHS verpflichtet ist, in einem bestimmten Jahr keine Flüge nach Anhang 13 aus, muss er die für dieses Jahr kostenlos zugeteilten Emissionsrechte bis zum 31. März des Folgejahres an die zuständige Behörde nach Anhang 14 zurückgeben. Die zurückgegebenen Emissionsrechte werden gelöscht.
+3 Führt ein Luftfahrzeugbetreiber, dem kostenlos Emissionsrechte zugeteilt worden sind, in einem bestimmten Jahr keine Flüge nach Anhang 13 durch, muss er die für dieses Jahr kostenlos zugeteilten Emissionsrechte bis zum 30. November des Folgejahres an das BAFU zurückgeben. Die zurückgegebenen Emissionsrechte werden gelöscht.
 
 4 Emissionsrechte, die nicht kostenlos zugeteilt werden können, werden gelöscht.

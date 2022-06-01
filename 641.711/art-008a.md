@@ -1,5 +1,13 @@
-# Art. 8a Verlängerung der Kreditierungsperiode
+# Art. 8a Anmerkung im Grundbuch
 
-1 Die Kreditierungsperiode wird um jeweils drei weitere Jahre verlängert, wenn der Gesuchsteller das Projekt oder das Programm erneut validieren lässt und dem BAFU spätestens sechs Monate vor Ablauf der Kreditierungsperiode ein Gesuch um Verlängerung einreicht.
+1 Die Nutzungsbeschränkung als biologischer oder geologischer Speicher von Kohlenstoff ist auf Anmeldung des BAFU im Grundbuch anzumerken. Dies gilt nicht für die Speicherung von Kohlenstoff in Baustoffen.
 
-2 Das BAFU genehmigt die Verlängerung, wenn die Anforderungen nach den Artikeln 5 und 5a weiterhin erfüllt sind.
+2 Das BAFU meldet die Löschung der Anmerkung im Grundbuch an, wenn:
+
+  - a. das Projekt oder Programm beendet ist, frühestens jedoch 30 Jahre nach Wirkungsbeginn; oder
+
+  - b. der gespeicherte Kohlenstoff vor diesem Zeitpunkt auf dem betroffenen Grundstück freigesetzt wird.
+
+3 Die Eigentümerin oder der Eigentümer des betroffenen Grundstücks trägt die Kosten für den Eintrag, die Änderung und die Löschung der Anmerkung.
+
+4 Die Kantone informieren das BAFU unverzüglich, sobald das betroffene Grundstück anderweitig genutzt wird.

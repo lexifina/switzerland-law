@@ -20,4 +20,4 @@
 
 4 Betreiber von fossil-thermischen Kraftwerken reichen das Rückerstattungsgesuch bis zum 30. Juni beim BAFU zuhanden der Vollzugsbehörden ein. Das Gesuch muss die Preise für den Kauf der Emissionsrechte der vergangenen zwölf Monate enthalten. Die entsprechenden Belege sind beizulegen.
 
-5 Liefert der Betreiber keine belegbaren Angaben zu den bezahlten Beträgen, so schätzt das BAFU diese nach pflichtgemässem Ermessen. Es berücksichtigt dabei die Herkunft der Emissionsrechte, der Zuschlagspreise und der öffentlich publizierten Sekundärmarktpreise.
+5 Liefert der Betreiber keine belegbaren Angaben zu den bezahlten Beträgen, so wird ein Wert von null Franken angenommen.

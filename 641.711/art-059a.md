@@ -8,4 +8,4 @@
 
 2 Es sistiert die Kontoeröffnung oder den Eintrag, wenn gegen das Unternehmen oder eine Person nach Absatz 1 Buchstabe b wegen einer in Absatz 1 Buchstabe b genannten strafbaren Handlung eine Untersuchung hängig ist.
 
-3 Wird bei einem Betreiber von Anlagen oder von Luftfahrzeugen, der zur Teilnahme am EHS verpflichtet ist, die Eröffnung eines Kontos abgelehnt, so eröffnet das BAFU ein Sperrkonto, auf das die nach Artikel 46 oder Artikel 46f zugeteilten Emissionsrechte gutgeschrieben werden. Die Sperrung des Kontos dauert bis zum Wegfall der Gründe, die zur Ablehnung der Kontoeröffnung geführt haben.
+3 Wird bei einem Betreiber von Anlagen oder von Luftfahrzeugen, der zur Teilnahme am EHS verpflichtet ist, die Eröffnung eines Kontos abgelehnt, so eröffnet das BAFU ein Sperrkonto, auf das die nach Artikel 46, 46b oder 46f zugeteilten Emissionsrechte gutgeschrieben werden. Die Sperrung des Kontos dauert bis zum Wegfall der Gründe, die zur Ablehnung der Kontoeröffnung geführt haben.
