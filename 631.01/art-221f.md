@@ -8,4 +8,4 @@
 
   - c. der Förderung der polizeilichen und justiziellen Zusammenarbeit.
 
-2 Es kann im Einvernehmen mit dem Bundesamt für Polizei (fedpol) Aufgaben ihrer Verbindungsleute an die Polizeiverbindungsleute von fedpol delegieren. Die Polizeiverbindungsleute sind im Rahmen der vom BAZG übertragenen Aufgaben den Verbindungsleuten des BAZG bezüglich des Zugriffs auf die Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.
+2 …
