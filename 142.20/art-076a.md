@@ -26,7 +26,9 @@
 
   - h. Sie ist wegen eines Verbrechens verurteilt worden.
 
-  - i. Sie verneint der zuständigen Behörde gegenüber, dass sie in einem Dublin-Staat einen Aufenthaltstitel beziehungsweise ein Visum besitzt oder besessen oder ein Asylgesuch eingereicht hat.
+  - i. Sie verneint der zuständigen Behörde gegenüber, dass sie in einem Dublin-Staat einen Aufenthaltstitel beziehungsweise ein Visum besitzt oder besessen oder ein Asylgesuch eingereicht hat;
+
+  - j. Sie gefährdet Erkenntnissen von fedpol oder des NDB zufolge die innere oder äussere Sicherheit der Schweiz.
 
 3 Die betroffene Person kann in Haft belassen oder in Haft genommen werden ab Haftanordnung für die Dauer von höchstens:
 
