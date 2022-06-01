@@ -11,3 +11,5 @@
 5 Es sind geeignete, marktübliche Prüfmittel zu verwenden. Sie sind regelmässig zu eichen; zuständig ist das METAS. Ist keine Eichung möglich, so müssen die Prüfmittel nach einer massgebenden Norm hergestellt sein und die Messresultate gemäss dieser Norm ausweisen. In diesem Fall sind sie mindestens einmal im Jahr nach den Herstellerangaben durch die Prüfstelle oder durch Dritte zu warten.
 
 6 Anhänger werden an geeigneten Zugfahrzeugen geprüft.
+
+7 Bei der Zulassungsprüfung und jeder Nachprüfung erfasst die Zulassungsbehörde den Stand des Kilometer- oder Betriebsstundenzählers.
