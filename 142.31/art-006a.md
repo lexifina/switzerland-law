@@ -1,6 +1,6 @@
 # Art. 6a Zuständige Behörde
 
-1 Das Staatssekretariat für Migration (SEM) entscheidet über Gewährung oder Verweigerung des Asyls sowie über die Wegweisung aus der Schweiz.
+1 Das SEM entscheidet über Gewährung oder Verweigerung des Asyls sowie über die Wegweisung aus der Schweiz.
 
 2 Der Bundesrat bezeichnet neben den EU/EFTA-Staaten weitere Staaten, in denen nach seinen Feststellungen:
 
