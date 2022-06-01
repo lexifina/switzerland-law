@@ -1,3 +1,3 @@
-# Art. 29q Einschränkung der Informatikmittel
+# Art. 29q Informationsabgleich
 
-Neben dem Datenabgleichwerkzeug Terrorismus darf für die Zwecke nach Artikel 29p kein anderes Informatikmittel eingesetzt werden.
+Für den Informationsabgleich nach Artikel 17a Absatz 2 BPI setzt fedpol dem Stand der Technik entsprechende Technologien ein. Es stellt sicher, dass keine Personendaten unrechtmässig bearbeitet werden.

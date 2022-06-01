@@ -1,7 +1,0 @@
-# Art. 29p Zweck des Datenabgleichwerkzeugs Terrorismus
-
-Das Datenabgleichwerkzeug Terrorismus dient dem Abgleich von Daten, für welche die folgenden beiden Voraussetzungen gelten:
-
-  - a. Es sind Daten über Personen, von denen bekannt ist oder die in Verdacht stehen, an strafbaren Aktivitäten im Zusammenhang mit Terrorismus beteiligt zu sein.
-
-  - b. Die Daten werden an fedpol weitergegeben werden auf der Grundlage von Artikel 351 des Strafgesetzbuchs, des Staatsvertrag vom 25. Mai 1973 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen, dem Bundesgesetz vom 3. Oktober 1975 zum Staatsvertrag mit den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen sowie Artikel 75a des Rechtshilfegesetzes vom 20. März 1981.
