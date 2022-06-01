@@ -1,6 +1,6 @@
 # Art. 225b Übergangsbestimmungen zur Änderung vom 10. Januar 2018
 
-1 Für Tierhaltungen mit Haustauben, die beim Inkrafttreten dieser Änderung bereits bestehen, richten sich die Anforderungen nach Anhang 1 Tabelle 9-3 bis zum 28. Februar 2019 nach bisherigem Recht.
+1 Für Tierhaltungen mit Haustauben, die beim Inkrafttreten dieser Änderung bereits bestehen, richten sich die Anforderungen nach Anhang 1 Tabelle 9–3 bis zum 28. Februar 2019 nach bisherigem Recht.
 
 2 Für Tierhaltungen mit Fischen zu Zierzwecken, die beim Inkrafttreten dieser Änderung bereits bestehen, richten sich die Anforderungen nach Anhang 2 Tabelle 8 bis zum 28. Februar 2019 nach bisherigem Recht.
 
