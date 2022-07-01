@@ -35,3 +35,5 @@
 6 Massgeblich für die Erfüllung der LCR sind, unabhängig von ihrer Restlaufzeit, die HQLA, die gemäss Stressszenario am ersten Tag des 30-Tage-Horizonts gehalten werden. Nicht berücksichtigt werden HQLA, die nach Artikel 15e glattzustellen sind.
 
 7 Ab dem Zeitpunkt, ab dem Aktiva nicht mehr als HQLA gelten, dürfen sie noch während 30 Kalendertagen als HQLA angerechnet werden.
+
+8 Nicht an den Bestand der HQLA der Bank angerechnet werden die HQLA, die eine Niederlassung oder eine konsolidierte Einheit zur Erfüllung der lokalen Liquiditätsanforderungen hält und die über dem Beitrag dieser Niederlassung oder Einheit zum Nettomittelabfluss der Bank nach Artikel 16 liegen.
