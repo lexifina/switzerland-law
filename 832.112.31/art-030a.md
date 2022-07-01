@@ -4,7 +4,7 @@
 
   - a. für Gesuche nach Artikel 31 Absatz 1 Buchstaben a und c: die Voranzeige der Swissmedic mit deren Mitteilung über die beabsichtigte Zulassung und der Angabe der zuzulassenden Indikationen und Dosierungen, sowie, falls diese vorliegen, die Zulassungsverfügung und die Zulassungsbescheinigung von Swissmedic sowie die definitive Fachinformation;
 
-  - abis. für Gesuche nach Artikel 31 Absatz 2: die Zulassungsverfügung und die Zulassungsbescheinigung von Swissmedic sowie die definitive Fachinformation;
+  - abis. für Gesuche nach Artikel 31 Absatz 2: die Zulassungsverfügung von Swissmedic, die definitive Fachinformation sowie rechtzeitig vor Anpassung der Spezialitätenliste nachgereicht die Zulassungsbescheinigung von Swissmedic;
 
   - b. die der Swissmedic eingereichte Fachinformation;
 
