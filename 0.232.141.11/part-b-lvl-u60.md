@@ -38,7 +38,7 @@ Vom Anmelder kann nicht verlangt werden, für die Vornahme der in Artikel 22 vor
 
     - iii) als Anlage eine Kopie der Zeichnungen enthalten.
 
-  - abis) Kein Bestimmungsamt darf vom Anmelder die Einreichung einer Übersetzung von im Sequenzprotokollteil der Beschreibung enthaltenen Textbestandteilen verlangen, wenn dieser Sequenzprotokollteil der Regel 12.1 Absatz d und die Beschreibung der Regel 5.2 Absatz b entspricht.
+  - abis) Kein Bestimmungsamt darf vom Anmelder die Einreichung einer Übersetzung von im Sequenzprotokollteil der Beschreibung enthaltenen Textbestandteilen verlangen, wenn dieser Sequenzprotokollteil der Regel 12.1 Absatz d entspricht und den sprachabhängigen freien Text in einer von diesem Bestimmungsamt für diesen Zweck zugelassenen Sprache enthält, ausser dass ein Bestimmungsamt, das veröffentlichte Sequenzprotokolle Datenbankanbietern bereitstellt, eine Übersetzung des Sequenzprotokollteils der Beschreibung in die englische Sprache entsprechend den Verwaltungsvorschriften verlangen kann, wenn der sprachabhängige freie Text nicht in englischer Sprache enthalten ist.
 
   - b) Jedes Bestimmungsamt, das eine Übersetzung des Antrags verlangt, stellt den Anmeldern kostenlos Exemplare des Antragsformblatts in der Sprache der Übersetzung zur Verfügung. Form und Inhalt des Antragsformblatts in der Sprache der Übersetzung dürfen sich von denen des Antrags nach den Regeln 3 und 4 nicht unterscheiden; so darf das Antragsformblatt in der Sprache der Übersetzung insbesondere keine Angaben verlangen, die nicht im Antrag in der eingereichten Fassung enthalten sind. Die Verwendung des Antragsformblatts in der Sprache der Übersetzung ist fakultativ.
 

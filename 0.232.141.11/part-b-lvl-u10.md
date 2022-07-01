@@ -12,7 +12,7 @@
 
   - c) Unbeschadet des Absatzes a muss der Antrag in einer vom Anmeldeamt für die Zwecke dieses Absatzes zugelassenen Veröffentlichungssprache eingereicht werden.
 
-  - d) Unbeschadet des Absatzes a müssen alle im Sequenzprotokollteil der Beschreibung enthaltenen Textbestandteile nach Regel 5.2 Absatz a entsprechend dem in den Verwaltungsvorschriften vorgeschriebenen Standard abgefasst sein.
+  - d) Unbeschadet des Absatzes a muss jeder im Sequenzprotokollteil der Beschreibung enthaltene sprachabhängige freier Text in einer vom Anmeldeamt für diesen Zweck zugelassenen Sprache eingereicht werden. Jede nach diesem Absatz, jedoch nicht nach Absatz a zugelassene Sprache muss die Erfordernisse des Absatzes b erfüllen. Das Anmeldeamt kann es gestatten, dass sprachabhängiger freier Text in mehr als einer Sprache entsprechend den Verwaltungsvorschriften eingereicht wird, darf dies jedoch nicht verlangen.
 
   - 12.1bis Sprache der nach Regel 20.3, 20.5, 20.5bis oder 20.6 eingereichten Bestandteile und Teile
 
@@ -44,7 +44,9 @@ Jede nach Regel 13bis.4 eingereichte Angabe bezüglich hinterlegten biologischen
 
     - iii) eine vom Anmeldeamt nach Regel 12.1 Absatz a zugelassene Sprache ist, es sei denn, die internationale Anmeldung wurde in einer Veröffentlichungssprache eingereicht.
 
-  - b) Absatz a ist weder auf den Antrag noch auf den Sequenzprotokollteil der Beschreibung anzuwenden.
+  - abis) Für jeden Sequenzprotokollteil der Beschreibung ist Absatz a nur auf den sprachabhängigen freien Text anzuwenden; jede Übersetzung von sprachabhängigem freiem Text ist entsprechend den Verwaltungsvorschriften zur Verfügung zu stellen.
+
+  - b) Absatz a ist nicht auf den Antrag anzuwenden.
 
   - c) Hat der Anmelder bis zu dem Zeitpunkt, zu dem ihm das Anmeldeamt die Mitteilung nach Regel 20.2 Absatz c zusendet, die nach Absatz a erforderliche Übersetzung noch nicht eingereicht, so fordert ihn das Anmeldeamt, vorzugsweise zusammen mit dieser Mitteilung, auf,
 
@@ -60,7 +62,9 @@ Jede nach Regel 13bis.4 eingereichte Angabe bezüglich hinterlegten biologischen
 
   - a) Wenn die Sprache, in der die internationale Anmeldung eingereicht worden ist, keine Veröffentlichungssprache ist und die Einreichung einer Übersetzung nach Regel 12.3 Absatz a nicht erforderlich ist, muss der Anmelder eine Übersetzung der internationalen Anmeldung in eine vom Anmeldeamt für die Zwecke dieses Absatzes zugelassene Veröffentlichungssprache innerhalb von 14 Monaten nach dem Prioritätsdatum beim Anmeldeamt einreichen.
 
-  - b) Absatz a ist weder auf den Antrag noch auf den Sequenzprotokollteil der Beschreibung anzuwenden.
+  - abis) Für jeden Sequenzprotokollteil der Beschreibung ist Absatz a nur auf den sprachabhängigen freien Text anzuwenden; jede Übersetzung von sprachabhängigem freiem Text ist entsprechend den Verwaltungsvorschriften zur Verfügung zu stellen.
+
+  - b) Absatz a ist nicht auf den Antrag anzuwenden.
 
   - c) Hat der Anmelder die in Absatz a genannte Übersetzung nicht innerhalb der in diesem Absatz genannten Frist eingereicht, fordert ihn das Anmeldeamt auf, die erforderliche Übersetzung innerhalb von 16 Monaten nach dem Prioritätsdatum einzureichen und gegebenenfalls die Gebühr für verspätete Einreichung nach Absatz e zu entrichten. Geht die Übersetzung beim Anmeldeamt ein, bevor dieses Amt die Aufforderung nach dem vorangehenden Satz abgesandt hat, gilt sie als vor Ablauf der Frist nach Absatz a eingegangen.
 

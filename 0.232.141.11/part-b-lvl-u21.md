@@ -30,13 +30,17 @@ Bei zwei oder mehr Anmeldern
 
 19.4 Übermittlung an das Internationale Büro als Anmeldeamt
 
-  - a) Wird eine internationale Anmeldung bei einem nationalen Amt eingereicht, das nach diesem Vertrag Anmeldeamt ist, aber
+  - a) Wird eine internationale Anmeldung bei einem nationalen Amt eingereicht, das nach diesem Vertrag Anmeldeamt ist, aber:
 
-    - i) ist dieses nationale Amt nach Regel 19.1 oder 19.2 für die Entgegennahme dieser internationalen Anmeldung nicht zuständig oder
+    - i) ist dieses nationale Amt nach Regel 19.1 oder 19.2 für die Entgegennahme dieser internationalen Anmeldung nicht zuständig; oder
 
-    - ii) ist diese internationale Anmeldung nicht in einer nach Regel 12.1 Absatz a von diesem nationalen Amt zugelassenen Sprache, jedoch in einer nach dieser Regel vom Internationalen Büro als Anmeldeamt zugelassenen Sprache abgefasst oder
+    - ii) ist diese internationale Anmeldung nicht in einer nach Regel 12.1 Absatz a von diesem nationalen Amt zugelassenen Sprache oder der in dem Sequenzprotokollteil der Beschreibung enthaltene sprachabhängige freie Text nicht in einer nach Regel 12.1 Absatz d von diesem nationalen Amt zugelassenen Sprache, jedoch in einer nach dieser Regel vom Internationalen Büro als Anmeldeamt zugelassenen Sprache abgefasst; oder
 
-    - iii) kommen dieses nationale Amt und das Internationale Büro aus einem anderen Grund als den in Ziffer i oder ii genannten Gründen und mit Einwilligung des Anmelders überein, das Verfahren nach dieser Regel anzuwenden, so gilt diese internationale Anmeldung, vorbehaltlich des Absatzes b, als von diesem Amt für das Internationale Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii entgegengenommen.
+    - iibis) wird die gesamte internationale Anmeldung oder ein Teil der internationalen Anmeldung in elektronischer Form in einem von diesem nationalen Amt nicht zugelassenen Format eingereicht; oder
+
+    - iii) kommen dieses nationale Amt und das Internationale Büro aus einem anderen Grund als den in den Ziffern i, ii und iibis genannten Gründen und mit Einwilligung des Anmelders überein, das Verfahren nach dieser Regel anzuwenden;
+
+  - so gilt diese internationale Anmeldung, vorbehaltlich des Absatzes b, als von diesem Amt für das Internationale Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii entgegengenommen.
 
   - b) Wird eine internationale Anmeldung nach Absatz a von einem nationalen Amt für das Internationale Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii entgegengenommen, so übermittelt das nationale Amt die Anmeldung unverzüglich dem Internationalen Büro, sofern dem nicht Vorschriften über die nationale Sicherheit entgegenstehen. Das nationale Amt kann die Übermittlung von der Zahlung einer ihm verbleibenden Gebühr in Höhe der von ihm nach Regel 14 erhobenen Übermittlungsgebühr abhängig machen. Die so übermittelte internationale Anmeldung gilt als am Tag ihrer Entgegennahme durch das nationale Amt beim Internationalen Büro als Anmeldeamt nach Regel 19.1 Absatz a Ziffer iii eingegangen.
 

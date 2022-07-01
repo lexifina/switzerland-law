@@ -22,6 +22,6 @@
 
 5.2 Offenbarung von Nucleotid- und/oder Aminosäuresequenzen
 
-  - a) Offenbart die internationale Anmeldung eine oder mehrere Nucleotid- und/oder Aminosäuresequenzen, so muss die Beschreibung ein Sequenzprotokoll enthalten, das dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht und diesem Standard entsprechend als gesonderter Teil der Beschreibung abgefasst ist.
+  - a) Offenbart die internationale Anmeldung Nucleotid- und/oder Aminosäuresequenzen, die entsprechend den Verwaltungsvorschriften in ein Sequenzprotokoll aufgenommen werden müssen, so muss die Beschreibung einen Sequenzprotokollteil der Beschreibung enthalten, der dem in den Verwaltungsvorschriften vorgeschriebenen Standard entspricht.
 
-  - b) Enthält der Sequenzprotokollteil der Beschreibung freien Text im Sinne des in den Verwaltungsvorschriften vorgeschriebenen Standards, so muss dieser freie Text auch im Hauptteil der Beschreibung in deren Sprache erscheinen.
+  - b) In den Sequenzprotokollteil der Beschreibung aufgenommener sprachabhängiger freier Text muss nicht in den Hauptteil der Beschreibung aufgenommen werden.
