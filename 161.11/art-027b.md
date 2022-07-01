@@ -14,4 +14,4 @@ Die Grundbewilligung wird erteilt, wenn:
 
     - 5. jeglicher systematische Missbrauch ausgeschlossen werden kann (Regelkonformität des Urnengangs);
 
-  - b. die Bundeskanzlei gestützt auf die eingereichten Belege oder Zertifikate festgestellt hat, dass sich das vom Kanton gewählte System der elektronischen Stimmabgabe dazu eignet, die Versuche bundesrechtskonform durchzuführen.
+  - b. die Bundeskanzlei festgestellt hat, dass die Voraussetzungen für die Erteilung einer Zulassung nach Artikel 27e Absatz 1bis erfüllt sind.

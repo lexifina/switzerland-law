@@ -12,4 +12,4 @@
 
   - e. bei mehreren Versuchen die Anzahl der Urnengänge oder die Höchstdauer, für welche die Grundbewilligung erteilt werden soll.
 
-2 Die Bundeskanzlei legt fest, welche Belege oder Zertifikate dem Gesuch beizulegen sind.
+2 …

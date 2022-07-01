@@ -1,8 +1,8 @@
-# Art. 27i Plausibilisierung und Verifizierbarkeit der elektronischen Stimmabgabe
+# Art. 27i Verifizierbarkeit und Plausibilisierung der elektronischen Stimmabgabe
 
-1 Kantone, die lediglich einen Teil ihres Elektorats in einen Versuch einbeziehen, müssen die Ergebnisse plausibilisieren können.
+1 Die Kantone stellen sicher, dass die korrekte Verarbeitung der Stimmen und die Korrektheit des Ergebnisses der elektronischen Stimmabgabe verifiziert werden.
 
-2 Kantone, die das ganze Elektorat in einen Versuch einbeziehen, müssen sicherstellen, dass der korrekte Ablauf der elektronischen Stimmabgabe und die Korrektheit des Ergebnisses dieses Stimmkanals verifiziert werden können.
+2 Sie plausibilisieren die Ergebnisse der elektronischen Stimmabgabe.
 
 3 Die Bundeskanzlei regelt die Verifizierbarkeit und die Plausibilisierung.
 

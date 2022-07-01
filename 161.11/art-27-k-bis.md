@@ -6,4 +6,4 @@
 
   - b. für die Durchführung der elektronischen Stimmabgabe ein privates Unternehmen beiziehen.
 
-2 In diesen Fällen werden die Einzelheiten zwischen den beteiligten Kantonen, der Bundeskanzlei und gegebenenfalls dem privaten Unternehmen vertraglich geregelt.
+2 …

@@ -6,4 +6,4 @@ Der Bundesrat legt in der Grundbewilligung fest:
 
   - b. in welchem Zeitraum die elektronische Stimmabgabe ermöglicht werden darf;
 
-  - c. für welches Gebiet die aus den Versuchen hervorgehenden Ergebnisse der Urnengänge rechtlich verbindliche Wirkungen zeitigen.
+  - c. für welches Gebiet und für welchen Anteil des Elektorats die elektronische Stimmabgabe bewilligt wird.

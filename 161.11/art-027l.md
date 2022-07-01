@@ -1,11 +1,19 @@
-# Art. 27l Evaluation der Systeme und der Betriebsmodalitäten
+# Art. 27l Überprüfung der Systeme und der Betriebsmodalitäten
 
-1 Eine unabhängige, von der Bundeskanzlei anerkannte externe Stelle muss:
+1 Eine Überprüfung des Systems und der Betriebsmodalitäten ist erforderlich:
 
-  - a. bestätigen, dass die Sicherheitsanforderungen der Bundeskanzlei erfüllt sind;
+  - a. vor dem Einsatz eines neuen Systems;
 
-  - b. überprüfen, ob die Sicherheitsvorkehrungen und das System der elektronischen Stimmabgabe auf dem neuesten Stand sind.
+  - b. bei jeder wesentlichen Änderung des Systems oder der Betriebsmodalitäten;
 
-2 Auf dieselbe Weise ist bei jeder wesentlichen Änderung des Systems oder der Betriebsmodalitäten zu verfahren.
+  - c. in regelmässigen zeitlichen Abständen.
 
-3 Die Bundeskanzlei legt die Voraussetzungen für die Anerkennung fest und regelt die Einzelheiten der Evaluation.
+2 Die Überprüfung erfolgt durch unabhängige Stellen. Diese überprüfen, ob:
+
+  - a. die Anforderungen der Bundeskanzlei erfüllt sind;
+
+  - b. die Sicherheitsvorkehrungen und das System der elektronischen Stimmabgabe auf dem neuesten Stand sind.
+
+3 Die Bundeskanzlei regelt die zeitlichen Abstände und die Einzelheiten der Überprüfung sowie die Anforderungen an die unabhängigen Stellen.
+
+4 Sie legt fest, für welche Überprüfungen die Bundeskanzlei und für welche der Kanton zuständig ist.
