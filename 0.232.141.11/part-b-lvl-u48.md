@@ -2,7 +2,7 @@
 
 41.1 Berücksichtigung der Ergebnisse einer früheren Recherche bei einem Antrag nach Regel 4.12
 
-Hat der Anmelder gemäss Regel 4.12 beantragt, dass die Internationale Recherchenbehörde die Ergebnisse einer früheren Recherche berücksichtigt, und sind die Voraussetzungen der Regel 12bis.1 erfüllt, und
+Hat der Anmelder gemäss Regel 4.12 beantragt, dass die Internationale Recherchenbehörde die Ergebnisse einer früheren Recherche berücksichtigt, und sind die Voraussetzungen der Regel 12bis.1 erfüllt, und:
 
   - i) wurde die frühere Recherche von derselben Internationalen Recherchenbehörde durchgeführt oder von demselben Amt, das als Internationale Recherchenbehörde handelt, so hat die Internationale Recherchenbehörde, soweit dies möglich ist, diese Ergebnisse bei Durchführung der internationalen Recherche zu berücksichtigen;
 

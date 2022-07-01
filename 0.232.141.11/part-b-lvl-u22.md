@@ -38,7 +38,7 @@
 
 20.4 Negative Feststellung nach Artikel 11 Absatz 1
 
-Erhält das Anmeldeamt innerhalb der nach Regel 20.7 anwendbaren Frist keine Richtigstellung oder keine Bestätigung nach Regel 20.3 Absatz a, oder erfüllt die Anmeldung, auch wenn eine Richtigstellung oder Bestätigung eingegangen ist, die Erfordernisse des Artikels 11 Absatz 1 nicht, so hat das Anmeldeamt
+Erhält das Anmeldeamt innerhalb der nach Regel 20.7 anwendbaren Frist keine Richtigstellung oder keine Bestätigung nach Regel 20.3 Absatz a, oder erfüllt die Anmeldung, auch wenn eine Richtigstellung oder Bestätigung eingegangen ist, die Erfordernisse des Artikels 11 Absatz 1 nicht, so hat das Anmeldeamt:
 
   - i) den Anmelder unverzüglich davon in Kenntnis zu setzen, dass die Anmeldung keine internationale Anmeldung ist und als solche nicht behandelt wird, und hat die Gründe hierfür anzugeben,
 
