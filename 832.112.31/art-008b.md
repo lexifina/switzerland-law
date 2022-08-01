@@ -1,6 +1,6 @@
 # Art. 8b Bedarfsermittlung in Pflegeheimen
 
-1 Die Bedarfsermittlung in Pflegeheimen muss sich auf ein Instrument stützen, dass folgende Voraussetzungen erfüllt:
+1 Die Bedarfsermittlung in Pflegeheimen muss sich auf ein Instrument stützen, das folgende Voraussetzungen erfüllt:
 
   - a. Es grenzt die Leistungen nach Artikel 7 Absatz 2 von anderen Leistungen ab.
 
