@@ -1,19 +1,21 @@
 # Art. 11b Öffentlicher Verkehr
 
-1 Die Bestimmungen gelten für folgende berufliche Grundbildungen:
+1 Für den Einsatz von Lernenden in der beruflichen Grundbildung Fachfrau öffentlicher Verkehr EFZ/Fachmann öffentlicher Verkehr EFZ ab dem vollendeten 16. Altersjahr gelten folgende Bestimmungen:
 
-  - a. Fachfrau öffentlicher Verkehr EFZ/Fachmann öffentlicher Verkehr EFZ;
+  - a. Lernende dürfen in Betrieben mit Nachtpause höchstens 4 Nächte pro Jahr ab 3 Uhr und höchstens 4 Nächte pro Jahr bis 2 Uhr arbeiten.
 
-  - b. Kauffrau EFZ/Kaufmann EFZ (Basis-Grundbildung und erweiterte Grundbildung) in der Ausbildungs- und Prüfungsbranche öffentlicher Verkehr mit den Einsatzgebieten Beratung und Verkauf.
+  - b. Lernende dürfen in Betrieben mit 24-Stunden-Betrieb höchstens 4 Nächte pro Jahr arbeiten.
 
-2 Lernende nach Absatz 1 Buchstabe a dürfen ab dem 16. Altersjahr wie folgt in der Nacht arbeiten:
+  - c. Lernende dürfen an höchstens 4 Sonn- oder Feiertagen pro Jahr arbeiten.
 
-  - a. höchstens 2 Nächte ab 4.30 Uhr pro Monat und höchstens 8 Nächte ab 4.30 Uhr pro Jahr; und
+2 Für den Einsatz von Lernenden in der beruflichen Grundbildung Detailhandelsfachfrau EFZ/Detailhandelsfachmann EFZ in der Ausbildungs- und Prüfungsbranche öffentlicher Verkehr mit Einsatzgebiet Zug ab dem vollendeten 16. Altersjahr in der Nacht gelten folgende Bestimmungen:
 
-  - b. höchstens 4 Nächte pro Monat und höchstens 32 Nächte pro Jahr, wovon höchstens 3 Nächte pro Monat bis 24 Uhr und höchstens 1 Nacht pro Monat bis 2 Uhr.
+  - a. Lernende dürfen höchstens 8 Nächte pro Jahr frühestens ab 4.30 Uhr arbeiten, wovon höchstens 2 Nächte pro Monat.
 
-3 Lernende nach Absatz 1 dürfen wie folgt an Sonntagen und den Sonntagen gleichgestellten Feiertagen arbeiten:
+  - b. Lernende dürfen höchstens 32 Nächte pro Jahr höchstens bis 24 Uhr oder 2 Uhr arbeiten, davon höchstens 3 Nächte pro Monat bis 24 Uhr und höchstens 1 Nacht pro Monat bis 2 Uhr.
 
-  - a. ab dem vollendeten 16. Altersjahr: höchstens 4 Sonn- oder Feiertage pro Jahr;
+3 Für den Einsatz von Lernenden in der beruflichen Grundbildung Detailhandelsfachfrau EFZ/Detailhandelsfachmann EFZ in der Ausbildungs- und Prüfungsbranche öffentlicher Verkehr mit Einsatzgebiet Zug oder Einsatzgebiet Verkauf an Sonntagen und den Sonntagen gleichgestellten Feiertagen gelten folgende Bestimmungen:
 
-  - b. ab dem vollendeten 17. Altersjahr: höchstens 2 Sonn- oder Feiertage pro Monat und höchstens 12 Sonn- oder Feiertage pro Jahr, jedoch höchstens 2 Feiertage pro Jahr, die nicht auf einen Sonntag fallen.
+  - a. Lernende ab dem vollendeten 16. Altersjahr dürfen höchstens 4 Sonn- oder Feiertage pro Jahr arbeiten.
+
+  - b. Lernende ab dem vollendeten 17. Altersjahr dürfen höchstens 2 Sonn- oder Feiertage pro Monat und höchstens 12 Sonn- oder Feiertage pro Jahr arbeiten, jedoch höchstens 2 Feiertage pro Jahr, die nicht auf einen Sonntag fallen.
