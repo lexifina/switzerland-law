@@ -1,4 +1,4 @@
-# Art. 3f Datenbearbeitung
+# Art. 18d In Zusammenhang mit der Behandlung von betäubungsmittelabhängigen Personen
 
 1 Die für den Vollzug dieses Gesetzes zuständigen Behörden und Institutionen sind berechtigt, Personendaten, besonders schützenswerte Personendaten und Persönlichkeitsprofile zur Überprüfung der Voraussetzungen und des Verlaufs der Behandlung von betäubungsmittelabhängigen Personen zu bearbeiten.
 
