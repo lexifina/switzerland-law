@@ -1,6 +1,6 @@
 # Art. 8a Pilotversuche
 
-1 Das Bundesamt für Gesundheit kann nach Anhörung der betroffenen Kantone und Gemeinden wissenschaftliche Pilotversuche mit Betäubungsmitteln des Wirkungstyps Cannabis bewilligen:
+1 Das BAG kann nach Anhörung der betroffenen Kantone und Gemeinden wissenschaftliche Pilotversuche mit Betäubungsmitteln des Wirkungstyps Cannabis bewilligen:
 
   - a. die örtlich, zeitlich und sachlich begrenzt sind;
 

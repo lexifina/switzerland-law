@@ -10,7 +10,7 @@
 
   - c. Es sorgt für die Verbindung mit:
 
-    - 1. den entsprechenden Dienstzweigen der Bundesverwaltung (Bundesamt für Gesundheit, Oberzolldirektion);
+    - 1. den entsprechenden Dienstzweigen der Bundesverwaltung (BAG, Oberzolldirektion);
 
     - 2. der Schweizerischen Post,
 
