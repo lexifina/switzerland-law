@@ -22,9 +22,9 @@
 
     - d. Transaktionen im Zusammenhang mit der Bereitstellung von Fernmelde- oder Rechenzentrumsdiensten oder von Diensten und Ausrüstungen, die für den Betrieb, die Wartung und die Sicherheit der Fernmeldedienste erforderlich sind, einschliesslich der Bereitstellung von Firewalls und von Callcenter-Diensten, für eine Bank, ein Unternehmen oder eine Organisation nach Anhang 15;
 
-  - e. Transaktionen, die erforderlich sind für den unmittelbaren oder mittelbaren Kauf, die unmittelbare oder mittelbare Einfuhr oder den unmittelbaren oder mittelbaren Transport von Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus oder durch die Russische Föderation, soweit der Kauf, die Einfuhr oder der Transport nicht nach Artikel 12a oder 12b verboten ist;
+  - e. Transaktionen, die unmittelbar oder mittelbar erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus oder durch die Russische Föderation;
 
-  - f. Transaktionen, die erforderlich sind für den Kauf, die Einfuhr oder den Transport von pharmazeutischen Erzeugnissen, Medizinprodukten sowie landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln, soweit der Kauf, die Einfuhr oder der Transport nicht nach dieser Verordnung verboten ist;
+  - f. Transaktionen, die erforderlich sind für den Kauf, die Einfuhr oder den Transport von pharmazeutischen Erzeugnissen, Medizinprodukten sowie landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln;
 
   - g. Transaktionen, die erforderlich sind zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz oder einem EWR-Mitgliedstaat oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz oder einem EWR-Mitgliedstaat.
 

@@ -4,7 +4,7 @@
 
   - a. Luftfahrzeuge russischer Luftfahrtunternehmen mit einer Betriebsgenehmigung oder einer gleichwertigen Genehmigung der russischen Behörden, einschliesslich Luftfahrzeugen, die von diesen Unternehmen im Rahmen von Code-Sharing- oder Blocked-Space-Vereinbarungen eingesetzt werden;
 
-  - b. Luftfahrzeuge, die in Russland registriert sind oder sich im Eigentum natürlicher oder juristischer Personen, Organisationen oder Einrichtungen in Russland befinden oder von diesen gechartert werden oder anderweitig unter deren Kontrolle stehen;
+  - b. Luftfahrzeuge, die in Russland registriert sind oder sich im Eigentum russischer natürlicher oder juristischer Personen, Organisationen oder Einrichtungen befinden oder von diesen gechartert werden oder anderweitig unter deren Kontrolle stehen.
 
 2 Vom Verbot nach Absatz 1 ausgenommen sind:
 

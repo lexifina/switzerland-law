@@ -6,4 +6,10 @@
 
 3 Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter und Dienstleistungen, die für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner in der Russischen Föderation oder internationaler Organisationen erforderlich sind.
 
-4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD für humanitäre Zwecke Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen.
+4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, falls dies erforderlich ist für:
+
+  - a. medizinische oder pharmazeutische Zwecke bei einer Endverwendung nichtmilitärischer Art;
+
+  - b. humanitäre Zwecke oder für Evakuierungen; oder
+
+  - c. die ausschliessliche Nutzung durch die Schweiz, um ihre Unterhaltungsverpflichtungen in Gebieten, die einem langfristigen Mietvertrag zwischen der Schweiz und der Russischen Föderation unterliegen, zu erfüllen.
