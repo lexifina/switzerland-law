@@ -1,5 +1,3 @@
-# Art. 15equater Verantwortlichkeit für schweizerisches Personal im Ausland
+# Art. 15equater Informationssystem und Datenschutz bei ausländischem Personal in der Schweiz
 
-1 Für Schäden, die von schweizerischem Personal im Ausland verursacht werden, haftet der Einsatzstaat. Sind die Schäden grobfahrlässig oder vorsätzlich verursacht worden, so ist das Verantwortlichkeitsgesetz vom 14. März 1958 anwendbar, wenn der Einsatzstaat von der Schweiz die Rückerstattung entrichteter Beträge verlangt.
-
-2 Schweizerisches Personal, das bei einem Einsatz im Ausland eine Straftat begeht, untersteht dem Recht des Einsatzstaats. Verzichtet dieser auf die Strafverfolgung, so ist das Strafgesetzbuch anwendbar.
+Das ausländische Personal verfügt über die gleichen Zugriffsrechte auf das Informationssystem für die Durchführung der Rückkehr wie die Mitarbeitenden des SEM gemäss Artikel 109h Buchstabe a AIG, die für die entsprechenden Aufgaben eingesetzt werden, soweit es ihre Aufgaben erfordern. Der Zugriff auf das Informationssystem darf nur unter der Leitung von schweizerischem Personal erfolgen. Das SEM stellt sicher, dass das ausländische Personal die Vorschriften zum schweizerischen Datenschutz und zur Informatiksicherheit einhält.
