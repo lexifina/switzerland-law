@@ -8,4 +8,6 @@
 
   - b. der Verwaltung und Kontrolle der verschiedenen Phasen der Wegweisung, der Ausweisung oder der Landesverweisung und der Aufgaben im Rückkehrbereich, einschliesslich der Rückkehrhilfe und -beratung und der mit der Rückkehr verbundenen finanziellen Leistungen;
 
-  - c. der Erstellung von Statistiken.
+  - c. der Erstellung von Statistiken;
+
+  - d. der Übermittlung von Statistiken und von Personendaten nach Artikel 105 Absatz 2 an die für die Überwachung der Schengen-Aussengrenzen zuständige Agentur der Europäischen Union gestützt auf die Verordnung (EU) 2019/1896.
