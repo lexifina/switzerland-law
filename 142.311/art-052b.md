@@ -10,7 +10,7 @@
 
 5 Die Rechtsvertretung endet mit der Mitteilung der zugewiesenen Rechtsvertreterin oder des zugewiesenen Rechtsvertreters an die asylsuchende Person, sie oder er sei wegen Aussichtslosigkeit nicht gewillt, eine Beschwerde einzureichen. Diese Mitteilung erfolgt so rasch als möglich nach Eröffnung des ablehnenden Asylentscheides.
 
-6 Zusätzlich zu den Aufgaben gemäss Artikel 102k Absatz 1 Buchstaben a bis f AsylG erfüllt die Rechtsvertretung am Flughafen namentlich folgende Aufgaben:
+6 Zusätzlich zu den Aufgaben gemäss Artikel 102k Absatz 1 Buchstaben a–g AsylG erfüllt die Rechtsvertretung am Flughafen namentlich folgende Aufgaben:
 
   - a. Teilnahme an der summarischen Befragung gemäss Artikel 22 Absatz 1 AsylG;
 

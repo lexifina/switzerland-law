@@ -4,6 +4,8 @@
 
 2 Nach der Zuweisung auf den Kanton zur Durchführung des erweiterten Verfahrens kann sich die asylsuchende Person für die Beratung und Rechtsvertretung bei entscheidrelevanten Schritten im erstinstanzlichen Verfahren an die im Zuweisungskanton zugelassene Rechtsberatungsstelle wenden.
 
+2bis Nach der Zuweisung auf den Kanton kann sich die asylsuchende Person für die Beratung und Unterstützung nach Artikel 52bbis an die im Zuweisungskanton zugelassene Rechtsberatungsstelle wenden.
+
 3 Die im Zentrum des Bundes oder am Flughafen zugewiesene Rechtsvertretung kann ausnahmsweise für die Beratung und Rechtsvertretung im erweiterten Verfahren zuständig bleiben, wenn:
 
   - a. die asylsuchende Person und die zugewiesene Rechtsvertretung im Rahmen des Austrittsgespräches ein besonderes Vertrauensverhältnis feststellen;
