@@ -6,7 +6,7 @@ in der Erwägung, dass die weltweite Annahme einer einheitlichen Klassifikation 
 
 in Anerkennung der Bedeutung des Europäischen Übereinkommens vom 19. Dezember 1954 über die Internationale Patentklassifikation, aufgrund dessen der Europarat die Internationale Klassifikation für Erfindungspatente erstellt hat;
 
-im Hinblick auf den weltweiten Nutzen dieser Klassifikation und ihre Bedeutung für alle Vertragsländer der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums ;
+im Hinblick auf den weltweiten Nutzen dieser Klassifikation und ihre Bedeutung für alle Vertragsländer der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums;
 
 im Bewusstsein der Bedeutung, die diese Klassifikation für die Entwicklungsländer aufweist, indem sie ihnen den Zugang zu der in ständigem Wachstum begriffenen modernen Technik erleichtert;
 
