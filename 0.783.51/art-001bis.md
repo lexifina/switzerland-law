@@ -1,6 +1,6 @@
 # Art. 1bis Begriffsbestimmungen
 
-1. Im Rahmen der Verträge des Weltpostvereins gelten folgende Begriffsbestimmungen:
+1. Im Rahmen der Verträge des Vereins gelten folgende Begriffsbestimmungen:
 
   - 1.1 Postdienst: Sämtliche internationale Leistungen der Post, deren Umfang durch die Verträge des Vereins festgelegt und geregelt wird. Mit diesen Leistungen ist im Wesentlichen die Verpflichtung verbunden, bestimmten sozialen und wirtschaftlichen Bestrebungen der Mitgliedsländer durch Einsammeln, Bearbeiten, Weiterleiten und Zustellen der Postsendungen zu entsprechen.
 
@@ -10,11 +10,11 @@
 
   - 1.4 Freiheit des Durchgangs: Grundsatz, dass ein vermittelndes Mitgliedsland vorbehaltlich der in den Verträgen des Vereins genannten Bedingungen verpflichtet ist, den Transport der ihm im Durchgangsverkehr nach einem anderen Mitgliedsland übergebenen Postsendungen zu gewährleisten und die Postsendungen dabei wie Inlandspost zu behandeln.
 
-  - 1.5 Briefsendungen: Die im Weltpostvertrag beschriebenen Sendungen.
+  - 1.5 (Aufgehoben)
 
   - 1.6. (Aufgehoben)
 
-  - 1.6bis Postsendung: Oberbegriff zur Bezeichnung jeder vom benannten Betreiber eines Mitgliedslands durchgeführten Beförderung (Briefsendung, Postpaket, Postanweisung usw.), wie sie im Weltpostvertrag und im Postzahlungsdienste-Übereinkommen und in ihren jeweiligen Ergänzenden Bestimmungen beschrieben ist.
+  - 1.6bis Postsendung: Oberbegriff zur Bezeichnung jeder vom benannten Betreiber eines Mitgliedslands durchgeführten Beförderung (Briefsendung, Postpaket, Postanweisung usw.), wie sie im Weltpostvertrag, in den Abkommen des Vereins (nach Art. 22 der Satzung) und in ihren jeweiligen Ergänzenden Bestimmungen beschrieben ist.
 
   - 1.7 Benannter Betreiber: Jede staatliche oder nichtstaatliche Stelle, die vom Mitgliedsland offiziell zur Sicherstellung des Betriebs der Postdienste und zur Erfüllung der sich aus den Verträgen des Vereins ergebenden Pflichten auf seinem Gebiet ernannt worden ist.
 
