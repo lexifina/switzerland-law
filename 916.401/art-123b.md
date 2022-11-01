@@ -6,7 +6,9 @@
 
   - a. Bruteier, Eintagsküken, Junghennen, Legehennen, Masttruthühner und Zoovögel in die Schutz- und Überwachungszonen oder aus diesen Zonen verbracht werden;
 
-  - b. Geflügel direkt zur Schlachtung in einen Schlachtbetrieb ausserhalb der Zonen verbracht wird.
+  - b. Geflügel direkt zur Schlachtung in einen Schlachtbetrieb ausserhalb der
+
+  - Zonen verbracht wird.
 
 3 Hat der Kantonstierarzt Abweichungen nach Absatz 2 bewilligt, so sorgt er für:
 
