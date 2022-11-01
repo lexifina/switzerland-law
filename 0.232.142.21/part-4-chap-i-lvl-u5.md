@@ -1,3 +1,3 @@
 # Regel 58Beseitigung von Mängeln in den Anmeldungsunterlagen
 
-Ist das Aktenzeichen der früheren Anmeldung nach Regel 52 Absatz 1 oder die Abschrift dieser Anmeldung nach Regel 53 Absatz 1 nicht rechtzeitig eingereicht worden, so teilt das Europäische Patentamt dem Anmelder dies mit und fordert ihn auf, das Aktenzeichen oder die Abschrift innerhalb einer zu bestimmenden Frist einzureichen.
+Entspricht die europäische Patentanmeldung nicht den Erfordernissen der Regel 57 a)–d), h) und i), so teilt das Europäische Patentamt dies dem Anmelder mit und fordert ihn auf, die festgestellten Mängel innerhalb von zwei Monaten zu beseitigen. Die Beschreibung, die Patentansprüche und die Zeichnungen können nur insoweit geändert werden, als es erforderlich ist, um diese Mängel zu beseitigen.
