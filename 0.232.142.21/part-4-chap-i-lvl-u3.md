@@ -1,23 +1,35 @@
 # Regel 56aFälschlicherweise eingereichte Anmeldungsunterlagen oder Teile
 
-Steht der Anmeldetag einer europäischen Patentanmeldung fest, so prüft das Europäische Patentamt nach Artikel 90 Absatz 3, ob:
+(1) Ergibt die Prüfung nach Artikel 90 Absatz 1, dass die Beschreibung, die Ansprüche oder die Zeichnungen oder Teile dieser Anmeldungsunterlagen offensichtlich fälschlicherweise eingereicht wurden, so fordert das Europäische Patentamt den Anmelder auf, die richtigen Anmeldungsunterlagen oder Teile innerhalb von zwei Monaten nachzureichen. Aus der Unterlassung einer solchen Aufforderung kann der Anmelder keine Ansprüche herleiten.
 
-  - a) eine nach Artikel 14 Absatz 2, Regel 36 Absatz 2 Satz 2 oder Regel 40 Absatz 3 Satz 2 erforderliche Übersetzung der Anmeldung rechtzeitig eingereicht worden ist;
+(2) Werden am oder vor dem Anmeldetag richtige Anmeldungsunterlagen oder Teile gemäss Absatz 1 eingereicht, um die Anmeldung zu berichtigen, so werden diese richtigen Anmeldungsunterlagen oder Teile in die Anmeldung aufgenommen und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile gelten als nicht eingereicht. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
 
-  - b) der Antrag auf Erteilung eines europäischen Patents den Erfordernissen der Regel 41 entspricht;
+(3) Werden richtige Anmeldungsunterlagen oder Teile gemäss Absatz 1 nach dem Anmeldetag, jedoch innerhalb von zwei Monaten nach dem Anmeldetag oder, wenn eine Aufforderung nach Absatz 1 oder nach Regel 56 Absatz 1 ergeht, innerhalb von zwei Monaten nach dieser Aufforderung nachgereicht, so wird der Anmeldetag auf den Tag der Einreichung der richtigen Anmeldungsunterlagen oder Teile neu festgesetzt. Die richtigen Anmeldungsunterlagen oder Teile werden in die Anmeldung aufgenommen, und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile gelten als nicht eingereicht. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
 
-  - c) die Anmeldung einen oder mehrere Patentansprüche nach Artikel 78 Absatz 1 c) oder eine Bezugnahme auf eine früher eingereichte Anmeldung nach Regel 40 Absätze 1 c), 2 und 3 enthält, die zum Ausdruck bringt, dass sie auch die Patentansprüche ersetzt;
+(4) Werden die richtigen Anmeldungsunterlagen oder Teile innerhalb der Frist nach Absatz 3 eingereicht und nimmt die Anmeldung an dem Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, die Priorität einer früheren Anmeldung in Anspruch, so bleibt der Anmeldetag der Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, wenn die richtigen Anmeldungsunterlagen oder Teile vollständig in der früheren Anmeldung enthalten sind, der Anmelder dies innerhalb der Frist nach Absatz 3 beantragt und Folgendes einreicht:
 
-  - d) die Anmeldung eine Zusammenfassung nach Artikel 78 Absatz 1 e) enthält;
+  - a) eine Abschrift der früheren Anmeldung, sofern eine solche Abschrift dem Europäischen Patentamt nicht nach Regel 53 Absatz 2 zur Verfügung steht;
 
-  - e) die Anmeldegebühr und die Recherchengebühr nach Regel 17 Absatz 2, Regel 36 Absatz 3 oder Regel 38 entrichtet worden sind;
+  - b) wenn diese nicht in einer Amtssprache des Europäischen Patentamts abgefasst ist, eine Übersetzung dieser Anmeldung in einer dieser Sprachen, sofern eine solche Übersetzung dem Europäischen Patentamt nicht nach Regel 53 Absatz 3 zur Verfügung steht;
 
-  - f) die Erfindernennung nach Regel 19 Absatz 1 erfolgt ist;
+und
 
-  - g) gegebenenfalls den Erfordernissen der Regeln 52 und 53 für die Inanspruchnahme der Priorität entsprochen worden ist;
+  - c) eine Angabe, wo die richtigen Anmeldungsunterlagen oder Teile in der früheren Anmeldung und gegebenenfalls der Übersetzung vollständig enthalten sind.
 
-  - h) gegebenenfalls den Erfordernissen des Artikels 133 Absatz 2 entsprochen worden ist;
+Sind diese Voraussetzungen erfüllt, so werden die richtigen Anmeldungsunterlagen oder Teile in die Anmeldung aufgenommen und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile verbleiben in der Anmeldung.
 
-  - i) die Anmeldung den in Regel 46 und Regel 49 Absätze 1−9 und 12a–d vorgeschriebenen Erfordernissen entspricht;
+(5) Wenn der Anmelder:
 
-  - j) die Anmeldung den in Regel 30 vorgeschriebenen Erfordernissen entspricht.
+  - a) die richtigen Anmeldungsunterlagen oder Teile nicht innerhalb der Frist nach Absatz 1 oder 3 einreicht;
+
+oder
+
+  - b) nach Absatz 7 richtige Anmeldungsunterlagen oder Teile zurücknimmt, die gemäss Absatz 3 nachgereicht wurden;
+
+so gilt die Einreichung der richtigen Anmeldungsunterlagen oder Teile als nicht erfolgt und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile verbleiben in der Anmeldung bzw. werden wieder in die Anmeldung aufgenommen. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(6) Erfüllt der Anmelder die in Absatz 4 a) bis c) genannten Erfordernisse nicht innerhalb der Frist nach Absatz 3, so wird der Anmeldetag auf den Tag der Einreichung der richtigen Anmeldungsunterlagen oder Teile neu festgesetzt. Die Einreichung der fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile gilt als nicht erfolgt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(7) Innerhalb eines Monats nach der in Absatz 3 oder 6 letzter Satz genannten Mitteilung kann der Anmelder die eingereichten richtigen Anmeldungsunterlagen oder Teile zurücknehmen; in diesem Fall gilt die Neufestsetzung des Anmeldetags als nicht erfolgt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(8) Reicht der Anmelder richtige Anmeldungsunterlagen oder Teile nach Absatz 3 oder 4 ein, nachdem das Europäische Patentamt mit der Erstellung des Recherchenberichts begonnen hat, fordert das Europäische Patentamt den Anmelder auf, innerhalb eines Monats eine weitere Recherchengebühr zu entrichten. Wird die Recherchengebühr nicht rechtzeitig entrichtet, so gilt die Anmeldung als zurückgenommen.»
