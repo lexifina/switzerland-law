@@ -1,10 +1,10 @@
 # Art. 238a Seuchenfall
 
-1 Der Kantonstierarzt verhängt bei Feststellung der Paratuberkulose die einfache Sperre 1. Grades über alle Bestände der verseuchten Tierhaltung. Ausserdem ordnet er an, dass:
+1 Bei jedem Seuchenfall ordnet der Kantonstierarzt zusätzlich an, dass:
 
   - a. die verseuchten Tiere abgesondert, getötet und entsorgt werden;
 
-  - abis. die Nachkommen von weiblichen Tieren nach Buchstabe a, die innerhalb der letzten 12 Monate vor dem Seuchenfall geboren wurden und sich noch im Bestand befinden, abgesondert und bis spätestens im Alter von 12 Monaten geschlachtet werden;
+  - abis. die Nachkommen von weiblichen Tieren nach Buchstabe a, die innerhalb der letzten 12 Monate vor dem Seuchenfall geboren wurden, abgesondert und bis spätestens im Alter von 12 Monaten geschlachtet werden;
 
   - b. die Tiere der empfänglichen Arten des Bestandes klinisch untersucht werden;
 

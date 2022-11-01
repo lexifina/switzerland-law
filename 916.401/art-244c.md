@@ -1,6 +1,6 @@
 # Art. 244c Verdachtsfall
 
-1 Verdacht auf Pferdeenzephalomyelitis liegt vor, wenn:
+1 Verdacht auf venezolanische Pferdeenzephalomyelitis liegt vor, wenn:
 
   - a. die serologische Untersuchung bei einem Tier einen positiven Befund ergeben hat; oder
 

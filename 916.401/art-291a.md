@@ -14,8 +14,10 @@
 
   - f. Trichinellose;
 
-  - g. Tuberkulose, verursacht durch Mycobacterium bovis;
+  - g. Tuberkulose, verursacht durch Mycobacterium bovis, M. caprae oder
 
-  - h. verotoxinbildende Escherichia coli.
+  - M. tuberculosis;
+
+  - h. Shigatoxin-bildende Escherichia coli.
 
 2 Das BLV überwacht andere Zoonosen und Zoonoseerreger, soweit es die epidemiologische Lage oder die Risikoabschätzung erfordert.

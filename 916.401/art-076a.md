@@ -1,4 +1,4 @@
-# Art. 76a
+# Art. 76a Gegenstand und Anforderungen
 
 1 Der Tierbestand wird mit einem nationalen Überwachungsprogramm überwacht.
 
