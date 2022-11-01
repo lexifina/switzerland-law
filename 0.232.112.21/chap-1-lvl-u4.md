@@ -14,13 +14,13 @@
 
   - a) Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
 
-  - b) Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, die sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder beziehen kann. Einzureichen ist diese Mitteilung beim Internationalen Büro:
+  - b) Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, sofern das dafür vorgesehene amtliche Formblatt verwendet wird, und sie kann sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder Inhabers beziehen. Einzureichen ist dieses Formblatt beim Internationalen Büro:
 
     - i) von dem Hinterleger, dem Inhaber oder dem bestellten Vertreter; oder
 
     - ii) von der Behörde der Vertragspartei des Inhabers.
 
-  - Die Mitteilung ist vom Hinterleger, vom Inhaber oder von der einreichenden Behörde zu unterschreiben.
+  - Das Formblatt ist vom Hinterleger, vom Inhaber oder von der einreichenden Behörde zu unterschreiben.
 
 3) [Nicht vorschriftsmäßige Bestellung]
 

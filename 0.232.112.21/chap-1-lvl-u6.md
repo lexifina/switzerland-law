@@ -12,4 +12,4 @@ Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachw
 
 (5) [Internationales Gesuch und nachträgliche Benennung]
 
-Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgliche Benennung nach Ablauf der in Artikel 3 Absatz 4 des Protokolls und in Regel 24 Absatz 6 Buchstabe b vorgesehenen Frist von zwei Monaten und gibt die beteiligte Behörde an, dass der verspätete Eingang auf die in Absatz 1, 2 oder 3 genannten Umstände zurückzuführen ist, so finden Absatz 1, 2 oder 3 und Absatz 4 Anwendung.
+Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgliche Benennung nach Ablauf der in Artikel 3 Absatz 4 des Protokolls und in Regel 24 Absatz 6 Buchstabe b vorgesehenen Frist von zwei Monaten und gibt die beteiligte Behörde an, dass der verspätete Eingang auf die in Absatz 1 genannten Umstände zurückzuführen ist, so finden Absätze 1und 4 Anwendung.

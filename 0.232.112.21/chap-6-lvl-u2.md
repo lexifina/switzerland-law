@@ -10,7 +10,7 @@
 
     - iii) der Ergänzungsgebühr beziehungsweise der individuellen Gebühr für jede benannte Vertragspartei, für die keine Erklärung über die Schutzverweigerung nach Regel 18ter oder Ungültigerklärung in Bezug auf alle betroffenen Waren und Dienstleistungen im internationalen Register eingetragen ist, wie unter Nummer 6 des Gebührenverzeichnisses angegeben oder genannt. Die Zahlung kann jedoch innerhalb von sechs Monaten nach dem Datum erfolgen, an dem die Erneuerung der internationalen Registrierung vorzunehmen ist, sofern gleichzeitig die unter Nummer 6.5 des Gebührenverzeichnisses angegebene Zuschlagsgebühr entrichtet wird.
 
-  - b) Gehen Zahlungen zum Zweck der Erneuerung beim Internationalen Büro mehr als drei Monate vor dem Datum ein, an dem die Erneuerung der internationalen Registrierung fällig ist, so gelten sie als drei Monate vor dem Fälligkeitsdatum der Erneuerung eingegangen.
+  - b) Gehen Zahlungen zum Zweck der Erneuerung beim Internationalen Büro mehr als sechs Monate vor dem Datum ein, an dem die Erneuerung der internationalen Registrierung fällig ist, so gelten sie als sechs Monate vor dem Fälligkeitsdatum der Erneuerung eingegangen.
 
   - c) Ist unbeschadet des Absatzes 2 eine Erklärung gemäss Regel 18ter Absatz 2 oder 4 im internationalen Register für eine Vertragspartei eingetragen worden, für welche die Zahlung einer individuellen Gebühr nach Buchstabe a Ziffer iii geschuldet ist, so wird der Betrag dieser individuellen Gebühr nur unter Berücksichtigung der in der genannten Erklärung angegebenen Waren und Dienstleistungen ermittelt.
 
