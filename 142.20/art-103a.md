@@ -13,3 +13,5 @@
   - d. Angaben zu Verfahren wegen Sorgfaltspflichtverletzungen nach Artikel 122a im Zusammenhang mit der betreffenden Person.
 
 3 Die im System erfassten Daten werden nach zwei Jahren anonymisiert.
+
+4 Beim Grenzübertritt können die auf dem biometrischen Pass oder auf der Teilnehmerkarte enthaltenen Daten mit dem automatisierten Polizeifahndungssystem (RIPOL) und dem SIS abgeglichen werden.

@@ -12,7 +12,7 @@
 
   - d. die Daten aus dem RIPOL sowie aus dem ASF-SLTD, auf welche die Visumbehörden Zugriff haben;
 
-  - e. die Daten aus dem SIS, auf welche die Visumbehörden Zugriff haben, sofern eine Ausschreibung nach Kapitel 4 der Verordnung (EG) Nr. 1987/2006 vorliegt und die Voraussetzungen nach Artikel 32 Absatz 1 dieser EG-Verordnung erfüllt sind.
+  - e. die Daten aus dem SIS, auf welche die Visumbehörden Zugriff haben, sofern eine Ausschreibung nach der Verordnung (EU) 2018/1861 oder der Verordnung (EU) 2018/1860 vorliegt.
 
 2bis Das nationale Visumsystem enthält ausserdem ein Subsystem mit den Dossiers der Visumgesuchstellerinnen und Visumgesuchsteller in elektronischer Form.
 
