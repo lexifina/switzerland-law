@@ -1,5 +1,5 @@
 # Art. 355e
 
-1 Das Bundesamt für Polizei führt eine zentrale Stelle (SIRENE-Büro), die für den N-SIS zuständig ist.
+1 Das fedpol führt die zentrale Stelle für den Austausch von Zusatzinformationen mit den Schengen Staaten (SIRENE-Büro).
 
 2 Das SIRENE-Büro ist Anlauf-, Koordinations- und Konsultationsstelle für den Informationsaustausch im Zusammenhang mit den Ausschreibungen im SIS. Es überprüft die formelle Zulässigkeit der in- und ausländischen Ausschreibungen im SIS.
