@@ -1,0 +1,3 @@
+# Art. 14b Verknüpfung von Ausschreibungen bei der verdeckten Registrierung, Ermittlungsanfrage oder gezielten Kontrolle
+
+Zur Ermittlung des Aufenthalts einer ausgeschriebenen Person oder zum Auffinden einer ausgeschriebenen Sache kann ein Kraftfahrzeug, Anhänger, Wohnwagen, Wasserfahrzeug, Container, Luftfahrzeug, Feuerwaffe, ein Blankodokument, ein abhanden gekommenes Identitätsdokument oder bargeldloses Zahlungsmittel ausgeschrieben werden, wenn die Voraussetzungen nach Artikel 36 Absatz 5 der Verordnung (EU) 2018/1862 erfüllt sind. Die Sachausschreibung ist mit der Personen- oder der ursprünglichen Sachausschreibung zur verdeckten Registrierung, Ermittlungsanfrage oder gezielten Kontrolle zu verknüpfen.

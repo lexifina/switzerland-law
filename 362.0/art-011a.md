@@ -1,7 +1,27 @@
-# Art. 11a Abfrage anhand daktyloskopischer Daten
+# Art. 11a Zusätzliche Daten bei bestimmten Personenausschreibungen
 
-Eine Abfrage nur anhand daktyloskopischer Daten darf erfolgen:
+Folgende Daten sind zwingend zu erfassen:
 
-  - a. zu Identifikationszwecken, wenn die Identität der Person nicht anhand von Daten zu deren Identität festgestellt werden kann; oder
+  - a. bei Ausschreibungen zur Auslieferung und zu unbekannten Personen: die Art der Straftat;
 
-  - b. wenn diese an Tatorten terroristischer oder sonstiger schwerer Straftaten aufgefunden wurden, sie mit hoher Wahrscheinlichkeit einem Täter oder einer Täterin zuzuordnen sind und die Abfrage gleichzeitig im AFIS erfolgt.
+  - b. bei Ausschreibungen von schutzbedürftigen Personen:
+
+    - 1. die ausschreibende Behörde,
+
+    - 2. die zugrundeliegende Verfügung oder das zugrundeliegende Urteil,
+
+    - 3. die Kategorisierung der Art des Falls;
+
+  - c. bei Ausschreibungen von Drittstaatsangehörigen zur Rückkehr:
+
+    - 1. eine Bezugnahme auf die Entscheidung, die der Ausschreibung zugrunde liegt,
+
+    - 2. die Frist für die freiwillige Ausreise, sofern eine gewährt wurde,
+
+    - 3. die Angabe, ob der Entscheid mit einem Einreiseverbot verbunden ist;
+
+  - d. bei Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung:
+
+    - 1. eine Bezugnahme auf die Entscheidung, die der Ausschreibung zugrunde liegt,
+
+    - 2. die Kategorie der Gründe für die Ausschreibung.
