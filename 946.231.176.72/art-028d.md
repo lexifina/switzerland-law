@@ -14,7 +14,7 @@
 
 2 Es ist verboten, als Treuhänder, nomineller Anteilseigner, Geschäftsführer, Sekretär oder in einer ähnlichen Funktion für einen Trust oder ähnliche Rechtsform nach Absatz 1 zu handeln oder dies einer anderen Person zu ermöglichen.
 
-3 Die Verbote nach den Absätzen 1 und 2 gelten nicht, wenn die Begründer oder Begünstigten Schweizer Staatsangehörige oder Staatsangehörige eines EWR-Mitgliedstaates sind oder über einen befristeten oder unbefristeten Aufenthaltstitel in der Schweiz oder einem EWR-Mitgliedstaat verfügen.
+3 Die Verbote nach den Absätzen 1 und 2 gelten nicht, wenn die Begründer oder Begünstigten Schweizer Staatsangehörige oder Staatsangehörige eines EWR-Mitgliedstaates oder des Vereinigten Königreichs sind oder über einen befristeten oder unbefristeten Aufenthaltstitel in der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich verfügen.
 
 4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Dienstleistungen, die erforderlich sind für:
 

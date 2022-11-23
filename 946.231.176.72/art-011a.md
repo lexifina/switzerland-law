@@ -10,6 +10,8 @@
 
   - a. medizinische oder pharmazeutische Zwecke bei einer Endverwendung nichtmilitärischer Art;
 
-  - b. humanitäre Zwecke oder für Evakuierungen; oder
+  - b. humanitäre Zwecke oder für Evakuierungen;
 
-  - c. die ausschliessliche Nutzung durch die Schweiz, um ihre Unterhaltungsverpflichtungen in Gebieten, die einem langfristigen Mietvertrag zwischen der Schweiz und der Russischen Föderation unterliegen, zu erfüllen.
+  - c. die ausschliessliche Nutzung durch die Schweiz zur Erfüllung von Unterhaltungsverpflichtungen in Gebieten, für die ein langfristiger Mietvertrag zwischen der Schweiz und der Russischen Föderation besteht; oder
+
+  - d. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
