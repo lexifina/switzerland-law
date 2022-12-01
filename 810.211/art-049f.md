@@ -26,4 +26,14 @@
 
   - d. im BAG: die für den Vollzug zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation und Fortpflanzungsmedizin.
 
-2 Zugriff auf die Daten zur Lebendspende von Blut-Stammzellen haben bei der Lebendspende-Nachsorgestelle: die für die Nachsorge zuständigen Mitarbeiterinnen und Mitarbeiter der Abteilung Swiss Blood Stem Cells.
+2 Online-Zugriff auf die im Register erfassten Daten zur Lebendspende von Blut-Stammzellen haben:
+
+  - a. bei der Lebendspende-Nachsorgestelle: die für die Nachsorge zuständigen Mitarbeiterinnen und Mitarbeiter der Abteilung Swiss Blood Stem Cells;
+
+  - b. in den Entnahmezentren:
+
+    - 1. die für die lokale Koordination zuständigen Personen,
+
+    - 2. die für die Blut-Stammzellentnahme und die Nachsorge zuständigen Ärztinnen und Ärzte,
+
+    - 3. die für die Meldung von Daten über die Lebendspende von Blut-Stammzellen zuständigen Personen.

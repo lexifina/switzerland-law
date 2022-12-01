@@ -20,4 +20,12 @@
 
     - 2. die Auswertungen und Statistiken.
 
-2 Nur die Lebendspende-Nachsorgestelle hat Einsicht in die Daten zur Lebendspende von Blut-Stammzellen.
+2 Die folgenden Stellen können zur Erfüllung ihrer Aufgaben die nachstehenden Daten zur Lebendspende von Blut-Stammzellen online im Register einsehen:
+
+  - a. die Entnahmezentren:
+
+    - 1. die Daten von Spenderinnen und Spendern, die sie selber in das Register eingetragen haben,
+
+    - 2. die von den Spenderinnen und Spendern von Blut-Stammzellen zur Nachverfolgung ihres Gesundheitszustands erfassten Daten;
+
+  - b. die Lebendspende-Nachsorgestelle: alle Daten.
