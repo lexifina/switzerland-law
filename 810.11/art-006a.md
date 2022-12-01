@@ -12,7 +12,7 @@
 
   - e. Risiken, die das Fortpflanzungsverfahren für die Nachkommen mit sich bringen kann;
 
-  - f. Vereinigungen von Eltern von Kindern mit Behinderungen, Selbsthilfegruppen sowie Informations- und Beratungsstellen nach Artikel 17 des Bundesgesetzes vom 8. Oktober 2004 über genetische Untersuchungen beim Menschen (GUMG).
+  - f. Vereinigungen von Eltern von Kindern mit Behinderungen, Selbsthilfegruppen sowie Informations- und Beratungsstellen nach Artikel 24 des Bundesgesetzes vom 15. Juni 2018 über genetische Untersuchungen beim Menschen (GUMG).
 
 2 Die Beratung darf sich nur auf die individuelle und familiäre Situation des betroffenen Paares beziehen, nicht aber auf allgemeine gesellschaftliche Interessen.
 
