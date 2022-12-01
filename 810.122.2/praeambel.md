@@ -2,6 +2,6 @@
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 8 Absatz 4 des Bundesgesetzes vom 8. Oktober 2004 über genetische Untersuchungen beim Menschen (GUMG),
+gestützt auf Artikel 53 Absatz 3 des Bundesgesetzes vom 15. Juni 2018 über genetische Untersuchungen beim Menschen (GUMG),
 
 verordnet:
