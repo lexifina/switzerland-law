@@ -10,6 +10,6 @@
 
 5. Die Mitgliederbeiträge sind zahlbar in der von der Kommission mit dem betreffenden Mitglied vereinbarten Währung.
 
-6. Die eingehenden Beiträge gelangen in einen Einlagefonds, der vom Generaldirektor der Organisation gemäss der Finanzordnung der Organisation verwaltet wird.
+6. Die eingehenden Beiträge gelangen in einen Treuhandfonds, der vom Generaldirektor der Organisation gemäss der Finanzordnung der Organisation verwaltet wird.
 
-7. Auf Ende jedes Finanzjahres wird jeder unbenützte Saldo des Verwaltungsbudgets auf eine besondere Rechnung übertragen und steht für die in Artikel IV und V umschriebenen Zwecke zur Verfügung.
+7. Auf Ende jedes Finanzjahres verbleibt jeder unbenützte Saldo des Verwaltungsbudgets im Treuhandfonds und wird zur Finanzierung des Budgets der Folgejahre bereitgestellt.

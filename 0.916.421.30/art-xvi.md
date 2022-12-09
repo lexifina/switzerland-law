@@ -4,4 +4,4 @@
 
 2. Die Nichtbezahlung von zwei aufeinanderfolgenden Jahresbeiträgen wird als Austritt des seinen Verpflichtungen nicht nachkommenden Mitgliedes aus der Kommission betrachtet.
 
-3. Jedes Kommissionsmitglied, das aus der Organisation oder dem Amt ausgetreten ist und somit diesen beiden Institutionen nicht mehr angehört, wird gleichzeitig als aus der Kommission ausgetreten betrachtet.
+3. Jedes Kommissionsmitglied, das aus der Organisation oder der WOAH ausgetreten ist und somit diesen beiden Institutionen nicht mehr angehört, wird gleichzeitig als aus der Kommission ausgetreten betrachtet.

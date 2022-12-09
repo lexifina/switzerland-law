@@ -8,7 +8,7 @@
 
 4. Änderungen treten erst in Kraft, wenn sie vom Organisationsrat genehmigt worden sind.
 
-5. Eine Änderung, die den Mitgliedern keine neue Verpflichtungen auferlegt, wird am Tage, an dem der Rat die Genehmigung erteilt, rechtskräftig.
+5. Eine Änderung, die den Mitgliedern keine neuen Verpflichtungen auferlegt, wird am Tage, an dem der Rat die Genehmigung erteilt, rechtskräftig.
 
 6. Eine Änderung, die nach Auffassung der Kommission die Mitglieder mit zusätzlichen Verpflichtungen belastet, wird nach Genehmigung durch den Rat für die Mitglieder der Kommission, die diese Änderung annehmen, mit dem Tage rechtskräftig, an dem die Zahl der Mitglieder, die sie angenommen haben, zwei Drittel der Kommissionsmitglieder erreicht; nach diesem Datum wird sie für jedes Kommissionsmitglied verbindlich mit dem Tage, an dem es dem Generaldirektor die Annahme dieser Änderung erklärt.
 
