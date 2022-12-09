@@ -8,6 +8,8 @@
 
   - c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
+1bis Es ist verboten, eine Funktion in den Leitungsgremien einer juristischen Person, Organisation oder Einrichtung nach Absatz 1 auszuüben.
+
 2 Das Verbot nach Absatz 1 gilt nicht für:
 
   - a. Transaktionen, die erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas, Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
