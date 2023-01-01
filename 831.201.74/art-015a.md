@@ -1,0 +1,7 @@
+# Art. 15a Übergangsbestimmungen zur Änderung vom 20. Oktober 2022
+
+1 Anerkannte Leistungserbringer, die zwischen dem 1. Januar 2019 und dem 31. Dezember 2022 eine Vereinbarung nach Artikel 8 mit dem BSV abgeschlossen haben, müssen mit diesem eine neue Vereinbarung abschliessen. Die Vereinbarung kann vorsehen, dass bestimmte Voraussetzungen nach Artikel 7 nicht erfüllt werden müssen oder dass für die Erfüllung der Voraussetzungen eine Übergangsfrist gilt.
+
+2 Kinder, die beim Inkrafttreten der Änderung vom 20. Oktober 2022 bereits in einem Autismuszentrum behandelt werden, mit dem das BSV vor dem Inkrafttreten dieser Änderung eine Vereinbarung über die Durchführung der intensiven Frühintervention abgeschlossen hat, können ihre Behandlung fortsetzen, sofern das Zentrum mit dem BSV eine neue Vereinbarung abschliesst. Die Fallpauschale wird anteilsmässig für die verbleibende Dauer der Behandlung ausbezahlt.
+
+3 Kinder, die beim Inkrafttreten der Änderung vom 20. Oktober 2022 bereits in einem Autismuszentrum behandelt werden, das beim Inkrafttreten dieser Änderung noch keine Vereinbarung mit dem BSV abgeschlossen hat, können am Pilotversuch teilnehmen, wenn das Zentrum vom BSV anerkannt wird und mit dem BSV eine Vereinbarung abschliesst. Die Behandlung kann im Rahmen des Pilotversuchs fortgesetzt werden, wenn die Inhaberinnen und Inhaber der elterlichen Sorge dies beantragen. Die Fallpauschale wird anteilsmässig für die verbleibende Dauer der Behandlung ausbezahlt.
