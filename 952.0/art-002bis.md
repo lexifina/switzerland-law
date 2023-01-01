@@ -1,6 +1,6 @@
 # Art. 2bis
 
-1 Dem elften und zwölften Abschnitt dieses Gesetzes unterstehen, soweit sie nicht im Rahmen der Aufsicht über das Einzelinstitut der Konkurszuständigkeit der FINMA unterstehen:
+1 Dem elften, zwölften und zwölften a. Abschnitt dieses Gesetzes unterstehen, soweit sie nicht im Rahmen der Aufsicht über das Einzelinstitut der Konkurszuständigkeit der FINMA unterstehen:
 
   - a. in der Schweiz domizilierte Konzernobergesellschaften einer Finanzgruppe oder eines Finanzkonglomerates;
 

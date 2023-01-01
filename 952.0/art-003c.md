@@ -2,7 +2,7 @@
 
 1 Als Finanzgruppe gelten zwei oder mehrere Unternehmen, wenn:
 
-  - a. mindestens eines als Bank oder Effektenhändler tätig ist;
+  - a. mindestens eines als Bank oder Wertpapierhaus tätig ist;
 
   - b. sie hauptsächlich im Finanzbereich tätig sind; und
 
