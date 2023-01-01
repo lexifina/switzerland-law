@@ -8,6 +8,6 @@
 
 4 Mit einem Zonensignal dürfen höchstens drei Verkehrsanordnungen angezeigt werden.
 
-5 Die Signale «Tempo-30-Zone» (2.59.1), «Begegnungszone» (2.59.5) und «Fussgängerzone» (2.59.3) sind nur auf Nebenstrassen mit möglichst gleichartigem Charakter zulässig.
+5 Die Signale «Tempo-30-Zone» (2.59.1), «Begegnungszone» (2.59.5) und «Fussgängerzone» (2.59.3) sind nur auf nicht verkehrsorientierten Nebenstrassen zulässig.
 
-6 Wird auf einem Hauptstrassenabschnitt auf Grund der Voraussetzungen nach Artikel 108 die Höchstgeschwindigkeit auf 30 km/h begrenzt, so kann dieser Abschnitt ausnahmsweise bei besonderen örtlichen Gegebenheiten (z. B. in einem Ortszentrum oder in einem Altstadtgebiet) in eine Tempo-30-Zone einbezogen werden.
+6 Wird auf einem Abschnitt einer verkehrsorientierten Strasse aufgrund der Voraussetzungen nach Artikel 108 Absätze 1, 2 und 4 die Höchstgeschwindigkeit auf 30 km/h begrenzt, so kann dieser Abschnitt in eine Tempo-30-Zone einbezogen werden.
