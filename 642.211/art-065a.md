@@ -4,4 +4,4 @@
 
 2 Falls die Fälligkeiten der mit der Verrechnungssteuer belasteten Erträge vorwiegend in einem Quartal des Kalender- oder Geschäftsjahres eintreten, ist dies bei der Bemessung der Abschlagsrückerstattungen zu berücksichtigen.
 
-3 Bei der Bemessung der Abschlagsrückerstattungen werden die Ansprüche auf Rückerstattung der Verrechnungssteuer insoweit nicht berücksichtigt, als die entsprechenden Verrechnungssteuerbeträge erst im folgenden Kalender- oder Geschäftsjahr zur Zahlung an die Eidgenössische Steuerverwaltung fällig werden.
+3 Bei der Bemessung der Abschlagsrückerstattungen werden die Ansprüche auf Rückerstattung der Verrechnungssteuer insoweit nicht berücksichtigt, als die entsprechenden Verrechnungssteuerbeträge erst im folgenden Kalender- oder Geschäftsjahr zur Zahlung an die ESTV fällig werden.

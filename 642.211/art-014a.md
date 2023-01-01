@@ -1,6 +1,6 @@
 # Art. 14a
 
-1 Zwischen Konzerngesellschaften bestehende Guthaben gelten weder als Obligationen nach Artikel 4 Absatz 1 Buchstabe a noch als Kundenguthaben nach Artikel 4 Absatz 1 Buchstabe d des Gesetzes; dies gilt unabhängig von ihrer Laufzeit, ihrer Währung und ihrem Zinssatz.
+1 Zwischen Konzerngesellschaften bestehende Guthaben gelten weder als Obligationen nach Artikel 4 Absatz 1 Buchstabe a noch als Kundenguthaben nach Artikel 4 Absatz 1 Buchstabe d VStG; dies gilt unabhängig von ihrer Laufzeit, ihrer Währung und ihrem Zinssatz.
 
 2 Als Konzerngesellschaften gelten Gesellschaften, deren Jahresrechnungen nach anerkannten Standards zur Rechnungslegung in der Konzernrechnung voll- oder teilkonsolidiert werden.
 
