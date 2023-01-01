@@ -1,6 +1,6 @@
 # Art. 20k Rechtsmittel
 
-1 Die Schlussverfügung der Eidgenössischen Steuerverwaltung über die Übermittlung von Informationen unterliegt der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
+1 Die Schlussverfügung der ESTV über die Übermittlung von Informationen unterliegt der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
 2 Zur Beschwerde ist auch der Informationsinhaber befugt, soweit er eigene Interessen geltend macht.
 
