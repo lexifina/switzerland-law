@@ -12,4 +12,4 @@
 
   - a. den Bundesrat in Fällen nach Artikel 21 Absatz 1 RPV;
 
-  - b. das UVEK in Fällen nach Artikel 21 Absatz 4 RPV.
+  - b. das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) in Fällen nach Artikel 21 Absatz 4 RPV.
