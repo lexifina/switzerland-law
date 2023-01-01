@@ -2,7 +2,7 @@
 
 1 Zur Ausübung der Berufsfischerei sind Personen berechtigt, die ein durch die zuständige Behörde ausgegebenes Ausbildungspatent besitzen. Sie dürfen nur tätig werden, wenn gleichzeitig der Inhaber oder die Inhaberin eines Hochseepatentes anwesend ist.
 
-2 Das Ausbildungspatent berechtigt zur Befischung des Hohen Sees mit bis zu zwei Schwebnetzen, bei denen die jeweils kleinste zulässige Maschenweite verwendet werden darf, sowie zur Befischung der schweizerischen Halde.
+2 Das Ausbildungspatent berechtigt zur Ausübung der Bodenseefischerei im Umfang eines Hochseepatents.
 
 3 Das Ausbildungspatent wird für die Dauer der Ausbildung ausgestellt.
 
