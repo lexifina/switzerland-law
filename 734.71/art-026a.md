@@ -1,21 +1,23 @@
-# Art. 26a Informationspflicht
+# Art. 26a
 
-1 Wer Sitz oder Wohnsitz in der Schweiz hat, an einem Elektrizitätsgrosshandelsmarkt in der EU teilnimmt und aufgrund der Verordnung (EU) Nr. 1227/2011 (EU-REMIT-Verordnung) verpflichtet ist, den Behörden der EU oder der Mitgliedstaaten Informationen zu liefern, muss die gleichen Informationen gleichzeitig und in gleicher Form auch der ElCom liefern.
+1 Das Gesuch für ein Pilotprojekt ist beim UVEK einzureichen. Es muss alle Angaben enthalten, die für die Überprüfung der Voraussetzungen nach Artikel 23a StromVG erforderlich sind, insbesondere:
 
-2 Der ElCom zu liefern sind insbesondere Angaben:
+  - a. den Gegenstand und das Ziel des Projekts;
 
-  - a. zu Transaktionen von Grosshandelsprodukten;
+  - b. die Projektorganisation;
 
-  - b. über die Kapazität, die Verfüg- und Nichtverfügbarkeit und die Nutzung von Anlagen zur Produktion und zur Übertragung von Elektrizität.
+  - c. die Modalitäten zur Teilnahme am Projekt;
 
-3 Der ElCom sind überdies diejenigen Insiderinformationen zu liefern, die aufgrund der EU-REMIT-Verordnung veröffentlicht worden sind. Die ElCom kann den Zeitpunkt für die Lieferung dieser Daten bestimmen.
+  - d. den Ort und die Dauer des Projekts;
 
-4 Zusätzlich sind gegenüber der ElCom Firma oder Name, Rechtsform sowie Sitz oder Wohnsitz anzugeben. Statt dieser Angaben kann auch der Datensatz geliefert werden, der in der EU gemäss der EU-REMIT-Verordnung für die Registrierung erforderlich ist.
+  - e. die Bestimmungen des StromVG, von denen abgewichen werden soll.
 
-5 Die ElCom kann Ausnahmen von der Informationspflicht gestatten, insbesondere wenn von den fraglichen Angaben zu erwarten ist, dass sie für die Elektrizitätsmärkte von marginaler Bedeutung sind.
+2 Ergibt die Prüfung des Gesuchs, dass dieses bewilligt werden kann, so erlässt das UVEK eine Verordnung, in der die Rahmenbedingungen für das Projekt geregelt sind (Art. 23a Abs. 3 StromVG). Das UVEK kann zur Beurteilung der Gesuche Sachverständige beiziehen. Es entscheidet mit Verfügung über das Gesuch.
 
-6 Als Grosshandelsprodukte gelten, unabhängig davon, ob sie an der Börse oder auf andere Weise gehandelt werden:
+3 Gestützt auf eine Verordnung nach Absatz 2 können weitere Gesuche für entsprechende Pilotprojekte bewilligt werden.
 
-  - a. Verträge betreffend die Übertragung und die Lieferung von Elektrizität, bei denen es nicht unmittelbar um die Nutzung durch Endverbraucher geht;
+4 Vergütungen für ungedeckte Netzkosten nach Artikel 23a Absatz 4 StromVG bedürfen einer Bewilligung des UVEK. Die nationale Netzgesellschaft vergütet dem Netzbetreiber gestützt auf die Bewilligung die ungedeckten Netzkosten.
 
-  - b. Derivate betreffend die Erzeugung, den Handel, die Lieferung und den Transport von Elektrizität.
+5 Die Ergebnisse des Projekts sind vom Inhaber der Projektbewilligung in einem Schlussbericht auszuwerten. Der Schlussbericht und die zur Evaluation notwendigen Daten und Informationen sind dem UVEK zur Verfügung zu stellen.
+
+6 Das BFE führt nach Abschluss des Projekts und im Hinblick auf den möglichen Erlass einer Gesetzesänderung zuhanden des UVEK eine Evaluation durch. Es informiert die Öffentlichkeit über die Projekte und über die gewonnenen Erkenntnisse.
