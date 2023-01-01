@@ -1,6 +1,6 @@
 # Art. 8b Einhaltung der minimalen Lohn- und Arbeitsbedingungen
 
-1 Der Erstunternehmer kann sich die Einhaltung der minimalen Lohnbedingungen gemäss Artikel 2 Absatz 1 Buchstabe a des Gesetzes durch den Subunternehmer insbesondere anhand der folgenden Dokumente darlegen lassen:
+1 Der Erstunternehmer kann sich die Einhaltung der minimalen Lohn- und Arbeitsbedingungen gemäss Artikel 2 Absatz 1 des Gesetzes durch den Subunternehmer insbesondere anhand der folgenden Dokumente darlegen lassen:
 
   - a. die vom Subunternehmer und der Arbeitnehmerin oder dem Arbeitnehmer unterzeichnete Entsendebestätigung mit Angaben:
 
@@ -18,13 +18,9 @@
 
     - 3. der schriftlichen Bestätigung der Arbeitnehmerinnen und Arbeitnehmer, dass sie die für ihre Lohnklasse vorgeschriebene minimale Entlöhnung erhalten;
 
-  - c. die Bestätigung der paritätischen Vollzugsorgane von allgemeinverbindlich erklärten Gesamtarbeitsverträgen, dass der Subunternehmer auf Einhaltung der Lohn- und Arbeitsbedingungen kontrolliert wurde und keine Verstösse festgestellt wurden;
+  - c. eine Bescheinigung der paritätischen Vollzugsorgane von allgemeinverbindlich erklärten Gesamtarbeitsverträgen, die Auskunft darüber gibt, ob der Subunternehmer kontrolliert wurde und ob er die Lohn- und Arbeitsbedingungen gemäss Artikel 2 Absatz 1 des Gesetzes einhält;
 
-  - d. der Eintrag des Subunternehmers in einem von den Arbeitgebern und den Arbeitnehmerinnen und Arbeitnehmern oder von einer Behörde geführten Register (Berufsregister), welcher:
-
-    - 1. aufgrund einer vorangehenden Kontrolle der Einhaltung der minimalen Lohn- und Arbeitsbedingungen erfolgt ist, und
-
-    - 2. bestätigt, dass kein Verfahren wegen Verstosses gegen die minimalen Lohn- und Arbeitsbedingungen läuft und keine solchen Verstösse vorliegen.
+  - d. der Eintrag des Subunternehmers in einem von den Arbeitgebern und den Arbeitnehmerinnen und Arbeitnehmern oder von einer Behörde geführten Register, der Auskunft darüber gibt, ob der Subunternehmer kontrolliert wurde und ob er die Lohn- und Arbeitsbedingungen gemäss Artikel 2 Absatz 1 des Gesetzes einhält.
 
 2 Der Erstunternehmer kann sich die Einhaltung der minimalen Arbeitsbedingungen nach Artikel 2 Absatz 1 Buchstaben b–f des Gesetzes durch den Subunternehmer insbesondere anhand der folgenden Dokumente darlegen lassen:
 
