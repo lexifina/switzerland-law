@@ -10,7 +10,7 @@
 
 2 Sämtliche Daten der DEWA, der DEBBWA, der DAWA und der DARUE können den Strafverfolgungsbehörden des Bundes und der Kantone, den Polizeibehörden der Kantone sowie den Zollbehörden mittels eines Abrufverfahrens zugänglich gemacht werden.
 
-3 Sämtliche Daten der DEBBWA können den zuständigen Stellen der Militärverwaltung mittels eines Abrufverfahrens zugänglich gemacht werden.
+3 Sämtliche Daten der DEBBWA und der DAWA können den zuständigen Stellen der Militärverwaltung und den für den Vollzug des Vorläuferstoffgesetzes vom 25. September 2020 zuständigen Stellen mittels eines Abrufverfahrens zugänglich gemacht werden.
 
 4 Die Zentralstelle meldet den zuständigen Stellen der Militärverwaltung unverzüglich neu in der DEBBWA eingetragene Angehörige der Armee und Stellungspflichtige, denen eine Bewilligung entzogen oder verweigert oder bei denen eine Waffe beschlagnahmt wurde. Die Meldung an das Informationssystem integrierte Ressourcenbewirtschaftung (PSN) erfolgt im automatisierten Verfahren.
 
