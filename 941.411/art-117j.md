@@ -6,4 +6,4 @@
 
   - b. die Cyberrisikenverordnung vom 27. Mai 2020.
 
-2 Die ZSP trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
+2 Die ZSE trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.

@@ -18,7 +18,7 @@
 
 2 Die folgenden Stellen können zur Wahrnehmung ihrer gesetzlichen Aufgaben das Ausweisverzeichnis online einsehen:
 
-  - a. die ZSP;
+  - a. die ZSE;
 
   - b. die Fachstellen der Kantone.
 

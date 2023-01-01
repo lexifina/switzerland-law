@@ -6,7 +6,7 @@
 
 4 …
 
-5 Gibt es für einen pyrotechnischen Gegenstand die für das Konformitätsbewertungsverfahren nach Artikel 25 erforderlichen Normen noch nicht, so ist die ZSP für die Zulassung nach Anhang 16 zuständig.
+5 Gibt es für einen pyrotechnischen Gegenstand die für das Konformitätsbewertungsverfahren nach Artikel 25 erforderlichen Normen noch nicht, so ist die ZSE für die Zulassung nach Anhang 16 zuständig.
 
 6 Pyrotechnische Gegenstände der Kategorie T2 dürfen ohne Ausweis an die Verbraucherin oder den Verbraucher abgegeben werden, solange keine entsprechenden Verwendungsausweise für pyrotechnische Gegenstände und der Erwerbsschein erhältlich sind, längstens jedoch bis zum 1. Januar 2014.
 

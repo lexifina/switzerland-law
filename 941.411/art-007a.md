@@ -1,6 +1,6 @@
 # Art. 7a Pflichten
 
-1 Die Pflichten der Wirtschaftsakteure richten sich, soweit sie sich nicht aus dieser Verordnung ergeben, nach den Artikeln 5–8 und den darin genannten Anhängen II und III der Richtlinie 2014/28/EU sowie nach den Artikeln 8, 12 und 13 und den darin genannten Anhängen I und II der Richtlinie 2013/29/EU. Die ZSP ist die zuständige nationale Behörde.
+1 Die Pflichten der Wirtschaftsakteure richten sich, soweit sie sich nicht aus dieser Verordnung ergeben, nach den Artikeln 5–8 und den darin genannten Anhängen II und III der Richtlinie 2014/28/EU sowie nach den Artikeln 8, 12 und 13 und den darin genannten Anhängen I und II der Richtlinie 2013/29/EU. Die ZSE ist die zuständige nationale Behörde.
 
 2 Die Pflicht, die CE-Kennzeichnung anzubringen, gilt nicht. Sind CE-Kennzeichnungen bereits angebracht, so können sie belassen werden, sofern sie den Vorschriften der EU entsprechen.
 
