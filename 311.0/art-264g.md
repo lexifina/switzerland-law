@@ -16,9 +16,7 @@
 
   - g. die Parlamentärflagge, die Flagge, Uniform oder militärische Abzeichen des Feindes, der Vereinten Nationen oder Schutzzeichen des humanitären Völkerrechts missbraucht;
 
-  - h. als Angehöriger einer Besatzungsmacht einen Teil ihrer Zivilbevölkerung in das von ihr besetzte Gebiet überführt oder
-
-  - die Bevölkerung des besetzten Gebietes ganz oder teilweise innerhalb oder ausserhalb desselben umsiedelt.
+  - h. als Angehöriger einer Besatzungsmacht einen Teil ihrer Zivilbevölkerung in das von ihr besetzte Gebiet überführt oder die Bevölkerung des besetzten Gebietes ganz oder teilweise innerhalb oder ausserhalb desselben umsiedelt.
 
 2 In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft oder der Täter grausam handelt, kann auf lebenslängliche Freiheitsstrafe erkannt werden.
 

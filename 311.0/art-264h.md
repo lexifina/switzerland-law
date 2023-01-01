@@ -4,9 +4,7 @@
 
   - a. Gift oder vergiftete Waffen verwendet;
 
-  - b. biologische oder chemische Waffen, einschliesslich giftiger
-
-  - oder erstickender Gase, Stoffe und Flüssigkeiten, verwendet;
+  - b. biologische oder chemische Waffen, einschliesslich giftiger oder erstickender Gase, Stoffe und Flüssigkeiten, verwendet;
 
   - c. Geschosse verwendet, die sich im Körper des Menschen leicht ausdehnen oder flachdrücken oder im Körper des Menschen explodieren;
 
