@@ -2,7 +2,7 @@
 
 1 Das Gesamtvermögen der Anlagestiftung umfasst das Stammvermögen und das Anlagevermögen. Die Anlegerversammlung erlässt Bestimmungen über die Anlagen dieser Vermögen. Die Statuten können bestimmen, dass diese Befugnis durch den Stiftungsrat ausgeübt wird.
 
-2 Das Anlagevermögen besteht aus den von Anlegern zum Zwecke der gemeinsamen Vermögensanlage eingebrachten Geldern. Es bildet eine Anlagegruppe oder gliedert sich in mehrere Anlagegruppen. Die Anlagegruppen werden rechnerisch selbständig geführt und sind wirtschaftlich voneinander unabhängig.
+2 Das Anlagevermögen besteht aus den von Anlegern zum Zwecke der gemeinsamen Vermögensanlage eingebrachten Geldern. Es bildet eine Anlagegruppe oder gliedert sich in mehrere Anlagegruppen. Die Anlagegruppen werden rechnerisch selbstständig geführt und sind wirtschaftlich voneinander unabhängig.
 
 3 Eine Anlagegruppe besteht aus gleichen und nennwertlosen Ansprüchen eines oder mehrerer Anleger.
 
