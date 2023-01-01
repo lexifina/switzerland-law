@@ -10,11 +10,13 @@
 
   - d. Dienst im Sinne von Artikel 1a EOG;
 
-  - e. Mutterschaft;
+  - e. Mutterschaft oder Vaterschaft;
 
   - f. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16o EOG;
 
-  - g. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+  - g. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+
+  - h. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
 2 Das Taggeld wird neu berechnet, wenn sich das massgebende Einkommen während des Bezugs der Urlaubstage verändert.
 
