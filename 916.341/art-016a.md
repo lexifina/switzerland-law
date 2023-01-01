@@ -1,7 +1,11 @@
-# Art. 16a Übertragung nicht ausgenützter Kontingentsanteile
+# Art. 16a Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen
 
-Das BLW kann auf begründetes, schriftliches Gesuch hin nicht ausgenützte Mengen von ersteigerten und bezahlten Kontingentsanteilen einer Fleischkategorie auf die nächste Einfuhrperiode im selben Kalenderjahr übertragen, wenn:
+1 Die interessierten Kreise können beim BLW beantragen, dass dieses die Einfuhrperiode verkürzt oder verlängert. Der Antrag ist vor Beginn der betreffenden Einfuhrperiode nach Artikel 16 Absatz 3 einzureichen.
 
-  - a. die Menge mindestens 500 kg und höchstens 5 Prozent der zugeteilten und zur Ausnützung übertragenen Kontingentsanteile beträgt; und
+2 Die interessierten Kreise können beim BLW beantragen, dass dieses die Einfuhrmengen für Fleisch, Konserven und Schlachtnebenprodukte nach Artikel 16 Absatz 3 Buchstabe b erhöht. Der Antrag ist nach Beginn der Einfuhrperiode, jedoch vor deren Ablauf einzureichen.
 
-  - b. das Gesuch vor Ablauf der Einfuhrperiode beim BLW eintrifft.
+3 Führt höhere Gewalt zu logistischen Schwierigkeiten, so können die interessierten Kreise beim BLW beantragen, dass dieses Einfuhrperioden für bereits zugeteilte und bezahlte Kontingentsanteile verlängert. Der Antrag ist nach Beginn der Einfuhrperiode, jedoch vor deren Ablauf einzureichen.
+
+4 Das BLW gibt einem Antrag statt, wenn dieser von den interessierten Kreisen mit je einer Zweidrittelmehrheit der Vertreterinnen und Vertreter auf der Stufe Produktion und der Vertreterinnen und Vertreter auf der Stufe Verarbeitung und Handel unterstützt wird.
+
+5 Es darf eine Einfuhrperiode nur so weit verlängern, dass sie sich weder mit der nachfolgenden Einfuhrperiode überschneidet, noch über das Kalenderjahr hinausgeht.
