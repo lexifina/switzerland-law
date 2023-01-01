@@ -1,6 +1,6 @@
-# Art. 62a Verbindung des PT-Systems mit ausländischen Systemen
+# Art. 62a Verbindung des Proximity- und des Presence-Tracing-Systems mit ausländischen Systemen
 
-Das PT-System nach Artikel 60a kann mit entsprechenden ausländischen Systemen verbunden werden, wenn ein angemessener Schutz der Persönlichkeit im betreffenden Staat gewährleistet wird, durch:
+Das Proximity- und das Presence-Tracing-System nach Artikel 60a können mit entsprechenden ausländischen Systemen verbunden werden, wenn ein angemessener Schutz der Persönlichkeit im betreffenden Staat gewährleistet wird, durch:
 
   - a. die Gesetzgebung; oder
 
