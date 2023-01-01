@@ -12,59 +12,59 @@
 
 6 Für Personalfürsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen- und Invalidenvorsorge tätig sind und die dem Freizügigkeitsgesetz vom 17. Dezember 1993 (FZG) unterstellt sind, gelten überdies die folgenden Bestimmungen des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) über:
 
-  - 1. die Definition und Grundsätze der beruflichen Vorsorge sowie des versicherbaren Lohnes oder des versicherbaren Einkommens (Art. 1, 33a und 33b),
+  - 1. die Definition und Grundsätze der beruflichen Vorsorge sowie des versicherbaren Lohnes oder des versicherbaren Einkommens (Art. 1, 33a und 33b);
 
-  - 2. die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1),
+  - 2. die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1);
 
-  - 3. die Begünstigten bei Hinterlassenenleistungen (Art. 20a),
+  - 3. die Begünstigten bei Hinterlassenenleistungen (Art. 20a);
 
-  - 3a. die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5),
+  - 3a. die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5);
 
-  - 3b. die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26a),
+  - 3b. die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26a);
 
-  - 4. die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4),
+  - 4. die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4);
 
-  - 4a. die Zustimmung bei Kapitalabfindung (Art. 37a),
+  - 4a. die Zustimmung bei Kapitalabfindung (Art. 37a);
 
   - 4b. die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
 
-  - 5. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41),
+  - 5. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41);
 
-  - 5a. die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85a Bst. f und Art. 86a Abs. 2 Bst. bbis),
+  - 5a. die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85a Bst. f und Art. 86a Abs. 2 Bst. bbis);
 
-  - 6. die Verantwortlichkeit (Art. 52),
+  - 6. die Verantwortlichkeit (Art. 52);
 
-  - 7. die Zulassung und die Aufgaben der Kontrollorgane (Art. 52a–52e),
+  - 7. die Zulassung und die Aufgaben der Kontrollorgane (Art. 52a–52e);
 
-  - 8. die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51b, 51c und 53a),
+  - 8. die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51b, 51c und 53a);
 
-  - 9. die Teil- oder Gesamtliquidation (Art. 53b–53d),
+  - 9. die Teil- oder Gesamtliquidation (Art. 53b–53d);
 
-  - 10. die Auflösung von Verträgen (Art. 53e und 53f),
+  - 10. die Auflösung von Verträgen (Art. 53e und 53f);
 
-  - 11. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56a, 57 und 59),
+  - 11. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56a, 57 und 59);
 
-  - 12. die Aufsicht und die Oberaufsicht (Art. 61–62a und 64–64c),
+  - 12. die Aufsicht und die Oberaufsicht (Art. 61–62a und 64–64c);
 
   - 13. …
 
-  - 14. die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72a–72g),
+  - 14. die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72a–72g);
 
-  - 15. die Transparenz (Art. 65a),
+  - 15. die Transparenz (Art. 65a);
 
-  - 16. die Rückstellungen (Art. 65b),
+  - 16. die Rückstellungen (Art. 65b);
 
-  - 17. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4),
+  - 17. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
 
-  - 18. die Vermögensverwaltung (Art. 71),
+  - 18. die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71a und 71b);
 
-  - 19. die Rechtspflege (Art. 73 und 74),
+  - 19. die Rechtspflege (Art. 73 und 74);
 
-  - 20. die Strafbestimmungen (Art. 75–79),
+  - 20. die Strafbestimmungen (Art. 75–79);
 
-  - 21. den Einkauf (Art. 79b),
+  - 21. den Einkauf (Art. 79b);
 
-  - 22. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79c),
+  - 22. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79c);
 
   - 23. die Information der Versicherten (Art. 86b).
 
