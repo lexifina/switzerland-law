@@ -6,6 +6,6 @@
 
 3 Die Arbeit mit reduziertem Beschäftigungsgrad beginnt spätestens am ersten Tag nach Ablauf der zwölfmonatigen Frist nach Absatz 2.
 
-4 Die Eltern und die eingetragenen Partner und Partnerinnen haben Anspruch auf eine einmalige Erhöhung des Beschäftigungsgrads in ihrer Funktion im Umfang der insgesamt vorgenommenen Reduktionen nach Absatz 1, jedoch um höchstens 20 Prozent. Dieser Anspruch ist innerhalb von drei Jahren nachdem die letzte Reduktion des Pensums nach Absatz 1 wirksam wurde, geltend zu machen.
+4 Die Eltern und die eingetragenen Partner und Partnerinnen haben Anspruch auf eine einmalige Erhöhung des Beschäftigungsgrads in ihrer Funktion im Umfang der insgesamt vorgenommenen Reduktionen nach Absatz 1, jedoch um höchstens 20 Prozent. Dieser Anspruch ist innerhalb von drei Jahren, nachdem die letzte Reduktion des Pensums nach Absatz 1 wirksam wurde, und spätestens drei Monate vor dem Zeitpunkt, in dem die Vertragsänderung betreffend die Erhöhung des Beschäftigungsgrads in Kraft treten soll, geltend zu machen.
 
 5 Die Arbeit mit wiedererhöhtem Beschäftigungsgrad beginnt spätestens am ersten Tag nach Ablauf der dreijährigen Frist nach Absatz 4.
