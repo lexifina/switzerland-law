@@ -6,4 +6,4 @@
 
 3 Wer die Meldungen nicht über das Informationssystem übermittelt, hat das von der Meldestelle bereitgestellte Meldeformular zu verwenden und die Meldung gesichert zu übermitteln.
 
-4 Die Unterlagen gemäss Artikel 3 müssen der Meldestelle übermittelt werden.
+4 Die Informationen und Dokumente nach Artikel 3 müssen der Meldestelle übermittelt werden.
