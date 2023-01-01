@@ -1,4 +1,4 @@
-# Art. 9a
+# Art. 9a Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen
 
 1 Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen dürfen für eine Dauer von maximal 18 Monaten ohne Baubewilligung errichtet oder geändert werden.
 
