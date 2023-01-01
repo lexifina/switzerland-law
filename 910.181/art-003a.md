@@ -6,4 +6,4 @@
 
   - b. Erzeugnisse und Stoffe nach Artikel 3 Absatz 1 Buchstaben b und d.
 
-2 Das Hinzufügen von bis zu 5 Prozent nicht biologischem Hefeextrakt oder ‑autolysat, berechnet in Trockenmasse für die Herstellung von biologischer Hefe ist erlaubt, wenn nachweislich kein Hefeextrakt oder -autolysat aus biologischer Erzeugung erhältlich ist.
+2 …
