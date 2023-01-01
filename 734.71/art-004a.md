@@ -8,7 +8,11 @@
 
     - 2. Wurde die Einmalvergütung noch nicht definitiv festgesetzt, so wird ein Abzug vorgenommen, sobald das Projekt in die Warteliste aufgenommen wird; die Höhe des Abzugs bestimmt sich nach den Artikeln 7 und 38 EnFV.
 
-    - 3. Werden die Beschaffungskosten eingerechnet (Art. 4 Abs. 3), so werden, unabhängig davon, ob eine Einmalvergütung zugesprochen worden ist, pauschal 20 Prozent des jeweils massgeblichen Vergütungssatzes abgezogen.
+    - 3. Werden die Beschaffungskosten eingerechnet (Art. 4 Abs. 3), so werden unabhängig davon, ob eine Einmalvergütung zugesprochen worden ist, abgezogen:
+
+      - – bei Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen werden und die gesamte produzierte Elektrizität einspeisen: 40 Prozent des jeweils massgeblichen Vergütungssatzes;
+
+      - – bei den übrigen Anlagen: 20 Prozent des jeweils massgeblichen Vergütungssatzes.
 
   - b. Investitionsbeiträge für Wasserkraft- und Biomasseanlagen:
 
