@@ -16,7 +16,7 @@
 
 3 Im Gewässerraum dürfen keine Dünger und Pflanzenschutzmittel ausgebracht werden. Einzelstockbehandlungen von Problempflanzen sind ausserhalb eines 3 m breiten Streifens entlang des Gewässers zulässig, sofern diese nicht mit einem angemessenen Aufwand mechanisch bekämpft werden können.
 
-4 Der Gewässerraum darf landwirtschaftlich genutzt werden, sofern er gemäss den Anforderungen der Direktzahlungsverordnung vom 23. Oktober 2013 als Streuefläche, Hecke, Feld- und Ufergehölz, Uferwiese entlang von Fliessgewässern, extensiv genutzte Wiese, extensiv genutzte Weide oder als Waldweide bewirtschaftet wird. Diese Anforderungen gelten auch für die entsprechende Bewirtschaftung von Flächen ausserhalb der landwirtschaftlichen Nutzfläche.
+4 Der Gewässerraum darf landwirtschaftlich genutzt werden, sofern er gemäss den Anforderungen der Direktzahlungsverordnung vom 23. Oktober 2013 als Streuefläche, Hecke, Feld- und Ufergehölz, Uferwiese, extensiv genutzte Wiese, extensiv genutzte Weide oder als Waldweide bewirtschaftet wird. Diese Anforderungen gelten auch für die entsprechende Bewirtschaftung von Flächen ausserhalb der landwirtschaftlichen Nutzfläche.
 
 4bis Reicht der Gewässerraum bei Strassen und Wegen mit einer Tragschicht oder bei Eisenbahnlinien entlang von Gewässern landseitig nur wenige Meter über die Verkehrsanlage hinaus, so kann die Behörde für den landseitigen Teil des Gewässerraums Ausnahmen von den Bewirtschaftungseinschränkungen nach den Absätzen 3 und 4 bewilligen, wenn keine Dünger oder Pflanzenschutzmittel ins Gewässer gelangen können.
 
