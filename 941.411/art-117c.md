@@ -6,6 +6,6 @@ BARBARA besteht aus:
 
   - b. Daten über den Austausch von Mitteilungen und Informationen;
 
-  - c. Daten über Ereignisse in Verbindung mit dem Verkehr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver;
+  - c. …
 
   - d. Fachdokumentation.

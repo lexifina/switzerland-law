@@ -2,7 +2,7 @@
 
 1 Folgende Behörden können im Abrufverfahren auf die Daten in BARBARA zugreifen:
 
-  - a. die ZSP und die Stellen der Kantone, die für den Vollzug der Sprengstoffgesetzgebung zuständig sind;
+  - a. die ZSE;
 
   - b. die Bundeskriminalpolizei zur Erfüllung der Aufgaben nach dem Bundesgesetz vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes, der Strafprozessordnung und dem Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz.
 

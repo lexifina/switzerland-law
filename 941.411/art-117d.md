@@ -1,6 +1,6 @@
 # Art. 117d Inhalt
 
-Die ZSP bearbeitet in BARBARA folgende personenbezogene Angaben:
+1 Die ZSE bearbeitet in BARBARA folgende personenbezogene Angaben:
 
   - a. zugewiesene Identifikationsnummern (Art. 24);
 
@@ -14,8 +14,4 @@ Die ZSP bearbeitet in BARBARA folgende personenbezogene Angaben:
 
   - f. die Verwaltung von Schriftverkehr und Geschäften.
 
-2 BARBARA enthält folgende anonymisierte Daten über den Verkehr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver:
-
-  - a. Polizeirapporte;
-
-  - b. Untersuchungsberichte, namentlich des Wissenschaftlichen Forschungsdienstes des Forensischen Institutes Zürich.
+2 …
