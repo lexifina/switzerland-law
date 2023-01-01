@@ -2,7 +2,7 @@
 
 1 Die FINMA kann eine Finanzgruppe oder ein bank- oder effektenhandelsdominiertes Finanzkonglomerat der Gruppen- oder Konglomeratsaufsicht unterstellen, wenn diese oder dieses:
 
-  - a. in der Schweiz eine nach schweizerischem Recht organisierte Bank oder einen Effektenhändler führt; oder
+  - a. in der Schweiz eine nach schweizerischem Recht organisierte Bank oder ein Wertpapierhaus führt; oder
 
   - b. tatsächlich von der Schweiz aus geleitet wird.
 
