@@ -12,7 +12,7 @@
 
   - d. die Informationspflichten gegenüber den Versicherten erfüllt werden können.
 
-3 Die Vorsorgeeinrichtungen müssen in der Lage sein, Informationen über den Kapitalertrag, den versicherungstechnischen Risikoverlauf, die Verwaltungskosten, die Deckungskapitalberechnung, die Reservebildung sowie den Deckungsgrad abgeben zu können.
+3 Die Vorsorgeeinrichtungen müssen in der Lage sein, Informationen über den Kapitalertrag, den versicherungstechnischen Risikoverlauf, die Verwaltungskosten, die Deckungskapitalberechnung, die Reservebildung, den Deckungsgrad und die Grundsätze zur Ausübung der Stimmpflicht als Aktionärin (Art. 71a) abgeben zu können.
 
 4 Der Bundesrat erlässt Bestimmungen über die Art und Weise, wie diese Informationen unter Beachtung der Verhältnismässigkeit des Aufwandes bis auf Stufe der Vorsorgewerke ausgewiesen werden müssen.
 
