@@ -8,7 +8,7 @@ Ausgenommen von der Schiesspflicht sind:
 
   - c. Angehörige der Armee, die nicht als am Sturmgewehr ausgebildet gelten;
 
-  - d. das militärische Personal der Militärischen Sicherheit;
+  - d. das militärische Personal des Kommandos Militärpolizei;
 
   - e. das militärische Personal des Armeeaufklärungsdetachementes 10;
 
