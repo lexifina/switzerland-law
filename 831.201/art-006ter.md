@@ -8,7 +8,7 @@
 
 4 Der Einarbeitungszuschuss ist nicht geschuldet, wenn die versicherte Person:
 
-  - a. Anspruch auf eine Entschädigung nach dem Bundesgesetz vom 25. September 1952 über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (EOG) hat; oder
+  - a. Anspruch auf eine Entschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952 (EOG) hat; oder
 
   - b. infolge einer krankheits- oder unfallbedingten Arbeitsunterbrechung Anspruch auf Taggelder eines anderen Versicherers hat.
 
