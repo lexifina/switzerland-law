@@ -1,0 +1,3 @@
+# Art. 76l Besondere Anforderungen bei einer Kumulierung von Förderinstrumenten
+
+Werden für ein Filmprojekt Förderinstrumente des BAK kumuliert, namentlich selektive Drehbuchförderung oder Reinvestition von Gutschriften der erfolgsabhängigen Filmförderung ins Treatment- oder Drehbuchschreiben, so sind zum Budget und zum Finanzierungsplan für die nach dieser Verordnung beantragte Koentwicklung zusätzlich ein Gesamtbudget und ein Gesamtfinanzierungsplan einzureichen, wenn die Vorkosten bei Gesuchseinreichung noch nicht abgerechnet sind oder vor Auszahlung der Finanzhilfe für die Koentwicklung nicht abgerechnet werden.
