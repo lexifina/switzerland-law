@@ -2,10 +2,10 @@
 
 1 Das BFE kann eine Gebühr von maximal 25 000 Franken erheben für die Bearbeitung eines Antrags auf Leistung:
 
-  - a. eines Geothermie-Erkundungsbeitrags für die Prospektion (Art. 33 Abs. 1 EnG);
+  - a. eines Investitionsbeitrags für die Prospektion eines Geothermiereservoirs (Art. 27b Abs. 1 Bst. a EnG);
 
-  - b. eines Geothermie-Erkundungsbeitrags für die Exploration (Art. 33 Abs. 1 EnG);
+  - b. eines Investitionsbeitrags für die Erschliessung eines Geothermiereservoirs (Art. 27b Abs. 1 Bst. b EnG);
 
-  - c. eines Beitrags für die direkte Nutzung der Geothermie (Art. 34 Abs. 2 CO2-Gesetz vom 23. Dezember 2011).
+  - c. eines Beitrags für die direkte Nutzung der Geothermie für die Wärmebereitstellung (Art. 34 Abs. 2 CO2-Gesetz).
 
-2 Es kann eine Gebühr von maximal 50 000 Franken erheben für die Bearbeitung eines Antrags auf Leistung einer Geothermie-Garantie (Art. 33 Abs. 2 EnG).
+2 Es kann eine Gebühr von maximal 50 000 Franken erheben für die Bearbeitung eines Antrags auf Leistung einer Geothermie-Garantie (Art. 33 Abs. 1 EnG).

@@ -4,6 +4,6 @@ Das BFE und die Elektrizitätskommission (ElCom) erheben Gebühren namentlich f�
 
   - a. der Stromversorgung;
 
-  - b. den Anschlussbedingungen für Energieerzeugungsanlagen;
+  - b. der Einspeisung netzgebundener Energie und dem Eigenverbrauch;
 
   - c. den Zuschlägen auf die Übertragungskosten der Hochspannungsnetze.
