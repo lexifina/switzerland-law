@@ -1,0 +1,3 @@
+# Art. 10a Verwendung von schweizerischen Herkunftsangaben nach einer Änderung in der Liste des Selbstversorgungsgrades von Rohstoffen
+
+Werden mit einer Änderung in der Liste des Selbstversorgungsgrades von Rohstoffen nach Artikel 7a Absatz 3 die Anforderungen an die Verwendung von schweizerischen Herkunftsangaben für ein Lebensmittel erhöht, so darf ein Hersteller noch während zwölf Monaten vermuten, dass die Berechnung nach bisheriger Liste erfolgen kann, und die Lebensmittel entsprechend kennzeichnen. Die entsprechend gekennzeichneten Lebensmittel dürfen bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
