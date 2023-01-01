@@ -6,7 +6,7 @@
 
   - b. in Einrichtungen oder durch Personen nach Artikel 24 Absätze 1 Buchstabe b, 1bis und 2;
 
-  - c. in weiteren Probenentnahmestellen, sofern die Probenentnahme unter Aufsicht von nach Artikel 16 EpG bewilligten Laboratorien erfolgt und die Probenentnahmestelle diese Tätigkeit dem Kanton gemeldet hat.
+  - c. …
 
 2 Die Probenentnahmestelle muss die Identität der zu testenden Person prüfen. Die Probenentnahme muss durch eine geschulte Person durchgeführt werden.
 
