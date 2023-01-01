@@ -4,6 +4,8 @@
 
 2 Sie melden der Meldestelle zudem unverzüglich Verfügungen, die sie aufgrund einer Anzeige der Meldestelle erlassen haben.
 
-3 Sie können der FINMA, der ESBK und der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS alle Informationen und Unterlagen erteilen, die diese im Rahmen der Erfüllung ihrer Aufgabe verlangen, sofern das Strafverfahren nicht beeinträchtigt wird.
+2bis Sie verwenden die von der Meldestelle weitergeleiteten Informationen nach den von dieser im Einzelfall in Übereinstimmung mit Artikel 29 Absatz 2ter festgelegten Bedingungen.
 
-4 Die FINMA, die ESBK und die interkantonale Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden. Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.
+3 Sie können der FINMA, der ESBK, der interkantonalen Behörde und dem Zentralamt alle Informationen erteilen und Unterlagen übermitteln, die diese im Rahmen der Erfüllung ihrer Aufgabe verlangen, sofern das Strafverfahren nicht beeinträchtigt wird.
+
+4 Die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden. Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.
