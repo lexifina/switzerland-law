@@ -4,6 +4,6 @@
 
 2 Zur Förderung der Wiedereingliederung inländischer Arbeitskräfte wird die Beteiligung des Bundes für den Zeitraum von 2020 bis 2022 um 69,5 Millionen Franken pro Jahr erhöht.
 
-3 Der Bund leistet in den Jahren 2020, 2021 und 2022 jeweils einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsummen der ausserordentlichen Beiträge für die Jahre 2020, 2021 und 2022 bemessen sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des jeweiligen Jahres.
+3 …
 
-4 Ist vorauszusehen, dass der Schuldenstand des Ausgleichsfonds Ende des Jahres 2021 2,5 Prozent der von der Beitragspflicht erfassten Lohnsumme überschreiten wird, und ist diese Überschreitung auf die Covid-19-Epidemie zurückzuführen, so kann der Bund einen ausserordentlichen Beitrag an den Ausgleichsfonds leisten.
+4 …
