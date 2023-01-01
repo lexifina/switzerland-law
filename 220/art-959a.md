@@ -54,9 +54,13 @@
 
     - c. gesetzliche Gewinnreserve,
 
-    - d. freiwillige Gewinnreserven oder kumulierte Verluste als Minusposten,
+    - d. freiwillige Gewinnreserven,
 
-    - e. eigene Kapitalanteile als Minusposten.
+    - e. eigene Kapitalanteile als Minusposten,
+
+    - f. Gewinnvortrag oder Verlustvortrag als Minusposten,
+
+    - g. Jahresgewinn oder Jahresverlust als Minusposten.
 
 3 Weitere Positionen müssen in der Bilanz oder im Anhang einzeln ausgewiesen werden, sofern dies für die Beurteilung der Vermögens- oder Finanzierungslage durch Dritte wesentlich oder aufgrund der Tätigkeit des Unternehmens üblich ist.
 

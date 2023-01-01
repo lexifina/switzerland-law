@@ -14,6 +14,8 @@
 
   - 6. die Einschränkung oder Aufhebung des Bezugsrechtes;
 
+  - 6bis. den Wechsel der Währung für das Stammkapital;
+
   - 7. die Zustimmung zu Tätigkeiten der Geschäftsführer sowie der Gesellschafter, die gegen die Treuepflicht oder das Konkurrenzverbot verstossen;
 
   - 8. den Antrag an das Gericht, einen Gesellschafter aus wichtigem Grund auszuschliessen;
@@ -22,6 +24,8 @@
 
   - 10. die Verlegung des Sitzes der Gesellschaft;
 
+  - 10bis. die Einführung einer statutarischen Schiedsklausel;
+
   - 11. die Auflösung der Gesellschaft.
 
-2 Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt werden.
+2 Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt, geändert oder aufgehoben werden.

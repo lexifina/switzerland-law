@@ -18,7 +18,7 @@
 
   - 3. Firma, Rechtsform und Sitz der Unternehmen, an denen direkte oder wesentliche indirekte Beteiligungen bestehen, unter Angabe des Kapital- und des Stimmenanteils;
 
-  - 4. Anzahl eigener Anteile, die das Unternehmen selbst und die Unternehmen, an denen es beteiligt ist, halten;
+  - 4. Anzahl eigener Anteile, die das Unternehmen selbst oder die von ihm kontrollierten Unternehmen (Art. 963) halten;
 
   - 5. Erwerb und Veräusserung eigener Anteile und die Bedingungen, zu denen sie erworben oder veräussert wurden;
 
@@ -38,7 +38,9 @@
 
   - 13. wesentliche Ereignisse nach dem Bilanzstichtag;
 
-  - 14. bei einem vorzeitigen Rücktritt der Revisionsstelle: die Gründe, die dazu geführt haben.
+  - 14. bei einem vorzeitigen Rücktritt oder einer Abberufung der Revisionsstelle: die Gründe, die dazu geführt haben;
+
+  - 15. alle Kapitalerhöhungen und Kapitalherabsetzungen, die der Verwaltungsrat innerhalb eines Kapitalbands vorgenommen hat.
 
 3 Einzelunternehmen und Personengesellschaften können auf die Erstellung des Anhangs verzichten, wenn sie nicht zur Rechnungslegung nach den Vorschriften für grössere Unternehmen verpflichtet sind. Werden in den Vorschriften zur Mindestgliederung von Bilanz und Erfolgsrechnung zusätzliche Angaben gefordert und wird auf die Erstellung eines Anhangs verzichtet, so sind diese Angaben direkt in der Bilanz oder in der Erfolgsrechnung auszuweisen.
 

@@ -1,5 +1,3 @@
 # Art. 697b
 
-1 Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre, die zusammen mindestens 10 Prozent des Aktienkapitals oder Aktien im Nennwert von 2 Millionen Franken vertreten, innert dreier Monate das Gericht ersuchen, einen Sonderprüfer einzusetzen.
-
-2 Die Gesuchsteller haben Anspruch auf Einsetzung eines Sonderprüfers, wenn sie glaubhaft machen, dass Gründer oder Organe Gesetz oder Statuten verletzt und damit die Gesellschaft oder die Aktionäre geschädigt haben.
+Wird die Auskunft oder die Einsicht ganz oder teilweise verweigert oder verunmöglicht, so können die Aktionäre innerhalb von 30 Tagen vom Gericht die Anordnung der Auskunft oder Einsicht verlangen.

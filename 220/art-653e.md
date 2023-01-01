@@ -1,7 +1,7 @@
 # Art. 653e
 
-1 Wandel- oder Optionsrechte werden durch eine schriftliche Erklärung ausgeübt, die auf die Statutenbestimmung über die bedingte Kapitalerhöhung hinweist; verlangt das Gesetz einen Emissionsprospekt, so nimmt die Erklärung auch auf diesen Bezug.
+1 Die Erklärung zur Ausübung der Wandel- oder Optionsrechte weist auf die Statutenbestimmung über das bedingte Kapital hin; verlangt das Gesetz einen Prospekt, so weist die Erklärung auch darauf hin.
 
-2 Die Leistung der Einlage durch Geld oder Verrechnung muss bei einem Bankinstitut erfolgen, das dem Bankengesetz vom 8. November 1934 unterstellt ist.
+2 Einlagen in Geld müssen bei einer Bank nach Artikel 1 Absatz 1 des Bankengesetzes vom 8. November 1934 zur ausschliesslichen Verfügung der Gesellschaft hinterlegt werden.
 
 3 Die Aktionärsrechte entstehen mit der Erfüllung der Einlagepflicht.

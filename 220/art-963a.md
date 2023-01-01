@@ -18,10 +18,10 @@
 
   - 1. dies für eine möglichst zuverlässige Beurteilung der wirtschaftlichen Lage notwendig ist;
 
-  - 2. Gesellschafter, die mindestens 20 Prozent des Grundkapitals vertreten oder 10 Prozent der Genossenschafter oder 10 Prozent der Vereinsmitglieder dies verlangen;
+  - 2. Gesellschafter, die mindestens 20 Prozent des Grundkapitals vertreten, oder 10 Prozent der Genossenschafter oder 20 Prozent der Vereinsmitglieder dies verlangen;
 
   - 3. ein Gesellschafter oder ein Vereinsmitglied, der oder das einer persönlichen Haftung oder einer Nachschusspflicht unterliegt, dies verlangt; oder
 
   - 4. die Stiftungsaufsichtsbehörde dies verlangt.
 
-3 Verzichtet eine juristische Person gemäss Absatz 1 Ziffer 2 auf die Erstellung der Konzernrechnung für den Unterkonzern, so muss sie die Konzernrechnung des Oberkonzerns nach den Vorschriften für die eigene Jahresrechnung bekannt machen.
+3 Erfolgt die Rechnungslegung nicht in Franken, so ist zur Festlegung der Werte gemäss Absatz 1 Ziffer 1 für die Bilanzsumme der Umrechnungskurs zum Bilanzstichtag und für den Umsatzerlös der Jahresdurchschnittskurs massgebend.

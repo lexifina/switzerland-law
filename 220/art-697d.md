@@ -1,9 +1,11 @@
 # Art. 697d
 
-1 Die Sonderprüfung ist innert nützlicher Frist und ohne unnötige Störung des Geschäftsganges durchzuführen.
+1 Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre innerhalb von drei Monaten vom Gericht die Anordnung einer Sonderuntersuchung verlangen, sofern sie zusammen mindestens über eine der folgenden Beteiligungen verfügen:
 
-2 Gründer, Organe, Beauftragte, Arbeitnehmer, Sachwalter und Liquidatoren müssen dem Sonderprüfer Auskunft über erhebliche Tatsachen erteilen. Im Streitfall entscheidet das Gericht.
+  - 1. bei Gesellschaften, deren Aktien an einer Börse kotiert sind: 5 Prozent des Aktienkapitals oder der Stimmen;
 
-3 Der Sonderprüfer hört die Gesellschaft zu den Ergebnissen der Sonderprüfung an.
+  - 2. bei anderen Gesellschaften, deren Aktien nicht an einer Börse kotiert sind: 10 Prozent des Aktienkapitals oder der Stimmen.
 
-4 Er ist zur Verschwiegenheit verpflichtet.
+2 Das Begehren auf Anordnung einer Sonderuntersuchung kann sich auf alle Fragen erstrecken, die Gegenstand des Begehrens um Auskunft oder Einsicht waren oder die in der Beratung des Antrags auf Durchführung einer Sonderuntersuchung in der Generalversammlung angesprochen wurden, soweit ihre Beantwortung für die Ausübung der Aktionärsrechte erforderlich ist.
+
+3 Das Gericht ordnet die Sonderuntersuchung an, wenn die Gesuchsteller glaubhaft machen, dass Gründer oder Organe Gesetz oder Statuten verletzt haben und die Verletzung geeignet ist, die Gesellschaft oder die Aktionäre zu schädigen.

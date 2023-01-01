@@ -14,6 +14,8 @@
 
   - 6. die Erstellung des Geschäftsberichtes sowie die Vorbereitung der Generalversammlung und die Ausführung ihrer Beschlüsse;
 
-  - 7. die Benachrichtigung des Gerichts im Falle der Überschuldung.
+  - 7. die Einreichung eines Gesuchs um Nachlassstundung und die Benachrichtigung des Gerichts im Falle der Überschuldung;
+
+  - 8. bei Gesellschaften, deren Aktien an einer Börse kotiert sind: die Erstellung des Vergütungsberichts.
 
 2 Der Verwaltungsrat kann die Vorbereitung und die Ausführung seiner Beschlüsse oder die Überwachung von Geschäften Ausschüssen oder einzelnen Mitgliedern zuweisen. Er hat für eine angemessene Berichterstattung an seine Mitglieder zu sorgen.

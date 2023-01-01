@@ -14,4 +14,4 @@
 
   - 5. die Sacheinlageverträge;
 
-  - 6. bereits vorliegende Sachübernahmeverträge.
+  - 6. …

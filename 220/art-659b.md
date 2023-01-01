@@ -1,7 +1,5 @@
 # Art. 659b
 
-1 Ist eine Gesellschaft an Tochtergesellschaften mehrheitlich beteiligt, so gelten für den Erwerb ihrer Aktien durch diese Tochtergesellschaften die gleichen Einschränkungen und Folgen wie für den Erwerb eigener Aktien.
+1 Kontrolliert eine Gesellschaft ein oder mehrere Unternehmen (Art. 963), so gelten für den Erwerb ihrer Aktien durch diese Unternehmen die Voraussetzungen, Einschränkungen und Folgen für den Erwerb eigener Aktien sinngemäss.
 
-2 Erwirbt eine Gesellschaft die Mehrheitsbeteiligung an einer anderen Gesellschaft, die ihrerseits Aktien der Erwerberin hält, so gelten diese Aktien als eigene Aktien der Erwerberin.
-
-3 Die Reservebildung obliegt der Gesellschaft, welche die Mehrheitsbeteiligung hält.
+2 Die kontrollierende Gesellschaft hat für die Aktien gemäss Absatz 1 einen dem Anschaffungswert dieser Aktien entsprechenden Betrag gesondert als gesetzliche Gewinnreserve auszuweisen.

@@ -6,7 +6,9 @@
 
   - 2. der Antrag des Verwaltungsrats an die Generalversammlung über die Verwendung des Bilanzgewinnes den gesetzlichen Vorschriften und den Statuten entspricht;
 
-  - 3. ein internes Kontrollsystem existiert.
+  - 3. ein internes Kontrollsystem existiert;
+
+  - 4. bei Gesellschaften, deren Aktien an einer Börse kotiert sind, der Vergütungsbericht den gesetzlichen Vorschriften und den Statuten entspricht.
 
 2 Die Revisionsstelle berücksichtigt bei der Durchführung und bei der Festlegung des Umfangs der Prüfung das interne Kontrollsystem.
 

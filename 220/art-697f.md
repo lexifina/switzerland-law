@@ -1,5 +1,9 @@
 # Art. 697f
 
-1 Der Verwaltungsrat unterbreitet der nächsten Generalversammlung den Bericht und die Stellungnahmen dazu.
+1 Die Sonderuntersuchung ist innert nützlicher Frist und ohne unnötige Störung des Geschäftsgangs durchzuführen.
 
-2 Jeder Aktionär kann während eines Jahres nach der Generalversammlung von der Gesellschaft eine Ausfertigung des Berichtes und der Stellungnahmen verlangen.
+2 Gründer, Organe, Beauftragte, Arbeitnehmer, Sachwalter und Liquidatoren müssen den Sachverständigen Auskunft über alle erheblichen Tatsachen erteilen. Im Streitfall entscheidet das Gericht.
+
+3 Die Sachverständigen hören die Gesellschaft zu den Ergebnissen der Sonderuntersuchung an.
+
+4 Sie sind zur Geheimhaltung verpflichtet.

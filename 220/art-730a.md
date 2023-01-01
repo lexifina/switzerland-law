@@ -6,4 +6,4 @@
 
 3 Tritt eine Revisionsstelle zurück, so hat sie den Verwaltungsrat über die Gründe zu informieren; dieser teilt sie der nächsten Generalversammlung mit.
 
-4 Die Generalversammlung kann die Revisionsstelle jederzeit mit sofortiger Wirkung abberufen.
+4 Die Generalversammlung kann die Revisionsstelle nur aus wichtigen Gründen abberufen.

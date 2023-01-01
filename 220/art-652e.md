@@ -2,7 +2,7 @@
 
 Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
-  - 1. die Art und den Zustand von Sacheinlagen oder Sachübernahmen und die Angemessenheit der Bewertung;
+  - 1. die Art und den Zustand von Sacheinlagen und die Angemessenheit der Bewertung;
 
   - 2. den Bestand und die Verrechenbarkeit der Schuld;
 
