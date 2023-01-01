@@ -15,3 +15,5 @@
 4 Die Absätze 2 und 3 gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.
 
 5 Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
+
+6 Absatz 1 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts (OR) geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
