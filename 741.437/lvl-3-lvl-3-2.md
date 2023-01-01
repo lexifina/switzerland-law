@@ -6,7 +6,7 @@
 
   - 3.2.1.2 Die Messung erfolgt am stehenden Fahrzeug, das Getriebe in Neutralstellung. Es muss handelsüblicher Treibstoff ohne rauchmindernde Zusätze verwendet werden.
 
-  - 3.2.1.3 Die Auspuffanlage muss dicht sein. Verfügt ein Fahrzeug über mehrere Auspuffendrohre, ist an jedem eine Messreihe vorzunehmen. Massgebend ist die Messreihe mit dem höchsten Resultat.
+  - 3.2.1.3 Die Auspuffanlage darf weder ein Leck noch eine Vorrichtung aufweisen, das oder die eine Verdünnung der Abgase zur Folge hat. Verfügt ein Fahrzeug über mehrere Auspuffendrohre, ist an jedem eine Messreihe vorzunehmen. Massgebend ist die Messreihe mit dem höchsten Resultat.
 
   - 3.2.1.4 Bei Motoren mit zu- und abschaltbarer Aufladung hat die Rauchentnahme ohne und mit Aufladung zu erfolgen. Das festzuhaltende Messergebnis ist das höhere der beiden Messreihen.
 
@@ -20,7 +20,7 @@
 
   - 3.2.2.1.2 Reparierte Messgeräte sind nach der Messmittelverordnung vom 15. Februar 2006 der zuständigen Stelle zur Nacheichung am Einsatzort zu melden.
 
-  - 3.2.2.1.3…
+  - 3.2.2.1.3 …
 
   - 3.2.2.2 Durchführung der Messung
 
