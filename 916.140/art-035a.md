@@ -13,3 +13,5 @@ Die Kontrollstelle hat ferner die folgenden Pflichten:
   - e. Sie informiert die Öffentlichkeit in geeigneter Form über die Kontrollergebnisse.
 
   - f. Sie legt dem BLW auf Anfrage weitere gewünschte Berichterstattungen vor und übermittelt ihm sämtliche Dokumente, über die sie verfügt oder auf die sie Zugriff hat.
+
+  - g. Sie führt und aktualisiert die Isotopendatenbank der Schweizer Weine gemäss Artikel 35b.
