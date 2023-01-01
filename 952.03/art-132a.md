@@ -1,7 +1,5 @@
-# Art. 132a Banken mit Staatsgarantie oder ähnlichem Mechanismus
+# Art. 132a Besondere Bestimmungen für international tätige systemrelevante Banken
 
-Verfügt eine nicht international tätige systemrelevante Bank über eine ausdrückliche kantonale Staatsgarantie oder über einen ähnlichen Mechanismus, so gilt die Anforderung nach Artikel 132 Absatz 2 Buchstabe b im Umfang des garantierten Betrags:
+1 Hält eine international tätige systemrelevante Bank die zusätzlichen Mittel in Form von hartem Kernkapital oder von Wandlungskapital, das die Anforderungen an zusätzliches Kernkapital erfüllt, so wird ihr dieses Kapitel bis zu einer maximalen Höhe von 2 Prozent bei der Leverage Ratio und bis zu einer maximalen Höhe von 5,8 Prozent bei der RWA-Quote im Sinne von Artikel 132 Absatz 4 bevorzugt angerechnet.
 
-  - a. bis auf maximal die Hälfte der erforderlichen 40 Prozent als erfüllt;
-
-  - b. als vollumfänglich erfüllt, wenn der FINMA im Krisenfall die entsprechenden Mittel unwiderruflich innert kurzer Frist unbelastet zur Verfügung stehen; die FINMA entscheidet im Einzelfall, ob diese Voraussetzungen erfüllt sind.
+2 Für Einheiten nach Artikel 124 Absatz 3 Buchstaben b–d darf die Höhe der Anforderungen an die zusätzlichen Mittel unter Berücksichtigung der Anforderungsreduktion nach Absatz 1 weder 3,75 Prozent bei der Leverage Ratio noch 10 Prozent bei der RWA-Quote unterschreiten.

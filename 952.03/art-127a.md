@@ -2,6 +2,8 @@
 
 1 Bail-in-Bonds, welche die Voraussetzungen von Artikel 126a erfüllen, können an die zusätzlichen verlustabsorbierenden Mittel nach dem 4. Kapitel in der Höhe des Forderungsbetrags angerechnet werden, solange sie noch eine Restlaufzeit von mindestens einem Jahr aufweisen.
 
+1bis Ebenfalls nach Absatz 1 angerechnet werden können von Kantonalbanken ausgegebene Bail-in-Bonds, welche die Voraussetzungen nach Artikel 40a erfüllen.
+
 2 Die zusätzlichen verlustabsorbierenden Mittel sind zeitlich so zu staffeln, dass die Voraussetzungen an die Höhe dieser Mittel auch bei einer vorübergehenden Einschränkung der Mittelaufnahme erfüllt werden können. Die Anforderungen an zusätzliche verlustabsorbierende Mittel dürfen zu höchstens 25 Prozent mit Mitteln mit einer Restlaufzeit von zwischen einem und zwei Jahren erfüllt werden.
 
 3 Soweit Ergänzungskapital in Anwendung der Bestimmungen von Artikel 30 Absatz 2 im Zeitraum von fünf bis einem Jahr vor der Endfälligkeit von der Anrechnung als regulatorische Eigenmittel ausgeschlossen ist, kann es im Rahmen internationaler Standards wie Bail-in-Bonds angerechnet werden, wenn sichergestellt ist, dass diese Instrumente vor Bail-in-Bonds verlusttragend sind.
