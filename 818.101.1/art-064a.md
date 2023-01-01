@@ -10,9 +10,7 @@
 
     - 1. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben,
 
-    - 2. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind,
-
-    - 3. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
+    - 2. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
 2 Die Apothekerinnen und Apotheker müssen:
 

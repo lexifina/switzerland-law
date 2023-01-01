@@ -4,9 +4,7 @@
 
   - a. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben;
 
-  - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind;
-
-  - c. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
+  - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
 2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind.
 
