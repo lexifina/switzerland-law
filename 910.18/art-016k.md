@@ -14,7 +14,7 @@
 
   - b. nicht anders hergestellt auf dem Markt erhältlich sind.
 
-3 Solange das WBF nicht über die Zulässigkeit von Erzeugnissen und Stoffen nach Artikel 16j Absatz 2 Buchstabe c entschieden hat, kann das BLW ihre Verwendung auf Gesuch hin zeitlich und mengenmässig beschränkt bewilligen, wenn die lebensmittelrechtlichen Vorschriften erfüllt sind und eine Mangelsituation vorliegt. Im Gesuch ist darzulegen:
+3 Solange das WBF nicht über die Zulässigkeit von Zutaten landwirtschaftlichen Ursprungs nach Artikel 16j Absatz 2 Buchstabe c entschieden hat, kann das BLW ihre Verwendung in bestimmten Endprodukten auf Gesuch hin für einen Zeitraum von höchstens sechs Monaten bewilligen, wenn die lebensmittelrechtlichen Vorschriften erfüllt sind und eine temporäre Mangelsituation vorliegt. Im Gesuch ist darzulegen:
 
   - a. dass eine Mangelsituation vorliegt;
 
@@ -23,3 +23,7 @@
   - c. wie lange die Mangelsituation voraussichtlich dauern wird;
 
   - d. welche Massnahmen zur Behebung der Mangelsituation getroffen werden sollen.
+
+4 Die Bewilligung nach Absatz 3 kann zweimal für jeweils höchstens sechs Monate verlängert werden.
+
+5 Das WBF kann weitere Kriterien für die Bewilligung oder den Entzug der Bewilligung von Erzeugnissen und Stoffen nach Absatz 3 definieren.

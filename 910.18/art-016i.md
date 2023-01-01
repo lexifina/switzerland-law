@@ -9,3 +9,5 @@ Neben den allgemeinen Grundsätzen nach Artikel 3 gelten für die Herstellung ve
   - c. Stoffe und Herstellungsverfahren, die in Bezug auf die tatsächliche Beschaffenheit des Erzeugnisses irreführend sein könnten, sind nicht gestattet.
 
   - d. Die Lebensmittel müssen sorgfältig verarbeitet werden, vorzugsweise unter Anwendung biologischer, mechanischer und physikalischer Methoden.
+
+  - e. Der Einsatz von Zutaten oder Stoffen, die technisch hergestellte Nanomaterialien enthalten oder aus solchen bestehen, ist nicht zulässig.

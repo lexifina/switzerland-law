@@ -1,7 +1,21 @@
-# Art. 30ater Bescheinigung
+# Art. 30ater Zertifikat
 
-1 Die Zertifizierungsstelle nach Artikel 23a, 28 oder 29 oder gegebenenfalls die Kontrollbehörde nach Artikel 23a stellt jedem Unternehmen, das ihren Kontrollen unterliegt und in ihrem Tätigkeitsbereich die Anforderungen dieser Verordnung erfüllt, eine entsprechende Bescheinigung aus. Die Bescheinigung muss über die Identität des Unternehmens, die Art oder das Sortiment der Erzeugnisse sowie über die Geltungsdauer der Bescheinigung Aufschluss geben.
+1 Die Zertifizierungsstelle nach Artikel 23a, 28 oder 29 oder gegebenenfalls die Kontrollbehörde nach Artikel 23a stellt jedem Unternehmen, das ihren Kontrollen unterliegt und in ihrem Tätigkeitsbereich die Anforderungen dieser Verordnung erfüllt, ein entsprechendes Zertifikat aus. Das Zertifikat muss zumindest über die Identität des Unternehmens, die Kategorie der Erzeugnisse, für die das Zertifikat gilt, und seine Geltungsdauer Aufschluss geben.
 
-2 Die Bescheinigung kann auch elektronisch ausgestellt werden, sofern ihre Authentizität mittels einer anerkannten fälschungssicheren elektronischen Methode gewährleistet ist.
+2 Erzeugniskategorien sind:
 
-3 Die Zertifizierungsstellen sind verpflichtet, ein gemeinsames, aktualisiertes Verzeichnis der gültigen Bescheinigungen zu veröffentlichen. Das BLW kann ihnen vorschreiben, wo die Bescheinigungen veröffentlicht werden müssen.
+  - a. unverarbeitete Pflanzen und Pflanzenerzeugnisse, einschliesslich Saatgut und anderes Pflanzenvermehrungsmaterial;
+
+  - b. Tiere und unverarbeitete tierische Erzeugnisse;
+
+  - c. verarbeitete landwirtschaftliche Erzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind;
+
+  - d. Futtermittel;
+
+  - e. Wein;
+
+  - f. sonstige Erzeugnisse.
+
+3 Das Zertifikat kann auch elektronisch ausgestellt werden, sofern seine Authentizität mittels einer anerkannten fälschungssicheren elektronischen Methode gewährleistet ist.
+
+4 Die Zertifizierungsstellen sind verpflichtet, ein gemeinsames, aktualisiertes Verzeichnis der gültigen Zertifikate zu veröffentlichen. Das BLW kann ihnen vorschreiben, wo die Zertifikate veröffentlicht werden müssen.
