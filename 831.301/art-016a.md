@@ -4,6 +4,6 @@
 
 2 Absatz 1 gilt auch für Personen, denen die Nutzniessung oder ein Wohnrecht an der Liegenschaft zusteht, welche sie bewohnen.
 
-3 Die Pauschale beträgt pro Jahr 2520 Franken.
+3 Die Pauschale beträgt pro Jahr 3060 Franken.
 
 4 Die Begrenzung nach Artikel 10 Absatz 1 Buchstabe b ELG ist zu beachten.
