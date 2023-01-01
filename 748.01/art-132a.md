@@ -1,6 +1,6 @@
 # Art. 132a Minimale Sicherstellung der Haftpflichtansprüche der Reisenden
 
-1 B Die minimale Sicherstellung für Haftpflichtansprüche der Reisenden beträgt 250 000 Sonderziehungsrechte je Reisenden. Bei nichtgewerbsmässigen Flügen, die mit Luftfahrzeugen mit einem Abfluggewicht bis zu 2700 kg durchgeführt werden, kann die minimale Sicherstellung unter diesem Betrag liegen, muss aber mindestens 113 100 Sonderziehungsrechte je Reisenden betragen.
+1 Die minimale Sicherstellung für Haftpflichtansprüche der Reisenden beträgt 250 000 Sonderziehungsrechte je Reisenden. Bei nichtgewerbsmässigen Flügen, die mit Luftfahrzeugen mit einem Abfluggewicht bis zu 2700 kg durchgeführt werden, kann die minimale Sicherstellung unter diesem Betrag liegen, muss aber mindestens 128 821 Sonderziehungsrechte je Reisenden betragen.
 
 2 Bei nichtgewerbsmässigen Flügen ohne Reisende kann auf die Sicherstellung für Haftpflichtansprüche der Reisenden verzichtet werden.
 
