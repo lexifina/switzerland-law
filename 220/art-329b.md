@@ -10,8 +10,10 @@
 
   - b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329f bezogen hat;
 
-  - c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329g bezogen hat; oder
+  - c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329g bezogen hat;
 
-  - d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329i bezogen hat.
+  - d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329i bezogen hat,
+
+  - e. eine Arbeitnehmerin oder ein Arbeitnehmer einen Adoptionsurlaub nach Artikel 329j bezogen hat.
 
 4 Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den Absätzen 2 und 3 abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer im Ganzen mindestens gleichwertig ist.
