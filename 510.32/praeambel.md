@@ -2,6 +2,6 @@
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 92 Absatz 4 des Militärgesetzes (MG),
+gestützt auf Artikel 92 Absatz 4 Buchstabe a des Militärgesetzes vom 3. Februar 1995,
 
 verordnet:
