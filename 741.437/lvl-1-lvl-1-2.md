@@ -12,9 +12,7 @@
 
   - 1.2.2.2 Die Hersteller und die Inhaber der schweizerischen Typengenehmigungen sind verpflichtet, den Markenvertretern rechtzeitig die entsprechenden Wartungsdokumente und die einzutragenden Daten zur Verfügung zu stellen.
 
-  - 1.2.3 Abgabe bei Fehlen des Inhabers der Typengenehmigung oder des
-
-  - Markenvertreters; von der Typengenehmigung befreite Fahrzeuge
+  - 1.2.3 Abgabe bei Fehlen des Inhabers der Typengenehmigung oder des Markenvertreters; von der Typengenehmigung befreite Fahrzeuge
 
   - 1.2.3.1 Für Fahrzeuge, für die in der Schweiz kein Inhaber einer Typengenehmigung oder kein Markenvertreter besteht, kann das Wartungsdokument beispielsweise bei den unten aufgeführten Organisationen bezogen werden. Das Wartungsdokument ist nach den vorhandenen technischen Daten auszufüllen. Sind diese nicht vorhanden, so werden für leichte Motorwagen mit Fremdzündungsmotor die Richtwerte nach Ziffer 2.3 als Sollwerte eingetragen, für Motorwagen mit Selbstzündungsmotor werden die Sollwerte nach Ziffer 3.3 ermittelt.
 
