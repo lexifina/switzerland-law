@@ -1,0 +1,11 @@
+# Art. 38a Festsetzung der Einmalvergütung durch Auktionen
+
+1 Für Projekte zur Erstellung neuer Photovoltaikanlagen ohne Eigenverbrauch ab einer Leistung von 150 kW wird die Höhe der Einmalvergütung durch Auktionen bestimmt.
+
+2 Für Photovoltaikanlagen, die ausserhalb von Bauzonen erstellt werden sollen und die gewisse zusätzliche Kriterien erfüllen, können separate Spezialauktionen durchgeführt werden.
+
+3 Die mittels Auktionen bestimmte Einmalvergütung besteht aus einem Leistungsbeitrag pro Kilowatt installierte Leistung.
+
+4 Weist eine Anlage einen Neigungswinkel von mindestens 75 Grad auf, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Neigungswinkelbonus gemäss Artikel 38 Absatz 1bis oder 1ter gewährt.
+
+5 Erfüllt eine Anlage die Voraussetzungen gemäss Artikel 38 Absatz 1quater, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Höhenbonus gewährt.
