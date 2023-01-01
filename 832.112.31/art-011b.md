@@ -8,6 +8,8 @@
 
 2 Für Leistungen nach Absatz 1 Buchstabe a übernimmt die Versicherung pro ärztliche Anordnung die Kosten für höchstens 15 Abklärungs- und Therapiesitzungen. Der psychologische Psychotherapeut oder die psychologische Psychotherapeutin erstattet vor Ablauf der angeordneten Anzahl Sitzungen dem anordnenden Arzt oder der anordnenden Ärztin Bericht.
 
-3 Soll die Psychotherapie für Leistungen nach Absatz 1 Buchstabe a nach 30 Sitzungen zulasten der Versicherung fortgesetzt werden, so ist das Verfahren nach Artikel 3b sinngemäss anwendbar. Der Bericht mit dem Vorschlag zur Fortsetzung erfolgt durch den anordnenden Arzt oder die anordnende Ärztin. Er enthält eine durch einen Facharzt oder eine Fachärztin mit einem Weiterbildungstitel in Psychiatrie und Psychotherapie oder in Kinder- und Jugendpsychiatrie und -psychotherapie erbrachte Fallbeurteilung.
+3 Soll die Psychotherapie für Leistungen nach Absatz 1 Buchstabe a nach 30 Sitzungen zulasten der Versicherung fortgesetzt werden, so ist das Verfahren nach Artikel 3b sinngemäss anwendbar. Der Bericht mit dem Vorschlag zur Fortsetzung erfolgt durch den anordnenden Arzt oder die anordnende Ärztin.
+
+3bis Bei einer von einem Arzt oder einer Ärztin mit einem eidgenössischen oder einem anerkannten ausländischen Weiterbildungstitel in Allgemeiner Innerer Medizin oder in Kinder- und Jugendmedizin angeordneten psychologischen Psychotherapie ist dem Bericht nach Absatz 3 eine durch einen Facharzt oder eine Fachärztin mit einem Weiterbildungstitel in Psychiatrie und Psychotherapie oder in Kinder- und Jugendpsychiatrie und -psychotherapie vorgenommene Fallbeurteilung beizulegen.
 
 4 Für Leistungen nach Absatz 1 Buchstabe b übernimmt die Versicherung höchstens 10 Abklärungs- und Therapiesitzungen.
