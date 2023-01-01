@@ -10,7 +10,7 @@
 
 3 Eine ausdrückliche kantonale Staatsgarantie oder ein ähnlicher Mechanismus ist anrechenbar, wenn die Garantie oder der Mechanismus:
 
-  - a. nach Artikel 132a ERV zur Erfüllung der Anforderungen an die zusätzlichen verlustabsorbierenden Mittel berücksichtigt wird; und
+  - a. nach Artikel 132b ERV zur Erfüllung der Anforderungen an die zusätzlichen verlustabsorbierenden Mittel berücksichtigt wird; und
 
   - b. bei Inanspruchnahme im Krisenfall innert kurzer Frist zu einem anrechenbaren Liquiditätszufluss führt; die FINMA entscheidet im Einzelfall, ob diese Voraussetzung erfüllt ist.
 
