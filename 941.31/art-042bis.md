@@ -1,7 +1,17 @@
 # Art. 42bis
 
-1 Handelsprüfer, die selber oder durch eine Gruppengesellschaft gewerbsmässig Bankedelmetalle handeln, bedürfen einer Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA) nach Artikel 61 Absätze 1, 2 und 4 des Finanzinstitutsgesetzes vom 15. Juni 2018 (FINIG) und unterstehen deren Aufsicht.
+1 Handelsprüfer, die selber oder durch eine Gruppengesellschaft gewerbsmässig mit Bankedelmetallen handeln, bedürfen einer Bewilligung des Zentralamts.
 
-2 Handelt eine Gesellschaft Bankedelmetalle eines Handelsprüfers, zu dessen Gesellschaftsgruppe sie gehört, bedarf sie ebenfalls einer Bewilligung nach Absatz 1.
+2 Die Bewilligung wird dem Handelsprüfer erteilt, wenn:
 
-3 Die Bestimmungen über die Bewilligungsvoraussetzungen für Vermögensverwalter nach Artikel 17 Absatz 1 FINIG finden sinngemäss Anwendung.
+  - a. er als kaufmännische Firma im Handelsregister eingetragen ist;
+
+  - b. er durch seine internen Vorschriften und seine Betriebsorganisation die Erfüllung der Pflichten nach dem GwG sicherstellt;
+
+  - c. er einen guten Ruf geniesst und Gewähr für die Erfüllung der Pflichten nach dem GwG bietet;
+
+  - d. die mit seiner Verwaltung und Geschäftsführung betrauten Personen die Voraussetzungen nach Buchstabe c auch erfüllen; und
+
+  - e. die an ihm qualifiziert Beteiligten einen guten Ruf geniessen und gewährleisten, dass sich ihr Einfluss nicht zum Schaden einer umsichtigen und soliden Geschäftstätigkeit auswirkt.
+
+3 Handelt eine Gesellschaft gewerbsmässig mit Bankedelmetallen eines Handelsprüfers, zu dessen Gesellschaftsgruppe sie gehört, so bedarf sie ebenfalls einer solchen Bewilligung. Die Voraussetzungen nach Absatz 2 müssen erfüllt werden.
