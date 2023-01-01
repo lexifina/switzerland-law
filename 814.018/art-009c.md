@@ -1,9 +1,5 @@
-# Art. 9c Verminderung der diffusen VOC-Emissionen
+# Art. 9c Anpassungen an den Stand der Technik
 
-1 Artikel 9 Absatz 1 Buchstabe c ist erfüllt, wenn:
+1 Das UVEK passt Anhang 3 der technischen Entwicklung an. Es hört vorgängig die betroffenen Wirtschaftszweige und die Kantone an.
 
-  - a. die stationäre Anlage den Anforderungen nach Anhang 3 bereits genügt; oder
-
-  - b. die diffusen VOC-Emissionen nach Massgabe eines von der Oberzolldirektion genehmigten Massnahmenplans so vermindert werden, dass die stationäre Anlage spätestens am 31. Dezember 2022 (Laufzeit) den Anforderungen nach Anhang 3 genügt.
-
-2 Das UVEK passt Anhang 3 sowie die Laufzeit nach Absatz 1 Buchstabe b alle fünf Jahre nach Anhörung der betroffenen Wirtschaftszweige und der Kantone an. Es berücksichtigt dabei die technische Entwicklung.
+2 Die VOC-Emissionen aus stationären Anlagen, die aufgrund einer Anpassung nach Absatz 1 nicht mehr nach den Anforderungen nach Anhang 3 vermindert werden, bleiben von der Abgabe befreit, wenn die Anlage spätestens innerhalb von drei Jahren ab dem Zeitpunkt des Inkrafttretens der Anpassung die Anforderungen von Anhang 3 wieder erfüllt.
