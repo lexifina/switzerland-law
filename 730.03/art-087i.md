@@ -1,0 +1,3 @@
+# Art. 87i Definitive Festsetzung des Investitionsbeitrags
+
+Sind die Anspruchsvoraussetzungen zum Zeitpunkt der Bauabschlussmeldung noch erfüllt, so setzt das BFE den Investitionsbeitrag anhand der tatsächlich angefallenen Investitionskosten definitiv fest.

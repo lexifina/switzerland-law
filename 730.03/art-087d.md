@@ -1,0 +1,7 @@
+# Art. 87d Gesuch
+
+1 Das Gesuch um einen Investitionsbeitrag ist beim BFE einzureichen.
+
+2 Es kann erst gestellt werden, wenn die Resultate von Windmessungen für den Standort einer neuen Anlage oder die Betriebsdaten bestehender Windenergieanlagen und ein Gutachten zum Energieertrag am Standort der Windenergieanlage vorliegen. Die Messungen und das Ertragsgutachten müssen die Mindestanforderungen nach Anhang 2.4 erfüllen.
+
+3 Das Gesuch hat sämtliche Angaben und Unterlagen nach Anhang 2.4 zu enthalten.
