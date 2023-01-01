@@ -4,6 +4,6 @@
 
 2 Die Kontrollämter sind verpflichtet, derartige Tatsachen unverzüglich dem Zentralamt mitzuteilen, unter Beilegung allfälliger Beweismittel wie Urkunden und Angaben von Zeugen.
 
-3 Das Zentralamt gibt dem Inhaber der Bewilligung von den Entziehungsgründen schriftlich Kenntnis und setzt ihm eine angemessene Frist zur Einreichung einer schriftlichen Vernehmlassung.
+3 Das Zentralamt gibt dem Inhaber der Schmelzbewilligung von den Entziehungsgründen schriftlich Kenntnis und setzt ihm eine angemessene Frist zur Einreichung einer schriftlichen Vernehmlassung.
 
-4 Nach dem Eingang der Vernehmlassung ordnet es die erforderlichen Untersuchungsmassnahmen an und trifft hierauf seinen Entscheid. Es teilt dem Inhaber der Bewilligung den Entscheid schriftlich mit.
+4 Nach dem Eingang der Vernehmlassung ordnet es die erforderlichen Untersuchungsmassnahmen an und trifft hierauf seinen Entscheid. Es teilt dem Inhaber der Schmelzbewilligung den Entscheid schriftlich mit.
