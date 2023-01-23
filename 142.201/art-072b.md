@@ -2,7 +2,7 @@
 
 1 Zur Überprüfung des guten Rufes der mit der Ausfertigung des biometrischen Ausländerausweises betrauten Stelle kann das SEM nach Artikel 41b AIG neben der Anordnung einer Personensicherheitsprüfung namentlich die folgenden Unterlagen von natürlichen oder von juristischen Personen oder deren Organen einfordern:
 
-  - a. Auszug aus dem Zentralstrafregister;
+  - a. Privatauszug aus dem Strafregister-Informationssystem VOSTRA;
 
   - b. Auszug aus dem Handelsregister;
 
