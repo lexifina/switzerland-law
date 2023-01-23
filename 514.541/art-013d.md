@@ -4,7 +4,7 @@
 
 2 Das Formular ist mit den folgenden Beilagen bei der zuständigen kantonalen Behörde einzureichen:
 
-  - a. Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Einreichung des Gesuchs ausgestellt wurde;
+  - a. …
 
   - b. Kopie eines gültigen Passes oder einer gültigen Identitätskarte;
 
