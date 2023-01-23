@@ -14,7 +14,7 @@
 
   - 2. die für die Führung des automatisierten Polizeifahndungssystem nach Artikel 15 des Bundesgesetzes vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes zuständige Stelle des Bundes und die Filtrierstellen der im Fahndungssystem ausschreibenden kantonalen und städtischen Polizeikorps;
 
-  - 3. die für die Führung des automatisierten Strafregisters nach Artikel 359 des Strafgesetzbuches zuständige Stelle des Bundes;
+  - 3. die für die Führung des Strafregister-Informationssystems VOSTRA nach Art. 3 des Strafregistergesetzes vom 17. Juni 2016 zuständige Stelle des Bundes;
 
   - 4. die für die Nachforschungen nach vermissten Personen zuständige Stelle des Bundes;
 
