@@ -6,7 +6,7 @@
 
   - b. zentrales Migrationsinformationssystem;
 
-  - c. automatisiertes Strafregister;
+  - c. Strafregister-Informationssystem VOSTRA;
 
   - d. Staatsschutz-Informations-System;
 
