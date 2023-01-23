@@ -8,7 +8,7 @@ Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 
   - c. Nachweis der Qualifikation nach Artikel 2 Absatz 2 Buchstabe d;
 
-  - d. Auszug aus dem Zentralstrafregister sowie aus dem Schuldbetreibungs- und Konkursregister der mit der Geschäftsführung betrauten Personen;
+  - d. Privatauszug aus dem Strafregister-Informationssystem VOSTRA sowie Auszug aus dem Schuldbetreibungs- und Konkursregister der mit der Geschäftsführung betrauten Personen;
 
   - e. Liste aller Strafuntersuchungen sowie straf- und zivilrechtlichen Prozesse der letzten zehn Jahre der mit der Geschäftsführung betrauten Personen;
 
