@@ -6,7 +6,7 @@
 
   - b. einen Auszug der Eintragung im Schweizerischen Handelsregister;
 
-  - c. einen Auszug aus dem Schweizerischen Strafregister;
+  - c. einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA;
 
   - d. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren, sofern sich diese Angaben auf den guten Ruf und die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten; und
 
@@ -16,7 +16,7 @@
 
   - a. einen Auszug der Eintragung im Schweizerischen Handelsregister;
 
-  - b. einen Auszug aus dem Schweizerischen Strafregister für die leitenden Personen und die Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen;
+  - b. einen Privatauszug aus dem Strafregister-Informationssystem VOSTRA für die leitenden Personen und die Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen;
 
   - c. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Geschäftsführung betrauten Personen und gegen Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen, sofern sich diese Angaben auf den guten Ruf und die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten; und
 

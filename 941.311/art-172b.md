@@ -18,6 +18,6 @@
 
   - b. einen Beschrieb der Geschäftstätigkeiten, der finanziellen Situation und, gegebenenfalls, der Gruppenstruktur;
 
-  - c. ein Strafregisterauszug für die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, ausgestellt durch die nationale Behörde des Staates, in dem sich der Wohnsitz befindet;
+  - c. ein Privatauszug aus dem Strafregister-Informationssystem VOSTRA für die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, ausgestellt durch die nationale Behörde des Staates, in dem sich der Wohnsitz befindet;
 
   - d. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, sofern sich diese Angaben auf die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten.
