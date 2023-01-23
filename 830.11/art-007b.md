@@ -2,7 +2,7 @@
 
 1 Die Bewilligung wird erteilt, wenn:
 
-  - a. im Privatauszug der gesuchstellenden Person nach Artikel 371 des Strafgesetzbuchs kein Delikt aufgeführt ist, das einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lässt;
+  - a. im Privatauszug der gesuchstellenden Person nach Artikel 41 des Strafregistergesetzes vom 17. Juni 2016 kein Delikt aufgeführt ist, das einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lässt;
 
   - b. die gesuchstellende Person erklärt, dass gegen sie keine hängigen Strafverfahren und keine hängigen oder in den letzten zehn Jahren abgeschlossenen Zivilverfahren wegen einer Persönlichkeitsverletzung nach den Artikeln 28–28b des Zivilgesetzbuchs vorliegen, die einen Bezug zur bewilligungspflichtigen Tätigkeit erkennen lassen und die Gewähr für eine einwandfreie Ausübung dieser Tätigkeit und den guten Ruf beeinträchtigen können;
 
