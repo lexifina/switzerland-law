@@ -6,6 +6,8 @@
 
   - a. wesentliche Änderungen der Statuten, der Organisation, der Tätigkeit und des Konzepts;
 
-  - b. Wechsel der geschäftsführenden Personen;
+  - b. Wechsel der geschäftsführenden sowie mit den Dienstleistungen betrauten Personen;
 
   - c. die Erweiterung, Verlegung oder Einstellung der Tätigkeit.
+
+3 Die Behörde prüft die Meldungen und holt bei Änderungen nach Absatz 2 Buchstabe b einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA ein.

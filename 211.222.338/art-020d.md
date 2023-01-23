@@ -24,6 +24,8 @@
 
   - c. Entscheidungen, die einen wesentlichen Einfluss auf das Leben der betreuten Kinder haben, sowie deren Meinung zu diesen Entscheidungen.
 
+3bis Die Anbieterinnen und Anbieter führen zudem ein Verzeichnis mit den Personalien der geschäftsführenden und der mit den Dienstleistungen betrauten Personen.
+
 4 Die Verzeichnisse sind der Behörde jährlich zuzustellen.
 
 5 Die Behörde kann zusätzliche Unterlagen und Auskünfte verlangen.
