@@ -12,6 +12,6 @@
 
   - e. klärt ab, ob der Gesuchsteller im IVZ-Massnahmen verzeichnet ist.
 
-2 Sie kann einen Auszug aus dem Strafregister und in Zweifelsfällen einen polizeilichen Führungsbericht einholen.
+2 Sie kann einen Behördenauszug 3 aus dem Strafregister-Informationssystem VOSTRA und in Zweifelsfällen einen polizeilichen Führungsbericht einholen.
 
 3 Personen mit Epilepsie werden nur aufgrund eines befürwortenden Berichtes eines Facharztes für Neurologie zum Verkehr zugelassen.
