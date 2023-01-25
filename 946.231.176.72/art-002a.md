@@ -12,10 +12,14 @@
 
 6 Die Verbote nach den Absätzen 1 und 3 gelten nicht für Güter und Dienstleistungen, die durch die Organisation für das Verbot chemischer Waffen gemäss Artikel X Absatz 7 des Chemiewaffenübereinkommens vom 13. Januar 1993 bei der Schweiz als Hilfeleistungen angefordert werden.
 
-7 Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) für die folgenden Stoffe Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen, wenn sie für Trägersysteme, die von europäischen Startorganisationen betrieben werden, für Starts im Rahmen von europäischen Raumfahrtprogrammen oder zur Betankung von Satelliten durch europäische Satellitenhersteller verwendet werden:
+7 Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen:
 
-  - a. Hydrazin (CAS-Nr. 302-01-2);
+  - a. für die folgenden Stoffe, wenn sie für Trägersysteme, die von europäischen Startorganisationen betrieben werden, für Starts im Rahmen von europäischen Raumfahrtprogrammen oder zur Betankung von Satelliten durch europäische Satellitenhersteller verwendet werden:
 
-  - b. unsymmetrisches Dimethylhydrazin (CAS-Nr. 57-14-7);
+    - 1. Hydrazin (CAS-Nr. 302-01-2),
 
-  - c. Monomethylhydrazin (CAS-Nr. 60-34-4).
+    - 2. unsymmetrisches Dimethylhydrazin (CAS-Nr. 57-14-7),
+
+    - 3. Monomethylhydrazin (CAS-Nr. 60-34-4);
+
+  - b. Minenräumungsgeräte und Material zur Verwendung bei Minenräumungsaktionen, die ausschliesslich für humanitäre Zwecke bestimmt sind.

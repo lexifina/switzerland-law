@@ -4,21 +4,27 @@
 
 1bis Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
 
-2 Die Verbote nach den Absätzen 1 und 1bis gelten nicht für:
+1ter Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Markt- und Meinungsforschung, technische physikalische und chemische Untersuchung sowie Werbung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
 
-  - a. Dienstleistungen, die für die Wahrnehmung des Rechts auf Verteidigung in Gerichtsverfahren oder des Rechts auf eine wirksame Beschwerde erforderlich sind;
+2 Die Verbote nach den Absätzen 1–1ter gelten nicht für Dienstleistungen, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats oder des Vereinigten Königreichs gegründet oder eingetragen sind.
 
-  - b. Dienstleistungen, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats oder des Vereinigten Königreichs gegründet oder eingetragen sind;
+2bis Die Verbote nach den Absätzen 1 und 1bis gelten nicht für Dienstleistungen, die erforderlich sind:
 
-  - c. Dienstleistungen, die zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich erforderlich sind.
+  - a. zur Wahrnehmung des Rechts auf Verteidigung in Gerichtsverfahren oder des Rechts auf eine wirksame Beschwerde;
 
-2bis Das Verbot nach Absatz 1bis gilt nicht für:
+  - b. zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich erforderlich sind.
 
-  - a. Dienstleistungen, die für Notlagen im Bereich der öffentlichen Gesundheit, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder für die Bewältigung von Naturkatastrophen erforderlich sind;
+2ter Die Verbote nach den Absätzen 1bis und 1ter gelten nicht für Dienstleistungen, die erforderlich sind:
 
-  - b. Dienstleistungen, die für die Aktualisierung von Software für nichtmilitärische Zwecke und für nichtmilitärische Endnutzerinnen und Endnutzer erforderlich sind.
+  - a. für die Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit;
 
-3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 1bis bewilligen für Dienstleistungen, die erforderlich sind für:
+  - b. für die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird;
+
+  - c. für die Bewältigung von Naturkatastrophen.
+
+2quater Das Verbot nach Absatz 1bis gilt nicht für Dienstleistungen, die für die Aktualisierung von Software für nichtmilitärische Zwecke und für nichtmilitärische Endnutzerinnen und Endnutzer erforderlich sind.
+
+3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–1ter bewilligen für Dienstleistungen, die erforderlich sind für:
 
   - a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen;
 

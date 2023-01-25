@@ -2,6 +2,8 @@
 
 1 Der Handel, die Vermittlung und der Transport, einschliesslich des Umladens zwischen Schiffen, von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation mit oder nach Staaten ausserhalb der Schweiz und des EWR sind verboten.
 
+1bis Der Verkauf, der Transport und die Durchfuhr von Erdölerzeugnissen der Zolltarifnummer 2710, die aus Rohöl aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation gewonnen werden, das nach dem 5. Dezember 2022 nach Bulgarien eingeführt wurde, sind verboten.
+
 2 Die Erbringung von technischer Hilfe, Vermittlungsdiensten und Finanzdienstleistungen sowie die Gewährung von Finanzmitteln im Zusammenhang mit Tätigkeiten nach Absatz 1 sind verboten.
 
 3 Die Erbringung von Dienstleistungen nach Absatz 2 für Schiffe, die Rohöl und Erdölerzeugnisse gemäss Anhang 24 befördert haben, deren Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze überstieg, ist während 90 Tagen ab der Entladung dieser Güter verboten, sofern der für die Beförderung verantwortliche Betreiber wusste oder Grund zur Annahme hatte, dass der Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze überstieg.
@@ -17,3 +19,5 @@
   - d. die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen, sofern das SECO unverzüglich nach Feststellung des Ereignisses oder der Naturkatastrophe unterrichtet wurde.
 
 5 Das Verbot nach Absatz 1 gilt nicht für die Erbringung von Lotsendiensten, die aus Gründen der Sicherheit des Seeverkehrs erforderlich sind.
+
+6 Alle Transaktionen zum Kauf oder zum Transport in Staaten ausserhalb der Schweiz und des EWR von Erdgaskondensaten der Zolltarifnummer 2709 00 10 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind dem SECO innerhalb von zwei Wochen und unter Angabe der gekauften oder transportierten Mengen zu melden.
