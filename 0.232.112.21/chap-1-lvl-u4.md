@@ -28,7 +28,7 @@
 
   - b) Solange die einschlägigen Erfordernisse nach Absatz 2 nicht erfüllt sind, übersendet das Internationale Büro alle diesbezüglichen Mitteilungen an den Hinterleger oder Inhaber, jedoch nicht an den vermeintlichen Vertreter.
 
-  - c) ….
+  - c) …
 
 4) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
 

@@ -1,3 +1,3 @@
 # Gebührenverzeichnis
 
-(am 1. November 2021 geltender Text)
+(am 1. Februar 2023 geltender Text)

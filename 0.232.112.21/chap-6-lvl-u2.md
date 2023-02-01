@@ -22,7 +22,7 @@
 
   - c) Die internationale Registrierung wird für eine benannte Vertragspartei, für die eine Ungültigerklärung hinsichtlich aller Waren und Dienstleistungen nach Regel 19 Absatz 2 oder ein Verzicht nach Regel 27 Absatz 1 Buchstabe a eingetragen worden ist, nicht erneuert. Die internationale Registrierung wird in Bezug auf eine benannte Vertragspartei für diejenigen Waren und Dienstleistungen nicht erneuert, für die eine Ungültigerklärung der Wirkungen der internationalen Registrierung in dieser Vertragspartei nach Regel 19 Absatz 2 oder eine Einschränkung nach Regel 27 Absatz 1 Buchstabe a eingetragen worden ist.
 
-  - d) ….
+  - d) …
 
   - e) Die Tatsache, dass die internationale Registrierung nicht für alle benannten Vertragsparteien erneuert wird, gilt nicht als Änderung im Sinne des Artikels 7 Absatz 2 des Protokolls.
 
