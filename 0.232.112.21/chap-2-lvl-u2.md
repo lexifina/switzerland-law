@@ -28,11 +28,11 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
 
     - iv) falls der Hinterleger sich aufgrund der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums die Priorität einer früheren Anmeldung zunutze zu machen wünscht, eine Erklärung, in der die Priorität dieser früheren Anmeldung beansprucht wird, zusammen mit der Angabe des Namens der Behörde, bei der die Anmeldung eingereicht wurde, und des Datums sowie, falls vorhanden, die Nummer dieser Anmeldung und, falls sich die frühere Anmeldung nicht auf alle in dem internationalen Gesuch aufgeführten Waren und Dienstleistungen bezieht, die Angabe der Waren und Dienstleistungen, auf die sich die frühere Anmeldung bezieht;
 
-    - v) eine Wiedergabe der Marke, die in das dafür vorgesehene Feld im amtlichen Formblatt passen muss; die Wiedergabe muss deutlich und in Schwarzweiss oder in Farbe sein, je nachdem, ob die Wiedergabe in dem Basisgesuch oder der Basiseintragung in Schwarzweiss oder in Farbe ist;
+    - v) eine Abbildung der Marke, die gemäss den Verwaltungsvorschriften eingereicht wird, muss in Farbe sein, wenn die Farbe gemäss Ziffer vii) beansprucht wird;
 
     - vi) falls der Hinterleger wünscht, dass die Marke als Marke in Standardschriftzeichen angesehen wird, eine dahin gehende Erklärung;
 
-    - vii) falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder der Hinterleger Farbe als unterscheidendes Merkmal der Marke beanspruchen möchte und die im Basisgesuch oder der Basiseintragung enthaltene Marke in Farbe ist, die Angabe, dass Farbe beansprucht wird, und die Angabe der beanspruchten Farbe oder Farbenzusammenstellung in Worten und, falls die unter Ziffer v eingereichte Wiedergabe in Schwarzweiss ist, eine Wiedergabe der Marke in Farbe;
+    - vii) falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder der Hinterleger Farbe als unterscheidendes Merkmal der Marke beanspruchen möchte und die im Basisgesuch oder der Basiseintragung enthaltene Marke in Farbe ist, in Farbe geschützt ist, oder der Schutz der Farbe beantragt wurde, die Angabe, dass Farbe beansprucht wird, und die Angabe der beanspruchten Farbe oder Farbenzusammenstellung in Worten;
 
     - viibis falls die Marke, die Gegenstand des Basisgesuchs oder der Basiseintragung ist, aus einer Farbe oder einer Kombination von Farben an sich besteht, eine dahingehende Angabe;
 
@@ -92,7 +92,7 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
 
     - iv) dass die Marke, die Gegenstand des internationalen Gesuchs ist, dieselbe ist wie im Basisgesuch beziehungsweise in der Basiseintragung;
 
-    - v) dass, falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, derselbe Anspruch in das internationale Gesuch aufgenommen wird, oder, falls Farbe als unterscheidendes Merkmal der Marke im internationalen Gesuch beansprucht wird, ohne im Basisgesuch oder der Basiseintragung beansprucht worden zu sein, die Marke im Basisgesuch oder der Basiseintragung tatsächlich in der beanspruchten Farbe oder Farbkombination ist; und
+    - v) dass, falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder, falls für die Marke im Basisgesuch oder der Basiseintragung der Schutz der Farbe beantragt wurde oder die Marke in Farbe geschützt ist, ein Farbanspruch in das internationale Gesuch aufgenommen wird, oder, falls Farbe als unterscheidendes Merkmal der Marke im internationalen Gesuch beansprucht wird, ohne im Basisgesuch oder der Basiseintragung beansprucht worden zu sein, die Marke im Basisgesuch oder der Basiseintragung tatsächlich in der beanspruchten Farbe oder Farbkombination ist; und
 
     - vi) dass die im internationalen Gesuch angegebenen Waren und Dienstleistungen von dem Verzeichnis der Waren und Dienstleistungen des Basisgesuchs beziehungsweise der Basiseintragung erfasst sind.
 

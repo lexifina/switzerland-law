@@ -8,7 +8,7 @@
 
     - ii) die benannten Vertragsparteien;
 
-    - iii) eine Wiedergabe der Marke;
+    - iii) eine Abbildung der Marke;
 
     - iv) die Angabe der Waren und Dienstleistungen, für die um Registrierung der Marke nachgesucht wird,
 

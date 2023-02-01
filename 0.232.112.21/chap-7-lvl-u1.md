@@ -32,9 +32,9 @@
 
     - xiii) Eintragungen der nach Regel 3 Absatz 2 Buchstabe b mitgeteilten Bestellung des Vertreters des Inhabers und Löschungen auf Antrag des Inhabers oder des Vertreters des Inhabers nach Regel 3 Absatz 6 Buchstabe a.
 
-  - b) Die Wiedergabe der Marke wird in der im internationalen Gesuch erscheinenden Form veröffentlicht. Hat der Hinterleger die in Regel 9 Absatz 4 Buchstabe a Ziffer vi genannte Erklärung abgegeben, so wird in der Veröffentlichung darauf hingewiesen.
+  - b) Die Abbildung der Marke wird in der im internationalen Gesuch eingereichten Form veröffentlicht. Hat der Hinterleger die in Regel 9 Absatz 4 Buchstabe a Ziffer vi genannte Erklärung abgegeben, so wird in der Veröffentlichung darauf hingewiesen.
 
-  - c) Wird eine farbige Wiedergabe der Marke nach Regel 9 Absatz 4 Buchstabe a Ziffer v oder vii eingereicht, so enthält das Blatt sowohl eine Wiedergabe der Marke in Schwarzweiss als auch eine Wiedergabe in Farbe.
+  - c) …
 
 2) [Informationen über besondere Erfordernisse und bestimmte Erklärungen von Vertragsparteien sowie andere allgemeine Informationen]
 
