@@ -18,6 +18,6 @@ Steht der Anmeldetag einer europäischen Patentanmeldung fest, so prüft das Eur
 
   - h) gegebenenfalls den Erfordernissen des Artikels 133 Absatz 2 entsprochen worden ist;
 
-  - i) die Anmeldung den in Regel 46 und Regel 49 Absätze 1−9 und 12a–d vorgeschriebenen Erfordernissen entspricht;
+  - i) die Anmeldung den in Regel 49 Absatz 1 vorgeschriebenen Erfordernissen und den anwendbaren, vom Präsidenten des Europäischen Patentamts nach Regel 49 Absatz 2 vorgeschriebenen Erfordernissen entspricht;
 
   - j) die Anmeldung den in Regel 30 vorgeschriebenen Erfordernissen entspricht.
