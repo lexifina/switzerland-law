@@ -10,7 +10,7 @@
 
   - d. Nummer und Datum der Verfügung oder Mitteilung;
 
-  - e. Versichertennummer nach dem AHVG;
+  - e. AHV-Nummer der versicherten Person;
 
   - f. bei stationärer Behandlung: die auf den Kanton und die Invalidenversicherung entfallenden Anteile.
 
