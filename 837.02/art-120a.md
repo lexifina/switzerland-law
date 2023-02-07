@@ -6,7 +6,7 @@
 
   - a. Angaben über den zu vergütenden Frankenbetrag;
 
-  - b. Versichertennummer der AHV der versicherten Personen;
+  - b. AHV-Nummer der versicherten Personen;
 
   - c. Anzahl ausbezahlter Taggelder;
 
