@@ -24,6 +24,6 @@
 
 3 Es prüft die Voraussetzungen nach Absatz 1 Buchstaben a–g und leitet das Gesuch zum Entscheid an das BAZG weiter.
 
-3bis Das BAZG sind auf Verlangen die Rechnungen über die bezahlten CO2-Abgaben vorzulegen.
+3bis Dem BAZG sind auf Verlangen die Rechnungen über die bezahlten CO2-Abgaben vorzulegen.
 
 4 Der Monitoringbericht nach Absatz 1 Buchstabe d muss insbesondere Angaben über die Entwicklung der CO2-Emissionen, die aufgrund der Stromproduktion entstanden sind, sowie eine Beschreibung der umgesetzten Massnahmen und Investitionen enthalten. Das BAFU macht Vorgaben für die Form des Berichts.

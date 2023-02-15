@@ -6,4 +6,4 @@
 
 3 Es behält jährlich einen Anteil der nach Absatz 1 berechneten Menge zurück, um ihn neuen oder wachstumsstarken Betreibern von Luftfahrzeugen zugänglich zu machen. Die Höhe des Anteils wird nach Anhang 15 Ziffer 4 berechnet.
 
-4 Die Menge an Emissionsrechten nach Absatz 3 wird der Sonderreserve nach Anhang IB des EHS-Abkommens zugewiesen.
+4 Die Menge an Emissionsrechten nach Absatz 3 wird der Sonderreserve nach Anhang IB des Abkommens vom 23. November 2017 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (EHS-Abkommen) zugewiesen.

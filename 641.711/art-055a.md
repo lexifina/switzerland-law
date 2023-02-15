@@ -1,6 +1,6 @@
 # Art. 55a Härtefall
 
-1 Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte im Schweizer EHS gemäss Artikel 4 Absatz 1 des Abkommens vom 23. November 2017 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (EHS-Abkommen) nicht anerkannt sind, europäische Emissionsrechte an die Pflicht eines EHS-Teilnehmers nach Artikel 55 anrechnen, wenn dieser nachweist, dass:
+1 Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte im Schweizer EHS gemäss Artikel 4 Absatz 1 des EHS-Abkommens nicht anerkannt sind, europäische Emissionsrechte an die Pflicht eines EHS-Teilnehmers nach Artikel 55 anrechnen, wenn dieser nachweist, dass:
 
   - a. er seine Pflicht zur Abgabe nach Artikel 55 ohne die Anrechnung nicht erfüllen kann;
 
