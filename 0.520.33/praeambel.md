@@ -10,6 +10,6 @@ in dem Wunsch, den Hohen Vertragsparteien des Abkommens eine Möglichkeit zu bie
 
 in der Erwägung, dass die Vorschriften über den Schutz von Kulturgut bei bewaffneten Konflikten die Entwicklungen des Völkerrechts widerspiegeln sollen;
 
-in Bekräftigung des Grundsatzes, dass die Sätze des Völkergewohnheitsrechts weiterhin für Fragen gelten, die in diesem Protokoll nicht geregelt sind
+in Bekräftigung des Grundsatzes, dass die Sätze des Völkergewohnheitsrechts weiterhin für Fragen gelten, die in diesem Protokoll nicht geregelt sind;
 
 sind wie folgt übereingekommen:
