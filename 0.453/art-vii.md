@@ -4,11 +4,11 @@
 
 2. Hat sich eine Vollzugsbehörde des Ausfuhrstaates oder des Wiederausfuhrstaates vergewissert, dass ein Exemplar erworben wurde, bevor das Übereinkommen auf dieses Exemplar Anwendung fand, so gelten die Artikel III, IV und V für dieses Exemplar nicht, wenn die Vollzugsbehörde eine entsprechende Bescheinigung ausstellt.
 
-3. Die Artikel III, IV und V gelten nicht für Exemplare, bei denen es sich um Gegenstände zum persönlichen Gebrauch oder um Hausrat handelt. Diese Ausnahme gilt nicht
+3. Die Artikel III, IV und V gelten nicht für Exemplare, bei denen es sich um Gegenstände zum persönlichen Gebrauch oder um Hausrat handelt. Diese Ausnahme gilt nicht:
 
   - a) bei Exemplaren der in Anhang I aufgeführten Arten, wenn sie von dem Eigentümer ausserhalb des Staates seines gewöhnlichen Aufenthaltes erworben wurden und in diesen Staat eingeführt werden, oder
 
-  - b) bei Exemplaren der in Anhang II aufgeführten Arten,
+  - b) bei Exemplaren der in Anhang II aufgeführten Arten:
 
     - i) wenn sie von dem Eigentümer ausserhalb des Staates seines gewöhnlichen Aufenthaltes und in einem Staat erworben wurden, in dem die Entnahme aus der freien Natur erfolgte;
 
@@ -24,7 +24,7 @@ es sei denn, dass eine Vollzugsbehörde sich vergewissert hat, dass die Exemplar
 
 6. Im Verkehr zwischen Wissenschaftlern oder wissenschaftlichen Einrichtungen, die bei einer Vollzugsbehörde ihres Staates registriert sind, gelten die Artikel III, IV und V nicht für das nichtgewerbliche Verleihen, Verschenken oder Tauschen von Herbariumsexemplaren, sonstigen haltbargemachten, getrockneten oder festumschlossenen Museumsexemplaren und lebendem Pflanzenmaterial, sofern diese Exemplare und dieses Material mit einem von einer Vollzugsbehörde ausgegebenen oder genehmigten Etikett versehen sind.
 
-7. Eine Vollzugsbehörde eines Staates kann auf die Erfüllung der Erfordernisse der Artikel III, IV und V verzichten und einen genehmigungs- oder bescheinigungsfreien Verkehr mit Exemplaren gestatten, die zu einem Wanderzoo, einem Wanderzirkus, einer nicht ortsfesten Tier- oder Pflanzenschau oder einer sonstigen Wanderausstellung gehören, vorausgesetzt,
+7. Eine Vollzugsbehörde eines Staates kann auf die Erfüllung der Erfordernisse der Artikel III, IV und V verzichten und einen genehmigungs- oder bescheinigungsfreien Verkehr mit Exemplaren gestatten, die zu einem Wanderzoo, einem Wanderzirkus, einer nicht ortsfesten Tier- oder Pflanzenschau oder einer sonstigen Wanderausstellung gehören, vorausgesetzt:
 
   - a) dass der Exporteur oder der Importeur diese Exemplare mit allen erforderlichen Angaben bei der betreffenden Vollzugsbehörde anmeldet;
 

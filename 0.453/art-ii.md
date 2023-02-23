@@ -2,7 +2,7 @@
 
 1. Anhang I enthält alle von der Ausrottung bedrohten Arten, die durch den Handel beeinträchtigt werden können. Um ihr Überleben nicht noch weiter zu gefährden, muss der Handel mit Exemplaren dieser Arten einer besonders strengen Regelung unterworfen und darf nur in Ausnahmefällen zugelassen werden.
 
-2. Anhang II enthält
+2. Anhang II enthält:
 
   - a) alle Arten, die obwohl sie nicht notwendigerweise schon heute von der Ausrottung bedroht sind, davon bedroht werden können, wenn der Handel mit Exemplaren dieser Arten nicht einer strengen Regelung unterworfen wird, damit eine mit ihrem Überleben unvereinbare Nutzung verhindert wird, und
 

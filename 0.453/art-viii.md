@@ -1,6 +1,6 @@
 # Art. VIII Massnahmen, die von den Vertragsparteien zu treffen sind
 
-1. Die Vertragsparteien treffen geeignete Massnahmen zum Vollzug dieses Übereinkommens und zur Verhinderung eines unter Verletzung dieses Übereinkommens stattfindenden Handels mit Exemplaren. Dazu gehören Massnahmen, die
+1. Die Vertragsparteien treffen geeignete Massnahmen zum Vollzug dieses Übereinkommens und zur Verhinderung eines unter Verletzung dieses Übereinkommens stattfindenden Handels mit Exemplaren. Dazu gehören Massnahmen, die:
 
   - a) den Handel mit derartigen Exemplaren oder ihren Besitz oder beides ahnden;
 
@@ -10,7 +10,7 @@
 
 3. Soweit wie möglich sorgen die Vertragsparteien dafür, dass die Abwicklung der für den Handel mit Exemplaren erforderlichen Förmlichkeiten in kürzester Frist erfolgt. Um dies zu erleichtern, können die Vertragsparteien Ausgangs- und Eingangsstellen bestimmen, in denen die Exemplare zur Abfertigung zu stellen sind. Die Vertragsparteien sorgen ferner dafür, dass alle lebenden Exemplare während der Durchfuhr, der Lagerung oder des Versandes in angemessener Weise betreut werden, so dass die Gefahr der Verletzung, Gesundheitsschädigung oder Tierquälerei soweit wie möglich ausgeschaltet wird.
 
-4. Wird ein lebendes Exemplar auf Grund der in Absatz 1 genannten Massnahmen eingezogen,
+4. Wird ein lebendes Exemplar auf Grund der in Absatz 1 genannten Massnahmen eingezogen:
 
   - a) so wird es einer Vollzugsbehörde des Staates, in dem die Einziehung erfolgte, übergeben;
 
@@ -28,7 +28,7 @@
 
   - b) die Zahl und Art der erteilten Genehmigungen und Bescheinigungen, die Staaten, mit denen ein derartiger Handel stattgefunden hat, die Zahlen oder Mengen und Arten der Exemplare, die Namen der in den Anhängen I, II und III aufgeführten Arten und gegebenenfalls die Grösse und das Geschlecht der betreffenden Exemplare.
 
-7. Jede Vertragspartei verfasst periodisch Berichte darüber, wie sie dieses Übereinkommen vollzieht und übermittelt dem Sekretariat
+7. Jede Vertragspartei verfasst periodisch Berichte darüber, wie sie dieses Übereinkommen vollzieht und übermittelt dem Sekretariat:
 
   - a) jährlich einen Bericht mit einer Zusammenfassung der in Absatz 6 Buchstabe b) vorgesehenen Daten und
 

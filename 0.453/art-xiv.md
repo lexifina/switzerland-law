@@ -1,6 +1,6 @@
 # Art. XIV Auswirkung auf innerstaatliche Rechtsvorschriften und auf internationale Übereinkünfte
 
-1. Dieses Übereinkommen berührt nicht das Recht der Vertragsparteien,
+1. Dieses Übereinkommen berührt nicht das Recht der Vertragsparteien:
 
   - a) strengere innerstaatliche Massnahmen hinsichtlich der Bedingungen für den Handel, die Inbesitznahme, den Besitz oder die Beförderung von Exemplaren der in den Anhängen I, II und III aufgeführten Arten zu ergreifen oder diese Tätigkeiten ganz zu verbieten oder
 

@@ -4,7 +4,7 @@
 
 2. In der Folge wird das Sekretariat, wenn die Konferenz nichts anderes beschliesst, mindestens alle zwei Jahre ordentliche Tagungen und auf schriftliches Ersuchen von mindestens einem Drittel der Vertragsparteien jederzeit ausserordentliche Tagungen einberufen.
 
-3. Auf ordentlichen oder ausserordentlichen Tagungen überprüfen die Vertragsparteien den Vollzug dieses Übereinkommens und können
+3. Auf ordentlichen oder ausserordentlichen Tagungen überprüfen die Vertragsparteien den Vollzug dieses Übereinkommens und können:
 
   - a) alle erforderlichen Vorkehrungen treffen, um dem Sekretariat die Durchführung seiner Aufgaben zu ermöglichen, und Finanzbestimmungen beschliessen;
 

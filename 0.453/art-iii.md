@@ -2,7 +2,7 @@
 
 1. Der gesamte Handel mit Exemplaren der in Anhang I aufgeführten Arten hat in Übereinstimmung mit diesem Artikel stattzufinden.
 
-2. Die Ausfuhr eines Exemplars einer in Anhang I aufgeführten Art erfordert die vorherige Erteilung und Vorlage einer Ausfuhrgenehmigung. Eine Ausfuhrgenehmigung wird nur erteilt, wenn folgende Bedingungen erfüllt sind;
+2. Die Ausfuhr eines Exemplars einer in Anhang I aufgeführten Art erfordert die vorherige Erteilung und Vorlage einer Ausfuhrgenehmigung. Eine Ausfuhrgenehmigung wird nur erteilt, wenn folgende Bedingungen erfüllt sind:
 
   - a) wenn eine wissenschaftliche Behörde des Ausfuhrstaates mitgeteilt hat, dass diese Ausfuhr dem Überleben dieser Art nicht abträglich ist;
 

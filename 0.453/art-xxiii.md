@@ -2,7 +2,7 @@
 
 1. Zu diesem Übereinkommen sind keine allgemeinen Vorbehalte zulässig. Besondere Vorbehalte können nach diesem Artikel und nach den Artikeln XV und XVI gemacht werden.
 
-2. Jeder Staat kann bei der Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde einen besonderen Vorbehalt machen in Bezug auf
+2. Jeder Staat kann bei der Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde einen besonderen Vorbehalt machen in Bezug auf:
 
   - a) eine in Anhang I, II oder III aufgeführte Art oder
 

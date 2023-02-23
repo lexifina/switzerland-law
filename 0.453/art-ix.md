@@ -1,6 +1,6 @@
 # Art. IX Vollzugsbehörden und wissenschaftliche Behörden
 
-1. Jede Vertragspartei bestimmt für die Zwecke dieses Übereinkommens
+1. Jede Vertragspartei bestimmt für die Zwecke dieses Übereinkommens:
 
   - a) eine oder mehrere Vollzugsbehörden, die für die Erteilung von Genehmigungen oder Bescheinigungen im Namen dieser Vertragspartei zuständig sind, und
 
