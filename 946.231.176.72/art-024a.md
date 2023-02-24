@@ -12,7 +12,11 @@
 
   - a. juristischen Personen, Organisationen oder Einrichtungen nach Absatz 1;
 
-  - b.–d. … .
+  - b. juristischen Personen, Organisationen oder Einrichtungen mit Sitz in der Russischen Föderation, die sich unter öffentlicher Kontrolle oder zu über 50 Prozent in öffentlichem Eigentum befinden, bei denen die Russische Föderation und ihre Regierung oder ihre Zentralbank das Recht auf Gewinnbeteiligung haben oder mit denen die Russische Föderation und ihre Regierung oder ihre Zentralbank andere wesentliche wirtschaftliche Beziehungen unterhalten;
+
+  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, die von einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b zu über 50 Prozent beherrscht werden;
+
+  - d. juristischen Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b oder c handeln.
 
 2 Das Verbot nach Absatz 1 gilt nicht für:
 
