@@ -4,7 +4,7 @@ Das Königreich Dänemark, die Bundesrepublik Deutschland, die Französische Rep
 
 die Vertragsparteien des am 13. Februar 1969 in Genf unterzeichneten Übereinkommens zur Gründung einer Europäischen Konferenz für Molekularbiologie (im folgenden als «EKMB» bezeichnet) sind;
 
-in der Erwägung, dass die bestehende internationale Zusammenarbeit auf dem Gebiete der Molekularbiologie durch die Errichtung eines Europäischen Laboratoriums für Molekularbiologie weiter ausgebaut werden sollte, und in Kenntnis der Vorschläge, die von der Europäischen Molekularbiologie‑Organisation (im folgenden als « EMBO» bezeichnet) zu diesem Zweck unterbreitet wurden;
+in der Erwägung, dass die bestehende internationale Zusammenarbeit auf dem Gebiete der Molekularbiologie durch die Errichtung eines Europäischen Laboratoriums für Molekularbiologie weiter ausgebaut werden sollte, und in Kenntnis der Vorschläge, die von der Europäischen Molekularbiologie‑Organisation (im folgenden als «EMBO» bezeichnet) zu diesem Zweck unterbreitet wurden;
 
 im Hinblick auf den Beschluss vom 28. Juni 1972, mit dem die EKMB das Vorhaben für ein solches Laboratorium nach Artikel II Absatz 3 des erwähnten Übereinkommens, wonach Sondervorhaben durchgeführt werden können, genehmigt hat;
 
