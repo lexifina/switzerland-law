@@ -6,10 +6,10 @@
 
 3 Für die Auszahlung der Garantie zur Verlustabsicherung müssen folgende Voraussetzungen erfüllt sein:
 
-  - a. alle abzuwickelnden Aktiven wurden definitiv verwertet;
+  - a. Alle abzuwickelnden Aktiven wurden definitiv verwertet.
 
-  - b. die übernehmende Bank nach Absatz 1 hat auf den abzuwickelnden Aktiven definitive Verluste von 5 Milliarden Schweizer Franken getragen;
+  - b. Die übernehmende Bank nach Absatz 1 hat auf den abzuwickelnden Aktiven definitive Verluste von 5 Milliarden Schweizer Franken getragen.
 
-  - c. die FINMA überwacht die Voraussetzungen nach den Buchstaben a und b und bestätigt gegenüber dem Bund den definitiv eingetretenen Verlust der übernehmenden Bank von 5 Milliarden Schweizer Franken sowie den definitiven Verlust, der durch die Garantie abzudecken ist.
+  - c. Die FINMA überwacht die Voraussetzungen nach den Buchstaben a und b und bestätigt gegenüber dem Bund den definitiv eingetretenen Verlust der übernehmenden Bank von 5 Milliarden Schweizer Franken sowie den definitiven Verlust, der durch die Garantie abzudecken ist.
 
 4 Die Einzelheiten über die Garantie zur Verlustabsicherung werden im Garantievertrag zwischen dem Bund und der übernehmenden Bank nach Absatz 1 geregelt.
