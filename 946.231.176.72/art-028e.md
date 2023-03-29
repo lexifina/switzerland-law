@@ -6,7 +6,11 @@
 
 1ter Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Markt- und Meinungsforschung, technische physikalische und chemische Untersuchung sowie Werbung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
 
-2 Die Verbote nach den Absätzen 1–1ter gelten nicht für Dienstleistungen, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats oder des Vereinigten Königreichs gegründet oder eingetragen sind.
+2 Die Verbote nach den Absätzen 1–1ter gelten nicht für:
+
+  - a. Dienstleistungen, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaats oder dem Recht eines Partners gegründet oder eingetragen sind;
+
+  - b. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen, sofern die Aktivitäten durchgeführt werden durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten.
 
 2bis Die Verbote nach den Absätzen 1 und 1bis gelten nicht für Dienstleistungen, die erforderlich sind:
 

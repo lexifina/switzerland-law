@@ -2,6 +2,8 @@
 
 1 Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, nach der Russischen Föderation oder der Ukraine oder zur Verwendung in der Russischen Föderation oder der Ukraine sind verboten.
 
+1bis Die Durchfuhr durch die Russische Föderation oder die Ukraine von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, ist verboten.
+
 2 Der Kauf, die Beschaffung, die Einfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, aus oder mit Ursprung in der Russischen Föderation sind verboten.
 
 3 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, die Gewährung von Finanzmitteln sowie die Bereitstellung und Vermittlung von Versicherungen und Rückversicherungen im Zusammenhang mit dem Kauf, dem Verkauf, der Beschaffung, der Lieferung, der Ein-, Aus- und Durchfuhr, der Herstellung oder der Verwendung von Gütern nach den Absätzen 1 und 2 sind verboten.

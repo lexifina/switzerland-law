@@ -16,8 +16,8 @@
 
   - d. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
 
-5 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen:
+5 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für:
 
-  - a. für Güter der Zolltarifnummern 8417 20 und 8438 10, falls diese von natürlichen Personen im Haushalt für die Herstellung von Backwaren, Patisserie und Biskuits verwendet werden;
+  - a. Güter der Zolltarifnummer 8417 20, falls diese von natürlichen Personen im Haushalt für die Herstellung von Backwaren, Patisserie und Biskuits verwendet werden;
 
-  - b. für Güter der Zolltarifnummer 8419 81 00, falls diese von natürlichen Personen im Haushalt für das Kochen oder Aufwärmen von Speisen verwendet werden.
+  - b. die Herstellung von Titangütern, falls diese in der Luftfahrtindustrie benötigt werden und nicht anders beschafft werden können.

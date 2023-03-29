@@ -19,3 +19,5 @@
   - e. Flüge ausländischer Militär- und anderer Staatsluftfahrzeuge, die über eine Bewilligung (diplomatic clearance) gemäss Artikel 4 der Verordnung vom 23. März 2005 über die Wahrung der Lufthoheit verfügen.
 
 3 Das BAZL kann nach Rücksprache mit den zuständigen Stellen des SECO und des EDA zur Wahrung schweizerischer Interessen oder für andere mit den Zielen dieser Verordnung im Einklang stehende Zwecke weitere Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+
+4 Luftfahrzeugbetreiber, die zwischen der Russischen Föderation und der Schweiz Nichtlinienflüge, einschliesslich Flügen über ein Drittland, durchführen, müssen dem BAZL mindestens 48 Stunden vor dem Flug alle diesbezüglichen Informationen übermitteln.

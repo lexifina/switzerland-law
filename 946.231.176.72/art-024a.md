@@ -30,19 +30,21 @@
 
     - 2. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes;
 
-    - d. Transaktionen im Zusammenhang mit der Bereitstellung von Fernmelde- oder Rechenzentrumsdiensten oder von Diensten und Ausrüstungen, die für den Betrieb, die Wartung und die Sicherheit der Fernmeldedienste erforderlich sind, einschliesslich der Bereitstellung von Firewalls und von Callcenter-Diensten, für eine Bank, ein Unternehmen oder eine Organisation nach Anhang 15;
+  - d. Transaktionen im Zusammenhang mit der Bereitstellung von Fernmelde- oder Rechenzentrumsdiensten oder von Diensten und Ausrüstungen, die für den Betrieb, die Wartung und die Sicherheit der Fernmeldedienste erforderlich sind, einschliesslich der Bereitstellung von Firewalls und von Callcenter-Diensten, für eine Bank, ein Unternehmen oder eine Organisation nach Anhang 15;
 
   - e. Transaktionen, die unmittelbar oder mittelbar erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus oder durch die Russische Föderation;
 
   - f. Transaktionen, die erforderlich sind für den Kauf, die Einfuhr oder den Transport von pharmazeutischen Erzeugnissen, Medizinprodukten sowie landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln;
 
-  - g. Transaktionen, die erforderlich sind zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz oder einem EWR-Mitgliedstaat oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz oder einem EWR-Mitgliedstaat.
+  - g. Transaktionen, die erforderlich sind zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz oder einem EWR-Mitgliedstaat oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz oder einem EWR-Mitgliedstaat;
+
+  - h. die Erbringung von aus Gründen der Sicherheit des Seeverkehrs erforderlichen Lotsendiensten für Schiffe, die sich auf friedlicher Durchfahrt im Sinne des Völkerrechts befinden.
 
 3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen, um:
 
   - a. die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine zu ermöglichen;
 
-  - b. Transaktionen zu ermöglichen, die für den Abzug von Investitionen und den Rückzug aus einer in der Schweiz oder einem EWR-Mitgliedstaat niedergelassenen juristischen Person, Organisation oder Einrichtung durch die in Absatz 1 genannten Organisationen oder ihre Niederlassungen in der Schweiz oder in einem EWR-Mitgliedstaat bis zum 30. Juni 2023 unbedingt erforderlich sind.
+  - b. Transaktionen nach Artikel 30b zu ermöglichen.
 
 4 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1bis Buchstaben b–d bewilligen, sofern:
 

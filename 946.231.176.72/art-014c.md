@@ -6,11 +6,11 @@
 
 3 Der Kauf von Gütern nach Anhang 21 mit Bestimmungsort Schweiz sowie die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz unterliegen einer Bewilligungspflicht. Das SECO erteilt die Bewilligung, wenn die in Anhang 21 festgelegten Einfuhrkontingente nicht überschritten werden.
 
-4 Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter nach Anhang 21, die:
+4 Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter:
 
-  - a. für einen Drittstaat ausserhalb der Schweiz oder der EU bestimmt sind; oder
+  - a. nach Anhang 21, die Teil der von der EU festgelegten Einfuhrkontingente sind;
 
-  - b. Teil der von der EU festgelegten Einfuhrkontingente sind.
+  - b. nach Anhang 21 Ziffer 1, die für einen Drittstaat ausserhalb der Schweiz oder der EU bestimmt sind.
 
 5 Das Verbot nach Absatz 1 gilt nicht für Käufe in der Russischen Föderation, die erforderlich sind für:
 
