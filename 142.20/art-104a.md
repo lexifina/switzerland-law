@@ -18,7 +18,7 @@
 
 4 Die Daten nach Artikel 104 Absatz 3 Buchstaben a und b werden automatisch und systematisch mit den Daten des RIPOL, des SIS, des ZEMIS sowie der Interpol-Datenbank für gestohlene und verlorene Dokumente (ASF-SLTD) abgeglichen.
 
-5 Die Daten nach Artikel 104 Absatz 3 sowie die Ergebnisse der Abgleiche nach Absatz 4 dürfen nach Ankunft des betreffenden Fluges nur zur Durchführung eines straf-, asyl- oder ausländerrechtlichen Verfahrens genutzt werden. Sie sind zu löschen:
+5 Die Daten nach Artikel 104 Absatz 3 sowie die Ergebnisse der Abgleiche nach Absatz 4 dürfen nach Ankunft des betreffenden Fluges nur zur Durchführung eines straf‑, asyl- oder ausländerrechtlichen Verfahrens genutzt werden. Sie sind zu löschen:
 
   - a. wenn feststeht, dass kein solches Verfahren durchgeführt wird, spätestens aber zwei Jahre nach dem Datum des betreffenden Flugs;
 
