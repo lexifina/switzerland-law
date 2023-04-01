@@ -1,5 +1,7 @@
-# Art. 30a Meldungen von Privatpersonen über Fahreignungsmängel
+# Art. 30a Gesuch auf Neubeurteilung des vorsorglichen Entzugs
 
-1 Meldet eine Privatperson der kantonalen Behörde Zweifel an der Fahreignung einer anderen Person, so kann die kantonale Behörde beim behandelnden Arzt einen Bericht einholen. Auf Wunsch der meldenden Person sichert sie dieser Vertraulichkeit zu. Ihre Identität darf auch im Rahmen von Administrativverfahren nicht preisgegeben werden.
+1 Eine Person, deren Lernfahr- oder deren Führerausweis vorsorglich entzogen wurde, kann drei Monate nach Eintritt der Rechtskraft der Entzugsverfügung mit schriftlichem Gesuch eine Neubeurteilung von der kantonalen Behörde verlangen.
 
-2 Hat die gemeldete Person keinen behandelnden Arzt oder gibt sie diesen nicht bekannt, so kann die kantonale Behörde nach pflichtgemässem Ermessen eine Untersuchung nach Artikel 28a anordnen.
+2 Zudem kann sie jeweils drei Monate nach Eintritt der Rechtskraft einer Verfügung über die Aufrechterhaltung des vorsorglichen Entzugs mit schriftlichem Gesuch eine Neubeurteilung von der kantonalen Behörde verlangen.
+
+3 Die kantonale Behörde entscheidet jeweils innert 20 Arbeitstagen nach Eingang des Gesuchs mittels anfechtbarer Verfügung über die Aufrechterhaltung des vorsorglichen Entzugs oder gibt der berechtigten Person den Lernfahr- oder den Führerausweis zurück.
