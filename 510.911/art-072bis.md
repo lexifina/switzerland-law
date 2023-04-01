@@ -1,6 +1,6 @@
 # Art. 72bis PSN
 
-1 Die im PSN enthaltenen Personendaten sind in Anhang 35bis aufgeführt.
+1 Die im PSN enthaltenen Daten sind in Anhang 35bis aufgeführt.
 
 2 Das PSN bezweckt auch den Austausch von Daten zwischen militärischen Informationssystemen und mit Informationssystemen nach Artikel 32a WG.
 
