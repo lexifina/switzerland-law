@@ -12,7 +12,7 @@
 
   - d. das Grenzwachtkorps und die kantonalen undkommunalen Polizeibehörden, die Personenkontrollen durchführen: zur Identifikation der Personen, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet der Schweiz oder den Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen.
 
-3 Folgende Behörden können im Sinn des Beschlusses 2008/633/JI zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 4 bestimmte Daten des C-VIS beantragen:
+3 Folgende Behörden können im Sinn des Beschlusses 2008/633/JI zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 5 Daten des C-VIS beantragen:
 
   - a. das fedpol;
 
@@ -22,4 +22,6 @@
 
   - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-4 Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.
+4 Soweit der NDB die aufgrund einer Anfrage nach Absatz 3 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018 Anwendung.
+
+5 Zentrale Zugangsstelle im Sinn von Artikel 3 Absatz 3 des Beschlusses 2008/633/JI ist die Einsatzzentrale des fedpol.

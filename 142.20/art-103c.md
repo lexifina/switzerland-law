@@ -18,7 +18,7 @@
 
 3 Die Behörden nach Absatz 2 können die Daten, die das automatisierte Berechnungssystem nach Artikel 11 der Verordnung (EU) 2017/2226 liefert, online abfragen.
 
-4 Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 5 Daten des EES beantragen:
+4 Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 6 Daten des EES beantragen:
 
   - a. das fedpol;
 
@@ -28,4 +28,6 @@
 
   - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-5 Zentrale Zugangsstelle nach Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.
+5 Soweit der NDB die aufgrund einer Anfrage nach Absatz 4 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018 Anwendung.
+
+6 Zentrale Zugangsstelle im Sinn von Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.
