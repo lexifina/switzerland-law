@@ -20,11 +20,7 @@
 
     - iii) Stufe drei für Vertragsparteien deren Amt eine materielle Prüfung und eine Neuheitsprüfung oder eine Neuheitsprüfung infolge eines Widerspruchs von Dritten durchführt.
 
-  - c)
-
-  - i)
-
-  - Jede Vertragspartei deren Recht sie ermächtigt, die in Buchstabe b aufgeführten Stufen zwei oder drei anzuwenden, kann den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen. Eine Vertragspartei kann in ihrer Erklärung auch festhalten, dass sie Stufe zwei anwendet, obschon sie das Recht hätte, Stufe drei anzuwenden.
+    - i) Jede Vertragspartei deren Recht sie ermächtigt, die in Buchstabe b aufgeführten Stufen zwei oder drei anzuwenden, kann den Generaldirektor hiervon in einer Erklärung in Kenntnis setzen. Eine Vertragspartei kann in ihrer Erklärung auch festhalten, dass sie Stufe zwei anwendet, obschon sie das Recht hätte, Stufe drei anzuwenden.
 
     - ii) Jede Erklärung auf die in Ziffer i) verwiesen wird, wird drei Monate nachdem sie der Generaldirektor erhalten hat, wirksam oder zu jedem späteren Datum, das in der Erklärung angegeben ist. Sie kann auch jederzeit durch Mitteilung an den Generaldirektor zurückgezogen werden. In diesem Fall wird die Zurücknahme einen Monat nach Eingang der Mitteilung beim Generaldirektor oder zu einem späteren, in der Mitteilung angegebenen Datum wirksam. Bleibt eine solche Erklärung aus oder wird zurückgenommen, gilt für die betreffende Vertragspartei die Stufe eins als anwendbar auf die Standard-Bestimmungsgebühr.
 
