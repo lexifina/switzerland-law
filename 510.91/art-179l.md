@@ -1,6 +1,6 @@
 # Art. 179l Datenaufbewahrung
 
-1 Die Daten des VVAdmin werden während fünf Jahren nach dem letzten Eintrag aufbewahrt.
+1 Die Daten des SaD werden während fünf Jahren nach dem letzten Eintrag aufbewahrt.
 
 2 Sie werden nach folgenden Ereignissen längstens während zwei Jahren aufbewahrt:
 

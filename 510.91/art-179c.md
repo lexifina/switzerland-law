@@ -26,4 +26,4 @@
 
 3 Es enthält Kontrolldaten über die Abgabe und Rücknahme von Armeematerial an Dritte sowie deren Personalien.
 
-4 Es enthält die Daten der Stellenbewerberinnen und Stellenbewerber aus dem Bewerbungsdossier nach Artikel 27b und der Angestellten aus dem Personaldossier nach Artikel 27c BPG.
+4 Es enthält die Daten der Stellenbewerberinnen und Stellenbewerber sowie der Angestellten aus den gestützt auf das BPG und dessen Ausführungsbestimmungen geführten Bewerbungs- und Personaldossiers.

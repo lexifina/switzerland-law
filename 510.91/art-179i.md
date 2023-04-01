@@ -1,6 +1,6 @@
 # Art. 179i Daten
 
-Das VVAdmin enthält folgende für die Kontrolle von obligatorischen Schiessen und anderen Schiessen im Interesse der Landesverteidigung benötigten Daten von schiesspflichtigen Angehörigen der Armee, von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst, von anerkannten Schiessvereinen und deren Mitgliedern sowie von Schützinnen und Schützen:
+Das SaD enthält folgende für die Kontrolle von obligatorischen Schiessen und anderen Schiessen im Interesse der Landesverteidigung benötigten Daten von schiesspflichtigen Angehörigen der Armee, von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst, von anerkannten Schiessvereinen und deren Mitgliedern sowie von Schützinnen und Schützen:
 
   - a. Personalien;
 

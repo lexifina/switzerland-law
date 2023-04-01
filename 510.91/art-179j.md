@@ -1,6 +1,6 @@
 # Art. 179j Datenbeschaffung
 
-Die Gruppe Verteidigung beschafft die Daten für das VVAdmin bei:
+Die Gruppe Verteidigung beschafft die Daten für das SaD bei:
 
   - a. den anerkannten Schiessvereinen;
 

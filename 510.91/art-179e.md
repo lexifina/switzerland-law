@@ -28,6 +28,6 @@
 
   - d. berechtigten Personen bei der RUAG für die Ausrüstung;
 
-  - e. den Verwaltungseinheiten der Bundesverwaltung über eine Schnittstelle mit dem BV PLUS;
+  - e. den Verwaltungseinheiten der Bundesverwaltung über eine Schnittstelle mit dem IPDM;
 
   - f. Dritten, soweit dies zur Erfüllung derer gesetzlichen oder vertraglichen Aufgaben notwendig ist.

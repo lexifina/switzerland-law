@@ -10,4 +10,4 @@ Die Verwaltungseinheiten der Gruppe Verteidigung beschaffen die Daten für das P
 
   - d. den Angestellten sowie deren direkten Vorgesetzten;
 
-  - e. den zuständigen Verwaltungseinheiten des Bundes und der Kantone aus den militärischen Informationssystemen, dem Personalinformationssystem der Bundesverwaltung (BV PLUS) und der Datenbank nach Artikel 32a Absatz 1 Buchstabe c WG.
+  - e. den zuständigen Verwaltungseinheiten des Bundes und der Kantone aus den militärischen Informationssystemen, dem IPDM und der Datenbank nach Artikel 32a Absatz 1 Buchstabe c WG.

@@ -1,19 +1,33 @@
 # Art. 167d Datenbeschaffung
 
-1 Das Kommando Militärpolizei beschafft die Daten für das JORASYS bei:
+Das Kommando Militärpolizei beschafft die Daten für das JORASYS:
 
-  - a. der betreffenden Person;
+  - a. bei der betreffenden Person;
 
-  - b. den militärischen Kommandos;
+  - b. bei den militärischen Kommandos;
 
-  - c. den zuständigen Verwaltungseinheiten von Bund, Kantonen und Gemeinden;
+  - c. bei den zuständigen Verwaltungseinheiten von Bund, Kantonen und Gemeinden;
 
-  - d. den zivilen und militärischen Straf-, Strafvollzugs- und Verwaltungsrechtspflegebehörden.
+  - d. bei den zivilen und militärischen Straf-, Strafvollzugs- und Verwaltungsrechtspflegebehörden;
 
-2 Es hat durch Abrufverfahren Zugang zum:
+  - e. durch Abrufverfahren oder automatisiert über eine Schnittstelle aus:
 
-  - a. nationalen Polizeiindex;
+    - 1. dem nationalen Polizeiindex,
 
-  - b. MIFA;
+    - 2. dem automatisierten Polizeifahndungssystem RIPOL des Bundesamtes für Polizei,
 
-  - c. Informationssystem integrierte Ressourcenbewirtschaftung (PSN).
+    - 3. dem IVZ,
+
+    - 4. den Datenbanken der Zentralstelle Waffen nach Artikel 32a Absatz 1 WG,
+
+    - 5. der Online-Abfrage Waffenregister der Kantone,
+
+    - 6. dem PISA,
+
+    - 7. dem IPV,
+
+    - 8. dem FA-SVSAA,
+
+    - 9. dem Informationssystem Datendrehscheibe Verteidigung (DDSV),
+
+    - 10. dem PSN.

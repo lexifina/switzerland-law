@@ -8,6 +8,6 @@ Das PSN dient der logistischen, personellen und finanziellen Führung der Armee 
 
   - c. die Kontrolle der Abgabe, der Rücknahme, der Hinterlegung, der Abnahme und des Entzugs der persönlichen Waffe und der Leihwaffe sowie die Kontrolle der Überlassung zu Eigentum;
 
-  - d. den Austausch von Daten mit der Datenbank nach Artikel 32a Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997 (WG);
+  - d. den Austausch von Daten mit der Datenbank nach Artikel 32a Absatz 1 Buchstabe d WG;
 
   - e. die Verwaltung, Bewirtschaftung und Ablage von Personal- und Abrechnungsdaten des zivilen und des militärischen Personals.

@@ -22,4 +22,6 @@ Das SPHAIR-Expert enthält folgende Daten:
 
   - j. Befunde aus der sanitätsdienstlichen Befragung von Pilotinnen und Piloten sowie Fallschirmaufklärerinnen und Fallschirmaufklärern;
 
-  - k. Angaben über die Kleidergrösse.
+  - k. Angaben über die Kleidergrösse;
+
+  - 1. persönliche Interessen hinsichtlich der Anstellung, Ausbildung, Weiterentwicklung sowie Berufs- und Funktionswahl.

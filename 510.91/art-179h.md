@@ -1,6 +1,6 @@
 # Art. 179h Zweck
 
-Das VVAdmin dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst bei:
+Das SaD dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst bei:
 
   - a. der Planung, Durchführung und Kontrolle von Bundesübungen, Schiessübungen und Schiesskursen;
 
