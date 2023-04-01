@@ -10,7 +10,9 @@
 
     - iii) einen Verzicht auf die internationale Eintragung in Bezug auf eine oder alle bestimmten Vertragsparteien; oder
 
-    - iv) in Bezug auf eine Vertragspartei eine Einschränkung auf ein oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind.
+    - iv) in Bezug auf eine Vertragspartei eine Einschränkung auf ein oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind;
+
+    - v) eine Änderung des Namens oder der Anschrift des Vertreters.
 
   - b) Der Antrag ist vom Inhaber einzureichen und von diesem zu unterzeichnen; ein Antrag auf Eintragung einer Änderung des Inhabers kann jedoch auch von dem neuen Inhaber eingereicht werden, sofern er:
 
@@ -18,19 +20,23 @@
 
     - ii) von dem neuen Inhaber unterzeichnet ist und ein Beweisdokument beigefügt ist, dass der neue Inhaber der Rechtsnachfolger des Inhabers zu sein scheint.
 
-2) [Inhalt des Antrags] Neben der beantragten Änderung muss das Gesuch um Eintragung einer Änderung folgendes enthalten oder angeben:
+2) [Inhalt des Antrags]
 
-  - i) die Nummer der betreffenden internationalen Eintragung;
+  - a) Neben der beantragten Änderung muss das Gesuch um Eintragung einer Änderung Folgendes enthalten oder angeben:
 
-  - ii) den Namen des Inhabers, es sei denn, die Änderung bezieht sich auf den Namen oder die Anschrift des Vertreters;
+    - i) die Nummer der betreffenden internationalen Eintragung;
 
-  - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des neuen Inhabers der internationalen Eintragung;
+    - ii) den Namen des Inhabers, oder des Vertreters, wenn die Änderung sich auf den Namen oder die Anschrift des Vertreters bezieht;
 
-  - iv) im Falle einer Änderung des Inhabers der internationalen Eintragung die Vertragspartei oder die Vertragsparteien, für die der neue Inhaber die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
+    - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des neuen Inhabers der internationalen Eintragung;
 
-  - v) im Falle einer Änderung des Inhabers der internationalen Eintragung, die sich nicht auf alle gewerblichen Muster oder Modelle und alle Vertragsparteien bezieht, die Nummern der gewerblichen Muster oder Modelle und die bestimmten Vertragsparteien, auf die sich die Änderung der Inhaberschaft der internationalen Eintragung bezieht; und
+    - iv) im Falle einer Änderung des Inhabers der internationalen Eintragung die Vertragspartei oder die Vertragsparteien, für die der neue Inhaber die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
 
-  - vi) die Höhe der entrichteten Gebühren und die Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrages von einem beim Internationalen Büro eröffneten Konto sowie den Namen des Einzahlers oder des Auftraggebers der Zahlung.
+    - v) im Falle einer Änderung des Inhabers der internationalen Eintragung, die sich nicht auf alle gewerblichen Muster oder Modelle und alle Vertragsparteien bezieht, die Nummern der gewerblichen Muster oder Modelle und die bestimmten Vertragsparteien, auf die sich die Änderung der Inhaberschaft der internationalen Eintragung bezieht; und
+
+    - vi) die Höhe der entrichteten Gebühren und die Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrages von einem beim Internationalen Büro eröffneten Konto sowie den Namen des Einzahlers oder des Auftraggebers der Zahlung.
+
+  - b) Das Gesuch um Eintragung einer Änderung des Inhabers der internationalen Eintragung kann begleitet sein von einer Mitteilung zur Bestellung eines Vertreters für den neuen Inhaber. Sofern die in Regel 3 Absatz 2 Buchstaben b und c genannten Bedingungen erfüllt sind, entspricht das Datum des Wirksamwerdens der Bestellung des Vertreters dem Eintragungsdatum der Änderung des Inhabers gemäss Absatz 6 Buchstabe b. In diesem Fall gibt die Eintragung der Änderung des Inhabers im internationalen Register die Bestellung des Vertreters an.
 
 3) [Unzulässiger Antrag] Eine Änderung des Inhabers der internationalen Eintragung kann in Bezug auf eine bestimmte Vertragspartei nicht eingetragen werden, falls diese Vertragspartei nicht durch ein Abkommen gebunden ist, welches die in Absatz 2 Ziffer iv bezeichnete Vertragspartei oder eine der Vertragsparteien bindet.
 
