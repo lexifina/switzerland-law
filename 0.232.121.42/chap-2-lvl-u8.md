@@ -1,6 +1,10 @@
 # Regel 14Prüfung durch das Internationale Büro
 
-1) [Frist für die Beseitigung von Mängeln] Stellt das Internationale Büro fest, dass die internationale Anmeldung im Zeitpunkt des Eingangs beim Internationalen Büro den geltenden Erfordernissen nicht entspricht, so fordert es den Hinterleger zur Beseitigung der Mängel auf. Die Frist für die Beseitigung von Mängeln beträgt drei Monate ab dem Datum der Aufforderung durch das Internationale Büro.
+1) [Frist für die Beseitigung von Mängeln]
+
+  - a) Stellt das Internationale Büro fest, dass die internationale Anmeldung im Zeitpunkt des Eingangs beim Internationalen Büro den geltenden Erfordernissen nicht entspricht, so fordert es den Hinterleger zur Beseitigung der Mängel auf. Die Frist für die Beseitigung von Mängeln beträgt drei Monate ab dem Datum der Aufforderung durch das Internationale Büro.
+
+  - b) Unbeschadet des Buchstabens a kann das Internationale Büro, sofern die bei Eingang der internationalen Anmeldung erhobenen Gebühren niedriger waren als die Grundgebühr für ein Muster oder ein Modell, den Anmelder zuerst dazu auffordern, innert einer Frist von zwei Monaten ab dem Datum der Aufforderung durch das Internationale Büro, mindestens den der Grundgebühr für eine Zeichnung oder ein Modell entsprechenden Betrag zu bezahlen.
 
 2) [Mängel, die zu einer Verschiebung des Anmeldedatums der internationalen Anmeldung führen] Enthält eine internationale Anmeldung im Zeitpunkt des Eingangs beim Internationalen Büro einen Mangel, der nach den Vorschriften zu einer Verschiebung des Anmeldedatums der internationalen Anmeldung führt, ist das Hinterlegungsdatum das Datum, an dem die Beseitigung dieses Mangels beim Internationalen Büro eingeht. Die folgenden Mängel führen nach den Vorschriften zu einer Verschiebung des Anmeldedatums der internationalen Anmeldung:
 
