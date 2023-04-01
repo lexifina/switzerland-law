@@ -1,7 +1,7 @@
 # Art. 70e Datenaufbewahrung
 
-Die im e-Alarm erfassten Daten werden längstens aufbewahrt bis:
+Die im E-Aufgebot erfassten Daten werden längstens aufbewahrt bis:
 
-  - a. zum Ausscheiden der Mitglieder aus dem jeweiligen Krisenstab;
+  - a. zur Entlassung der Angehörigen der Armee aus der Militärdienstpflicht;
 
-  - b. zur Entlassung der Angehörigen von Formationen mit ständigen Bereitschaftsauflagen aus der Militärdienstpflicht oder bis zu deren Umteilung.
+  - b. zum Ausscheiden der Mitglieder von Krisenstäben aus dem jeweiligen Krisenstab.

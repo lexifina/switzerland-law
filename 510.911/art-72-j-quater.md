@@ -2,8 +2,8 @@
 
 Die Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung beschaffen die Daten für das PSB:
 
-  - a. bei den betreffenden Mitarbeitern und Mitarbeiterinnen dieser Verwaltungseinheiten;
+  - a. bei den betreffenden Mitarbeiterinnen und Mitarbeitern dieser Verwaltungseinheiten;
 
-  - b. bei den direkten Vorgesetzten der betreffenden Mitarbeiter und Mitarbeiterinnen;
+  - b. bei den direkten Vorgesetzten der betreffenden Mitarbeiterinnen und Mitarbeiter;
 
   - c. aus dem IPDM.

@@ -2,10 +2,10 @@
 
 Die Daten des PEGASUS werden beschafft:
 
-  - a. aus dem Strategischen Informationssystem Logistik (SISLOG);
+  - a. aus dem Informationssystem Datendrehscheibe Verteidigung (DDSV);
 
   - b. aus dem PISA;
 
-  - c. aus dem nach Artikel 5 Absatz 1 Buchstabe c der Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes (IAMV) unter der Verantwortung des Generalsekretariats des VBS betriebenen Identitätsverwaltungs-System;
+  - c. aus den nach der IAMV betriebenen IAM-Systemen und Verzeichnisdiensten;
 
   - d. aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV.

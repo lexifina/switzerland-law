@@ -1,3 +1,3 @@
-# Art. 72ter Informationssystem Vereins- und Verbandsadministration (VVAdmin)
+# Art. 72ter Informationssystem Schiesswesen ausser Dienst
 
-Die im VVAdmin enthaltenen Personendaten sind in Anhang 35ter aufgeführt.
+Die im Informationssystem Schiesswesen ausser Dienst (SaD) enthaltenen Daten sind in Anhang 35ter aufgeführt.

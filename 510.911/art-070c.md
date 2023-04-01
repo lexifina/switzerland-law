@@ -1,7 +1,7 @@
 # Art. 70c Datenbeschaffung
 
-Die für das e-Alarm verantwortlichen Personen beschaffen die Daten:
+Die für das E-Aufgebot verantwortlichen Stellen und Personen beschaffen die Daten:
 
-  - a. der Mitglieder von Krisenstäben: bei den betreffenden Mitarbeitern und Mitarbeiterinnen des VBS;
+  - a. der Angehörigen der Armee: aus dem PISA;
 
-  - b. der Angehörigen von Formationen mit ständigen Bereitschaftsauflagen: aus dem PISA.
+  - b. der Mitglieder von Krisenstäben: bei den betreffenden Mitarbeiterinnen und Mitarbeitern des VBS.

@@ -1,3 +1,5 @@
-# Art. 70bis Informationssystem Journal- und Rapportsystem der Militärischen Sicherheit
+# Art. 70bis Journal- und Rapportsystem der Militärpolizei
 
-Die im Informationssystem Journal- und Rapportsystem der Militärischen Sicherheit (JORASYS) enthaltenen Personendaten sind in Anhang 33bis aufgeführt.
+1 Die im Journal- und Rapportsystem der Militärpolizei (JORASYS) enthaltenen Daten sind in Anhang 33bis aufgeführt.
+
+2 Das JORASYS enthält auch die gestützt auf Artikel 100 Absatz 3 Buchstabe a MG bearbeiteten Daten.

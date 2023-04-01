@@ -8,6 +8,6 @@ Die Daten des MIL PLATTFORM werden beschafft:
 
   - c. bei den zuständigen Verwaltungseinheiten des Bundes;
 
-  - d. aus dem AIS und dem PEGASUS: die Daten nach Anhang 33d Ziffer 1;
+  - d. aus dem PEGASUS: die Daten nach Anhang 33d Ziffer 1;
 
   - e. aus dem SIBAD: die Daten nach Anhang 33d Ziffer 2.
