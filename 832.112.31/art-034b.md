@@ -14,7 +14,7 @@
 
 2 Vom Fabrikabgabepreis in Deutschland werden beim Auslandpreisvergleich die folgenden Herstellerrabatte gemäss Artikel 65b Absatz 4 KVV abgezogen:
 
-  - a. bei Originalpräparaten: 7 Prozent abzüglich der Umsatzsteuer;
+  - a. bei Originalpräparaten: 12 Prozent abzüglich der Umsatzsteuer;
 
   - b. bei Generika und Originalpräparaten, deren Patentschutz abgelaufen ist: 16 Prozent abzüglich der Umsatzsteuer.
 
