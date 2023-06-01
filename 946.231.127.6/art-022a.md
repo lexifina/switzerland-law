@@ -10,6 +10,6 @@
 
 3 Das Verbot nach Artikel 7a Absatz 2bis gilt nicht für schriftliche Verträge über den Import von Textilien, die vor dem 11. September 2017 abgeschlossen wurden. Derartige Importe können bis spätestens am 10. Dezember 2017 erfolgen.
 
-4 Transaktionen nach Absatz 3 müssen dem SECO unverzüglich gemeldet werden, damit das zuständige Komitee des UNO-Sicherheitsrats spätestens am 24. Januar 2018 informiert werden kann.
+4 Transaktionen nach Absatz 3 müssen dem SECO unverzüglich gemeldet werden, damit das zuständige Komitee des Sicherheitsrats der Vereinten Nationen spätestens am 24. Januar 2018 informiert werden kann.
 
 5 Bestehende Joint Ventures und Genossenschaften nach Artikel 8a müssen bis am 9. Januar 2018 geschlossen werden.

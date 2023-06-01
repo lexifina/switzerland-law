@@ -6,7 +6,7 @@
 
 3 Die Verbote nach den Absätzen 1 und 2 gelten auch gegenüber natürlichen Personen, Unternehmen und Organisationen nach Anhang 1 sowie gegenüber allen anderen natürlichen Personen, Unternehmen und Organisationen, die gegen die Massnahmen dieser Verordnung verstossen oder im Namen oder auf Anweisung der genannten natürlichen Personen, Unternehmen oder Organisationen handeln.
 
-4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des UNO-Sicherheitsrats Ausnahmen von den Verboten nach den Absätzen 1 und 3 genehmigen.
+4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und in Übereinstimmung mit den Beschlüssen des zuständigen Komitees des Sicherheitsrats der Vereinten Nationen Ausnahmen von den Verboten nach den Absätzen 1 und 3 genehmigen.
 
 5 Es ist verboten, Start-, Lande- und Überflugrechte für Luftfahrzeuge zu erteilen, wenn Grund zur Annahme besteht, dass sich an Bord Güter befinden, deren Verkauf, Lieferung, Ausfuhr oder Durchfuhr gegen diese Verordnung verstösst.
 

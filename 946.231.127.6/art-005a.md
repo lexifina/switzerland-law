@@ -4,4 +4,4 @@
 
 2 Das Verbot nach Absatz 1 gilt nicht für die Lieferung von Ersatzteilen für kommerzielle zivile Passagierflugzeuge der Demokratischen Volksrepublik Korea.
 
-3 Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des UNO-Sicherheitsrats Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+3 Das SECO kann nach vorhergehender Genehmigung durch das zuständige Komitee des Sicherheitsrats der Vereinten Nationen Ausnahmen vom Verbot nach Absatz 1 bewilligen.
