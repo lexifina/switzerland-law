@@ -4,10 +4,4 @@ Ein vom Minister für Auswärtige Angelegenheiten des Königreichs der Niederlan
 
 Nach Artikel IX dieses Protokolls habe ich es am zwölften Juni neunzehnhundertdreiundsiebzig unterschrieben.
 
-  - M. van der Stoel
-
-  - Minister für Auswärtige
-
-  - Angelegenheiten des Königreichs
-
-  - der Niederlande
+  - M. van der StoelMinister für Auswärtige Angelegenheiten des Königreichs der Niederlande
