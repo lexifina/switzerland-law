@@ -2,7 +2,7 @@
 
 Die unterzeichneten Bevollmächtigten der auf der internationalen Friedenskonferenz in Den Haag vertretenen Mächte, von ihren Regierungen zu diesem Zwecke gehörig ermächtigt,
 
-von dem Gedanken geleitet, welcher in der Deklaration von St. Petersburg vom 29. November/ 11. Dezember 1868 Ausdruck gefunden hat,
+von dem Gedanken geleitet, welcher in der Deklaration von St. Petersburg vom 29. November / 11. Dezember 1868 Ausdruck gefunden hat,
 
 erklären:
 
