@@ -6,4 +6,4 @@
 
 3. Untersteht oder unterzieht sich der Täter wegen Konsums von Betäubungsmitteln einer ärztlich beaufsichtigten Betreuung, so kann von einer Strafverfolgung abgesehen werden. Das Strafverfahren wird durchgeführt, wenn sich der Täter der Betreuung oder der Behandlung entzieht.
 
-4. Ist der Täter von Betäubungsmitteln abhängig, so kann ihn der Richter in eine Heilanstalt einweisen. Artikel 44 des Strafgesetzbuches gilt sinngemäss.
+4. Ist der Täter von Betäubungsmitteln abhängig, so kann ihn das Gericht in eine spezialisierte Einrichtung einweisen. Die Artikel 60 und 63 des Strafgesetzbuchs gelten sinngemäss.
