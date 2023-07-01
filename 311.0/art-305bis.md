@@ -4,7 +4,7 @@
 
 1bis. Als qualifiziertes Steuervergehen gelten die Straftaten nach Artikel 186 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer und nach Artikel 59 Absatz 1 erstes Lemma des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden, wenn die hinterzogenen Steuern pro Steuerperiode mehr als 300 000 Franken betragen.
 
-2. In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Mit der Freiheitsstrafe wird eine Geldstrafe bis zu 500 Tagessätzen verbunden.
+2. In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 Ein schwerer Fall liegt insbesondere vor, wenn der Täter:
 

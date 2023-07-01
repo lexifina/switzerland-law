@@ -2,7 +2,7 @@
 
 1 Verweigern Personen, die sich beruflich mit der Veröffentlichung von Informationen im redaktionellen Teil eines periodisch erscheinenden Mediums befassen, oder ihre Hilfspersonen das Zeugnis über die Identität des Autors oder über Inhalt und Quellen ihrer Informationen, so dürfen weder Strafen noch prozessuale Zwangsmassnahmen gegen sie verhängt werden.
 
-2 Absatz 1 gilt nicht, wenn der Richter feststellt, dass:
+2 Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 
   - a. das Zeugnis erforderlich ist, um eine Person aus einer unmittelbaren Gefahr für Leib und Leben zu retten; oder
 

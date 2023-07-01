@@ -6,6 +6,6 @@
 
 3 Die Verletzung des Post- und Fernmeldegeheimnisses ist auch nach Beendigung des amtlichen oder dienstlichen Verhältnisses strafbar.
 
-4 Die Verletzung des Post- und Fernmeldegeheimnisses ist nicht strafbar, soweit sie zur Ermittlung des Berechtigten oder zur Verhinderung von Schäden erforderlich ist.
+4 Die Verletzung des Post- und Fernmeldegeheimnisses ist nicht strafbar, soweit sie zur Ermittlung des Berechtigten erforderlich ist.
 
 5 Vorbehalten bleiben Artikel 179octies sowie die eidgenössischen und kantonalen Bestimmungen über die Zeugnispflicht und über die Auskunftspflicht gegenüber einer Behörde.

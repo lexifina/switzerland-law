@@ -6,4 +6,4 @@
 
   - b. im Geschäftsverkehr aufnimmt, welche Bestellungen, Aufträge, Reservationen und ähnliche Geschäftsvorfälle zum Inhalt haben.
 
-2 Hinsichtlich der Verwertung der Aufnahmen gemäss Absatz 1 sind die Artikel 179bis Absätze 2 und 3 sowie 179ter Absatz 2 sinngemäss anwendbar.
+2 Aufnahmen nach Absatz 1 dürfen ausschliesslich zum Zweck der Beweisführung verwertet werden.
