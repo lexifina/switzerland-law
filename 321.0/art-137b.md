@@ -8,4 +8,4 @@ Ist die Vortat ein Antragsdelikt, so wird die Hehlerei nur verfolgt, wenn ein An
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-2. Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …
+2. Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.

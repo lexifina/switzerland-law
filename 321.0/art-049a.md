@@ -6,7 +6,7 @@
 
   - b. schwere Körperverletzung (Art. 121), Angriff (Art. 128a);
 
-  - c. qualifizierte Veruntreuung (Art. 130 Ziff. 2), qualifizierter Diebstahl (Art. 131 Ziff. 3 und 4), Raub (Art. 132), Sachbeschädigung mit grossem Schaden (Art. 134 Abs. 3), gewerbsmässiger Betrug (Art. 135 Abs. 4), qualifizierte Erpressung (Art. 137a Ziff. 2–4), gewerbsmässige Hehlerei (Art. 137b Ziff. 2), qualifizierte Plünderung (Art. 139 Abs. 2);
+  - c. qualifizierte Veruntreuung (Art. 130 Ziff. 2), qualifizierter Diebstahl (Art. 131 Ziff. 4), Raub (Art. 132), Sachbeschädigung mit grossem Schaden (Art. 134 Abs. 3), gewerbsmässiger Betrug (Art. 135 Abs. 4), qualifizierte Erpressung (Art. 137a Ziff. 2–4), gewerbsmässige Hehlerei (Art. 137b Ziff. 2), qualifizierte Plünderung (Art. 139 Abs. 2);
 
   - d. Diebstahl (Art. 131) in Verbindung mit Hausfriedensbruch (Art. 152);
 
@@ -14,7 +14,7 @@
 
   - f. sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Schändung (Art. 155), sexuelle Handlungen mit Kindern (Art. 156 Ziff. 1);
 
-  - g. Brandstiftung (Art. 160 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 161 Ziff. 1 Abs. 1 und 3), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 162 Abs. 1 und 3), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 163 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 164), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 165 Ziff. 1 Abs. 1 und 3), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 166 Ziff. 1 Abs. 1), vorsätzliches Verbreiten menschlicher Krankheiten (Art. 167 Ziff. 1), vorsätzliche Trinkwasserverunreinigung (Art. 169 Abs. 1), qualifizierte Störung des öffentlichen Verkehrs (Art. 169a Ziff. 2), vorsätzliche Störung des Eisenbahnverkehrs (Art. 170 Abs. 1), strafbare Vorbereitungshandlungen (Art. 171b);
+  - g. Brandstiftung (Art. 160 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 161 Ziff. 1 Abs. 1 und 3), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 162 Abs. 1 und 3), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 163 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 164), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 165 Ziff. 1 Abs. 1 und 3), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 166 Ziff. 1 Abs. 1), Verbreiten menschlicher Krankheiten (Art. 167), vorsätzliche Trinkwasserverunreinigung (Art. 169 Abs. 1), Störung des öffentlichen Verkehrs (Art. 169a Ziff. 1), strafbare Vorbereitungshandlungen (Art. 171b);
 
   - h. Völkermord (Art. 108), Verbrechen gegen die Menschlichkeit (Art. 109), schwere Verletzungen der Genfer Konventionen vom 12. August 1949 (Art. 111), andere Kriegsverbrechen (Art. 112–112d).
 
