@@ -1,6 +1,6 @@
 # Art. 47a Ausscheiden aus der obligatorischen Versicherung nach Vollendung des 58. Altersjahres
 
-1 Eine versicherte Person, die nach Vollendung des 58. Altersjahres aus der obligatorischen Versicherung ausscheidet, weil das Arbeitsverhältnis vom Arbeitgeber aufgelöst wurde, kann die Versicherung nach Artikel 47 weiterführen oder die Weiterführung nach den Absätzen 2-7 im bisherigen Umfang bei ihrer bisherigen Vorsorgeeinrichtung verlangen.
+1 Eine versicherte Person, die nach Vollendung des 58. Altersjahres aus der obligatorischen Versicherung ausscheidet, weil das Arbeitsverhältnis vom Arbeitgeber aufgelöst wurde, kann die Versicherung nach Artikel 47 weiterführen oder die Weiterführung nach den Absätzen 2–7 im bisherigen Umfang bei ihrer bisherigen Vorsorgeeinrichtung verlangen.
 
 2 Die versicherte Person hat die Möglichkeit, während dieser Weiterversicherung die Altersvorsorge durch Beiträge weiter aufzubauen. Die Austrittsleistung bleibt in der Vorsorgeeinrichtung, auch wenn die Altersvorsorge nicht weiter aufgebaut wird. Tritt die versicherte Person in eine neue Vorsorgeeinrichtung ein, so hat die bisherige Vorsorgeeinrichtung die Austrittsleistung in dem Umfang an die neue zu überweisen, als sie für den Einkauf in die vollen reglementarischen Leistungen verwendet werden kann.
 
