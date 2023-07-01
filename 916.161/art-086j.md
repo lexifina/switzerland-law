@@ -1,0 +1,3 @@
+# Art. 86j Nachträgliche Ergänzung zur Übergangsbestimmung zur Änderung vom 16. November 2022
+
+Pflanzenschutzmittel und Zusatzstoffe nach Artikel 68 Absatz 4, die eines der Kriterien nach Anhang 12 Ziffer 2 erfüllen, dürfen noch bis zum 31. Dezember 2026 in Siedlungsgebieten auf Flächen wie Parks, Gärten, Sport- und Freizeitanlagen, Pausenplätzen oder Spielplätzen sowie in unmittelbarer Nähe von Gesundheitseinrichtungen von beruflichen Verwenderinnen und Verwendern verwendet werden. Nicht verwendet werden dürfen auf diesen Flächen jedoch Pflanzenschutzmittel und Zusatzstoffe, deren Kennzeichnung ein Element nach Anhang 5 Ziffer 1.1, Ziffer 1.2 Buchstabe a oder b, Ziffer 2.1 oder Ziffer 2.2 Buchstabe a oder b ChemV enthält.
