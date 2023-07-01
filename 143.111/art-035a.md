@@ -16,6 +16,6 @@
 
   - c. aktueller Virenscanner;
 
-  - d. aktuelle JAVA-Version;
+  - d. …
 
   - e. durchgängige 32-Bit oder 64-Bit Architektur.
