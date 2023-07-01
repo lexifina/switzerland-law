@@ -8,6 +8,6 @@
 
   - c. eine der unter Buchstabe a bezeichneten Handlungen fördert.
 
-2 Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.
+2 …
 
 3 Wird die Tat fahrlässig begangen, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
