@@ -4,7 +4,7 @@
 
 2 Wer an einem Sportwettkampf eine Funktion ausübt, auf den Sportwetten angeboten werden, und für die Verfälschung des Ablaufs dieses Sportwettkampfs für sich oder eine Drittperson einen nicht gebührenden Vorteil fordert, sich versprechen lässt oder annimmt (direkte Wettkampfmanipulation), wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-3 In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe; mit der Freiheitsstrafe wird eine Geldstrafe verbunden. Ein schwerer Fall liegt namentlich vor, wenn die Täterin oder der Täter:
+3 In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Ein schwerer Fall liegt namentlich vor, wenn die Täterin oder der Täter:
 
   - a. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der indirekten oder direkten Wettkampfmanipulation zusammengefunden hat;
 
