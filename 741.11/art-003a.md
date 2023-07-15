@@ -20,7 +20,7 @@
 
 3 Mitfahrende Personen in Gesellschaftswagen und Kleinbussen sind auf geeignete Art und Weise auf die Gurtentragpflicht aufmerksam zu machen.
 
-4 Auf Plätzen mit Sicherheitsgurten muss für Kinder unter zwölf Jahren eine geeignete Kinderrückhaltevorrichtung, zum Beispiel ein Kindersitz, verwendet werden, die nach dem UNECE-Reglement Nr. 44 oder Nr. 129 gemäss Anhang 2 VTS zugelassen ist. Keine Kinderrückhaltevorrichtung muss verwendet werden:
+4 Auf Plätzen mit Sicherheitsgurten muss für Kinder unter zwölf Jahren eine geeignete Kinderrückhaltevorrichtung, zum Beispiel ein Kindersitz, verwendet werden, die nach dem UNECE-Reglement Nr. 44 oder Nr. 129 gemäss Anhang 2 VTS zugelassen ist. Für Kinderrückhaltevorrichtungen nach dem UNECE-Reglement Nr. 44 gilt Artikel 222r Absatz 3 VTS. Keine Kinderrückhaltevorrichtung muss verwendet werden:
 
   - a. für Kinder, die mindestens 150 cm gross sind;
 
