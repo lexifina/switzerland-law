@@ -18,7 +18,7 @@
 
     - 2. erstmalige Untersuchung von Bewerbern um einen Lernfahr- oder Führerausweis oder eine Bewilligung zum berufsmässigen Personentransport, an deren medizinischer Eignung zum Führen von Motorfahrzeugen die kantonale Behörde zweifelt,
 
-    - 3. erstmalige Untersuchung von über 65-jährigen oder körperbehinderten Bewerbern um einen Lernfahr- oder Führerausweis oder um eine Bewilligung zum berufsmässigen Personentransport,
+    - 3. erstmalige Untersuchung von über 75-jährigen oder körperbehinderten Bewerbern um einen Lernfahr- oder Führerausweis oder um eine Bewilligung zum berufsmässigen Personentransport,
 
     - 4. verkehrsmedizinische Kontrolluntersuchungen von Ausweisinhabern während oder nach schweren körperlichen Beeinträchtigungen durch Unfallverletzungen oder Krankheiten, und
 

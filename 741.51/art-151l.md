@@ -12,4 +12,4 @@
 
 5 Personen, deren Führerausweis auf das Führen von Motorwagen mit Schalterleichterung oder elektrischem Batterieantrieb beschränkt ist, wird auf Gesuch hin die Beschränkung aufgehoben, wenn keine Fahreignungsmängel einer Aufhebung entgegenstehen.
 
-6 Inhaber eines Papierführerausweises müssen ihren Ausweis bis spätestens am 31. Januar 2024 in einen Ausweis im Kreditkartenformat umtauschen. Als Ausstelldatum des neuen Ausweisdokuments ist das Datum des Tages einzutragen, an dem die kantonale Behörde die Umschreibung vorgenommen hat. Die Papierführerausweise verlieren nach Ablauf der Frist ihre Eigenschaft als Nachweis der Fahrberechtigungen.
+6 Inhaber eines blauen Papierführerausweises müssen ihren Ausweis bis spätestens am 31. Oktober 2024 in einen Führerausweis im Kreditkartenformat umtauschen. Als Ausstelldatum des neuen Ausweisdokuments ist das Datum des Tages einzutragen, an dem die kantonale Behörde die Umschreibung vorgenommen hat. Die Papierführerausweise verlieren nach Ablauf der Frist ihre Eigenschaft als Nachweis der Fahrberechtigungen.

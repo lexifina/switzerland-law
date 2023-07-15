@@ -1,3 +1,3 @@
-# Art. 19a Durchführung
+# Art. 19a Gestaltung, Inhalt und Durchführung
 
-Das ASTRA erlässt Weisungen über die Gestaltung und den Inhalt des Kurses über Verkehrskunde und der praktischen Grundschulung.
+Das ASTRA regelt die Gestaltung, den Inhalt und die Durchführung des Kurses über Verkehrskunde und der praktischen Grundschulung für Motorrad-Fahrschüler.
