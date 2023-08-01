@@ -4,7 +4,7 @@ Dem Gesuch um Anerkennung sind folgende Unterlagen beizulegen:
 
   - a. Akkreditierung nach Artikel 2 Absatz 2 Buchstabe a;
 
-  - b. Bescheinigung der erfolgreichen Teilnahme an mindestens vier Eignungsprüfungen nach Artikel 2 Absatz 2 Buchstabe c;
+  - b. Bescheinigung der erfolgreichen Teilnahme an den Ringversuchen nach Artikel 2 Absatz 2 Buchstabe c;
 
   - c. Nachweis der Qualifikation nach Artikel 2 Absatz 2 Buchstabe d;
 
