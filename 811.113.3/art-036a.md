@@ -1,13 +1,11 @@
-# Art. 36a Übergangsbestimmungen zur Änderung vom 17. November 2010
+# Art. 36a Übergangsbestimmungen zur Änderung vom 2. Juni 2023
 
-1 Für die ersten zwei Prüfungssessionen der eidgenössischen Prüfungen gemäss MedBG nach Inkrafttreten der Änderung vom 17. November 2010 dieser Verordnung sind folgende Prüfungsgebühren geschuldet:
+1 Personen, die sich vor Inkrafttreten der Änderung vom 2. Juni 2023 zum ersten Mal zur eidgenössischen Prüfung in Veterinärmedizin angemeldet haben, können die eidgenössische Prüfung im Einklang mit dem Lernzielkatalog vom 10. Oktober 2017 sowie gestützt auf die Vorgaben und Richtlinien der MEBEKO, Ressort Ausbildung, vom 9. Februar 2023 absolvieren.
 
-  - a. für die eidgenössische Prüfung in Humanmedizin: | 1000 Franken
+2 Für Personen, welche die eidgenössische Prüfung im Einklang mit dem Lernzielkatalog vom 10. Oktober 2017 sowie gestützt auf die Vorgaben und Richtlinien der MEBEKO, Ressort Ausbildung, vom 9. Februar 2023 absolvieren, gilt Folgendes:
 
-  - b. für die eidgenössische Prüfung in Zahnmedizin: | 850 Franken
+  - a. Die Prüfung findet in Abweichung von Artikel 11 Absatz 2 an einem separaten Termin statt.
 
-  - c. für die eidgenössische Prüfung in Pharmazie: | 850 Franken
+  - b. Die Prüfungsgebühr beträgt in Abweichung von Artikel 27 Absatz 2 Buchstabe e 1000 Franken.
 
-  - d. für die eidgenössische Prüfung in Veterinärmedizin: | 850 Franken
-
-2 Ab der dritten Prüfungssession der eidgenössischen Prüfungen gemäss MedBG nach Inkrafttreten der Änderung vom 17. November 2010 dieser Verordnung sind die Gebühren gemäss Artikel 27 Absatz 2 in vollem Umfang geschuldet.
+3 Die Absätze 1 und 2 gelangen letztmals für die Durchführung der eidgenössischen Prüfung in Veterinärmedizin im Jahr 2025 zur Anwendung. Danach entscheidet die MEBEKO, Ressort Ausbildung, auf Vorschlag der Prüfungskommission Veterinärmedizin, ob nach bisherigem Recht bestandene Teilprüfungen ganz oder teilweise an die eidgenössische Prüfung nach neuem Recht angerechnet werden.
