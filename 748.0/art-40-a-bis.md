@@ -14,4 +14,4 @@
 
 3 Sie muss den zivilen und den militärischen Flugsicherungsdienst aufeinander abstimmen.
 
-4 Sie untersteht der Aufsicht durch das BAZL.
+4 Der zivile Flugsicherungsdienst untersteht der Aufsicht durch das BAZL. Der militärische Flugsicherungsdienst untersteht der Aufsicht durch die MAA.
