@@ -1,6 +1,8 @@
 # Art. 12f Sonderfälle der Kostentragung
 
-1 Wer einer lebenden Person in der Schweiz ein Organ entnimmt, das für eine Empfängerin oder einen Empfänger bestimmt ist, die oder der bei einem ausländischen Versicherer versichert ist, hat sicherzustellen, dass dieser Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt oder dafür eine Kostengutsprache leistet.
+1 Wer einer lebenden Person in der Schweiz ein Organ entnimmt, das für eine Empfängerin oder einen Empfänger bestimmt ist, die oder der bei keinem Schweizer Versicherer (Art. 14 Abs. 2 des Transplantationsgesetzes) versichert ist, muss sicherstellen, dass die Empfängerin oder der Empfänger beziehungsweise deren oder dessen ausländischer Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt.
+
+1bis Wer einer lebenden Person in der Schweiz Blut-Stammzellen entnimmt, die für eine Empfängerin oder einen Empfänger mit Wohnsitz in der Schweiz bestimmt sind, die oder der bei keinem Schweizer Versicherer (Art. 14 Abs. 2 des Transplantationsgesetzes) versichert ist, muss sicherstellen, dass die Empfängerin oder der Empfänger beziehungsweise deren oder dessen ausländischer Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt.
 
 2 Werden einer lebenden Person in der Schweiz Blut-Stammzellen für eine Empfängerin oder einen Empfänger im Ausland entnommen, so fordert die Lebendspende-Nachsorgestelle die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders beim ausländischen Stammzellenregister oder bei der ausländischen Lebendspende-Nachsorgestelle ein und überweist die erhaltenen finanziellen Mittel dem Lebendspende-Nachsorgefonds.
 
