@@ -28,7 +28,7 @@
 
   - f. den Verwendungszweck gemäss Artikel 3 der Tierarzneimittelverordnung vom 18. August 2004;
 
-  - g. einen Abschnitt für die Erfüllung der Mitteilungspflicht bei Halterwechsel gemäss Artikel 23 der Tierarzneimittelverordnung vom 18. August 2004 und der Gesundheitsmeldung gemäss Artikel 24 der Verordnung vom 23. No-vember 2005 über das Schlachten und die Fleischkontrolle (VSFK);
+  - g. einen Abschnitt für die Erfüllung der Mitteilungspflicht bei Halterwechsel gemäss Artikel 23 der Tierarzneimittelverordnung vom 18. August 2004 und der Gesundheitsmeldung gemäss Artikel 24 der Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK);
 
   - h. das Lesesystem, falls dieses nicht der ISO-Norm 11784 entspricht;
 
