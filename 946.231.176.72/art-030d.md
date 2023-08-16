@@ -1,0 +1,13 @@
+# Art. 30d
+
+1 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Artikeln 4, 5, 9a und 11a bewilligen für den Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr durch die Schweiz oder die Durchfuhr durch die Russische Föderation von in diesen Artikeln genannten Gütern oder damit verbundene Dienstleistungen für den Betrieb und die grundlegende Wartung der Pipeline des Kaspischen Pipeline-Konsortiums (CPC-Pipeline) und der zugehörigen Infrastrukturen, die erforderlich sind für den Transport von Gütern der Zolltarifnummer 2709 00 mit Ursprung in Kasachstan, die lediglich in der Russischen Föderation verladen werden, aus der Russischen Föderation abgehen oder durch die Russische Föderation durchgeführt werden, sofern:
+
+  - a. der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr durch die Schweiz oder die Durchfuhr durch die Russische Föderation oder die damit verbundenen Dienstleistungen für den Betrieb, die grundlegende Wartung, die Reparatur oder den Austausch von Komponenten der CPC-Pipeline und der zugehörigen Infrastrukturen erforderlich sind;
+
+  - b. die entsprechende Art von Gütern oder Dienstleistungen bereits zuvor aus einem EWR-Mitgliedstaat, einem Partner oder der Schweiz für den Betrieb, die grundlegende Wartung, die Reparatur oder den Austausch von Komponenten der CPC-Pipeline und der zugehörigen Infrastrukturen nach der Russischen Föderation ausgeführt beziehungsweise erbracht wurde;
+
+  - c. die beantragten Mengen den Mengen entsprechen, die für den Betrieb, die grundlegende Wartung, die Reparatur oder den Austausch von Komponenten der CPC-Pipeline und der zugehörigen Infrastrukturen verwendet werden; und
+
+  - d. diese Güter von einer dem Schweizer Recht unterworfenen natürlichen oder juristischen Person ausschliesslich für den Betrieb, die grundlegende Wartung, die Reparatur oder den Austausch von Komponenten der CPC-Pipeline und der zugehörigen Infrastrukturen bereitgestellt werden.
+
+2 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Artikel 28e Absatz 1 betreffend Dienstleistungen im Bereich Wirtschaftsprüfung, Artikel 28e Absatz 1bis betreffend Dienstleistungen in den Bereichen Ingenieurwesen und Rechtsberatung sowie Artikel 28e Absatz 1ter betreffend Dienstleistungen im Bereich technische physikalische und chemische Untersuchung bewilligen, sofern die Dienstleistungen für den Betrieb, die grundlegende Wartung, die Reparatur oder den Austausch von Komponenten der CPC-Pipeline und der zugehörigen Infrastrukturen erforderlich sind.
