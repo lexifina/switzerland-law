@@ -1,3 +1,3 @@
-# Art. 13a Information der oder des Beauftragten durch die Behörde
+# Art. 13a Information des EDÖB durch die Behörde
 
-Die Verwaltungseinheiten der zentralen Bundesverwaltung stellen der oder dem Beauftragten eine Kopie ihrer Verfügung und allfällige Entscheide der Beschwerdeinstanzen zu.
+Die Verwaltungseinheiten der zentralen Bundesverwaltung stellen dem EDÖB eine Kopie ihrer Verfügung und allfällige Entscheide der Beschwerdeinstanzen zu.
