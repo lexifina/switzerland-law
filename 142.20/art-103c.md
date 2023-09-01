@@ -28,6 +28,6 @@
 
   - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
 
-5 Soweit der NDB die aufgrund einer Anfrage nach Absatz 4 übermittelten Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018 Anwendung.
+5 …
 
 6 Zentrale Zugangsstelle im Sinn von Artikel 29 Absatz 3 der Verordnung (EU) 2017/2226 ist die Einsatzzentrale des fedpol.
