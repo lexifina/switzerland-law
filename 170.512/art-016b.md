@@ -1,6 +1,6 @@
 # Art. 16b Datenschutz
 
-1 Veröffentlichungen nach diesem Gesetz können Personendaten enthalten; insbesondere können sie auch besonders schützenswerte Personendaten nach Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz enthalten, sofern dies für eine in einem Bundesgesetz vorgesehene Veröffentlichung notwendig ist.
+1 Veröffentlichungen nach diesem Gesetz können Personendaten enthalten; insbesondere können sie auch besonders schützenswerte Personendaten nach Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020 enthalten, sofern dies für eine in einem Bundesgesetz vorgesehene Veröffentlichung notwendig ist.
 
 2 Texte, die besonders schützenswerte Personendaten enthalten, dürfen online nicht länger öffentlich zugänglich sein und nicht mehr Informationen enthalten, als es ihr Zweck erfordert.
 
