@@ -24,7 +24,7 @@
 
 2 …
 
-2bis Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1bis) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.
+2bis Soweit es für den Vollzug dieses Gesetzes und des AVG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, zwischen den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1bis) und den Informationssystemen der öffentlichen Arbeitsvermittlung (Art. 35 AVG) ausgetauscht werden.
 
 2ter …
 
