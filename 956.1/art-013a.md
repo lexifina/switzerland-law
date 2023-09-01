@@ -1,8 +1,10 @@
 # Art. 13a Datenbearbeitung
 
-1 Die FINMA bearbeitet in Papierform oder in einem oder mehreren Informationssystemen Daten ihres Personals zur Erfüllung der Aufgaben nach diesem Gesetz, insbesondere für:
+1 Die FINMA bearbeitet in Papierform oder in einem oder mehreren Informationssystemen Daten ihres Personals sowie von Stellenbewerberinnen und Stellenbewerbern zur Erfüllung der Aufgaben nach diesem Gesetz. Sie kann die Bearbeitung einem Auftragsbearbeiter übertragen. Die bearbeiteten Personendaten betreffen insbesondere:
 
-  - a. die Begründung, Durchführung und Beendigung eines Arbeitsverhältnisses;
+  - a. den Bewerbungsprozess;
+
+  - abis. die Begründung, Durchführung und Beendigung eines Arbeitsverhältnisses;
 
   - b. die Personal- und Lohnbewirtschaftung;
 
@@ -12,7 +14,7 @@
 
   - e. Eingliederungsmassnahmen bei Krankheit und Unfall.
 
-2 Sie kann folgende für die Erfüllung ihrer Aufgaben nach Absatz 1 notwendigen Daten ihres Personals, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, bearbeiten:
+2 Sie kann folgende für die Erfüllung ihrer Aufgaben nach Absatz 1 notwendigen Daten ihres Personals, einschliesslich besonders schützenswerte Personendaten, bearbeiten:
 
   - a. Angaben zur Person;
 
