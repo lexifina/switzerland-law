@@ -1,6 +1,6 @@
-# Art. 57l Aufzeichnung von Personendaten
+# Art. 57l Aufzeichnung von Personendaten und von Daten juristischer Personen
 
-Die Bundesorgane dürfen Personendaten, die bei der Nutzung der elektronischen Infrastruktur anfallen, zu folgenden Zwecken aufzeichnen:
+Die Bundesorgane dürfen Personendaten und Daten juristischer Personen, die bei der Nutzung der elektronischen Infrastruktur anfallen, zu folgenden Zwecken aufzeichnen:
 
   - a. alle Daten, einschliesslich des Inhalts elektronischer Post: zu deren Sicherung (Backups);
 
@@ -12,7 +12,7 @@ Die Bundesorgane dürfen Personendaten, die bei der Nutzung der elektronischen I
 
     - 3. zur Kontrolle der Einhaltung von Nutzungsreglementen,
 
-    - 4. zum Nachvollzug des Zugriffs auf Datensammlungen,
+    - 4. zum Nachvollzug des Zugriffs auf die elektronische Infrastruktur,
 
     - 5. zur Erfassung der Kosten, die durch die Benutzung der elektronischen Infrastruktur entstehen;
 

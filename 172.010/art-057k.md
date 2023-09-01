@@ -1,6 +1,6 @@
 # Art. 57k Elektronische Infrastruktur
 
-Die elektronische Infrastruktur umfasst sämtliche stationären oder mobilen Anlagen und Geräte, die Personendaten aufzeichnen können; zu ihr gehören insbesondere:
+Die elektronische Infrastruktur umfasst sämtliche stationären oder mobilen Anlagen und Geräte, die Personendaten und Daten juristischer Personen aufzeichnen können; zu ihr gehören insbesondere:
 
   - a. Datenverarbeitungsanlagen, Netzwerkkomponenten sowie Software;
 
