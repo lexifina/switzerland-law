@@ -4,7 +4,7 @@
 
 2 MIDES dient:
 
-  - a. der Bearbeitung von Personendaten von Asylsuchenden und Schutzbedürftigen, einschliesslich der besonders schützenswerten Personendaten und der Persönlichkeitsprofile nach Artikel 3 Buchstaben c und d DSG; und
+  - a. der Bearbeitung von Personendaten von Asylsuchenden und Schutzbedürftigen, einschliesslich besonders schützenswerter Personendaten nach Artikel 5 Buchstabe c DSG; und
 
   - b. der Geschäftskontrolle, der Durchführung des Asylverfahrens sowie der Planung und Organisation der Unterbringung.
 
