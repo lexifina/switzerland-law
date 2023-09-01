@@ -10,4 +10,4 @@
 
   - c. die Evaluation der Verwendung von Drittmitteln.
 
-3 Über das Abrufverfahren sind keine besonders schützenswerten Personendaten oder Persönlichkeitsprofile im Sinne von Artikel 3 Buchstabe c beziehungsweise d des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz zugänglich.
+3 Über das Abrufverfahren sind keine besonders schützenswerten Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020 zugänglich.
