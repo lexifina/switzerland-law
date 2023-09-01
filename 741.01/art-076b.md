@@ -4,7 +4,7 @@
 
 2 Das Nationale Versicherungsbüro und der Nationale Garantiefonds stehen unter der Aufsicht des ASTRA.
 
-3 Personen, die Aufgaben des Nationalen Versicherungsbüros und des Nationalen Garantiefonds wahrnehmen oder deren Ausführung beaufsichtigen, sind Dritten gegenüber zur Verschwiegenheit verpflichtet. Sie sind zur Erfüllung der ihnen übertragenen Aufgaben befugt, die dafür benötigten Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen.
+3 Personen, die Aufgaben des Nationalen Versicherungsbüros und des Nationalen Garantiefonds wahrnehmen oder deren Ausführung beaufsichtigen, sind Dritten gegenüber zur Verschwiegenheit verpflichtet. Sie sind zur Erfüllung der ihnen übertragenen Aufgaben befugt, die dafür benötigten Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen.
 
 4 Das Nationale Versicherungsbüro und der Nationale Garantiefonds können:
 
