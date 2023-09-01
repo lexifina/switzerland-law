@@ -8,6 +8,6 @@
 
   - b. beim Nachrichtendienst des Bundes Auskünfte einholen.
 
-3 Sie kann Daten, die für die Zuverlässigkeitsüberprüfung benötigt werden, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen, bei einer ausländischen Polizeistelle einholen und die Daten bearbeiten, sofern der angemessene Schutz der übermittelten Daten gewährleistet ist.
+3 Sie kann Daten, die für die Zuverlässigkeitsüberprüfung benötigt werden, einschliesslich besonders schützenswerter Personendaten, bei einer ausländischen Polizeistelle einholen und die Daten bearbeiten, sofern der angemessene Schutz der übermittelten Daten gewährleistet ist.
 
-4 Sie übermittelt dem Flughafenhalter und dem Luftverkehrsunternehmen die Daten, die für den Erlass der Verfügung nach Artikel 108b Absatz 3 benötigt werden, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen.
+4 Sie übermittelt dem Flughafenhalter und dem Luftverkehrsunternehmen die Daten, die für den Erlass der Verfügung nach Artikel 108b Absatz 3 benötigt werden, einschliesslich besonders schützenswerter Personendaten.
