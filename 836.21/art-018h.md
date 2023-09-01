@@ -2,7 +2,7 @@
 
 1 Der Datenschutz und die Informatiksicherheit richten sich nach:
 
-  - a. der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz;
+  - a. der Datenschutzverordnung vom 31. August 2022;
 
   - b. der Cyberrisikenverordnung vom 27. Mai 2020;
 
