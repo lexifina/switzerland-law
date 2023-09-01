@@ -1,6 +1,6 @@
 # Art. 26b Periodische Prämienzahlung
 
-1 Als rückkaufsfähige Lebensversicherungen mit periodischer Prämienzahlung im Sinne von Artikel 22 Buchstabe a des Gesetzes gelten Versicherungen, die mit im wesentlichen gleich hohen, über die gesamte Vertragslaufzeit verteilten Jahresprämien finanziert werden. Darunter fallen auch:
+1 Als rückkaufsfähige Lebensversicherungen mit periodischer Prämienzahlung im Sinne von Artikel 22 Buchstabe a StG gelten Versicherungen, die mit im wesentlichen gleich hohen, über die gesamte Vertragslaufzeit verteilten Jahresprämien finanziert werden. Darunter fallen auch:
 
   - a. Versicherungen mit regelmässig steigenden Prämien;
 
@@ -10,7 +10,7 @@
 
   - d. lebenslängliche Todesfallversicherungen mit abgekürzter Prämienzahlung.
 
-2 Keine periodische Prämienzahlung im Sinne von Artikel 22 Buchstabe a des Gesetzes liegt insbesondere vor, wenn:
+2 Keine periodische Prämienzahlung im Sinne von Artikel 22 Buchstabe a StG liegt insbesondere vor, wenn:
 
   - a. die Vertragslaufzeit weniger als fünf Jahre beträgt; oder
 
