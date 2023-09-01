@@ -1,6 +1,6 @@
 # Art. 349a
 
-Die zuständigen Bundesbehörden dürfen Personendaten nur bekannt geben, wenn dafür eine Rechtsgrundlage im Sinne von Artikel 7 des Schengen-Datenschutzgesetzes vom 28. September 2018 (SDSG) besteht oder wenn:
+Die zuständigen Bundesbehörden dürfen Personendaten nur bekannt geben, wenn dafür eine Rechtsgrundlage im Sinne von Artikel 36 Absatz 1 des Datenschutzgesetzes vom 25. September 2020 (DSG) besteht oder wenn:
 
   - a. die Bekanntgabe von Personendaten notwendig ist, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen;
 

@@ -10,7 +10,7 @@
 
   - c. spezifische Garantien.
 
-3 Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (Beauftragter) über die Kategorien von Bekanntgaben von Personendaten, die auf der Grundlage spezifischer Garantien nach Absatz 2 Buchstabe c erfolgen. Jede Bekanntgabe wird dokumentiert.
+3 Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) über die Kategorien von Bekanntgaben von Personendaten, die auf der Grundlage spezifischer Garantien nach Absatz 2 Buchstabe c erfolgen. Jede Bekanntgabe wird dokumentiert.
 
 4 In Abweichung von Absatz 1 können Personendaten der zuständigen Behörde eines Drittstaates oder einem internationalen Organ bekannt gegeben werden, wenn die Bekanntgabe im Einzelfall notwendig ist:
 
@@ -22,4 +22,4 @@
 
   - d. zur Ausübung oder Durchsetzung von Rechtsansprüchen gegenüber einer für die Verhütung, Feststellung oder Verfolgung einer Straftat zuständigen Behörde, sofern der Bekanntgabe keine überwiegenden schutzwürdigen Interessen der betroffenen Person entgegenstehen.
 
-5 Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den Beauftragten über die Bekanntgabe nach Absatz 4.
+5 Handelt es sich bei der bekanntgebenden Behörde um eine Bundesbehörde, so informiert sie den EDÖB über die Bekanntgabe nach Absatz 4.
