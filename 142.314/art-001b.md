@@ -2,7 +2,7 @@
 
 1 In der Datenbank Kompass werden Dokumente mit Informationen über die Herkunftsländer der Asylsuchenden erfasst.
 
-2 Es werden keine besonders schützenswerten Personendaten und Persönlichkeitsprofile gespeichert. Enthält ein nicht aus öffentlicher Quelle stammendes Dokument Personennamen, so werden diese vor dem Einlesen in das System anonymisiert.
+2 Es werden keine besonders schützenswerten Personendaten gespeichert. Enthält ein nicht aus öffentlicher Quelle stammendes Dokument Personennamen, so werden diese vor dem Einlesen in das System anonymisiert.
 
 3 Zugriff auf die Daten haben alle Mitarbeiterinnen und Mitarbeiter des SEM und des Bundesverwaltungsgerichts.
 
