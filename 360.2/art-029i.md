@@ -2,4 +2,4 @@
 
 1 Die Benutzung der Auswertungsplattformen ist zu protokollieren.
 
-2 Die Protokolle werden ein Jahr aufbewahrt.
+2 Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt.
