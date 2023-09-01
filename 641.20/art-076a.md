@@ -1,6 +1,6 @@
 # Art. 76a Informationssystem
 
-1 Die ESTV betreibt ein Informationssystem zur Bearbeitung von Personendaten sowie von besonders schützenswerten Daten über administrative und strafrechtliche Verfolgungen und Sanktionen und von Persönlichkeitsprofilen.
+1 Die ESTV betreibt ein Informationssystem zur Bearbeitung von Personendaten einschliesslich besonders schützenswerter Daten über verwaltungs- und strafrechtliche Verfolgungen und Sanktionen.
 
 2 Das System dient den folgenden Zwecken:
 
@@ -40,7 +40,7 @@
 
   - f. Angaben über Betreibungs-, Konkurs- und Arrestverfahren;
 
-  - g. Persönlichkeitsprofile nach Artikel 3 Buchstabe d des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz;
+  - g. …
 
   - h. Angaben über die Befolgung von steuerrechtlichen Pflichten;
 
@@ -49,3 +49,5 @@
   - j. Angaben über Straftaten, beschlagnahmte Gegenstände und Beweismittel;
 
   - k. Angaben über Administrativ- und Strafverfahren sowie Amts- und Rechtshilfeverfahren.
+
+4 Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte erhält für seine Aufsichtstätigkeit Zugang zum Informationssystem der ESTV.
