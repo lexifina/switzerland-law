@@ -18,7 +18,7 @@
 
   - a. Angaben zur Identifikation, Lokalisierung und Kontaktierung einer Person;
 
-  - b. Angaben zur Religionszugehörigkeit sowie Persönlichkeitsprofile nach Artikel 3 Buchstabe d des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz, sofern dies für die Strafverfolgung ausnahmsweise notwendig ist;
+  - b. Angaben zur Religionszugehörigkeit, falls dies für die Strafverfolgung ausnahmsweise erforderlich ist;
 
   - c. Angaben über Verdacht auf Widerhandlungen;
 
