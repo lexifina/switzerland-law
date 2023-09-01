@@ -15,3 +15,5 @@
   - a. welche Vorkehren zum Schutz von Berufsgeheimnissen getroffen werden müssen;
 
   - b. ob in nicht öffentliche Räumlichkeiten eingedrungen werden darf, um besondere Informatikprogramme zur Überwachung des Fernmeldeverkehrs in das betreffende Datenverarbeitungssystem einzuschleusen.
+
+5 Der Präsident des Militärkassationsgerichts erteilt die Genehmigung für höchstens drei Monate. Die Genehmigung kann ein- oder mehrmals um jeweils höchstens drei Monate verlängert werden. Ist eine Verlängerung notwendig, so stellt der Untersuchungsrichter vor Ablauf der bewilligten Dauer einen begründeten Verlängerungsantrag.
