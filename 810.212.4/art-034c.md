@@ -1,6 +1,6 @@
 # Art. 34c Aufgaben des BAG
 
-1 Das BAG trägt als Inhaber der Datenbank die Verantwortung für das SOAS. Es ist für die Sicherheit des SOAS und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
+1 Das BAG trägt die Verantwortung für das SOAS. Es ist für die Sicherheit des SOAS und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
 
 2 Es hat folgende Aufgaben:
 
