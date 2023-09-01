@@ -1,6 +1,6 @@
 # Art. 49c Aufgaben der Lebendspende-Nachsorgestelle
 
-1 Die Lebendspende-Nachsorgestelle trägt als Inhaberin der Datensammlung die Verantwortung für das Register. Sie ist für die Sicherheit des Registers und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
+1 Die Lebendspende-Nachsorgestelle trägt die Verantwortung für das Register. Sie ist für die Sicherheit des Registers und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich.
 
 2 Sie hat folgende Aufgaben:
 
