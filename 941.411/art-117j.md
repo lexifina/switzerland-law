@@ -2,7 +2,7 @@
 
 1 Für die Gewährleistung der Datensicherheit gelten:
 
-  - a. Artikel 7 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz;
+  - a. Artikel 8 DSG;
 
   - b. die Cyberrisikenverordnung vom 27. Mai 2020.
 
