@@ -14,7 +14,7 @@
 
   - b. in der Finanz- und in der Geschäftsprüfungsdelegation der eidgenössischen Räte;
 
-  - c. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten;
+  - c. beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB);
 
   - d. in der Eidgenössischen Finanzkontrolle.
 
