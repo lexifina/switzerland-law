@@ -2,7 +2,7 @@
 
 1 Die Gewährleistung der Datensicherheit richtet sich nach:
 
-  - a. der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz;
+  - a. der DSV;
 
   - b. der Cyberrisikenverordnung vom 27. Mai 2020.
 
