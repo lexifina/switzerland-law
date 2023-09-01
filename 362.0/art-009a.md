@@ -14,7 +14,7 @@ Das SIRENE-Büro kann zur Erfüllung seiner Aufgaben im Rahmen seiner Zugriffsre
 
   - f. im informatisierten Personennachweis-, Aktennachweis- und Verwaltungssystem des Bundesamts für Polizei (IPAS);
 
-  - g. im Informationssystem der Bundeskriminalpolizei (JANUS);
+  - g. im nationalen Ermittlungssystem;
 
   - h. im nationalen Visumsystem (ORBIS); und
 
