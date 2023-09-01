@@ -1,6 +1,6 @@
 # Art. 20c Zugriffsrechte
 
-1 Die folgenden Personen dürfen im Rahmen ihrer gesetzlichen Aufgaben Personendaten, insbesondere besonders schützenswerte Personendaten sowie Persönlichkeitsprofile, bearbeiten und im Abrufverfahren auf diese Daten zugreifen:
+1 Die folgenden Personen dürfen im Rahmen ihrer gesetzlichen Aufgaben Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten und im Abrufverfahren auf diese Daten zugreifen:
 
   - a. die Mitarbeiterinnen und Mitarbeiter des BLV, die Aufgaben im Zusammenhang mit der Oberaufsicht wahrnehmen;
 
