@@ -10,6 +10,6 @@
 
 3 Sie benachrichtigt die zuständige Behörde des Drittstaates unverzüglich über jede Bekanntgabe von Personendaten, sofern sie dies als zweckmässig erachtet.
 
-4 Handelt es sich bei der zuständigen Behörde um eine Bundesbehörde, so informiert sie den Beauftragten unverzüglich über jede Bekanntgabe nach Absatz 1.
+4 Handelt es sich bei der zuständigen Behörde um eine Bundesbehörde, so informiert sie den EDÖB unverzüglich über jede Bekanntgabe nach Absatz 1.
 
 5 Sie dokumentiert jede Bekanntgabe von Personendaten. Der Bundesrat regelt die Einzelheiten.
