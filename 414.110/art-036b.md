@@ -1,6 +1,6 @@
 # Art. 36b Studienadministrationssysteme
 
-1 Jede ETH betreibt für die Verwaltung der Daten der Studienanwärter, Studierenden, Doktoranden und Hörer ein Informationssystem, in welchem auch besonders schützenswerte Personendaten und Persönlichkeitsprofile bearbeitet werden können.
+1 Jede ETH betreibt für die Verwaltung der Daten der Studienanwärter, Studierenden, Doktoranden und Hörer ein Informationssystem, in dem auch besonders schützenswerte Personendaten bearbeitet werden können.
 
 2 Die Informationssysteme dienen:
 
@@ -18,7 +18,7 @@
 
 4 Die Daten können ausschliesslich elektronisch verwaltet werden. In diesem Fall werden Dokumente in Papierform nach deren Eingabe in das Informationssystem zurückgegeben oder vernichtet.
 
-5 Die in den Informationssystemen enthaltenen Daten können, soweit es zur Erfüllung der unter Absatz 2 genannten Aufgaben notwendig ist, durch ein Abrufverfahren bekannt gegeben werden. Die Bekanntgabe besonders schützenswerter Daten und von Persönlichkeitsprofilen durch ein Abrufverfahren ist nur an die für die Studienadministration zuständigen Stellen innerhalb jeder ETH gestattet.
+5 Die in den Informationssystemen enthaltenen Daten können, soweit es zur Erfüllung der unter Absatz 2 genannten Aufgaben notwendig ist, durch ein Abrufverfahren bekannt gegeben werden. Die Bekanntgabe besonders schützenswerter Personendaten durch ein Abrufverfahren ist nur an die für die Studienadministration zuständigen Stellen innerhalb jeder ETH gestattet.
 
 6 Die ETH erlassen Ausführungsbestimmungen über:
 
