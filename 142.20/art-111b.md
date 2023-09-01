@@ -14,4 +14,4 @@
 
 3 Die schweizerischen Auslandvertretungen können mit ihren Partnern aus den Staaten, die durch eines der Schengen-Assoziierungsabkommen gebunden sind, die für die konsularische Zusammenarbeit vor Ort notwendigen Daten austauschen, namentlich Informationen über die Verwendung gefälschter oder verfälschter Dokumente und über Schleppernetze sowie Daten der in Absatz 2 erwähnten Kategorien.
 
-4 Der Bundesrat kann die in Absatz 2 erwähnten Kategorien von Personendaten an die neuesten Entwicklungen des Schengen-Besitzstands anpassen. Er konsultiert dazu den Eidgenössischen Datenschutzbeauftragten.
+4 Der Bundesrat kann die in Absatz 2 erwähnten Kategorien von Personendaten an die neuesten Entwicklungen des Schengen-Besitzstands anpassen. Er konsultiert dazu den Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB).

@@ -1,14 +1,14 @@
 # Art. 111d Datenbekanntgabe an Drittstaaten
 
-1 An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, sofern diese ein angemessenes Datenschutzniveau gewährleisten.
+1 An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, wenn sie ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 DSG gewährleisten.
 
-2 Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten im Einzelfall bekannt gegeben werden, wenn:
+2 Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ihm Personendaten in folgenden Fällen bekannt gegeben werden:
 
-  - a. die betroffene Person ohne jeden Zweifel eingewilligt hat; handelt es sich um besonders schützenswerte Personendaten oder Persönlichkeitsprofile, so muss die Einwilligung ausdrücklich sein;
+  - a. Die betroffene Person hat nach Artikel 6 Absatz 6 und gegebenenfalls Absatz 7 DSG eingewilligt.
 
-  - b. die Bekanntgabe erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen; oder
+  - b. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist deren Einwilligung einzuholen.
 
-  - c. die Bekanntgabe zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht erforderlich ist.
+  - c. Die Bekanntgabe ist notwendig zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht oder einer anderen zuständigen ausländischen Behörde.
 
 3 Neben den in Absatz 2 genannten Fällen können Personendaten auch bekannt gegeben werden, wenn im Einzelfall hinreichende Garantien einen angemessenen Schutz der betroffenen Person gewährleisten.
 
