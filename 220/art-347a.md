@@ -1,6 +1,6 @@
 # Art. 347a
 
-1 Das Arbeitsverhältnis ist durch schriftlichen Vertrag zu regeln, der namentlich Bestimmungen enthalten soll über
+1 Das Arbeitsverhältnis ist durch schriftlichen Vertrag zu regeln, der namentlich Bestimmungen enthalten soll über:
 
   - a. die Dauer und Beendigung des Arbeitsverhältnisses,
 
