@@ -2,7 +2,7 @@
 
 1 Der Versicherer kann die Gewährung der Akteneinsicht von einem schriftlichen Gesuch abhängig machen.
 
-2 Die Akteneinsicht wird grundsätzlich am Sitz des Versicherers oder seiner Durchführungsorgane gewährt. Auf Wunsch der gesuchstellenden Person kann der Versicherer Kopien der Akten zustellen. Vorbehalten bleiben Artikel 47 Absatz 2 ATSG und Artikel 8 Absatz 5 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz.
+2 Die Akteneinsicht wird grundsätzlich am Sitz des Versicherers oder seiner Durchführungsorgane gewährt. Auf Wunsch der gesuchstellenden Person kann der Versicherer Kopien der Akten zustellen. Vorbehalten bleiben Artikel 47 Absatz 2 ATSG und Artikel 16 Absatz 2 der Datenschutzverordnung vom 31. August 2022 (DSV).
 
 3 Der Versicherer hat die Akten oder Kopien davon zur Einsichtnahme zuzustellen:
 
