@@ -24,4 +24,4 @@
 
 9 Fedpol kann Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Artikel 61 Absätze 1, 2, 5 und 6 NDG ist sinngemäss anwendbar. Die Daten dürfen nur weitergegeben werden, wenn die Behörde oder das Organ garantiert, dass die Daten ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren.
 
-10 Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.
+10 Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach Artikel 25 und 41 Absatz 2 Buchstabe a des DSG. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit.

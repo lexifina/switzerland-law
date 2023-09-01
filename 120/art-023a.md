@@ -6,4 +6,4 @@
 
 3 Die Daten werden spätestens fünf Jahre, nachdem der Schutzbedarf nicht mehr gegeben ist, vernichtet.
 
-4 Das Auskunftsrecht und das Recht, Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 DSG.
+4 Das Auskunftsrecht und das Recht, Daten berichtigen zu lassen, richten sich nach den Artikeln 25 und 41 Absatz 2 Buchstabe a DSG.

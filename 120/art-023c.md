@@ -6,7 +6,7 @@
 
   - b. Personenschutzmassnahmen anordnen und durchführen.
 
-2 Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, bekannt gegeben werden:
+2 Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schützenswerter Personendaten, bekannt gegeben werden:
 
   - a. Departementen, Amtsstellen und Sicherheitsorganen der zivilen und militärischen Verwaltung zum Schutz von Behörden, Gebäuden und Einrichtungen sowie zur Durchführung von Personenschutzmassnahmen;
 
