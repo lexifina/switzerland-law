@@ -10,4 +10,4 @@
 
   - c. Anwendung und Weiterverfolgung der getroffenen Massnahmen nach Artikel 21a Absatz 5 im Falle von Unregelmässigkeiten oder Verstössen;
 
-  - d. Einhaltung der Vorschriften des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz.
+  - d. Einhaltung der Vorschriften des Datenschutzgesetzes vom 25. September 2020.
