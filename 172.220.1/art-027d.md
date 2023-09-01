@@ -10,7 +10,7 @@
 
   - d. die Fallführung (Case Management).
 
-2 Die PSB kann die folgenden für die Erfüllung ihrer Aufgaben notwendigen besonders schützenswerten Personendaten und Persönlichkeitsprofile der Klientinnen und Klienten bearbeiten:
+2 Die PSB kann die folgenden zur Erfüllung ihrer Aufgaben notwendigen Personendaten der Klientinnen und Klienten, einschliesslich besonders schützenswerter Personendaten, bearbeiten:
 
   - a. private Situation;
 
@@ -22,7 +22,7 @@
 
 3 Die Angestellten der PSB und die für den technischen Support verantwortlichen Dienststellen erhalten Zugriff auf das Informationssystem, soweit es für die Erfüllung ihrer Aufgaben notwendig ist.
 
-4 Die PSB kann den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten und Persönlichkeitsprofile zugänglich machen, sofern sie diese für die Erfüllung ihrer Aufgaben benötigen:
+4 Die PSB kann den folgenden Personen und Stellen die in Absatz 2 genannten Personendaten zugänglich machen, sofern sie diese zur Erfüllung ihrer Aufgaben benötigen:
 
   - a. den direkten Vorgesetzen;
 
