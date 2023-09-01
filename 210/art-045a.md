@@ -18,7 +18,7 @@
 
   - 4. die betriebliche Zusammenarbeit zwischen Bund und Kantonen;
 
-  - 5. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen technischen und organisatorischen Massnahmen;
+  - 5. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen sowie die Aufsicht über die Einhaltung der Datenschutzvorschriften;
 
   - 6. die Archivierung der Daten.
 
