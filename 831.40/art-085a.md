@@ -1,6 +1,6 @@
 # Art. 85a Bearbeiten von Personendaten
 
-Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:
+1 Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:
 
   - a. die Versicherungsbeiträge zu berechnen und zu erheben;
 
@@ -13,3 +13,5 @@ Die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführ
   - e. Statistiken zu führen;
 
   - f. die AHV-Nummer zuzuweisen oder zu verifizieren.
+
+2 Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.
