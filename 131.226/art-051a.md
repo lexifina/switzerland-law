@@ -1,7 +1,9 @@
 # Art. 51a
 
-1 Das Kantons- und das Verwaltungsgericht unterbreiten dem Grossen Rat den Entwurf für ihr Budget sowie die Rechnung und den Jahresbericht zur Genehmigung.
+1 Das Obergericht unterbreitet dem Grossen Rat den Entwurf für das Budget sowie die Rechnung und den Geschäftsbericht zur Genehmigung.
 
-2 Die Präsidentinnen und Präsidenten nehmen an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zu den Jahresberichten der Gerichte teil. Sie haben beratende Stimme und können Anträge stellen.
+1bis Es kann an den Grossen Rat gelangen, um die Justizverwaltung betreffende Verfassungs- und Gesetzesänderungen anzuregen.
 
-3 Soweit nicht die Form des Gesetzes vorgeschrieben ist, können das Kantons- und das Verwaltungsgericht auf dem Gebiet der Justizverwaltung und -aufsicht Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
+2 Die Präsidentin oder der Präsident des Obergerichts nimmt an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zum Geschäftsbericht sowie zu den vom Obergericht angeregten Rechtsetzungsvorhaben teil. Sie oder er hat beratende Stimme und kann Anträge stellen.
+
+3 Soweit nicht die Form des Gesetzes vorgeschrieben ist, können die Gerichte auf dem Gebiet der Justizverwaltung Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
