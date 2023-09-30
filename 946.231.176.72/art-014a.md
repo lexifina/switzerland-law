@@ -2,7 +2,7 @@
 
 1 Die Einfuhr, der Transport und der Kauf von Eisen- und Stahlerzeugnissen gemäss Anhang 17 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind verboten.
 
-2 …
+2 Die Einfuhr, der Transport und der Kauf von Eisen- und Stahlerzeugnissen gemäss Anhang 17, die in einem Drittstaat unter Verwendung von Eisen- und Stahlerzeugnissen aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation verarbeitet wurden, sind verboten.
 
 3 Die direkte oder indirekte Bereitstellung von technischer Hilfe, Vermittlungsdiensten, Finanzmitteln oder finanzieller Unterstützung, einschliesslich Finanzderivaten, sowie Versicherungen und Rückversicherungen im Zusammenhang mit den Tätigkeiten nach den Absätzen 1 und 2 ist verboten.
 
