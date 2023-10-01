@@ -16,4 +16,4 @@
 
   - c. Geräte oder Vorrichtungen, die nicht primär zur Warnung vor behördlichen Kontrollen des Strassenverkehrs bestimmt sind, zu solchen Zwecken verwendet.
 
-4 In schweren Fällen ist die Strafe Geldstrafe bis zu 180 Tagessätzen.
+4 In schweren Fällen ist die Strafe Geldstrafe.

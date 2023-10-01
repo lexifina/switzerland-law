@@ -18,7 +18,7 @@
 
   - a. mindestens drei Monate;
 
-  - abis. mindestens zwei Jahre, wenn durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern bestand, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen; Artikel 90 Absatz 4 ist anwendbar;
+  - abis. mindestens zwei Jahre, wenn durch vorsätzliche Verletzung elementarer Verkehrsregeln das hohe Risiko eines Unfalls mit Schwerverletzten oder Todesopfern bestand, namentlich durch besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit im Sinne von Artikel 90 Absatz 4, waghalsiges Überholen oder Teilnahme an einem nicht bewilligten Rennen mit Motorfahrzeugen; diese Mindestentzugsdauer darf um bis zu zwölf Monate reduziert werden, wenn eine Strafe von weniger als einem Jahr (Art. 90 Abs. 3bis oder 3ter) ausgesprochen wurde;
 
   - b. mindestens sechs Monate, wenn in den vorangegangenen fünf Jahren der Ausweis einmal wegen einer mittelschweren Widerhandlung entzogen war;
 

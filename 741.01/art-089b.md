@@ -14,7 +14,7 @@ Das IVZ dient der Erfüllung folgender Aufgaben:
 
   - c. Fahrzeugtypisierung, Fahrzeugprüfung und Zulassung von Fahrzeugen zum Strassenverkehr;
 
-  - d. Kontrolle der Versicherung, Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996 der zum Strassenverkehr zugelassenen Fahrzeuge;
+  - d. Kontrolle der Versicherung, Verzollung und Versteuerung nach dem AStG der zum Strassenverkehr zugelassenen Fahrzeuge;
 
   - e. Identifikation von Fahrzeughaltern und Fahrzeugfahndung;
 
@@ -26,10 +26,10 @@ Das IVZ dient der Erfüllung folgender Aufgaben:
 
   - i. Erarbeiten von Grundlagen der Verkehrs-, Umwelt- und Energiepolitik;
 
-  - j. Erhebung der kantonalen Motorfahrzeugsteuern, der Schwerverkehrsabgaben und weiterer Abgaben;
+  - j. Erhebung der kantonalen Motorfahrzeugsteuern und weiterer Abgaben sowie Erhebung und Überprüfung der Entrichtung der Schwerverkehrsabgaben und der Nationalstrassenabgaben;
 
   - k. Unterstützung in- und ausländischer Behörden beim Vollzug der Vorschriften über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer;
 
   - l. Zulassung und Kontrolle von Strassentransportunternehmen im Personen- und im Güterverkehr;
 
-  - m. Vollzug der Verminderung der CO2-Emissionen bei Personenwagen, Lieferwagen und leichten Sattelschleppern.
+  - m. Vollzug der Verminderung der CO2-Emissionen von Fahrzeugen nach dem CO2-Gesetz vom 23. Dezember 2011.

@@ -10,9 +10,9 @@
 
 2bis Inhaber des Führerausweises auf Probe müssen Weiterbildungskurse besuchen. Die Kurse sollen die Erkennung und Vermeidung von Gefahren und umweltschonendes Fahren vermitteln und sind in erster Linie praktisch auszurichten. Der Bundesrat legt Inhalt und Form der Weiterbildungskurse fest.
 
-3 Wird dem Inhaber der Ausweis auf Probe wegen einer Widerhandlung entzogen, so wird die Probezeit um ein Jahr verlängert. Dauert der Entzug über die Probezeit hinaus, so beginnt die Verlängerung mit der Rückgabe des Führerausweises.
+3 Wird dem Inhaber der Führerausweis auf Probe wegen Begehung einer mittelschweren oder schweren Widerhandlung entzogen, so wird die Probezeit um ein Jahr verlängert. Dauert der Entzug über die Probezeit hinaus, so beginnt die Verlängerung mit der Rückgabe des Führerausweises.
 
-4 Der Führerausweis auf Probe verfällt mit der zweiten Widerhandlung, die zum Entzug des Ausweises führt.
+4 Der Führerausweis auf Probe verfällt, wenn der Inhaber während der Probezeit eine weitere mittelschwere oder schwere Widerhandlung begeht.
 
 5 Ein neuer Lernfahrausweis kann frühestens ein Jahr nach Begehung der Widerhandlung und nur auf Grund eines verkehrspsychologischen Gutachtens erteilt werden, das die Eignung bejaht. Diese Frist wird um ein Jahr verlängert, wenn die betroffene Person während dieser Zeit ein Motorrad oder einen Motorwagen geführt hat.
 
