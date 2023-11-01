@@ -21,3 +21,5 @@
 3 Deklarationspflichtige Unternehmen sind verpflichtet, die Informationen gemäss Artikel 16d Absatz 2 aktuell zu halten.
 
 4 Das BAZL fordert Unternehmen, die eine Deklaration eingereicht haben, regelmässig auf, die übermittelten Daten zu bestätigen. Wird diese Bestätigung unterlassen, so verfällt die Gültigkeit der Deklaration nach einer vom BAZL mitgeteilten Frist automatisch.
+
+5 Liegt keine Deklaration vor, so weist die Frachtannahmestelle die Gefahrgutsendung von deklarationspflichtigen Unternehmen gemäss Absatz 1 anlässlich des Frachtannahmeverfahrens gemäss Part 7, Chapter 1 der TI zum ICAO-Anhang 18 zurück.
