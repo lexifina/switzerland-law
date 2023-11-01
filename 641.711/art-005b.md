@@ -14,6 +14,6 @@
 
   - e. die Unabhängigkeit sowie mögliche Interessenkonflikte der an der wissenschaftlichen Begleitung beteiligten Personen.
 
-3 Die wissenschaftliche Begleitung wird beendet, wenn die Wirkung des Projekts oder Programmes ausreichend genau quantifiziert worden ist. Das BAFU entscheidet über die Beendigung der wissenschaftlichen Begleitung. Es berücksichtigt bei seinem Entscheid die Empfehlung der Verifizierungsstelle.
+3 Die wissenschaftlichen Begleitung wird beendet, wenn die Wirkung des Projekts oder Programmes ausreichend genau quantifiziert worden ist. Das BAFU entscheidet über die Beendigung der wissenschaftlichen Begleitung.
 
 4 Die Resultate der wissenschaftlichen Begleitung sind unter Wahrung des Fabrikations- und Geschäftsgeheimnisses zu publizieren.
