@@ -16,6 +16,6 @@
 
   - c. an der Schlichtungsverhandlung teilzunehmen; die Behörde nimmt an der Schlichtungsverhandlung durch die von ihr zur Vertretung ermächtigte Person teil.
 
-3 Nimmt die Gesuchstellerin oder der Gesuchsteller nicht an der Schlichtungsverhandlung teil, so gilt der Schlichtungsantrag als zurückgezogen und erledigt.
+3 Nimmt die Gesuchstellerin oder der Gesuchsteller nicht an der Schlichtungsverhandlung teil, so gilt der Schlichtungsantrag als zurückgezogen und das Schlichtungsverfahren wird abgeschrieben.
 
 4 Weigern sich die Parteien, an der Suche nach einer Schlichtung mitzuwirken oder verzögern sie das Schlichtungsverfahren missbräuchlich, so kann der EDÖB feststellen, dass die Schlichtung nicht zustande gekommen ist.
