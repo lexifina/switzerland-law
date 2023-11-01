@@ -16,7 +16,7 @@
 
 4) [Von der Ursprungsbehörde zu behebende Mängel]
 
-  - a) Wenn das Internationale Büro
+  - a) Wenn das Internationale Büro:
 
     - i) feststellt, dass das internationale Gesuch die Erfordernisse der Regel 2 nicht erfüllt oder nicht auf dem nach Regel 9 Absatz 2 Buchstabe a vorgeschriebenen amtlichen Formblatt eingereicht worden ist;
 
