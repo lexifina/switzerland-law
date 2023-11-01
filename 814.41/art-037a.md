@@ -4,4 +4,4 @@
 
 2 Steht fest oder ist zu erwarten, dass die Lärmimmissionen einer Anlage von den im Entscheid festgehaltenen Immissionen auf Dauer wesentlich abweichen, so trifft die Vollzugsbehörde die notwendigen Massnahmen.
 
-3 Das Bundesamt für Umwelt kann Empfehlungen für eine vergleichbare Erfassung und Darstellung der in diesen Entscheiden festgehaltenen Lärmimmissionen erlassen.
+3 Das BAFU kann Empfehlungen für eine vergleichbare Erfassung und Darstellung der in diesen Entscheiden festgehaltenen Lärmimmissionen erlassen.

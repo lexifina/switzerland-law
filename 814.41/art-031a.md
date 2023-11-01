@@ -14,4 +14,4 @@
 
 2 Bei der Ausscheidung oder Erschliessung von Bauzonen sorgt die zuständige Behörde dafür, dass die Anforderungen gemäss Absatz 1 Buchstaben b und c grundeigentümerverbindlich festgehalten werden.
 
-3 Das Bundesamt für Umwelt kann Empfehlungen zum Vollzug von Absatz 1 Buchstabe c erlassen. Es berücksichtigt dabei die massgebenden technischen Normen.
+3 Das BAFU kann Empfehlungen zum Vollzug von Absatz 1 Buchstabe c erlassen. Es berücksichtigt dabei die massgebenden technischen Normen.
