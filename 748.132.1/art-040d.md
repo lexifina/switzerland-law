@@ -2,7 +2,7 @@
 
 1 Der Erbringer der Flugverkehrsdienste darf auf die Aufzeichnungen und die dazugehörigen Randdaten des AVRE nur zugreifen:
 
-  - a. um sie der SUST für die in Artikel 40a Absatz 1 genannten Zwecke zugänglich zu machen;
+  - a. um sie der SUST oder dem DASIB für die in Artikel 40a Absatz 1 genannten Zwecke zugänglich zu machen;
 
   - b. wenn es zu Wartungszwecken unumgänglich ist.
 

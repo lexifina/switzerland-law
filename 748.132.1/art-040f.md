@@ -1,8 +1,8 @@
 # Art. 40f Auswertung
 
-1 Die Aufzeichnungen des AVRE dürfen nur von der SUST ausgewertet werden. Diese wertet die Aufzeichnungen nur so weit aus, wie es zur Untersuchung eines Flugunfalls oder schweren Vorfalls nötig ist.
+1 Die Aufzeichnungen des AVRE dürfen nur von der SUST und dem DASIB ausgewertet werden. Diese werten die Aufzeichnungen nur so weit aus, wie es zur Untersuchung eines Flugunfalls oder schweren Vorfalls nötig ist.
 
-2 Der Erbringer der Flugverkehrsdienste, die betroffenen Fluglotsinnen und Fluglotsen und die Vertrauensstelle haben das Recht, am Verfahren der Auswertung der Aufzeichnungen beteiligt zu sein. Gleiches gilt für die Luftwaffe, sofern militärische Flugzeuge oder Stellen vom Flugunfall oder schweren Vorfall betroffen sind.
+2 Der Erbringer der Flugverkehrsdienste, die betroffenen Fluglotsinnen und Fluglotsen und die Vertrauensstelle haben das Recht, am Verfahren der Auswertung der Aufzeichnungen beteiligt zu sein. Gleiches gilt für das DASIB, sofern militärische Flugzeuge oder Stellen vom Flugunfall oder schweren Vorfall betroffen sind.
 
 3 Die betroffenen Fluglotsinnen und Fluglotsen können sich bei Verfahrenshandlungen von einem Vertreter ihres Personalverbandes begleiten lassen.
 

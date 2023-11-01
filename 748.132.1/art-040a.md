@@ -1,6 +1,6 @@
 # Art. 40a Verantwortung und Einsatzgebiet
 
-1 Der Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnet für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und ‑geräusche auf.
+1 Die Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnen für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen oder nach Artikel 40 der Verordnung vom 22. Sept. 2023 über die Militärluftfahrt (MLFV) mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und -geräusche auf.
 
 2 Er führt die mit dem AVRE erstellte Datenbank und ist das für den Datenschutz verantwortliche Organ.
 

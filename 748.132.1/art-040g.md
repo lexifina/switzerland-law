@@ -20,6 +20,6 @@
 
   - f. die Bezeichnung und die Finanzierung der Vertrauensstelle;
 
-  - g. die Koordination mit der SUST im Auswertungsverfahren.
+  - g. die Koordination mit der SUST oder dem DASIB im Auswertungsverfahren.
 
 5 Berechtigungen nach Absatz 4 Buchstaben b, c und e können nur Angestellten des Erbringers der Flugverkehrsdienste verliehen werden.
