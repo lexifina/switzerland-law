@@ -47,3 +47,7 @@ Ist an dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, v
 7) [Übergangsbestimmung hinsichtlich der Teilersetzung]
 
 Kein Amt ist verpflichtet, Regel 21 Absatz 3 Buchstabe d Satz 2 vor dem 1. Februar 2025 anzuwenden.
+
+8) [Übergangsbestimmung zu den Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e)]
+
+Die Vertragsparteien können weiterhin die Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e, wie sie seit dem 1. November 2021 in Kraft sind, bis am 1. Februar 2025 oder bis zu einem späteren Datum anwenden, sofern die betreffende Vertragspartei dem Internationalen Büro vor dem 1. Februar 2025 oder vor dem Datum, an welches diese Vertragspartei durch das Protokoll gebunden ist, eine Mitteilung sendet. Das spätere Datum wird berücksichtigt. Die Vertragspartei kann diese Mitteilung nachfolgend jederzeit zurückziehen.

@@ -18,17 +18,21 @@ Eine Mitteilung über die vorläufige Schutzverweigerung hat folgendes zu enthal
 
   - iv) alle Gründe, auf die sich die vorläufige Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes;
 
-  - v) beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen und die Anschrift des Inhabers sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
+  - v) beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen des Inhabers und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
 
   - vi) entweder, dass die Gründe, auf die die vorläufige Schutzverweigerung gestützt ist, alle Waren und Dienstleistungen berühren oder eine Angabe der Waren und Dienstleistungen, die von der vorläufigen Schutzverweigerung berührt beziehungsweise nicht berührt sind;
 
-  - vii) die unter den Umständen angemessene Frist zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch, vorzugsweise mit einer Angabe des Datums, an dem die entsprechende Frist abläuft, und die für den Antrag auf Überprüfung, Beschwerde oder Erwiderung zuständige Behörde, gegebenenfalls mit dem Hinweis, dass der Antrag auf Überprüfung oder die Beschwerde über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat;
+  - vii) die Frist von mindestens zwei Monaten zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch;
 
-  - viii) …
+  - viii) die Angabe des Datums an dem die in Absatz 2 Ziffer vii angegebene Frist beginnt und endet, wenn besagte Frist an einem anderen Datum beginnt, als jenes an welchem das Internationale Büro dem Inhaber eine Kopie der Mitteilung zustellt, oder jenes an welchem der Inhaber besagte Kopie erhält;
+
+  - ix) die für diesen Antrag auf Überprüfung, diese Beschwerde oder diese Erwiderung zuständige Behörde; und
+
+  - x) gegebenenfalls einen Hinweis, dass der Antrag auf Überprüfung, die Beschwerde oder die Erwiderung über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat.
 
 3) [Zusätzliche Erfordernisse bezüglich der Mitteilung über eine auf einen Widerspruch gestützte vorläufige Schutzverweigerung]
 
-Stützt sich die vorläufige Schutzverweigerung auf einen Widerspruch oder auf einen Widerspruch und andere Gründe, so hat die Mitteilung nicht nur die in Absatz 2 genannten Erfordernisse zu erfüllen, sondern auch einen dahin gehenden Hinweis und den Namen und die Anschrift des Widersprechenden zu enthalten; ungeachtet des Absatzes 2 Ziffer v muss jedoch die mitteilende Behörde im Fall eines Widerspruchs, der sich auf eine Marke stützt, die Gegenstand einer Anmeldung oder einer Eintragung war, das Verzeichnis der Waren und Dienstleistungen übermitteln, auf die sich der Widerspruch stützt, und kann zusätzlich das vollständige Verzeichnis der Waren und Dienstleistungen dieser früheren Anmeldung oder dieser früheren Eintragung mitteilen, wobei diese Verzeichnisse in der Sprache der früheren Anmeldung oder der früheren Eintragung abgefasst sein können.
+Stützt sich die vorläufige Schutzverweigerung auf einen Widerspruch oder auf einen Widerspruch und andere Gründe, so hat die Mitteilung nicht nur die in Absatz 2 genannten Erfordernisse zu erfüllen, sondern auch einen dahin gehenden Hinweis und den Namen des Widersprechenden und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, zu enthalten; ungeachtet des Absatzes 2 Ziffer v muss jedoch die mitteilende Behörde im Fall eines Widerspruchs, der sich auf eine Marke stützt, die Gegenstand einer Anmeldung oder einer Eintragung war, das Verzeichnis der Waren und Dienstleistungen übermitteln, auf die sich der Widerspruch stützt, und kann zusätzlich das vollständige Verzeichnis der Waren und Dienstleistungen dieser früheren Anmeldung oder dieser früheren Eintragung mitteilen, wobei diese Verzeichnisse in der Sprache der früheren Anmeldung oder der früheren Eintragung abgefasst sein können.
 
 4) [Eintragung; Übermittlung von Kopien der Mitteilungen]
 
@@ -49,3 +53,7 @@ Das internationale Büro trägt die vorläufige Schutzverweigerung im internatio
   - e) Die Behörde einer Vertragspartei kann den Generaldirektor in einer Erklärung davon unterrichten, dass nach dem Recht dieser Vertragspartei eine vorläufige Schutzverweigerung von Amts wegen, von der das Internationale Büro unterrichtet worden ist, der Überprüfung durch diese Behörde nicht zugänglich ist. Findet diese Erklärung Anwendung, so gilt eine Erklärung nach Regel 18ter Absatz 2 Ziffer ii oder Absatz 3 als in einer Mitteilung über eine vorläufige Schutzverweigerung von Amts wegen durch diese Behörde enthalten.
 
 6) …
+
+7) [Informationen bezüglich der Antwortfrist auf eine vorläufige Schutzverweigerung]
+
+Die Vertragsparteien teilen dem Internationalen Büro die in Absatz 2 Ziffer vii vorgesehene Frist mit, sowie die Art und Weise, wie diese Frist berechnet wird.

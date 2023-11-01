@@ -40,7 +40,7 @@
 
 Das Internationale Büro veröffentlicht im Blatt:
 
-  - i) jede Notifikation nach Regel 7, 20bis Absatz 6, 27bis Absatz 6, 27ter Absatz 2 Buchstabe b oder 40 Absatz 6 und jede Erklärung nach Regel 17 Absatz 5 Buchstabe d oder e;
+  - i) jede Mitteilung nach Regel 7, 17 Absatz 7, 20bis Absatz 6, 27bis Absatz 6, 27ter Absatz 2 Buchstabe b oder 40 Absatz 6 und 7 und jede Erklärung nach Regel 17 Absatz 5 Buchstabe d oder e;
 
   - ii) Erklärungen nach Artikel 5 Absatz 2 Buchstabe b oder Artikel 5 Absatz 2 Buchstabe b und Buchstabe c Satz 1 des Protokolls;
 
