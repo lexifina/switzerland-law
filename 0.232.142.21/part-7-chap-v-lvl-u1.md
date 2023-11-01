@@ -2,7 +2,7 @@
 
 (1) Die Fristen werden nach vollen Tagen, Wochen, Monaten oder Jahren berechnet.
 
-(2) Bei der Fristberechnung wird mit dem Tag begonnen, der auf den Tag folgt, an dem das Ereignis eingetreten ist, aufgrund dessen der Fristbeginn festgelegt wird; dieses Ereignis kann eine Handlung oder der Ablauf einer früheren Frist sein. Besteht die Handlung in einer Zustellung, so ist das massgebliche Ereignis der Zugang des zugestellten Schriftstücks, sofern nichts anderes bestimmt ist.
+(2) Bei der Fristberechnung wird mit dem Tag begonnen, der auf den Tag folgt, an dem das Ereignis eingetreten ist, aufgrund dessen der Fristbeginn festgelegt wird; dieses Ereignis kann eine Handlung oder der Ablauf einer früheren Frist sein. Besteht die Handlung in einer Zustellung, so ist das massgebliche Ereignis der fiktive Zugang des zugestellten Schriftstücks, sofern nichts anderes bestimmt ist.
 
 (3) Ist als Frist ein Jahr oder eine Anzahl von Jahren bestimmt, so endet die Frist in dem massgeblichen folgenden Jahr in dem Monat und an dem Tag, der durch seine Benennung dem Monat und durch seine Zahl dem Tag entspricht, an dem das Ereignis eingetreten ist; hat der betreffende nachfolgende Monat keinen Tag mit der entsprechenden Zahl, so läuft die Frist am letzten Tag dieses Monats ab.
 
