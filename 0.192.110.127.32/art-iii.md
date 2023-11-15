@@ -2,7 +2,7 @@
 
 ## Abschnitt 3
 
-  - Die Agentur, ihre Vermögenswerte und Guthaben sind ohne Rücksicht darauf, wo und in wessen Verwahrung sie sich befinden, von der Gerichtsbarkeit befreit, soweit sie nicht in einem Einzelfall darauf ausdrücklich verzichtet. Der Verzicht kann sich jedoch nicht auf Vollstreckungsmassnahrnen erstrecken.
+  - Die Agentur, ihre Vermögenswerte und Guthaben sind ohne Rücksicht darauf, wo und in wessen Verwahrung sie sich befinden, von der Gerichtsbarkeit befreit, soweit sie nicht in einem Einzelfall darauf ausdrücklich verzichtet. Der Verzicht kann sich jedoch nicht auf Vollstreckungsmassnahmen erstrecken.
 
 ## Abschnitt 4
 
