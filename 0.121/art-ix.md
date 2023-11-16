@@ -1,6 +1,6 @@
 # Art. IX
 
-(1) Vertreter der in der Präambel genannten Vertragsparteien halten binnen zwei Monaten nach Inkrafttreten dieses Vertrags in der Stadt Canberra und danach in angemessenen Abständen und an geeigneten Orten Tagungen ab, um Informationen auszutauschen, sich über Fragen von gemeinsamem Interesse im Zusammenhang mit der Antarktis zu konsultieren und Massnahmen auszuarbeiten, zu erörtern und ihren Regierungen zu empfehlen, durch welche die Grundsätze und Ziele des Vertrags gefördert werden, darunter Massnahmen
+(1) Vertreter der in der Präambel genannten Vertragsparteien halten binnen zwei Monaten nach Inkrafttreten dieses Vertrags in der Stadt Canberra und danach in angemessenen Abständen und an geeigneten Orten Tagungen ab, um Informationen auszutauschen, sich über Fragen von gemeinsamem Interesse im Zusammenhang mit der Antarktis zu konsultieren und Massnahmen auszuarbeiten, zu erörtern und ihren Regierungen zu empfehlen, durch welche die Grundsätze und Ziele des Vertrags gefördert werden, darunter Massnahmen:
 
   - a) zur Nutzung der Antarktis für ausschliesslich friedliche Zwecke;
 

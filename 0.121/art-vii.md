@@ -8,7 +8,7 @@
 
 (4) Jede der Vertragsparteien, die ein Recht auf Benennung von Beobachtern haben, kann jederzeit Luftbeobachtungen über einzelne oder allen Gebieten der Antarktis durchführen.
 
-(5) Jede Vertragspartei unterrichtet zu dem Zeitpunkt, zu dem dieser Vertrag für sie in Kraft tritt, und danach jeweils im voraus die anderen Vertragsparteien
+(5) Jede Vertragspartei unterrichtet zu dem Zeitpunkt, zu dem dieser Vertrag für sie in Kraft tritt, und danach jeweils im voraus die anderen Vertragsparteien:
 
   - a) über alle nach und innerhalb der Antarktis von ihren Schiffen oder Staatsangehörigen durchgeführten Expeditionen und alle in ihrem Hoheitsgebiet organisierten oder von dort aus durchgeführten Expeditionen nach der Antarktis;
 

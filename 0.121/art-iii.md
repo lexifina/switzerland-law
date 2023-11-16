@@ -1,6 +1,6 @@
 # Art. III
 
-(1) Um die in Artikel II vorgesehene internationale Zusammenarbeit bei der wissenschaftlichen Forschung in der Antarktis zu fördern, vereinbaren die Vertragsparteien, dass, soweit möglich und durchführbar,
+(1) Um die in Artikel II vorgesehene internationale Zusammenarbeit bei der wissenschaftlichen Forschung in der Antarktis zu fördern, vereinbaren die Vertragsparteien, dass, soweit möglich und durchführbar:
 
   - a) Informationen über Pläne für wissenschaftliche Programme in der Antarktis ausgetauscht werden, um ein Höchstmass an Wirtschaftlichkeit und Leistungsfähigkeit der Unternehmungen zu ermöglichen;
 

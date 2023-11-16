@@ -1,6 +1,6 @@
 # Art. IV
 
-(1) Dieser Vertrag ist nicht so auszulegen,
+(1) Dieser Vertrag ist nicht so auszulegen:
 
   - a) als stellte er einen Verzicht einer Vertragspartei auf vorher geltend gemachte Rechte und Ansprüche auf Gebietshoheit in der Antarktis dar;
 
