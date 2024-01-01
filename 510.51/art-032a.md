@@ -1,3 +1,5 @@
-# Art. 32a Nachführung der amtlichen Vermessung
+# Art. 32a Meldungen an die kantonale Vermessungsaufsicht
 
-Die zuständige Stelle des VBS orientiert die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle innert 30 Tagen nach Abschluss der Bauarbeiten über Veränderungen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+1 Die Genehmigungsbehörde informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+
+2 Die Bauherrschaft informiert die kantonale Vermessungsaufsicht innert 20 Tagen nach Abschluss der Bauarbeiten über Änderungen ihrer Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung notwendig machen.
