@@ -8,6 +8,8 @@
 
   - c. An internen Weiterbildungsveranstaltungen nehmen mindestens drei Personen teil.
 
+  - d. Bei asynchronen virtuell durchgeführten Veranstaltungen wird eine Lernkontrolle durchgeführt.
+
 2 Es wird die effektive Dauer der Weiterbildungsveranstaltung angerechnet. Fachreferate und Fachunterricht werden mit der doppelten Referats- oder Unterrichtsdauer angerechnet.
 
 3 Selbststudium gilt nicht als Weiterbildung.

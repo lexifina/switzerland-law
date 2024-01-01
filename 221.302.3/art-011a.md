@@ -1,4 +1,4 @@
-# Art. 11a Zulassung zur Prüfung nach den Finanzmarktgesetzen
+# Art. 11a Zulassung
 
 1 Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsunternehmen sowie an leitende Prüferinnen und leitende Prüfer für die Prüfung nach den Finanzmarktgesetzen für folgende Aufsichtsbereiche:
 
