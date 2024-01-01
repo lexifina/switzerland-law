@@ -12,7 +12,7 @@
 
   - a. die tatsächlich erreichte Datenübertragungsrate, die Verzögerung und bei Mobilfunkverbindungen die Signalstärke messen und veröffentlichen;
 
-  - b. …
+  - b. die vertraglich vereinbarte Datenübertragungsrate, Schwankungen in der Verzögerung und den Verlust von Datenpaketen beim Transport messen und veröffentlichen.
 
 3 Die Informationen über die Qualität müssen Vergleiche zwischen den Angeboten der verschiedenen Anbieterinnen erlauben. Sie müssen auch in Form von geografischen Karten veröffentlicht werden.
 
