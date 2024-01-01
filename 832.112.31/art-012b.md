@@ -12,7 +12,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 
   - d. Postexpositionelle passive Immunisierung | Gemäss den Empfehlungen des BAG und der Schweizerischen Kommission für Impffragen (Richtlinien und Empfehlungen «Postexpositionelle passive Immunisierung» vom Oktober 2004).Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.
 
-  - e. Prophylaktische Mastektomie und / oder Adnexektomie | Bei Trägerinnen von Mutationen oder Deletionen im BRCA1- oder BRCA2-Gen
+  - e. Risikoreduzierende Mastektomie und / oder Adnexektomie | Bei Trägerinnen von genetischen Mutationen oder Deletionen, die mit einem stark erhöhten Brustkrebs- und/oder Eierstockkrebsrisiko verbunden sind, oder bei Frauen mit vergleichbarem individuellem Risiko. Voraussetzung für die Kostenübernahme ist eine genetische Beratung nach Artikel 12d Buchstabe f. Dabei sind neben der genetischen Veranlagung das Alter der zu beratenden Person sowie bereits aufgetretene Krebserkrankungen bei ihr und bei Verwandten ersten und zweiten Grades zu berücksichtigen. Indikation risiko- und altersadaptiert gemäss dem «Referenzdokument Familiär stark erhöhtes Brust- und Eierstockkrebsrisiko des BAG vom 2. November 2023».
 
   - f. Passive Impfung mit Hepatitis B-Immunglobulin | Bei Neugeborenen HBs-Ag-positiver Mütter.
 
