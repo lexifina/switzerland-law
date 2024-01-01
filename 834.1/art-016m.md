@@ -1,6 +1,6 @@
-# Art. 16m Vorrang der Vaterschaftsentschädigung
+# Art. 16m Vorrang der Entschädigung des andern Elternteils
 
-1 Die Vaterschaftsentschädigung schliesst den Bezug der folgenden Taggelder aus:
+1 Die Entschädigung des andern Elternteils schliesst den Bezug der folgenden Taggelder aus:
 
   - a. der Arbeitslosenversicherung;
 
@@ -12,7 +12,7 @@
 
   - e. der Entschädigung nach den Artikeln 9 und 10.
 
-2 Bestand bis zum Beginn des Anspruchs auf die Vaterschaftsentschädigung Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Vaterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
+2 Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elternteils Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Entschädigung des andern Elternteils mindestens dem bisher bezogenen Taggeld:
 
   - a. Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung;
 

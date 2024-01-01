@@ -12,7 +12,7 @@
 
     - 2. Selbständigerwerbende im Sinne von Artikel 12 ATSG ist, oder
 
-    - 3. im Betrieb des Ehemannes mitarbeitet und einen Barlohn bezieht.
+    - 3. im Betrieb des Ehemanns oder der Ehefrau mitarbeitet und einen Barlohn bezieht.
 
 2 Die Versicherungsdauer nach Absatz 1 Buchstabe a wird entsprechend herabgesetzt, wenn die Niederkunft vor Ablauf des 9. Schwangerschaftsmonats erfolgt.
 
