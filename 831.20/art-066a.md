@@ -10,7 +10,7 @@
 
   - cbis. behandelnden Ärztinnen und Ärzten, soweit die Auskünfte und Unterlagen dazu dienen, die für die betroffene Person geeigneten Eingliederungsmassnahmen zu ermitteln; im Einzelfall kann der Datenaustausch mündlich erfolgen;
 
-  - d. der Zentralen Ausgleichsstelle (Art. 71 AHVG), wenn medizinische Daten zum Zweck der Erfassung und Bearbeitung von Leistungsanträgen sowie deren Weiterleitung ins Ausland aufgrund von zwischenstaatlichen Vereinbarungen nötig sind.
+  - d. der Zentralen Ausgleichsstelle (Art. 71 AHVG), wenn medizinische Daten zum Zweck der Erfassung und Bearbeitung von Leistungsanträgen sowie deren Weiterleitung ins Ausland aufgrund von internationalen Abkommen nötig sind.
 
 2 Im Übrigen ist Artikel 50a AHVG mit seinen Abweichungen vom ATSG sinngemäss anwendbar.
 
