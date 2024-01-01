@@ -16,4 +16,4 @@
 
 5 Wird der Anspruch auf Betreuungsgutschrift nicht innert fünf Jahren nach Ablauf des Kalenderjahres angemeldet, in welchem eine Person betreut wurde, so wird die Gutschrift für das betreffende Jahr nicht mehr im individuellen Konto vermerkt.
 
-6 Bei verheirateten Personen wird die Betreuungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird.
+6 Bei verheirateten Personen wird die Betreuungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor dem Tag, an dem der erste Ehegatte das Referenzalter erreicht.

@@ -12,4 +12,4 @@
 
 2 Die Erziehungsgutschrift entspricht dem Betrag der dreifachen minimalen jährlichen Altersrente gemäss Artikel 34 im Zeitpunkt der Entstehung des Rentenanspruchs.
 
-3 Bei verheirateten Personen wird die Erziehungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird.
+3 Bei verheirateten Personen wird die Erziehungsgutschrift während der Kalenderjahre der Ehe hälftig aufgeteilt. Der Teilung unterliegen aber nur die Gutschriften für die Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor dem Tag, an dem der erste Ehegatte das Referenzalter erreicht.
