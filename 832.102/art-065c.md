@@ -6,7 +6,7 @@
 
   - a. mindestens 20 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 4 Millionen Franken nicht übersteigt;
 
-  - b. mindestens 30 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 4 Millionen und 8 Millionen Franken liegt;
+  - b. mindestens 40 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 4 Millionen und 8 Millionen Franken liegt;
 
   - c. mindestens 50 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr zwischen 8 Millionen und 16 Millionen Franken liegt;
 
@@ -14,7 +14,7 @@
 
   - e. mindestens 70 Prozent tiefer ist, sofern das Schweizer Marktvolumen des Originalpräparates und von dessen Co-Marketing-Arzneimittel während drei Jahren vor Patentablauf im Durchschnitt pro Jahr 25 Millionen Franken übersteigt.
 
-3 Massgebend für die Berechnung des Fabrikabgabepreises des Generikums ist der nach Artikel 65e ermittelte Fabrikabgabepreis des Originalpräparates.
+3 Massgebend für die Berechnung des wirtschaftlichen Fabrikabgabepreises des Generikums ist der nach Artikel 65e ermittelte Fabrikabgabepreis des Originalpräparates.
 
 4 Das Schweizer Marktvolumen pro Jahr bemisst sich auf der Basis des Fabrikabgabepreises des Originalpräparates und von dessen Co-Marketing-Arzneimittel und wird je Handelsform desselben Wirkstoffes bestimmt. Das BAG kann bei einem Gesuch um Aufnahme eines Generikums in die Spezialitätenliste von der Zulassungsinhaberin die Meldung des Schweizer Marktvolumens verlangen. Das Marktvolumen muss gestützt auf Umsatzerhebungen eines unabhängigen Instituts erfasst werden.
 

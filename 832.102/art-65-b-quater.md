@@ -1,0 +1,5 @@
+# Art. 65bquater Beurteilung der Wirtschaftlichkeit: Auslandpreisvergleich
+
+1 Beim Auslandpreisvergleich wird der Preis eines Arzneimittels mit dem Fabrikabgabepreis desselben Arzneimittels im Ausland verglichen. Bestehen keine öffentlich zugänglichen Fabrikabgabepreise, so wird der Apothekeneinstandspreis oder, falls auch dieser nicht öffentlich zugänglich ist, der Publikumspreis berücksichtigt. Für diese Fälle legt das EDI zur Ermittlung des Fabrikabgabepreises die Höhe des durchschnittlichen Abzugs vom Apothekeneinstandspreis und vom Publikumspreis fest. Es kann vorsehen, dass statt des von ihm festgelegten Abzugs der effektive Abzug oder ein bestimmter Mindestabzug vorgenommen wird.
+
+2 Von den Fabrikabgabepreisen der Referenzländer werden in einem Referenzland verbindliche Herstellerrabatte abgezogen. Das EDI legt fest, welche Herstellerrabatte abgezogen werden. Es kann vorsehen, dass statt der von ihm festgelegten Herstellerrabatte die effektiven Herstellerrabatte abgezogen werden.
