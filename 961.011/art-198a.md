@@ -1,6 +1,8 @@
 # Art. 198a Konsolidierter Gruppen-SST
 
-1 Die Versicherungsgruppe bestimmt ihre Solvabilität durch einen konsolidierten Gruppen-SST. Dabei werden das massgebende risikotragende Kapital und das Zielkapital auf der Basis einer konsolidierten marktnahen Bilanz bestimmt.
+1 Versicherungsgruppen müssen ihre Solvabilität durch einen konsolidierten Gruppen-SST ermitteln. Dabei werden das massgebende risikotragende Kapital und das Zielkapital auf Basis einer konsolidierten marktkonformen Bilanz (konsolidierte Bilanz) ermittelt.
+
+1bis Die Versicherungsgruppe erfüllt den konsolidierten Gruppen-SST, wenn die Solvabilität nach Artikel 9 Absatz 2 VAG basierend auf der konsolidierten Bilanz ausreichend ist.
 
 2 Die FINMA kann:
 
