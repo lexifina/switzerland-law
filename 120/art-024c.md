@@ -6,7 +6,7 @@
 
   - b. aufgrund ihres Verhaltens angenommen werden muss, dass sie sich anlässlich einer Sportveranstaltung im Bestimmungsland an Gewalttätigkeiten beteiligen wird.
 
-2 Eine Ausreisebeschränkung kann auch gegen eine Person verfügt werden, gegen die kein Rayonverbot besteht, sofern konkrete und aktuelle Tatsachen die Annahme begründen, dass sie sich im Bestimmungsland an Gewalttätigkeiten beteiligen werden.
+2 Eine Ausreisebeschränkung kann auch gegen eine Person verfügt werden, gegen die kein Rayonverbot besteht, sofern konkrete und aktuelle Tatsachen die Annahme begründen, dass sie sich im Bestimmungsland an Gewalttätigkeiten beteiligen wird.
 
 3 Die Ausreisebeschränkung gilt frühestens drei Tage vor der Sportveranstaltung und dauert längstens bis einen Tag nach deren Ende.
 
