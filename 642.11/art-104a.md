@@ -1,5 +1,7 @@
-# Art. 104a Aufsicht
+# Art. 104a Elektronische Verfahren
 
-1 Ein unabhängiges kantonales Finanzaufsichtsorgan prüft jährlich die Ordnungs- und Rechtmässigkeit der Erhebung der direkten Bundessteuer und der Ablieferung des Bundesanteils. Von der Prüfpflicht ausgenommen ist die materielle Prüfung der Veranlagungen. Das Finanzaufsichtsorgan erstattet der ESTV und der Eidgenössischen Finanzkontrolle bis Ende des Jahres, in dem die Staatsrechnung des Bundes abgenommen wird, Bericht.
+1 Die Kantone sehen die Möglichkeit elektronischer Verfahren vor. Dabei stellen sie die Authentizität und Integrität der übermittelten Daten nach kantonalem Recht sicher.
 
-2 Wird die Prüfung nicht vorgenommen oder erhalten die ESTV und die Eidgenössische Finanzkontrolle nicht rechtzeitig Bericht, so kann das EFD auf Antrag der ESTV und auf Kosten des Kantons ein nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 als Revisionsexperte zugelassenes Revisionsunternehmen mit der Prüfung beauftragen.
+2 Sie sehen bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der Unterzeichnung die Möglichkeit einer elektronischen Bestätigung der Angaben durch die steuerpflichtige Person vor.
+
+3 Sie sehen vor, dass die Steuerbehörde der steuerpflichtigen Person mit deren Einverständnis Dokumente in elektronischer Form zustellt.
