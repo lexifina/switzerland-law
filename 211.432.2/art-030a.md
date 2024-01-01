@@ -1,6 +1,6 @@
 # Art. 30a
 
-1 Die Eidgenössische Vermessungsdirektion kann im Bereich der amtlichen Vermessung Pilotprojekte in einzelnen Kantonen oder für beschränkte geografische Gebiete bewilligen zur Erprobung und Entwicklung:
+1 Die Fachstelle Eidgenössische Vermessungsdirektion kann im Bereich der amtlichen Vermessung Pilotprojekte in einzelnen Kantonen oder für beschränkte geografische Gebiete bewilligen zur Erprobung und Entwicklung:
 
   - a. neuer Abläufe und Zuständigkeiten;
 
