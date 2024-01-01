@@ -1,3 +1,3 @@
 # Art. 17e Referenzjahr
 
-Als Referenzjahr gilt das Kalenderjahr, in dem die Erreichung der individuellen Zielvorgabe überprüft wird.
+Als Referenzjahr gilt das Kalenderjahr, für das die Erreichung der individuellen Zielvorgabe überprüft wird.

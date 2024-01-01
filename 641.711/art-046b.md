@@ -9,3 +9,5 @@
 4 Die Menge der einem Betreiber jährlich kostenlos zuzuteilenden Emissionsrechte wird auch angepasst, wenn ein Parameter nach Anhang 9 Ziffer 5.2.3 im Umfang nach Anhang 9 Ziffer 5.2.1 geändert wird. Die Anpassung erfolgt nach den Vorgaben von Anhang 9 Ziffer 5.2.
 
 5 Wird der Betrieb eines Zuteilungselements eingestellt, so werden dem Betreiber ab dem Zeitpunkt der Ausserbetriebnahme für dieses Zuteilungselement keine Emissionsrechte mehr kostenlos zugeteilt.
+
+6 Das Gesuch nach Absatz 2 und der Nachweis nach Absatz 3 sind gleichzeitig mit dem Monitoringbericht nach Artikel 52 einzureichen.

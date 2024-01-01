@@ -4,10 +4,14 @@
 
 2 Das Inverkehrsetzen in einem Zollausschlussgebiet nach Artikel 3 Absatz 3 des Zollgesetzes vom 18. März 2005 (ZG) sowie in Liechtenstein gilt als Inverkehrsetzen in der Schweiz. Das Inverkehrsetzen in einem Zollanschlussgebiet nach Artikel 3 Absatz 2 ZG, mit Ausnahme von Liechtenstein, gilt als Inverkehrsetzen im Ausland.
 
-3 Nicht als erstmals in Verkehr gesetzt gelten eingeführte Fahrzeuge, wenn sie vor mehr als sechs Monaten vor der Zollanmeldung zum Verkehr im Ausland zugelassen worden sind.
+3 Nicht als erstmals in Verkehr gesetzt gelten eingeführte Fahrzeuge, die:
 
-4 Führt die Frist nach Absatz 3 zu einer wesentlichen Ungleichbehandlung von Importeuren von Fahrzeugen, die vor der Zollanmeldung bereits im Ausland zugelassen worden sind, und Importeuren von Fahrzeugen, die vor der Zollanmeldung noch nicht im Ausland zugelassen worden sind, oder kommt es zu Missbräuchen, so kann das UVEK:
+  - a. vor mehr als zwölf Monaten vor der Zollanmeldung in der Schweiz zum Verkehr im Ausland zugelassen worden sind; oder
 
-  - a. die Frist kürzen oder auf höchstens ein Jahr verlängern; oder
+  - b. vor mehr als sechs Monaten und vor höchstens 12 Monaten vor der Zollanmeldung in der Schweiz zum Verkehr im Ausland zugelassen worden sind und zu folgendem Zeitpunkt eine Fahrleistung von 5000 km oder mehr aufweisen:
 
-  - b. eine erforderliche Mindestzahl an zurückgelegten Kilometern festlegen.
+    - 1. zum Zeitpunkt der Zollanmeldung,
+
+    - 2. zum Zeitpunkt der erstmaligen Zulassung zum Verkehr, wenn die Fahrleistung zum Zeitpunkt der Zollanmeldung nicht erfasst ist.
+
+4 …
