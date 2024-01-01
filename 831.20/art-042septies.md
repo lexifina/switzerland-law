@@ -8,6 +8,6 @@
 
   - a. in dem die versicherte Person die Voraussetzungen nach Artikel 42quater nicht mehr erfüllt;
 
-  - b. in dem die versicherte Person vom Rentenvorbezug nach Artikel 40 Absatz 1 AHVG Gebrauch macht oder das Rentenalter erreicht; oder
+  - b. in dem die versicherte Person eine ganze Altersrente nach Artikel 40 Absatz 1 AHVG vorbezieht oder das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht; oder
 
   - c. des Todes der versicherten Person.

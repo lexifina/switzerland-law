@@ -6,7 +6,7 @@
 
 3 Das Taggeld wird frühestens ab dem ersten Tag des Monats gewährt, welcher der Vollendung des 18. Altersjahres folgt. Der Anspruch nach Artikel 22 Absatz 2 entsteht mit Ausbildungsbeginn, auch wenn die versicherte Person das 18. Altersjahr noch nicht vollendet hat.
 
-4 Der Anspruch erlischt spätestens am Ende des Monats, in dem vom Rentenvorbezug nach Artikel 40 Absatz 1 AHVG Gebrauch gemacht oder in dem das Rentenalter erreicht wird.
+4 Der Anspruch erlischt, sobald eine versicherte Person eine ganze Altersrente nach Artikel 40 Absatz 1 AHVG vorbezieht, spätestens aber am Ende des Monats, in dem sie das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht.
 
 5 Bezieht eine versicherte Person eine Rente, so wird ihr diese während der Durchführung von Integrationsmassnahmen nach Artikel 14a und von Massnahmen zur Wiedereingliederung nach Artikel 8a anstelle eines Taggeldes weiter ausgerichtet.
 
