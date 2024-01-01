@@ -10,7 +10,7 @@
 
   - b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329f bezogen hat;
 
-  - c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329g bezogen hat;
+  - c. eine Arbeitnehmerin oder ein Arbeitnehmer den Urlaub des andern Elternteils nach Artikel 329g oder den Urlaub im Falle des Todes der Mutter nach Artikel 329gbis bezogen hat;
 
   - d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329i bezogen hat,
 

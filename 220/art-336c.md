@@ -10,7 +10,11 @@
 
   - cbis. vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329f Absatz 2;
 
-  - cter. solange der Anspruch auf Betreuungsurlaub nach Artikel 329i besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
+  - cter. zwischen dem Beginn des Urlaubs nach Artikel 329f Absatz 3 und dem letzten bezogenen Urlaubstag, längstens aber während drei Monaten ab dem Ende der Sperrfrist nach Buchstabe c;
+
+  - cquater. solange der Anspruch auf Betreuungsurlaub nach Artikel 329i besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
+
+  - cquinquies. während des Urlaubs nach Artikel 329gbis;
 
   - d. während der Arbeitnehmer mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 

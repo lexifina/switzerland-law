@@ -4,4 +4,4 @@
 
 2 Diese Fristen dürfen durch schriftliche Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag abgeändert werden; unter einen Monat dürfen sie jedoch nur durch Gesamtarbeitsvertrag und nur für das erste Dienstjahr herabgesetzt werden.
 
-3 Kündigt der Arbeitgeber das Arbeitsverhältnis und hat der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf Vaterschaftsurlaub im Sinne von Artikel 329g, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+3 Kündigt der Arbeitgeber das Arbeitsverhältnis und hat die Arbeitnehmerin oder der Arbeitnehmer vor Ende des Arbeitsverhältnisses Anspruch auf den Urlaub des andern Elternteils nach Artikel 329g, so wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
