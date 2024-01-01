@@ -2,6 +2,6 @@
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 75 Absatz 1 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002 (BZG),
+gestützt auf das Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019 (BZG),
 
 verordnet:
