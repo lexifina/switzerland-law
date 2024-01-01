@@ -1,3 +1,9 @@
-# Art. 29a Zusammenarbeit bei der Ermittlung des Sachverhalts
+# Art. 29a Prüfung der Vertrauenswürdigkeit
 
-Der Bundesrat kann mit Drittstaaten und internationalen Organisationen Vereinbarungen über die Zusammenarbeit bei der Ermittlung des Sachverhalts abschliessen. Er kann insbesondere Vereinbarungen über den gegenseitigen Informationsaustausch zur Abklärung der Fluchtgründe einer asylsuchenden Person im Heimat- oder Herkunftsstaat, ihres Reiseweges und ihres Aufenthalts in einem Drittstaat abschliessen.
+1 Das SEM kann vor und während des Auftragsverhältnisses Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer auf ihre Vertrauenswürdigkeit hin prüfen lassen.
+
+2 Die Vertrauenswürdigkeitsprüfungen werden von den Fachstellen PSP nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020 (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den Bestimmungen des ISG über die Grundsicherheitsprüfung.
+
+3 Werden die Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer gleichzeitig einer Personensicherheitsprüfung nach dem ISG unterzogen, so werden die beiden Verfahren vereinigt.
+
+4 Das SEM trägt die Kosten der Vertrauenswürdigkeitsprüfungen.
