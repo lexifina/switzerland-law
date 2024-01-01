@@ -6,7 +6,7 @@
 
 3 Die versicherte Person bezahlt Beiträge zur Deckung der Risiken Tod und Invalidität und an die Verwaltungskosten. Falls sie die Altersvorsorge weiter aufbaut, bezahlt sie zusätzlich die entsprechenden Beiträge.
 
-4 Die Versicherung endet bei Eintritt des Risikos Tod oder Invalidität oder bei Erreichen des reglementarischen ordentlichen Rentenalters. Bei Eintritt in eine neue Vorsorgeeinrichtung endet sie, wenn in der neuen Einrichtung mehr als zwei Drittel der Austrittsleistung für den Einkauf in die vollen reglementarischen Leistungen benötigt werden. Die Versicherung kann durch die versicherte Person jederzeit und durch die Vorsorgeeinrichtung bei Vorliegen von Beitragsausständen gekündigt werden.
+4 Die Versicherung endet bei Eintritt des Risikos Tod oder Invalidität oder bei Erreichen des reglementarischen Referenzalters. Bei Eintritt in eine neue Vorsorgeeinrichtung endet sie, wenn in der neuen Einrichtung mehr als zwei Drittel der Austrittsleistung für den Einkauf in die vollen reglementarischen Leistungen benötigt werden. Die Versicherung kann durch die versicherte Person jederzeit und durch die Vorsorgeeinrichtung bei Vorliegen von Beitragsausständen gekündigt werden.
 
 5 Versicherte, die die Versicherung nach diesem Artikel weiterführen, sind gleichberechtigt wie die im gleichen Kollektiv aufgrund eines bestehenden Arbeitsverhältnisses Versicherten, insbesondere in Bezug auf den Zins, den Umwandlungssatz sowie auf Zahlungen durch den früheren Arbeitgeber oder einen Dritten.
 
