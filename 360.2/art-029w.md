@@ -4,6 +4,6 @@
 
   - a. die DSV;
 
-  - b. die Cyberrisikenverordnung vom 27. Mai 2020.
+  - b. die ISV.
 
 2 Fedpol trifft die weiteren erforderlichen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
