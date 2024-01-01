@@ -1,8 +1,8 @@
 # Art. 1c Zulage für verkäste Milch
 
-1 Die Zulage für verkäste Kuh-, Schaf- und Ziegenmilch beträgt 15 Rappen pro Kilogramm Milch abzüglich des Betrags der Zulage für Verkehrsmilch nach Artikel 2a.
+1 …
 
-2 Sie wird den Milchproduzenten und Milchproduzentinnen ausgerichtet, wenn die Milch verarbeitet wird zu:
+2 Für Kuh-, Schaf- und Ziegenmilch wird den Milchproduzenten und Milchproduzentinnen die Zulage für verkäste Milch ausgerichtet, wenn die Milch verarbeitet wird zu:
 
   - a. Käse, der:
 
