@@ -14,4 +14,4 @@
 
   - f. übrige Leistungen.
 
-2 Das Bundesamt regelt die Einzelheiten.
+2 Das BSV regelt die Einzelheiten.

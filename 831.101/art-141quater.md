@@ -4,6 +4,6 @@
 
 2 Es erlaubt den elektronischen Austausch aller für die Bestimmung der Versicherungsunterstellung nötigen Daten zwischen schweizerischen Stellen sowie zwischen schweizerischen und ausländischen Stellen.
 
-3 Es wird durch das Bundesamt zur Verfügung gestellt.
+3 Es wird durch das BSV zur Verfügung gestellt.
 
 4 Die Ausgleichskassen und die Verbindungsstelle erfassen im Informationssystem alle Daten in ihrem jeweiligen Zuständigkeitsbereich, die aufgrund der Rechtsakte der EU, aufgrund anderer internationaler Abkommen sowie aufgrund der Artikel 1a und 2 AHVG für die Bestimmung der anwendbaren Rechtsvorschriften vorgegeben sind.

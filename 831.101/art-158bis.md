@@ -8,4 +8,4 @@
 
   - c. 700 Franken für jeden Schadenfall nach Artikel 52 Absatz 1 AHVG, der gegenüber einem oder mehreren Ersatzpflichtigen geltend gemacht wurde; von einer Entschädigung ausgenommen sind Schadenfälle, die mittels Vergleich abgeschlossen wurden.
 
-2 Das Bundesamt für Sozialversicherungen wird mit dem Vollzug und der Kontrolle beauftragt.
+2 Das BSV wird mit dem Vollzug und der Kontrolle beauftragt.
