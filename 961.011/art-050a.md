@@ -1,5 +1,5 @@
-# Art. 50a Grundsatz
+# Art. 50a Stresstests
 
-1 Das Versicherungsunternehmen bestimmt seine Solvabilität nach einem Standardmodell der FINMA.
+1 Die FINMA kann zusätzlich zur SST-Berichterstattung namentlich für Marktvergleiche SST-Berechnungen sowie standardisierte Stresstests verlangen.
 
-2 Das Versicherungsunternehmen kann seine Solvabilität teilweise oder ganz nach einem eigenen Modell (internes Modell) bestimmen, wenn dieses von der FINMA genehmigt ist.
+2 Die Ergebnisses der Stresstests einzelner Versicherungsunternehmen und Versicherungsgruppen werden nicht veröffentlicht, ausser die FINMA ordnet dies aufgrund Artikel 22 FINMAG an.
