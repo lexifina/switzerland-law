@@ -16,6 +16,8 @@
 
   - 2. die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1);
 
+  - 2a. den Bezug der Altersleistung (Art. 13 Abs. 2, Art. 13a und 13b),
+
   - 3. die Begünstigten bei Hinterlassenenleistungen (Art. 20a);
 
   - 3a. die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5);
@@ -40,9 +42,9 @@
 
   - 9. die Teil- oder Gesamtliquidation (Art. 53b–53d);
 
-  - 10. die Auflösung von Verträgen (Art. 53e und 53f);
+  - 10. die Auflösung von Verträgen (Art. 53e–53f);
 
-  - 11. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56a, 57 und 59);
+  - 11. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und i und Abs. 2–5, 56a, 57 und 59);
 
   - 12. die Aufsicht und die Oberaufsicht (Art. 61–62a und 64–64c);
 
@@ -52,7 +54,7 @@
 
   - 15. die Transparenz (Art. 65a);
 
-  - 16. die Rückstellungen (Art. 65b);
+  - 16. die Rückstellungen und die Wertschwankungsreserven (Art. 65b);
 
   - 17. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
 
