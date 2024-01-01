@@ -2,7 +2,7 @@
 
 Ein Biozidprodukt wird für das Inverkehrbringen zur Verwendung durch die breite Öffentlichkeit nicht zugelassen, wenn es:
 
-  - a. Eigenschaften gemäss den Kriterien nach der EU-CLP-Verordnung aufweist und eine der folgenden Einstufungen aufweist:
+  - a. die Kriterien gemäss der EU-CLP-Verordnung erfüllt, um wie folgt eingestuft zu werden:
 
     - 1. akute orale Toxizität der Kategorie 1, 2 oder 3,
 
@@ -24,6 +24,6 @@ Ein Biozidprodukt wird für das Inverkehrbringen zur Verwendung durch die breite
 
   - b. aus einem Stoff besteht, einen Stoff enthält oder einen Stoff erzeugt, der Eigenschaften gemäss den Kriterien «PBT» oder «vPvB» nach Anhang XIII der EU-REACH-Verordnung aufweist;
 
-  - c. endokrinschädigende Eigenschaften gemäss den Kriterien nach der delegierten Verordnung (EU) 2017/2100 festgelegten Kriterienaufweist; oder
+  - c. endokrinschädigende Eigenschaften gemäss den Kriterien nach der delegierten Verordnung (EU) 2017/2100 aufweist; oder
 
   - d. entwicklungsneurotoxische oder -immunotoxische Auswirkungen hat.

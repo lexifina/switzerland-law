@@ -14,4 +14,4 @@
 
   - b. bis 180 Tage nach der Entscheidung der Europäischen Kommission, einen der Wirkstoffe für die betreffende Verwendung nicht zu genehmigen.
 
-3 Eine behandelte Ware, die mit einem oder mehreren Biozidprodukten behandelt wurde oder der ein oder mehrere Biozidprodukte absichtlich zugesetzt wurden, die einen anderen Wirkstoff als diejenigen enthalten, auf die in Absatz 1 Buchstaben a–c verwiesen wird, darf bis zum 28. Februar 2017 erstmals in Verkehr gebracht werden.
+3 …
