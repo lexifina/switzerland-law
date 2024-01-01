@@ -1,4 +1,4 @@
-# Art. 33a Gegenstand der Rentenkürzung im Alter
+# Art. 33a Gegenstand der Rentenkürzung bei Erreichen des Referenzalters
 
 1 Die Kürzung nach Artikel 20 Absatz 2ter UVG erfolgt auf dem Betrag der Invalidenrente beziehungsweise der Komplementärrente einschliesslich der Teuerungszulagen.
 
