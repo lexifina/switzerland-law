@@ -24,7 +24,13 @@
 
 4 Die Nützlingsstreifen müssen vor dem 15. Mai angesät werden.
 
-5 Es dürfen nur Saatmischungen verwendet werden, die vom BLW bewilligt wurden. Für Nützlingsstreifen in Dauerkulturen dürfen nur Saatmischungen für mehrjährige Nützlingsstreifen verwendet werden.
+5 Für Ansaaten von Nützlingsstreifen dürfen nur die für den jeweiligen Einsatzbereich geeigneten Saatmischungen nach Anhang 4a Buchstabe B verwendet werden.
+
+5bis Das BLW nimmt die Saatmischungen für Nützlingsstreifen in Anhang 4a Buchstabe B auf. Dabei berücksichtigt es den ökologischen und agronomischen Nutzen, die Risiken und die Methodik gemäss den Kriterien in Anhang 4a Buchstabe A. Die Gewichtung der Kriterien richtet sich nach der Zielsetzung und dem Einsatzbereich der Saatmischung.
+
+5ter Die Zusammensetzungen der geeigneten Saatmischungen werden vom BLW jeweils per 1. Januar veröffentlicht.
+
+5quater Das BLW kann Änderungen der Zusammensetzung von Saatmischungen für die Anwendung auf einzelnen landwirtschaftlichen Betrieben bewilligen, insbesondere zur besseren Biodiversitätsförderung oder zur Vermeidung von Problemen in der Fruchtfolge.
 
 6 Die Nützlingsstreifen müssen wie folgt angesät werden:
 
@@ -38,11 +44,13 @@
 
     - 1. einjährige Nützlingsstreifen: jährlich neu,
 
-    - 2. mehrjährige Nützlingsstreifen: jedes vierte Jahr neu;
+    - 2. mehrjährige Nützlingsstreifen: jedes fünfte Jahr neu;
 
-  - b. Nützlingsstreifen in Dauerkulturen: jedes vierte Jahr neu.
+  - b. Nützlingsstreifen in Dauerkulturen: jedes fünfte Jahr neu.
 
-8 Sie müssen bedecken:
+7bis An geeigneten Standorten kann der Kanton eine Verlängerung des mehrjährigen Nützlingsstreifens am gleichen Standort bewilligen.
+
+8 Die Nützlingsstreifen müssen bedecken:
 
   - a. Nützlingsstreifen auf offener Ackerfläche: während mindestens 100 Tagen ohne Schnitt die ganze Länge der Ackerkultur;
 
@@ -63,3 +71,7 @@
   - a. mehrjähriger Nützlingsstreifen auf offener Ackerfläche: ab dem zweiten Standjahr maximal die Hälfte der Fläche zwischen dem 1. Oktober und dem 1. März;
 
   - b. Nützlingsstreifen in Dauerkulturen: alternierend die Hälfte der Fläche, wobei der zeitliche Abstand zwischen zwei Schnitten derselben Fläche mindestens sechs Wochen betragen muss.
+
+13 Nützlingsstreifen in Dauerkulturen dürfen geschnitten und gemulcht werden.
+
+14 Bei grossem Unkrautdruck kann im ersten Standjahr ein Reinigungsschnitt vorgenommen werden.
