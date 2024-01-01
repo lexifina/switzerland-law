@@ -8,8 +8,8 @@
 
 4 Das Fortbildungspatent berechtigt zur Ausübung der Bodenseefischerei im Umfang eines Hochseepatents. Eine Stellvertretung ist nicht möglich.
 
-5 Das Fortbildungspatent kann für die Dauer der Fortbildung erteilt werden:
+5 Das Fortbildungspatent kann erteilt werden:
 
-  - a. Fischwirtinnen und Fischwirten, die nach mindestens zweijähriger Berufserfahrung zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind;
+  - a. Fischwirtinnen und Fischwirten: zur Erlangung der zweijährigen Berufserfahrung im Hinblick auf die Fortbildung zur Fischwirtschaftsmeisterin oder zum Fischwirtschaftsmeister, höchstens jedoch für zwei Jahre;
 
-  - b. Personen, welche die Zulassungsvoraussetzungen zur Meisterprüfung Fischwirt erfüllen und zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind.
+  - b. Personen, welche die Zulassungsvoraussetzungen zur Meisterprüfung Fischwirtin oder Fischwirt erfüllen und zur Fortbildung zur Fischwirtschaftsmeisterin oder zum Fischwirtschaftsmeister angemeldet sind: für die Zeit bis zum erfolgreichen Abschluss dieser Fortbildung, höchstens jedoch für vier Jahre.
