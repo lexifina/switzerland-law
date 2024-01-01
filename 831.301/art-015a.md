@@ -1,3 +1,3 @@
-# Art. 15a Rentenvorbezug
+# Art. 15a Vorbezug der Altersrente
 
-Bei einem Rentenvorbezug nach Artikel 40 AHVG wird für die Berechnung der jährlichen Ergänzungsleistung die gekürzte Rente als Einnahme angerechnet.
+Bei einem Vorbezug der Altersrente nach Artikel 40 Absatz 1 AHVG wird für die Berechnung der jährlichen Ergänzungsleistung die ganze aufgrund des Vorbezugs gekürzte Rente als Einnahme angerechnet.
