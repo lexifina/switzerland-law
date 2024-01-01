@@ -10,7 +10,7 @@
 
 1bis Ist eine Bank Teil einer Finanzgruppe oder eines Finanzkonglomerates, so kann die FINMA die Bewilligung von der Zustimmung der massgeblichen ausländischen Aufsichtsbehörden abhängig machen.
 
-2 Die Bank hat der Schweizerischen Nationalbank über ihren Geschäftskreis und ihre Beziehungen zum Ausland Auskunft zu erteilen.
+2 Die Bank hat der Nationalbank über ihren Geschäftskreis und ihre Beziehungen zum Ausland Auskunft zu erteilen.
 
 3 Eine nach schweizerischem Recht organisierte Bank fällt unter Absatz 1, wenn Ausländer mit qualifizierten Beteiligungen direkt oder indirekt mit mehr als der Hälfte der Stimmen an ihr beteiligt sind oder auf sie in anderer Weise einen beherrschenden Einfluss ausüben.
 
