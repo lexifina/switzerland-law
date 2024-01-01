@@ -1,0 +1,3 @@
+# Art. 54ater Fremdkapitalinstrumente mit Eigenkapitalcharakter
+
+Im Konkurs werden die Kapitalforderung und die Zinszahlungen von risikoabsorbierenden Kapitalinstrumenten, die von der FINMA als risikoabsorbierende Kapitalinstrumente zur Anrechnung an das risikotragende Kapital gemäss Artikel 9a oder zur Berücksichtigung im Zielkapital gemäss Artikel 9a genehmigt sind, nachrangig gegenüber allen nicht nachrangigen Forderungen und allen nicht an das risikotragende Kapital gemäss Artikel 9a anrechenbaren oder im Zielkapital gemäss Artikel 9a berücksichtigbaren nachrangigen Forderungen befriedigt.

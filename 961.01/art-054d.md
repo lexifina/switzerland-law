@@ -1,3 +1,5 @@
-# Art. 54d Ausländische Insolvenzverfahren
+# Art. 54d Beschwerden gegen die Genehmigung des Sanierungsplans
 
-Für die Anerkennung ausländischer Konkursdekrete und Insolvenzmassnahmen sowie die Koordination mit ausländischen Insolvenzverfahren gelten die Artikel 37f und 37g des Bankengesetzes vom 8. November 1934 sinngemäss.
+1 Wird die Beschwerde gegen die Genehmigung des Sanierungsplans gutgeheissen, so kann das Gericht nur eine Entschädigung zusprechen.
+
+2 Die Entschädigung erfolgt in der Regel durch Zuteilung von Aktien, anderen Beteiligungsrechten, Optionen oder Besserungsscheinen.

@@ -1,7 +1,5 @@
-# Art. 71bis Konkurs
+# Art. 71bis Geschäftsplan
 
-1 Für eine Gruppengesellschaft mit Sitz in der Schweiz, die für die bewilligungspflichtigen Tätigkeiten wesentliche Funktionen erfüllt und nicht im Rahmen der Aufsicht über das Einzelinstitut nach den Finanzmarktgesetzen nach Artikel 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007 (Finanzmarktgesetze) der Konkurszuständigkeit der FINMA unterliegt (wesentliche Gruppengesellschaft), gelten die Artikel 53–54e dieses Gesetzes sinngemäss.
+1 Änderungen in der Konzernobergesellschaft der Gruppe, welche die Elemente des Geschäftsplans nach Artikel 4 Absatz 2 Buchstabe g betreffen, sind der FINMA zur Genehmigung zu unterbreiten.
 
-2 Der Bundesrat regelt die Kriterien zur Beurteilung der Wesentlichkeit.
-
-3 Die FINMA bezeichnet die wesentlichen Gruppengesellschaften und führt darüber ein Verzeichnis. Dieses ist öffentlich zugänglich.
+2 Für die übrigen wesentlichen Gruppengesellschaften nach Artikel 2a kann die FINMA eine Genehmigungspflicht im Sinne von Absatz 1 anordnen.
