@@ -6,4 +6,4 @@
 
 3 Die Beitragssätze werden regelmässig überprüft und bei einer wesentlichen Veränderung der Verhältnisse angepasst.
 
-4 Der Betriebskostenbeitrag reduziert sich bei Betreibern, die nach den Artikeln 10–13 MWSTG steuerpflichtig sind, um 7,1495 Prozent.
+4 Der Betriebskostenbeitrag reduziert sich bei Betreibern, die nach den Artikeln 10–13 MWSTG steuerpflichtig sind, um den Faktor nach Artikel 16 Absatz 4.

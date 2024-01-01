@@ -1,6 +1,6 @@
 # Art. 46k Teilweise Einspeisung von Elektrizität und Inbetriebnahmefrist
 
-1 Bis zum 31. Dezember 2025 muss die Anlage mindestens zehn Prozent der erwarteten Produktion der gesamten geplanten Anlage oder 10 GWh Elektrizität pro Jahr ins Stromnetz einspeisen.
+1 Mit der Leistung des bis zum 31. Dezember 2025 in Betrieb genommenen und ans Stromnetz angeschlossenen Teils der Anlage muss jährlich mindestens zehn Prozent der erwarteten Jahresproduktion der gesamten geplanten Anlage oder mindestens 10 GWh erreicht werden können.
 
 2 Die vollständige Inbetriebnahme muss bis zum 31. Dezember 2030 erfolgen.
 

@@ -1,6 +1,6 @@
 # Art. 46d Inbetriebnahmefrist und Inbetriebnahmemeldung
 
-1 Die Anlage ist spätestens 18 Monate, nachdem die Zuschlagserteilung in Rechtskraft erwächst, in Betrieb zu nehmen.
+1 Die Anlage ist spätestens 24 Monate, nachdem die Zuschlagserteilung in Rechtskraft erwächst, in Betrieb zu nehmen.
 
 2 Die Inbetriebnahme ist der Vollzugsstelle spätestens drei Monate ab der Inbetriebnahme zu melden.
 

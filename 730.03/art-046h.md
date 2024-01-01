@@ -18,12 +18,14 @@ Zu den Auktionen für die Einmalvergütung publiziert die Vollzugsstelle folgend
 
   - h. den zulässigen Gebotshöchstwert in Franken pro kW;
 
-  - i. den niedrigsten Gebotswert in Franken pro kW;
+  - i. den niedrigsten und den höchsten Gebotswert in Franken pro kW;
 
-  - j. den höchsten Gebotswert in Franken pro kW;
+  - j. den durchschnittlichen, mengengewichteten Zuschlagswert in Franken pro kW;
 
-  - k. den durchschnittlichen, mengengewichteten Zuschlagswert in Franken pro kW;
+  - k. den niedrigsten und den höchsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW;
 
-  - l. den niedrigsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW;
+  - l. die niedrigste und die höchste gebotene Leistung in kW;
 
-  - m. den höchsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW.
+  - m. die niedrigste und die höchste gebotene Leistung, für die ein Zuschlag erteilt wurde, in kW;
+
+  - n. die durchschnittliche Leistung, für die ein Zuschlag erteilt wurde, in kW.
