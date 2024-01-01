@@ -1,6 +1,6 @@
 # Art. 88f Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente
 
-1 Personen, die sich vor dem Rentenalter nach Artikel 21 AHVG pensionieren lassen, können eine Überbrückungsrente beziehen.
+1 Personen, die sich vor dem Erreichen des Referenzalters nach Artikel 21 AHVG pensionieren lassen, können eine Überbrückungsrente beziehen.
 
 1bis Der Arbeitgeber beteiligt sich an der Finanzierung der Überbrückungsrente, wenn die angestellte Person:
 

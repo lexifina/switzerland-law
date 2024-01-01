@@ -2,7 +2,7 @@
 
 1 Der Bundesrat bestimmt nach Verhandlungen mit den Personalverbänden den Umfang der Reallohnerhöhung und den Zeitpunkt, in dem sie wirksam wird. Er kann Angestellte bestimmter Lohnklassen von einer Reallohnerhöhung ausschliessen, wenn es die Situation auf dem Arbeitsmarkt rechtfertigt, oder eine abgestufte Reallohnerhöhung nach Lohnklassen vornehmen.
 
-2 Anspruch auf eine Reallohnerhöhung haben Angestellte, die im Zeitpunkt, in dem die Erhöhung wirksam wird, in einem ungekündigten Arbeitsverhältnis stehen oder infolge freiwilligem vorzeitigem Altersrücktritt oder Übertritt zu einer anderen Verwaltungseinheit nach Artikel 1 Absatz 1 gekündigt haben.
+2 Anspruch auf eine Reallohnerhöhung haben Angestellte, die im Zeitpunkt, in dem die Erhöhung wirksam wird, in einem ungekündigten Arbeitsverhältnis stehen oder infolge freiwilligen Altersrücktritts vor Erreichen des Referenzalters nach Artikel 21 AHVG oder Übertritt zu einer anderen Verwaltungseinheit nach Artikel 1 Absatz 1 gekündigt haben.
 
 3 Keine Reallohnerhöhung erhalten Angestellte:
 
