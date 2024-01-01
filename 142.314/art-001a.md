@@ -10,7 +10,7 @@ Das Staatssekretariat für Migration (SEM) betreibt zur Erfüllung seiner gesetz
 
   - d. …
 
-  - e. Datenbank Finanzierung Asyl (Finasi);
+  - e. Datenbank Finanzierung, Statistik und Controlling (FiSCo);
 
   - f. Datenbank Medizinalfälle;
 
