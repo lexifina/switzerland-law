@@ -32,10 +32,10 @@
 
 4 Der Versicherung können beitreten:
 
-  - a. Personen mit Wohnsitz in der Schweiz, die auf Grund einer zwischenstaatlichen Vereinbarung nicht versichert sind;
+  - a. Personen mit Wohnsitz in der Schweiz, die auf Grund eines internationalen Abkommens nicht versichert sind;
 
   - b. Schweizer Angestellte eines institutionellen Begünstigten nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007, die Vorrechte, Immunitäten und Erleichterungen geniessen, sofern sie aufgrund eines Abkommens mit diesem Begünstigten nicht obligatorisch in der Schweiz versichert sind;
 
-  - c. im Ausland wohnhafte nicht erwerbstätige Ehegatten von erwerbstätigen Personen, die nach Absatz 1 Buchstabe c, Absatz 3 Buchstabe a oder auf Grund einer zwischenstaatlichen Vereinbarung versichert sind.
+  - c. im Ausland wohnhafte nicht erwerbstätige Ehegatten von erwerbstätigen Personen, die nach Absatz 1 Buchstabe c, Absatz 3 Buchstabe a oder auf Grund eines internationalen Abkommens versichert sind.
 
 5 Der Bundesrat bestimmt im Einzelnen die Bedingungen für die Weiterführung der Versicherung nach Absatz 3 und für den Beitritt nach Absatz 4; ferner legt er die Einzelheiten bezüglich Rücktritt und Ausschluss fest.

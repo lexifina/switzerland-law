@@ -1,3 +1,7 @@
-# Art. 49a Informationssysteme
+# Art. 49a Informationssysteme und Anforderungen
 
-Der Bundesrat kann die Durchführungsstellen verpflichten, Informationssysteme zu verwenden, die für die Erfüllung der Aufgaben nach Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie anderer internationaler Abkommen über die soziale Sicherheit und nach Anhörung der betroffenen Stellen entwickelt wurden.
+1 Die Durchführungsstellen betreiben Informationssysteme, die den elektronischen Informationsaustausch und die Datenbearbeitung ermöglichen.
+
+2 Sie stellen sicher, dass ihre Informationssysteme jederzeit die notwendige Stabilität und Anpassungsfähigkeit sowie die Informationssicherheit und den Datenschutz gewährleisten.
+
+3 Die Fachorganisationen der Durchführungsstellen erarbeiten Regeln zur Umsetzung der Anforderungen nach Artikel 72a Absatz 2 Buchstabe b.
