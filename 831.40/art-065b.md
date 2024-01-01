@@ -6,4 +6,4 @@ Der Bundesrat erlässt Mindestvorschriften über die Errichtung:
 
   - b. anderer Rückstellungen, die der Sicherung der Finanzierung dienen;
 
-  - c. der Schwankungsreserven.
+  - c. der Wertschwankungsreserven.
