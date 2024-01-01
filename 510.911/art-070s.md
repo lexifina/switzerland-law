@@ -10,4 +10,4 @@ Die Daten des MIL PLATTFORM werden beschafft:
 
   - d. aus dem PEGASUS: die Daten nach Anhang 33d Ziffer 1;
 
-  - e. aus dem SIBAD: die Daten nach Anhang 33d Ziffer 2.
+  - e. aus dem Informationssystem zur Personensicherheitsprüfung nach Artikel 45 Absatz 1 des Informationssicherheitsgesetzes vom 18. Dezember 2020 (ISG): die Daten nach Anhang 33d Ziffer 2.
