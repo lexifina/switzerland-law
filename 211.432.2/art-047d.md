@@ -6,7 +6,7 @@
 
   - a. die Kosten der laufenden Nachführung und der Verwaltung;
 
-  - b. die aus kantonalen Erweiterungen entstehenden Kosten;
+  - b. …
 
   - c. die Kosten der kantonalen Vermessungsaufsicht;
 

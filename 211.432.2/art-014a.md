@@ -1,3 +1,3 @@
 # Art. 14a Behebung von Widersprüchen
 
-Widersprüche zwischen den Plänen der amtlichen Vermessung und der Wirklichkeit oder zwischen diesen Plänen werden von Amtes wegen behoben.
+Widersprüche zwischen den Daten der amtlichen Vermessung und den Verhältnissen im Gelände oder zwischen dem Plan für das Grundbuch und anderen Plänen der amtlichen Vermessung werden unter Berücksichtigung von Artikel 668 Absatz 2 ZGB von Amtes wegen behoben.
