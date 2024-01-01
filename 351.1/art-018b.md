@@ -8,4 +8,4 @@
 
 2 Diese Daten dürfen nicht als Beweismittel verwendet werden, bevor die Verfügung über die Gewährung und den Umfang der Rechtshilfe rechtskräftig ist.
 
-3 Die Verfügung nach Absatz 1 und die allfällige Anordnung und Bewilligung der Überwachung sind dem Bundesamt unverzüglich mitzuteilen.
+3 Die Verfügung nach Absatz 1 und die allfällige Anordnung und Bewilligung der Überwachung sind dem BJ unverzüglich mitzuteilen.

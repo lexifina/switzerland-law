@@ -1,12 +1,12 @@
 # Art. 18a Überwachung des Post- und Fernmeldeverkehrs
 
-1 In Auslieferungsfällen kann das Bundesamt auf ausdrückliches Ersuchen eines anderen Staates zur Ermittlung des Aufenthaltes des Verfolgten die Überwachung des Post- und Fernmeldeverkehrs anordnen.
+1 In Auslieferungsfällen kann das BJ auf ausdrückliches Ersuchen eines anderen Staates zur Ermittlung des Aufenthaltes des Verfolgten die Überwachung des Post- und Fernmeldeverkehrs anordnen.
 
 2 In anderen Rechtshilfefällen können folgende Behörden die Überwachung des Post- und Fernmeldeverkehrs anordnen:
 
   - a. die mit dem Ersuchen befasste Staatsanwaltschaft des Bundes oder des Kantons;
 
-  - b. das Bundesamt, wenn dieses das Rechtshilfegesuch selber ausführt.
+  - b. das BJ, wenn dieses das Rechtshilfegesuch selber ausführt.
 
 3 Die Überwachungsanordnung muss folgenden Behörden zur Genehmigung unterbreitet werden:
 

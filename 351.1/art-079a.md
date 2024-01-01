@@ -1,6 +1,6 @@
-# Art. 79a Entscheid des Bundesamtes
+# Art. 79a Entscheid des BJ
 
-Das Bundesamt kann über die Zulässigkeit der Rechtshilfe entscheiden und die Ausführung einer kantonalen Behörde übertragen oder selber über die Ausführung entscheiden, wenn:
+Das BJ kann über die Zulässigkeit der Rechtshilfe entscheiden und die Ausführung einer kantonalen Behörde übertragen oder selber über die Ausführung entscheiden, wenn:
 
   - a. das Ersuchen Erhebungen in mehreren Kantonen erfordert;
 

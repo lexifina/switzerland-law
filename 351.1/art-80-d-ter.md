@@ -10,4 +10,4 @@
 
 5 Die zuständige Behörde legt für ihren Staat den Verantwortlichen und die Mitglieder der GEG fest. Die GEG kann bei Bedarf Experten und Hilfspersonen beiziehen.
 
-6 Der Einsetzungsakt wird dem Bundesamt in schriftlicher Form zur Kenntnis gebracht.
+6 Der Einsetzungsakt wird dem BJ in schriftlicher Form zur Kenntnis gebracht.

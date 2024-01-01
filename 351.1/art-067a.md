@@ -8,7 +8,7 @@
 
 2 Die Übermittlung nach Absatz 1 hat keine Einwirkung auf das in der Schweiz hängige Strafverfahren.
 
-3 Die Übermittlung von Beweismitteln an einen Staat, mit dem keine staatsvertragliche Vereinbarung besteht, bedarf der Zustimmung des Bundesamtes.
+3 Die Übermittlung von Beweismitteln an einen Staat, mit dem keine staatsvertragliche Vereinbarung besteht, bedarf der Zustimmung des BJ.
 
 4 Die Absätze 1 und 2 gelten nicht für Beweismittel, die den Geheimbereich betreffen.
 

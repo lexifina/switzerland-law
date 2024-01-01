@@ -20,4 +20,4 @@
 
 5 Die Mitteilung an die betroffene Person wird aufgeschoben.
 
-6 Die nach Absatz 1 vorgesehene Zwischenverfügung wird dem Bundesamt unverzüglich und vor der vorzeitigen Übermittlung mitgeteilt. Sie ist nicht selbstständig anfechtbar.
+6 Die nach Absatz 1 vorgesehene Zwischenverfügung wird dem BJ unverzüglich und vor der vorzeitigen Übermittlung mitgeteilt. Sie ist nicht selbstständig anfechtbar.
