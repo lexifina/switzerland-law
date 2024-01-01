@@ -6,6 +6,6 @@
 
   - b. im Umfang, in dem sie die Erwerbsfähigkeit wieder erlangt, unter Vorbehalt von Artikel 52b Absätze 1 und 2; oder
 
-  - c. bei Vollendung des 65. Altersjahres.
+  - c. bei Erreichen des Referenzalters.
 
-2 Nach Vollendung des 65. Altersjahres wird anstelle der Invalidenrente eine Altersrente ausgerichtet. Diese Altersrente kann nicht in Kapitalform bezogen werden.
+2 Nach Erreichen des Referenzalters wird anstelle der Invalidenrente eine Altersrente ausgerichtet. Diese Altersrente kann nicht in Kapitalform bezogen werden.
