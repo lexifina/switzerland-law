@@ -6,7 +6,7 @@
 
   - a. Endverbraucher, wenn sie von ihrem Anspruch auf Netzzugang Gebrauch machen;
 
-  - b. Erzeuger, wenn sie eine neue Erzeugungsanlage an das Elektrizitätsnetz anschliessen.
+  - b. …
 
 3 und 4 …
 
