@@ -1,6 +1,6 @@
-# Art. 26b Vorsorgeausgleich bei Kürzung der Invalidenrente nach dem reglementarischen Rentenalter
+# Art. 26b Vorsorgeausgleich bei Kürzung der Invalidenrente nach dem Erreichen des reglementarischen Referenzalters
 
-1 Wurde eine Invalidenrente infolge des Zusammentreffens mit anderen Leistungen gekürzt, so stützt sich das Gericht bei einer Scheidung nach dem reglementarischen Rentenalter bei der Entscheidung über die Teilung auf die ungekürzte Rente.
+1 Wurde eine Invalidenrente infolge des Zusammentreffens mit anderen Leistungen gekürzt, so stützt sich das Gericht bei einer Scheidung nach dem Erreichen des reglementarischen Referenzalters bei der Entscheidung über die Teilung auf die ungekürzte Rente.
 
 2 Ist die gekürzte Invalidenrente mindestens gleich hoch wie der Rentenanteil, der dem berechtigten Ehegatten zugesprochen wurde, so wird der Rentenanteil nach Artikel 124a Absatz 2 ZGB umgerechnet und dem berechtigten Ehegatten ausgerichtet oder in seine Vorsorge übertragen.
 
