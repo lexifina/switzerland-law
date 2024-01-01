@@ -7,3 +7,5 @@
   - b. der militärärztliche Dienst für medizinische Untersuchungen zur Neubeurteilung der Tauglichkeit.
 
 2 Die Amtstermine sind nicht besoldet und werden nicht an die Ausbildungsdienstpflicht angerechnet.
+
+3 Die Aufgebotenen erhalten einen Ausweis für die kostenlose Benutzung der öffentlichen Verkehrsmittel für die An- und Rückreise.
