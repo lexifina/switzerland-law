@@ -1,11 +1,7 @@
-# Art. 80e Datenschutzbeauftragter
+# Art. 80e Datenschutzbeauftragter oder -beauftragte
 
-1 Der Datenschutzbeauftragte des Bundesgerichts ist:
+1 Der oder die Datenschutzbeauftragte ist Datenschutzberater oder Datenschutzberaterin im Sinne von Artikel 10 des Datenschutzgesetzes vom 25. September 2020 (DSG) und Artikel 26 der Datenschutzverordnung vom 31. August 2022.
 
-  - a. Datenschutzverantwortlicher im Sinne von Artikel 11a Absatz 5 Buchstabe e des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz (DSG) sowie Artikel 12a und 12b der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz (VDSG);
+2 Er oder sie übt seine oder ihre Funktion fachlich unabhängig und weisungsungebunden aus.
 
-  - b. Datenschutzberater im Sinne von Artikel 23 VDSG.
-
-2 Er übt seine Funktion fachlich unabhängig aus.
-
-3 Die Angestellten des Bundesgerichts können den Datenschutzbeauftragten des Bundesgerichts jederzeit um Beratung ersuchen.
+3 Die Angestellten des Bundesgerichts können den Datenschutzberater oder die Datenschutzberaterin des Bundesgerichts jederzeit um Beratung ersuchen.
