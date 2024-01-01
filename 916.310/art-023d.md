@@ -1,4 +1,4 @@
-# Art. 23d Voraussetzungen für die Ausrichtung von Beiträgenfür die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status
+# Art. 23d Voraussetzungen für die Ausrichtung der Beiträge für die Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen
 
 1 Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status werden ausgerichtet für Tiere der Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen:
 
@@ -6,13 +6,13 @@
 
   - b. deren Eltern und Grosseltern in einem Herdebuch der gleichen Rasse eingetragen oder vermerkt sind;
 
-  - c. die einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweisen;
+  - c. die einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweisen; und
 
   - d. die mindestens einen lebenden Nachkommen aufweisen, der:
 
     - 1. in der Referenzperiode geboren wurde,
 
-    - 2. im Herdebuch eingetragen ist, und
+    - 2. im Herdebuch eingetragen oder vermerkt ist, und
 
     - 3. einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweist.
 
