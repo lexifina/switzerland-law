@@ -16,6 +16,6 @@ Die verantwortlichen Organe nach diesem Gesetz dürfen ein Profiling, einschlies
 
   - g. persönliche Interessen hinsichtlich des Militär- und Schutzdienstes, der Anstellung, der Ausbildung sowie der Weiterentwicklung: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstaben b–d und m, 127 Buchstabe b und 143b Buchstaben a, d und e;
 
-  - h. Sicherheitsrisiko sowie Gefährdungs- und Missbrauchspotenzial bezüglich der persönlichen Waffe: zu den Bearbeitungszwecken nach den Artikeln 13 Buchstabe l und 145;
+  - h. Sicherheitsrisiko sowie Gefährdungs- und Missbrauchspotenzial bezüglich der persönlichen Waffe: zum Bearbeitungszweck nach Artikel 13 Buchstabe l;
 
   - i. weitere persönliche Aspekte zu weiteren Bearbeitungszwecken, sofern die betreffende Person dazu einwilligt.
