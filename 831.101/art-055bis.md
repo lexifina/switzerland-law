@@ -4,7 +4,9 @@ Vom Aufschub gemäss Artikel 39 AHVG sind ausgeschlossen:
 
   - a. …
 
-  - b. die Altersrenten, die eine Invalidenrente ablösen;
+  - b. die ganzen Altersrenten, die ganze Invalidenrenten ablösen;
+
+  - bbis. die Anteile von Altersrenten, die den Anteilen von Invalidenrenten entsprechen, die sie ablösen;
 
   - c. die Altersrenten, zu denen eine Hilflosenentschädigung gewährt wird;
 

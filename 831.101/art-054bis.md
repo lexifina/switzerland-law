@@ -2,7 +2,7 @@
 
 1 …
 
-2 Sie werden nicht gekürzt, wenn sie zusammen mit der Rente des Vaters oder der Rente der Mutter nicht mehr ausmachen als die Summe aus 150 Prozent des Mindestbetrages der Altersrente und aus den Mindestbeträgen von drei Kinder- oder Waisenrenten. Dieser Betrag erhöht sich mit dem vierten Kind pro Kind um den monatlichen Höchstbetrag der Altersrente (Art. 34 Abs. 3 AHVG).
+2 Kinder- oder Waisenrenten werden nicht gekürzt, wenn sie zusammen mit der Rente des Vaters oder der Rente der Mutter die Summe aus 150 Prozent des Mindestbetrages der Altersrente und aus den Mindestbeträgen von drei Kinder- oder Waisenrenten nicht übersteigen. Dieser Betrag erhöht sich mit dem vierten Kind pro Kind um den monatlichen Höchstbetrag der Altersrente (Art. 34 Abs. 3 AHVG).
 
 3 Der Kürzungsbetrag ist auf die einzelnen Kinder- oder Waisenrenten zu verteilen.
 
