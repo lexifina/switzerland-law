@@ -18,7 +18,7 @@
 
 6 Fedpol prüft, ob die Informationen, die ihm übermittelt werden, richtig und erheblich im Sinne von Absatz 2 sind. Es vernichtet unrichtige oder unerhebliche Informationen und benachrichtigt darüber den Absender.
 
-7 Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone und dem BAZG über ein Abrufverfahren zur Verfügung. Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte.
+7 Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone, der EZV und den für die Durchführung der Personensicherheitsprüfungen zuständigen Fachstellen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020 über ein Abrufverfahren zur Verfügung. Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte.
 
 8 Die Vollzugsbehörden können Personendaten nach Absatz 1 an Organisatoren von Sportveranstaltungen in der Schweiz weitergeben, wenn die Daten für die Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich bestimmter Veranstaltungen nötig sind. Die Empfänger der Daten dürfen diese nur im Rahmen des Vollzuges der Massnahmen an Dritte weitergeben. Der Bundesrat regelt, wie die Daten durch die Empfänger und durch Dritte bearbeitet werden.
 
