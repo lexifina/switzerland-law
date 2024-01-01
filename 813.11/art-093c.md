@@ -6,8 +6,8 @@
 
 3 Neue Stoffe, die nicht vor dem Inkrafttreten dieser Änderung angemeldet worden sind und nicht unter Absatz 2 fallen, dürfen noch bis zum 30. April 2024 ohne Anmeldung in Verkehr gebracht werden. Die Anmeldestelle kann die Frist um höchstens ein Jahr verlängern.
 
-4 Für alte Stoffe, die bereits vor dem Inkrafttreten dieser Änderung angemeldet worden sind, gelten folgende Bestimmungen:
+4 Für alte Stoffe, die vor Inkrafttreten dieser Änderung angemeldet worden sind, gilt:
 
-  - a. Die Anmelderin ist von der Folgeinformationspflicht nach Artikel 46 und 47 entbunden.
+  - a. Die Anmelderin ist von den Pflichten nach den Artikeln 46 und 47 entbunden, die Alleinvertreterin und die Importeurin von der Pflicht nach Artikel 46.
 
   - b. Die Ausnahme nach Artikel 54 Absatz 1 Buchstabe k gilt nicht.
