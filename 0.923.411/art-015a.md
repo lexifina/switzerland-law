@@ -20,7 +20,7 @@
 
 (2) In einem Fischereibetrieb dürfen gleichzeitig verwendet werden:
 
-  - 1. höchstens sechs niedere Netze mit einer Maschenweite von 32 bis 34 mm;
+  - 1. vom 18. Dezember bis 25. April höchstens sechs niedere Netze mit einer Maschenweite von 32 bis 34 mm und vom 15. Mai bis 31. Oktober höchstens acht niedere Netze mit einer Maschenweite von 32 bis 34 mm; und
 
   - 2. höchstens sechs niedere Netze mit einer Mindestmaschenweite von 50 mm; und
 
