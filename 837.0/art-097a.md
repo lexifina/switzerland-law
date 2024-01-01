@@ -8,7 +8,7 @@
 
   - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
 
-  - bbis.Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
+  - bbis. Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 
   - bter. den Ausländerbehörden, nach Artikel 97 Absatz 3 des Ausländer- und Integrationsgesetzesvom 16. Dezember 2005 (AIG);
 
