@@ -1,21 +1,31 @@
-# Art. 34b Auslandpreisvergleich: Grosshandelsmargen und Herstellerrabatt
+# Art. 34b Auslandpreisvergleich: Abzüge und Herstellerrabatt
 
-1 Vom Apothekeneinstandspreis oder vom Grosshandelspreis werden beim Auslandpreisvergleich folgende Grosshandelsmargen gemäss Artikel 65b Absatz 3 KVV abgezogen:
+1 Vom Apothekeneinstandspreis oder vom Publikumspreis werden beim Auslandpreisvergleich folgende Abzüge nach Artikel 65bquater Absatz 1 KVV vorgenommen:
 
-  - a. Dänemark: 6,5 Prozent des Apothekeneinstandspreises;
+  - a. Dänemark:
 
-  - b. Grossbritannien: 12,5 Prozent des Grosshandelspreises;
+    - 1. bei patentgeschützten Originalpräparaten: 6,5 Prozent des Apothekeneinstandspreises, höchstens jedoch 224 dänische Kronen,
 
-  - c. Niederlande: 6,5 Prozent des Apothekeneinstandspreises;
+    - 2. bei nicht mehr patentgeschützten Originalpräparaten: 5 Prozent des Apothekeneinstandspreises, höchstens jedoch 224 dänische Kronen;
 
-  - d. Finnland: 3 Prozent des Apothekeneinstandspreises;
+  - b. Grossbritannien: 12,5 Prozent des Publikumspreises;
 
-  - e. Schweden: 2,7 Prozent des Apothekeneinstandspreises.
+  - c. Niederlande: 6,5 Prozent des Apothekeneinstandspreises, höchstens jedoch 30 Euro;
 
-2 Vom Fabrikabgabepreis in Deutschland werden beim Auslandpreisvergleich die folgenden Herstellerrabatte gemäss Artikel 65b Absatz 4 KVV abgezogen:
+  - d. Finnland: 3 Prozent des Apothekeneinstandspreises, höchstens jedoch 30 Euro;
 
-  - a. bei Originalpräparaten: 12 Prozent abzüglich der Umsatzsteuer;
+  - e. Schweden: 2,7 Prozent des Apothekeneinstandspreises, höchstens jedoch 167 schwedische Kronen.
 
-  - b. bei Generika und Originalpräparaten, deren Patentschutz abgelaufen ist: 16 Prozent abzüglich der Umsatzsteuer.
+2 Kann die Zulassungsinhaberin nachweisen, dass in Dänemark oder Grossbritannien der effektive Abzug vom Abzug nach Absatz 1 abweicht, so wird der effektive Abzug vorgenommen. Der Abzug vom Apothekeneinstandspreis oder vom Publikumspreis darf jedoch nicht tiefer sein als:
 
-3 Kann die Zulassungsinhaberin belegen, dass die effektive Grosshandelsmarge von der Marge nach Absatz 1 beziehungsweise der effektive Herstellerrabatt vom Herstellerrabatt nach Absatz 2 abweicht, so wird die effektive Grosshandelsmarge beziehungsweise der effektive Herstellerrabatt abgezogen.
+  - a. Dänemark: bei patentgeschützten Originalpräparaten 3 Prozent des Apothekeneinstandspreises;
+
+  - b. Grossbritannien: 2 Prozent des Publikumspreises.
+
+3 Vom Fabrikabgabepreis in Deutschland werden beim Auslandpreisvergleich die folgenden Herstellerrabatte gemäss Artikel 65bquater Absatz 2 KVV abgezogen:
+
+  - a. bei Originalpräparaten, die in Deutschland patentgeschützt sind: 7 Prozent abzüglich der Umsatzsteuer;
+
+  - b. bei Generika und Originalpräparaten, die in Deutschland nicht mehr patentgeschützt sind: 16 Prozent abzüglich der Umsatzsteuer.
+
+4 Kann die Zulassungsinhaberin oder das BAG belegen, dass der effektive Herstellerrabatt vom Herstellerrabatt nach Absatz 3 abweicht, so wird der effektive Herstellerrabatt abgezogen.

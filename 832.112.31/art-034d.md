@@ -74,4 +74,6 @@
 
   - a. seit der letzten Überprüfung ihrer Wirtschaftlichkeit einer Preisüberprüfung aufgrund einer Indikationserweiterung oder einer Änderung oder Aufhebung einer Limitierung nach Artikel 65f Absatz 4 KVV unterzogen wurden; das BAG führt die nächste Überprüfung dieser Originalpräparate frühestens im zweiten Jahr nach der letzten Preisüberprüfung durch;
 
-  - b. am 1. Januar des Überprüfungsjahres seit weniger als 13 Monaten in der Spezialitätenliste gelistet sind.
+  - b. am 1. Januar des Überprüfungsjahres seit weniger als 13 Monaten in der Spezialitätenliste gelistet sind;
+
+  - c. befristet in die Spezialitätenliste aufgenommen wurden oder für mindestens eine Indikation befristet vergütet werden.

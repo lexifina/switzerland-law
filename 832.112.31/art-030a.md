@@ -2,7 +2,7 @@
 
 1 Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 
-  - a. für Gesuche nach Artikel 31 Absatz 1 Buchstaben a und c: die Voranzeige der Swissmedic mit deren Mitteilung über die beabsichtigte Zulassung und der Angabe der zuzulassenden Indikationen und Dosierungen, sowie, falls diese vorliegen, die Zulassungsverfügung und die Zulassungsbescheinigung von Swissmedic sowie die definitive Fachinformation;
+  - a. für Gesuche nach Artikel 31 Absatz 1 Buchstaben a und c, mit Ausnahme von Gesuchen nach Artikel 69a Absatz 2 KVV: die Voranzeige der Swissmedic mit deren Mitteilung über die beabsichtigte Zulassung und der Angabe der zuzulassenden Indikationen und Dosierungen, sowie, falls diese vorliegen, die Zulassungsverfügung und die Zulassungsbescheinigung der Swissmedic sowie die definitive Fachinformation;
 
   - abis. für Gesuche nach Artikel 31 Absatz 2: die Zulassungsverfügung von Swissmedic, die definitive Fachinformation sowie rechtzeitig vor Anpassung der Spezialitätenliste nachgereicht die Zulassungsbescheinigung von Swissmedic;
 
