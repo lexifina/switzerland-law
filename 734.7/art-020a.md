@@ -1,9 +1,9 @@
-# Art. 20a Personensicherheitsprüfung
+# Art. 20a Prüfung der Vertrauenswürdigkeit
 
-1 Personen, die bei der nationalen Netzgesellschaft mit Aufgaben betraut sind, in deren Rahmen sie die Sicherheit des Übertragungsnetzes und dessen zuverlässigen und leistungsfähigen Betrieb beeinflussen können, müssen sich periodisch einer Personensicherheitsprüfung unterziehen.
+1 Personen, die von der nationalen Netzgesellschaft in kritischen oder höchstkritischen Funktionen eingesetzt werden, werden zur Beurteilung des Sicherheitsrisikos periodisch auf ihre Vertrauenswürdigkeit hin geprüft.
 
-2 Prüfungsinhalt und Datenerhebung richten sich nach Artikel 20 des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit. Die Daten dürfen bearbeitet werden.
+2 Der Bundesrat legt fest, welche Personengruppen geprüft werden müssen. Er beschränkt sich dabei auf das erforderliche Mindestmass.
 
-3 Die nationale Netzgesellschaft ersucht um Durchführung der Prüfung. Das Ergebnis ist ihr mitzuteilen und kurz zu begründen.
+3 Die Vertrauenswürdigkeitsprüfungen werden von der Fachstelle nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020 (ISG) durchgeführt. Das Verfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des ISG.
 
-4 Der Bundesrat bezeichnet die der Prüfung unterstehenden Personen und regelt das Prüfverfahren.
+4 Die nationale Netzgesellschaft ersucht um Prüfung. Das Ergebnis ist ihr mitzuteilen und kurz zu begründen.
