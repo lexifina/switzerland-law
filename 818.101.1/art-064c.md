@@ -6,7 +6,7 @@
 
   - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
-2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind.
+2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) noch nach dem Militärversicherungsgesetz vom 19. Juni 1992 (MVG) gegen Krankheit versichert sind.
 
 3 Er übernimmt die Kosten nur, wenn die Leistungserbringer:
 
@@ -20,7 +20,7 @@
 
   - b. 29 Franken für Impfungen in Arztpraxen;
 
-  - c. Fr. 40.45 für Impfungen in Arztpraxen bei Kindern bis zum vollendeten 11. Altersjahr.
+  - c. Fr. 40.45 für Impfungen in Arztpraxen bei Kindern bis zum vollendeten 12. Altersjahr.
 
 5 Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
 
@@ -35,5 +35,3 @@
   - e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
 
 6 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
-
-7 Für das Verfahren zur Übernahme der Kosten gilt Artikel 64b sinngemäss.
