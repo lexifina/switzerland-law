@@ -6,7 +6,7 @@
 
 3 Für die Vorleistung gelten die Artikel 70 und 71 ATSG.
 
-4 Die Kürzung anderer Leistungen, die beim Erreichen des ordentlichen Rentenalters vorgenommen wird, sowie die Kürzung oder Verweigerung anderer Leistungen aufgrund von Verschulden müssen nicht ausgeglichen werden.
+4 Die Kürzung anderer Leistungen, die beim Erreichen des Referenzalters vorgenommen wird, sowie die Kürzung oder Verweigerung anderer Leistungen aufgrund von Verschulden müssen nicht ausgeglichen werden.
 
 5 Der Bundesrat regelt:
 
