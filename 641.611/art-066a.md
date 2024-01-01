@@ -9,3 +9,5 @@
   - b. die Anzahl der aufgewendeten Betriebsstunden, getrennt nach steuerbegünstigten und nicht steuerbegünstigten Zwecken;
 
   - c. die für die Identifikation der Maschine oder Anlage erforderlichen Angaben, namentlich die Seriennummer.
+
+3 Ist eine Maschine oder eine Anlage werksmässig nicht mit einem Betriebsstundenzähler ausgerüstet und wäre das Ausrüsten mit einem Zähler unverhältnismässig, so kann die Steuerbehörde auf Gesuch hin zulassen, dass in der Verbrauchskontrolle die Angaben nach Absatz 2 Buchstabe a nicht gemacht werden.
