@@ -4,7 +4,7 @@ Folgende Behörden und Stellen können durch ein Abrufverfahren Einsicht in die 
 
   - a. die nach Artikel 89d zur Datenbearbeitung berechtigten Behörden und Stellen: in die Daten, die sie gestützt auf jene Bestimmung bearbeiten;
 
-  - a.bis die Polizeiorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Identifikation des Halters und des Versicherers sowie für die Fahrzeugfahndung erforderlich sind;
+  - abis. die Polizeiorgane: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung, für die Identifikation des Halters und des Versicherers sowie für die Fahrzeugfahndung erforderlich sind;
 
   - b. das Bundesamt für Zoll und Grenzsicherheit: in die Daten, die für die Kontrolle der Fahrberechtigung und der Verkehrszulassung sowie für die Fahrzeugfahndung erforderlich sind;
 
