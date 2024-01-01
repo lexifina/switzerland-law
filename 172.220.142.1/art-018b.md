@@ -1,3 +1,5 @@
-# Art. 18b Weiterführung der Altersvorsorge nach Vollendung des 65. Altersjahres
+# Art. 18b Weiterführung der Versicherung nach Erreichen des Referenzalters
 
-Bei Fortsetzung des Arbeitsverhältnisses nach dem vollendeten 65. Altersjahr wird die Altersvorsorge der versicherten Person bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zur Vollendung des 70. Altersjahres weitergeführt. Auf Verlangen der versicherten Person kann auf die Weiterführung der Altersvorsorge verzichtet werden.
+1 Bei Fortsetzung des Arbeitsverhältnisses nach Erreichen des Referenzalters wird auf Verlangen der versicherten Person entweder die Altersvorsorge weitergeführt oder der Bezug der Altersleistung nach Artikel 13b BVG aufgeschoben, beides bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zur Vollendung des 70. Altersjahres.
+
+2 Beim Aufschub des Bezuges der Altersleistung wird das Altersguthaben gemäss Artikel 36 Absatz 8 verzinst.
