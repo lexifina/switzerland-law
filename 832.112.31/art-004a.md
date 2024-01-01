@@ -6,7 +6,7 @@
 
   - b. Ausführung einer ärztlichen Verordnung ausserhalb der ortsüblichen Geschäftszeiten, wenn ein Notfall vorliegt;
 
-  - c. Ersatz eines ärztlich verordneten Originalpräparates oder eines Generikums durch ein preisgünstigeres Generikum;
+  - c. Ersatz eines ärztlich verordneten Arzneimittels durch ein preisgünstigeres Arzneimittel mit gleicher Wirkstoffzusammensetzung;
 
   - d. ärztlich angeordnete Betreuung bei der Einnahme eines Arzneimittels.
 

@@ -4,7 +4,7 @@
 
   - a. Stoffwechselkrankheiten;
 
-  - b. Adipositas (Body-Mass-Index von über 30) und Folgeerkrankungen des Übergewichts oder in Kombination mit dem Übergewicht;
+  - b. Adipositas (Body-Mass-Index ≥ 30 kg/m2) und Übergewicht (Body-Mass-Index ≥ 25 kg/m2), das mit einer Folgeerkrankung verbunden ist, die durch die Gewichtsreduktion günstig beeinflusst werden kann;
 
   - bbis. Adipositas und Übergewicht im Rahmen der «ambulanten individuellen multiprofessionellen strukturierten Therapie für übergewichtige und adipöse Kinder und Jugendliche» nach Anhang 1 Ziffer 4;
 
