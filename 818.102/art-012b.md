@@ -1,4 +1,4 @@
-# Art. 12b Massnahmen im Sportbereich: A-Fonds-perdu-Beiträge für Klubs des professionellen und semiprofessionellen Mannschaftssports
+# Art. 12b
 
 1–4 …
 
