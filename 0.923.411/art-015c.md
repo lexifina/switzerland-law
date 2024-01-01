@@ -6,7 +6,7 @@
 
 (3) Werden Netze über die erste Tageshälfte ausgelegt (Übermorgensatz), dürfen nur niedere Netze verwendet werden. Die Netze müssen bis spätestens 11.00 Uhr gehoben sein. Netze, die über diesen Zeitpunkt hinaus stehen, gelten als Treibsatz. …
 
-(4) Im Überabendsatz und im Übermorgensatz müssen die Netze im rechten Winkel zur Haldenkante gesetzt werden; ausgenommen hievon sind
+(4) Im Überabendsatz und im Übermorgensatz müssen die Netze im rechten Winkel zur Haldenkante gesetzt werden; ausgenommen hievon sind:
 
   - 1. die Fischerei östlich der Linie Fehrenhorn‑Ermatingen Landesteg,
 
