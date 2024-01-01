@@ -8,4 +8,6 @@
 
 4 Der Bund sowie seine Betriebe und Anstalten sind von der Beitragspflicht ausgenommen. Kantone als Halter von Motorfahrzeugen, für die keine Haftpflichtversicherungspflicht besteht (Art. 73 Abs. 1), sind insoweit beitragspflichtig, als ihre Fahrzeuge versichert sind.
 
+4bis Hat die FINMA ein Sanierungs- oder ein Versicherungskonkursverfahren über einen Motorfahrzeug-Haftpflichtversicherer eröffnet, so erstellt der Nationale Garantiefonds eine Schätzung über die zu erwartenden künftigen Zahlungsverpflichtungen. Diese sind ausschliesslich im Anhang zur Jahresrechnung (Art. 959c des Obligationenrechts) zu dokumentieren.
+
 5 Der Bundesrat bestimmt die Einzelheiten; er regelt namentlich die Berechnungsgrundlagen für den Beitrag und dessen Genehmigung.
