@@ -1,3 +1,3 @@
-# Art. 18a Anwendbarkeit der Allgemeinen Gebührenverordnung
+# Art. 18a Elektronischer Datenaustausch
 
-Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004.
+Die Aufsichtsbehörde der jeweiligen Sozialversicherung kann das Format und den Kanal der elektronischen Datenübertragung zwischen den Versicherungsträgern und den Bundesbehörden regeln. Sie berücksichtigt dabei aktuelle anerkannte Standards.
