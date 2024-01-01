@@ -4,6 +4,6 @@
 
   - a. der DSV;
 
-  - b. der Cyberrisikenverordnung vom 27. Mai 2020.
+  - b. der Informationssicherheitsverordnung vom 8. November 2023.
 
 2 Die Zentralstelle Waffen trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
