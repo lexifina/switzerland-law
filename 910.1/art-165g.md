@@ -1,6 +1,6 @@
 # Art. 165g Ausführungsbestimmungen
 
-Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165c–165f insbesondere:
+Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165c–165f bis insbesondere:
 
   - a. die Form der Erhebung und die Termine der Datenlieferungen;
 
