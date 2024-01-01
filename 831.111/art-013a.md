@@ -1,8 +1,12 @@
 # Art. 13a Beitragspflichtige Personen
 
-1 Erwerbstätige Versicherte sind beitragspflichtig ab dem 1. Januar nach Vollendung des 17. Altersjahres; die Beitragspflicht endet am Ende des Monats, in welchem Frauen das 64. und Männer das 65. Altersjahr vollenden.
+1 Beitragspflichtig sind:
 
-2 Nichterwerbstätige Versicherte sind beitragspflichtig ab dem 1. Januar nach Vollendung des 20. Altersjahres; die Beitragspflicht endet am Ende des Monats, in welchem Frauen das 64. und Männer das 65. Altersjahr vollenden.
+  - a. erwerbstätige Versicherte ab dem 1. Januar nach Vollendung des 17. Altersjahres;
+
+  - b. nichterwerbstätige Versicherte ab dem 1. Januar nach Vollendung des 20. Altersjahres.
+
+2 Die Beitragspflicht endet am Ende des Monats, in dem das Referenzalter nach Artikel 21 Absatz 1 AHVG erreicht wird.
 
 3 Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mindestens der doppelten Höhe des Mindestbeitrages von Artikel 13b bezahlt hat, bei:
 
