@@ -18,6 +18,6 @@
 
 4 Teilnehmer an eidgenössischen und kantonalen Kaderkursen von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011 sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995 sind den in Absatz 1 genannten Personen gleichgestellt.
 
-4bis Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des ordentlichen Rentenalters nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG).
+4bis Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer ganzen Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG).
 
 5 Die in den Absätzen 1–4 genannten Personen werden in diesem Gesetz als Dienstleistende bezeichnet.
