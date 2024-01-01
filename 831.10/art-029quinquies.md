@@ -6,15 +6,19 @@
 
 3 Einkommen, welche die Ehegatten während der Kalenderjahre der gemeinsamen Ehe erzielt haben, werden geteilt und je zur Hälfte den beiden Ehegatten angerechnet. Die Einkommensteilung wird vorgenommen:
 
-  - a. wenn beide Ehegatten rentenberechtigt sind;
+  - a. wenn beide Ehegatten das Referenzalter erreicht haben;
 
-  - b. wenn eine verwitwete Person Anspruch auf eine Altersrente hat;
+  - b. wenn eine verwitwete Person das Referenzalter erreicht;
 
-  - c. bei Auflösung der Ehe durch Scheidung.
+  - c. bei Auflösung der Ehe durch Scheidung;
+
+  - d. wenn beide Ehegatten Anspruch auf eine Rente der Invalidenversicherung haben; oder
+
+  - e. wenn ein Ehegatte einen Anspruch auf eine Rente der Invalidenversicherung hat und der andere Ehegatte das Referenzalter erreicht.
 
 4 Der Teilung und der gegenseitigen Anrechnung unterliegen jedoch nur Einkommen:
 
-  - a. aus der Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird; und
+  - a. aus der Zeit zwischen dem 1. Januar nach Vollendung des 20. Altersjahres und dem 31. Dezember vor Eintritt des Versicherungsfalles beim Ehegatten, welcher zuerst rentenberechtigt wird, mit Ausnahme der vorbezogenen Rente (Art. 40); und
 
   - b. aus Zeiten, in denen beide Ehegatten in der schweizerischen Alters- und Hinterlassenenversicherung versichert gewesen sind.
 
