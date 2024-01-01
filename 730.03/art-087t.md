@@ -1,6 +1,6 @@
 # Art. 87t Vertrag und Zusicherung dem Grundsatz nach
 
-1 Sind die Anspruchsvoraussetzungen gemäss Anhang 2.5 für einen Investitionsbeitrag für eine Prospektion oder eine Erschliessung erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so schliesst der Bund mit der Gesuchstellerin oder dem Gesuchsteller einen verwaltungsrechtlichen Vertrag ab.
+1 Sind die Anspruchsvoraussetzungen gemäss Anhang 2.5 für einen Investitionsbeitrag für eine Prospektion oder eine Erschliessung erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so schliesst der Bund mit der gesuchstellenden Person einen verwaltungsrechtlichen Vertrag ab.
 
 2 Sind die Anspruchsvoraussetzungen gemäss Anhang 2.6 für die Erstellung einer Geothermieanlage erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so sichert das BFE den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
 
