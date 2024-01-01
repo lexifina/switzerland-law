@@ -1,10 +1,10 @@
-# Art. 18h Datenschutz und Informatiksicherheit
+# Art. 18h Datenschutz und Informationssicherheit
 
-1 Der Datenschutz und die Informatiksicherheit richten sich nach:
+1 Der Datenschutz und die Informationssicherheit richten sich nach:
 
   - a. der Datenschutzverordnung vom 31. August 2022;
 
-  - b. der Cyberrisikenverordnung vom 27. Mai 2020;
+  - b. der Informationssicherheitsverordnung vom 8. November 2023;
 
   - c. …
 
