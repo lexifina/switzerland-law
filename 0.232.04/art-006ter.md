@@ -12,7 +12,9 @@
 
   - 3) a)
 
-  - Für die Anwendung dieser Bestimmungen kommen die Verbandsländer überein, durch Vermittlung des Internationalen Büros ein Verzeichnis der staatlichen Hoheitszeichen und amtlichen Prüf‑ und Gewährzeichen und ‑stempel auszutauschen, die sie jetzt oder in Zukunft unumschränkt oder in gewissen Grenzen unter den Schutz dieses Artikels zu stellen wünschen; dies gilt auch für alle späteren Änderungen dieses Verzeichnisses. Jedes Verbandsland soll die notifizierten Verzeichnisse rechtzeitig öffentlich zugänglich machen. Diese Notifikation ist jedoch für Staatsflaggen nicht erforderlich.
+  - Für die Anwendung dieser Bestimmungen kommen die Verbandsländer überein, durch Vermittlung des Internationalen Büros ein Verzeichnis der staatlichen Hoheitszeichen und amtlichen Prüf‑ und Gewährzeichen und ‑stempel auszutauschen, die sie jetzt oder in Zukunft unumschränkt oder in gewissen Grenzen unter den Schutz dieses Artikels zu stellen wünschen; dies gilt auch für alle späteren Änderungen dieses Verzeichnisses. Jedes Verbandsland soll die notifizierten Verzeichnisse rechtzeitig öffentlich zugänglich machen.
+
+  - Diese Notifikation ist jedoch für Staatsflaggen nicht erforderlich.
 
   - b) Die Bestimmungen des Absatzes 1) Buchstabe b) sind nur auf die Wappen, Flaggen und anderen Kennzeichen, Sigel und Bezeichnungen der internationalen zwischenstaatlichen Organisationen anwendbar, die diese durch Vermittlung des Internationalen Büros den Verbandsländern mitgeteilt haben.
 
