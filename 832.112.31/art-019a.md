@@ -100,7 +100,7 @@
 
   - 40. Aplasie der Tränenwege;
 
-  - 41. Anophtalmus;
+  - 41. Anophthalmus;
 
   - 42. Angeborene Tumoren der Augenhöhle;
 

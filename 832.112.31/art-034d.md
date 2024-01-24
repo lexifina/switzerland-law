@@ -52,7 +52,7 @@
 
     - 4. Gynaecologika (09),
 
-    - 5. Ophtalmologika (11),
+    - 5. Ophthalmologika (11),
 
     - 6. Oto-Rhinolaryngologika (12),
 
@@ -66,7 +66,7 @@
 
     - 10. Gynaecologika Komplementärmedizin (59),
 
-    - 11. Ophtalmologika Komplementärmedizin (61),
+    - 11. Ophthalmologika Komplementärmedizin (61),
 
     - 12. Oto-Rhinolaryngologika Komplementärmedizin (62).
 
