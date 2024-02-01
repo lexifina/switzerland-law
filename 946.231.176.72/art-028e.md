@@ -1,4 +1,4 @@
-# Art. 28e Verbote betreffend Dienstleistungen
+# Art. 28e Verbote betreffend Dienstleistungen und Software
 
 1 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
 
@@ -6,9 +6,13 @@
 
 1ter Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Markt- und Meinungsforschung, technische physikalische und chemische Untersuchung sowie Werbung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
 
-2 Die Verbote nach den Absätzen 1–1ter gelten nicht für:
+1quater Der Verkauf, die Lieferung, die Ausfuhr und die Bereitstellung von Software für die Unternehmensführung und Software für Industriedesign und Fertigung gemäss Anhang 32 an die Regierung der Russischen Föderation oder an in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen sowie der Transport und die Durchfuhr dieser Güter durch die Schweiz sind verboten.
 
-  - a. Dienstleistungen, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaats oder dem Recht eines Partners gegründet oder eingetragen sind;
+1quinquies Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Dienstleistungen oder Software nach den Absätzen 1–1quater oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport oder der Bereitstellung dieser Dienstleistungen oder Software nach oder zur Verwendung in der Russischen Föderation sind verboten.
+
+2 Die Verbote nach den Absätzen 1–1quater gelten nicht für:
+
+  - a. Dienstleistungen und Software, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaats oder dem Recht eines Partners gegründet oder eingetragen sind;
 
   - b. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen, sofern die Aktivitäten durchgeführt werden durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten.
 
@@ -18,7 +22,7 @@
 
   - b. zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich erforderlich sind.
 
-2ter Die Verbote nach den Absätzen 1bis und 1ter gelten nicht für Dienstleistungen, die erforderlich sind:
+2ter Die Verbote nach den Absätzen 1bis–1quater gelten nicht für Dienstleistungen und Software, die erforderlich sind:
 
   - a. für die Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit;
 
@@ -26,9 +30,9 @@
 
   - c. für die Bewältigung von Naturkatastrophen.
 
-2quater Das Verbot nach Absatz 1bis gilt nicht für Dienstleistungen, die für die Aktualisierung von Software für nichtmilitärische Zwecke und für nichtmilitärische Endnutzerinnen und Endnutzer erforderlich sind.
+2quater …
 
-3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–1ter bewilligen für Dienstleistungen, die erforderlich sind für:
+3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–1quater bewilligen für Dienstleistungen und Software, die erforderlich sind für:
 
   - a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen;
 
@@ -51,3 +55,9 @@
     - 2. Rechenzentrumsdienste in der Schweiz oder einem EWR-Mitgliedstaat.
 
 4 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 1bis bewilligen für Dienstleistungen, die erforderlich sind für die Errichtung, Zertifizierung oder Bewertung eines Systems nach Artikel 15 Absatz 10.
+
+5 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 1quater bewilligen, sofern die Software für den Beitrag russischer Staatsangehöriger zu internationalen Open-Source-Projekten erforderlich ist.
+
+6 Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie gemäss Absatz 2 Buchstabe a erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2024 und anschliessend semesterweise melden.
+
+7 Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Dienstleistungen oder Software enthalten.

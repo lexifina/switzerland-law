@@ -1,3 +1,15 @@
-# Art. 14e Ausnahmen vom Verbot der Bereitstellung technischer Hilfe
+# Art. 14e Diamanten und Erzeugnisse mit Diamanten
 
-Die Verbote der Bereitstellung von technischer Hilfe nach den Artikeln 9 Absatz 4, 9a Absatz 2, 9b Absatz 2, 11 Absatz 2, 12 Absatz 2, 12b Absatz 2, 14 Absatz 2, 14a Absatz 3, 14c Absatz 2 und 14d Absatz 4 gelten nicht für die Erbringung von aus Gründen der Sicherheit des Seeverkehrs erforderlichen Lotsendiensten für Schiffe, die sich auf friedlicher Durchfahrt im Sinne des Völkerrechts befinden.
+1 Der Kauf von Diamanten und Erzeugnissen mit Diamanten gemäss Anhang 27a aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
+
+2 Der Kauf von Diamanten und Erzeugnissen mit Diamanten gemäss Anhang 27a jeglichen Ursprungs, die durch die Russische Föderation durchgeführt wurden, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
+
+3 und 4 …
+
+5 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr und dem Transport in und durch die Schweiz sowie mit der Bereitstellung, der Herstellung, der Reparatur oder der Verwendung von Diamanten und Erzeugnissen mit Diamanten nach den Absätzen 1–4 sind verboten.
+
+6 Die Verbote nach den Absätzen 1–4 gelten nicht für Erzeugnisse mit Diamanten gemäss Anhang 27a Ziffer 3, die für den persönlichen Gebrauch von in die Schweiz einreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sich im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind.
+
+7 Das SECO kann für die Einfuhr, die Durchfuhr oder den Transport von Kulturgütern Ausnahmen von den Verboten nach den Absätzen 1–4 bewilligen, wenn es sich dabei um Leihgaben im Rahmen der offiziellen kulturellen Zusammenarbeit mit der Russischen Föderation handelt.
+
+8 Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten und Diamanten in Erzeugnissen mit Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.

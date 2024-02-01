@@ -18,7 +18,7 @@
 
   - d. juristischen Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b oder c handeln.
 
-2 Das Verbot nach Absatz 1 gilt nicht für:
+2 Sofern kein anderes Verbot vorliegt, gilt das Verbot nach Absatz 1 nicht für:
 
   - a. Transaktionen, die erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas, Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
 
@@ -38,7 +38,7 @@
 
   - g. Transaktionen, die erforderlich sind zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz oder einem EWR-Mitgliedstaat oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz oder einem EWR-Mitgliedstaat;
 
-  - h. die Erbringung von aus Gründen der Sicherheit des Seeverkehrs erforderlichen Lotsendiensten für Schiffe, die sich auf friedlicher Durchfahrt im Sinne des Völkerrechts befinden.
+  - h. …
 
 3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen, um:
 
