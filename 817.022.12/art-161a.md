@@ -1,3 +1,3 @@
-# Art. 161a Übergangsbestimmung zur Änderung vom 27. Mai 2020
+# Art. 161a Übergangsbestimmung zur Änderung vom 8. Dezember 2023
 
-Lebensmittel, die in den Geltungsbereich dieser Verordnung fallen und die der Änderung vom 27. Mai 2020 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. Juni 2021 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+Lebensmittel, die der Änderung vom 8. Dezember 2023 nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
