@@ -6,7 +6,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
   - b. die in den einzelnen Konsularbezirken geltenden Bedingungen für die Erteilung von Visa für die mehrfache Einreise (Art. 24 Abs. 2d);
 
-  - c. das Ausfüllen der Visummarke (Art. 27 Abs. 1);
+  - c. das Ausfüllen der Datenfelder des Visums in elektronischem Format (Art. 27 Abs. 1);
 
   - d. das Anbringen der Visummarke (Art. 29 Abs. 1a);
 
