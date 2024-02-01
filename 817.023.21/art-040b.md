@@ -2,7 +2,7 @@
 
 1 Für Lacke und Beschichtungen gelten die Anforderungen nach Anhang 13. Sie werden nach den Bestimmungen von Anhang 4 bewertet.
 
-2 Lackierten oder beschichteten Bedarfsgegenständen muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine schriftliche Erklärung beigefügt sein, welche die Angaben nach Anhang 14 umfasst.
+2 Lackierten oder beschichteten Bedarfsgegenständen muss auf allen Vermarktungsstufen, ausser im Einzelhandel, eine Konformitätserklärung beigefügt sein, welche die Angaben nach Anhang 14 umfasst.
 
 3 Die Konformitätserklärung muss erneuert werden, wenn sich am Umfang der Migration aus dem Lack oder der Beschichtung, der bzw. die auf die Bedarfsgegenstände aufgetragen wurde, etwas ändert.
 
