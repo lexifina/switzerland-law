@@ -1,3 +1,3 @@
-# Art. 28b Übergangsbestimmung zur Änderung vom 29. September 2023
+# Art. 28b Übergangsbestimmung zur Änderung vom 8. Dezember 2023
 
-Solange afokale kosmetische Kontaktlinsen gemäss Artikel 106 der Medizinprodukteverordnung vom 1. Juli 2020 ohne Konformitätsbescheinigung vermarktet werden dürfen, bleiben die Anforderungen nach dem bisherigen 2. Kapitel 3. Abschnitt der vorliegenden Verordnung anwendbar. Die Kontrolle dieser Anforderungen erfolgt durch die Vollzugsbehörden nach der Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände.
+Gegenstände, die der Änderung vom 8. Dezember 2023 dieser Verordnung nicht entsprechen, dürfen noch bis zum 31. Januar 2025 nach bisherigem Recht eingeführt, hergestellt und gekennzeichnet und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
