@@ -4,7 +4,7 @@
 
 2. Das Institut hat seinen Sitz in Stockholm, sofern der Rat nicht beschliesst, es an einen anderen Ort zu verlegen. Das Institut kann Büros an anderen Orten einrichten, wenn dies zur Unterstützung seines Programms notwendig ist.
 
-3. International IDEA besitzt volle Rechtspersönlichkeit und hat die für die Wahrnehmung seiner Aufgaben und Erreichung seiner Ziele notwendigen Fähigkeiten; unter anderem hat es die Fähigkeit;
+3. International IDEA besitzt volle Rechtspersönlichkeit und hat die für die Wahrnehmung seiner Aufgaben und Erreichung seiner Ziele notwendigen Fähigkeiten; unter anderem hat es die Fähigkeit:
 
   - a) unbewegliches und bewegliches Vermögen zu erwerben und zu veräussern;
 
