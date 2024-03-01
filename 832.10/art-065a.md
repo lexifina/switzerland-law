@@ -1,6 +1,6 @@
-# Art. 65a Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen
+# Art. 65a Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen
 
-Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, Prämienverbilligungen:
+Die Kantone gewähren folgenden Versicherten in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, Prämienverbilligungen:
 
   - a. den Grenzgängern und Grenzgängerinnen sowie deren Familienangehörigen;
 
