@@ -2,7 +2,7 @@
 
 Der Finanzintermediär:
 
-  - a. informiert die Anlegerinnen und Anleger im Sinne von Artikel 10 Absatz 3ter des Gesetzes, dass sie als qualifizierte Anlegerin oder Anleger gelten;
+  - a. informiert die Anlegerinnen und Anleger im Sinne von Artikel 10 Absatz 3ter KAG, dass sie als qualifizierte Anlegerin oder Anleger gelten;
 
   - b. klärt sie über die damit einhergehenden Risiken auf; und
 

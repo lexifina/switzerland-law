@@ -10,4 +10,4 @@ Für ausländische kollektive Kapitalanlagen müssen der FINMA folgende Dokument
 
   - d. die Statuten und das Anlagereglement oder der Gesellschaftsvertrag von gesellschaftsrechtlich organisierten kollektiven Kapitalanlagen;
 
-  - e. andere Dokumente, die für eine Genehmigung nach dem anwendbaren ausländischen Recht notwendig wären und denjenigen für schweizerische kollektive Kapitalanlagen gemäss Artikel 15 Absatz 1 des Gesetzes entsprechen.
+  - e. andere Dokumente, die für eine Genehmigung nach dem anwendbaren ausländischen Recht notwendig wären und denjenigen für schweizerische kollektive Kapitalanlagen gemäss Artikel 15 Absatz 1 KAG entsprechen.

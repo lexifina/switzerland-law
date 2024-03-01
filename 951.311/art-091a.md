@@ -16,6 +16,6 @@
 
   - g. die mit der Verwaltung der Immobilienwerte beauftragten Liegenschaftsverwaltungen sowie die Mitglieder des Verwaltungsrates und die Mitarbeiterinnen und Mitarbeiter dieser Liegenschaftsverwaltungen;
 
-  - h. die qualifiziert Beteiligten im Sinne von Artikel 14 Absatz 3 des Gesetzes der oben in Buchstaben a–g erwähnten Gesellschaften.
+  - h. die qualifiziert Beteiligten im Sinne von Artikel 14 Absatz 3 KAG der oben in Buchstaben a–g erwähnten Gesellschaften.
 
 2 Beauftragte nach Absatz 1 Buchstabe a gelten nicht als nahestehende Personen, wenn nachgewiesen werden kann, dass sie weder direkten noch indirekten Einfluss auf die Fondsleitung oder die SICAV nehmen oder genommen haben und die Fondsleitung oder die SICAV in der Sache nicht auf andere Weise befangen ist.

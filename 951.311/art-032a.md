@@ -1,12 +1,12 @@
 # Art. 32a Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen
 
-1 Die FINMA kann nach Artikel 63 Absatz 4 des Gesetzes in begründeten Einzelfällen Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen nach Artikel 63 Absätze 2 und 3 des Gesetzes bewilligen, wenn:
+1 Die FINMA kann nach Artikel 63 Absatz 4 KAG in begründeten Einzelfällen Ausnahmen vom Verbot von Geschäften mit nahestehenden Personen nach Artikel 63 Absätze 2 und 3 KAG bewilligen, wenn:
 
   - a. diese Möglichkeit in den massgebenden Dokumenten der kollektiven Kapitalanlage vorgesehen ist;
 
   - b. die Ausnahme im Interesse der Anlegerinnen und Anleger ist;
 
-  - c. zusätzlich zu der Schätzung der ständigen Schätzungsexperten des Immobilienfonds ein von diesen beziehungsweise deren Arbeitgeber und von der Fondsleitung oder SICAV sowie der Depotbank des Immobilienfonds unabhängiger Schätzungsexperte gemäss Artikel 64 Absatz 1 des Gesetzes die Marktkonformität des Kaufs- und Verkaufspreises des Immobilienwertes sowie der Transaktionskosten bestätigt.
+  - c. zusätzlich zu der Schätzung der ständigen Schätzungsexperten des Immobilienfonds ein von diesen beziehungsweise deren Arbeitgeber und von der Fondsleitung oder SICAV sowie der Depotbank des Immobilienfonds unabhängiger Schätzungsexperte gemäss Artikel 64 Absatz 1 KAG die Marktkonformität des Kaufs- und Verkaufspreises des Immobilienwertes sowie der Transaktionskosten bestätigt.
 
 2 Nach Abschluss der Transaktion erstellt die Fondsleitung oder die SICAV einen Bericht, der Folgendes enthält:
 
