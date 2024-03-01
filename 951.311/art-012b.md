@@ -4,6 +4,6 @@
 
 2 Als wesentliche Aufgaben gelten:
 
-  - a. bei einer SICAV: die Aufgaben nach Artikel 26 KAG;
+  - a. bei einer SICAV: die Aufgaben nach Artikel 36 KAG;
 
   - b. bei einem Vertreter von ausländischen kollektiven Kapitalanlagen: die Aufgaben nach Artikel 124 KAG.

@@ -7,3 +7,5 @@
 3 Der Bewilligungsträger trennt die Funktionen des Riskmanagements, des internen Kontrollsystems und der Compliance funktional und hierarchisch von den operativen Geschäftseinheiten, insbesondere von der Funktion der Anlageentscheide (Portfoliomanagement).
 
 4 Die FINMA kann in begründeten Fällen von diesen Anforderungen Abweichungen gewähren.
+
+5 Sie kann die Einzelheiten des Risikomanagements, der internen Kontrolle und der Compliance regeln.
