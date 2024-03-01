@@ -8,4 +8,4 @@
 
   - b. Schäden nicht auf Pflichtverletzungen einer Revisorin, eines Revisors, einer Revisionsexpertin, eines Revisionsexperten oder eines Revisionsunternehmens zurückzuführen sind.
 
-2bis Die Verantwortlichkeit der nach Artikel 24 Absatz 1 Buchstabe a des FINMAG beauftragten Prüfgesellschaften richtet sich nach den Bestimmungen des Aktienrechts (Art. 752–760 OR).
+2bis Die Verantwortlichkeit der nach Artikel 24 Absatz 1 Buchstabe a FINMAG und Artikel 118i KAG beauftragten Prüfgesellschaften richtet sich nach den Bestimmungen des Aktienrechts (Art. 752–760 OR).
