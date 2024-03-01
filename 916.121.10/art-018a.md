@@ -6,10 +6,10 @@
 
   - Zollkontingentsteilmenge | Periode für die Einfuhr zum KZA
 
-  - 20 000 Pflanzen | 2. Februar bis 31. Dezember
+  - 20 000 Pflanzen | 3. Februar bis 31. Dezember
 
-  - 20 000 Pflanzen | 2. März bis 31. Dezember
+  - 20 000 Pflanzen | 4. März bis 31. Dezember
 
-  - 10 000 Pflanzen | 3. November bis 31. Dezember
+  - 10 000 Pflanzen | 4. November bis 31. Dezember
 
-  - 10 000 Pflanzen | 30. November bis 31. Dezember.
+  - 10 000 Pflanzen | 2. Dezember bis 31. Dezember.
