@@ -10,8 +10,8 @@
 
   - a. Anhang 3 bei Untersuchungen nach den Artikeln 6 Absatz 4 Buchstabe a Ziffer 1, 11b, 27 Absatz 1 und 65 Absatz 2 Buchstabe d;
 
-  - b. Anhang 3a bei Untersuchungen nach Artikel 7 Absatz 1bis und 9 Absatz 4;
+  - b. Anhang 3a bei Untersuchungen nach Artikel 7 Absatz 1bis …;
 
   - c. Anhang 4 bei Untersuchungen nach Artikel 9 Absatz 1.
 
-  - 5 Die kantonalen Behörden können die Formulare nach Absatz 4 elektronisch zur Verfügung stellen. Wenn eine kantonale Behörde von dieser Möglichkeit Gebrauch macht, kann sie verlangen, dass ihr diese Formulare ausschliesslich elektronisch übermittelt werden.
+5 Die kantonalen Behörden können die Formulare nach Absatz 4 elektronisch zur Verfügung stellen. Wenn eine kantonale Behörde von dieser Möglichkeit Gebrauch macht, kann sie verlangen, dass ihr diese Formulare ausschliesslich elektronisch übermittelt werden.
