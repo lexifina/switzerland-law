@@ -1,3 +1,3 @@
 # Übergangsbestimmungen der Änderung vom 28. Juni 2017
 
-Die neu gefasste Regel 162 (2) EPÜ ist auf alle Euro-PCT-Anmeldungen anzuwenden, für die bei Inkrafttreten die Mitteilung nach den Regeln 161 und 162 EPÜ noch nicht ergangen ist.
+Die neu gefassten Regeln 32 und 33 EPÜ gelten für europäische Patentanmeldungen, die beim Inkrafttreten des Beschlusses anhängig sind, und für europäische Patentanmeldungen, die nach diesem Zeitpunkt eingereicht werden.
