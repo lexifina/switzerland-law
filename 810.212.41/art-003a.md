@@ -8,6 +8,6 @@
 
 4 Ist die Transplantation einer Niere indiziert, so beträgt die anrechenbare Wartezeit ohne Dialyse höchstens 18 Monate.
 
-5 Ist die Transplantation eines Herzens indiziert, so beträgt die anrechenbare Wartezeit höchstens zwei Jahre.
+5 …
 
 6 Die Wartezeit auf einer Warteliste im Ausland wird angerechnet, wenn die Patientin oder der Patient eine schriftliche Bestätigung der zuständigen ausländischen Stelle über die betreffende Zeit vorlegt; die Absätze 4 und 5 bleiben vorbehalten.
