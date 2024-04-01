@@ -1,5 +1,5 @@
 # Übergangsbestimmungen der Änderung vom 12. Oktober 2022
 
-Dieser Beschluss tritt am 1. November 2022 in Kraft.
+Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 46, 49, 50, 57 und 82 sind auf Unterlagen anzuwenden, die am oder nach dem 1. Februar 2023 beim Europäischen Patentamt eingereicht werden.
 
-Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 56 (2) und (3) und 135 (2) EPÜ und neu eingefügte Regel 56a EPÜ sind auf alle Anmeldungen anzuwenden, die ab diesem Tag eingereicht werden.
+Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 126, 127 und 131 sind auf Schriftstücke anzuwenden, die am oder nach dem 1. November 2023 vom Europäischen Patentamt zugestellt werden.
