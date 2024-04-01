@@ -2,11 +2,11 @@
 
 (1) Der Präsident des Europäischen Patentamts bestimmt, in welchen Fällen die Vertreter vor dem Europäischen Patentamt eine unterzeichnete Vollmacht einzureichen haben.
 
-(2) Versäumt es ein Vertreter, eine solche Vollmacht einzureichen, so fordert ihn das Europäische Patentamt auf, dies innerhalb einer zu bestimmenden Frist nachzuholen. Die Vollmacht kann sich auf eine oder mehrere europäische Patentanmeldungen oder europäische Patente erstrecken und ist in der entsprechenden Stückzahl einzureichen.
+(2) Versäumt es ein Vertreter, eine solche Vollmacht einzureichen, so fordert ihn das Europäische Patentamt auf, dies innerhalb einer zu bestimmenden Frist nachzuholen. Die Vollmacht kann sich auf eine oder mehrere europäische Patentanmeldungen oder europäische Patente erstrecken.
 
 (3) Ist den Erfordernissen des Artikels 133 Absatz 2 nicht entsprochen, so wird für die Bestellung eines Vertreters und die Einreichung der Vollmacht dieselbe Frist gesetzt.
 
-(4) Die Beteiligten können allgemeine Vollmachten einreichen, die einen Vertreter zur Vertretung in allen Patentangelegenheiten bevollmächtigen. Die allgemeine Vollmacht braucht nur in einem Stück eingereicht zu werden.
+(4) Die Beteiligten können allgemeine Vollmachten einreichen, die einen Vertreter zur Vertretung in allen Patentangelegenheiten bevollmächtigen.
 
 (5) Der Präsident des Europäischen Patentamts kann Form und Inhalt:
 

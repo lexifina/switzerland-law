@@ -8,7 +8,7 @@
 
   - b) die Bezeichnung der Erfindung, die eine kurz und genau gefasste technische Bezeichnung der Erfindung wiedergibt und keine Fantasiebezeichnung enthalten darf;
 
-  - c) den Namen, die Anschrift, die Staatsangehörigkeit und den Staat des Wohnsitzes oder Sitzes des Anmelders. Bei natürlichen Personen ist der Familienname vor den Vornamen anzugeben. Bei juristischen Personen und Gesellschaften, die juristischen Personen gemäss dem für sie massgebenden Recht gleichgestellt sind, ist die amtliche Bezeichnung anzugeben. Anschriften sind gemäss den üblichen Anforderungen für eine schnelle Postzustellung an die angegebene Anschrift anzugeben und müssen in jedem Fall alle massgeblichen Verwaltungseinheiten, gegebenenfalls bis zur Hausnummer einschliesslich, enthalten. Gegebenenfalls sollen Fax- und Telefonnummern angegeben werden;
+  - c) den Namen, die Anschrift, die Staatsangehörigkeit und den Staat des Wohnsitzes oder Sitzes des Anmelders. Bei natürlichen Personen ist der Familienname vor den Vornamen anzugeben. Bei juristischen Personen und Gesellschaften, die juristischen Personen gemäss dem für sie massgebenden Recht gleichgestellt sind, ist die amtliche Bezeichnung anzugeben. Anschriften sind gemäss den üblichen Anforderungen für eine schnelle Postzustellung an die angegebene Anschrift anzugeben und müssen in jedem Fall alle massgeblichen Verwaltungseinheiten, gegebenenfalls bis zur Hausnummer einschliesslich, enthalten. Gegebenenfalls sollen Telefonnummern angegeben werden;
 
   - d) falls ein Vertreter bestellt ist, seinen Namen und seine Geschäftsanschrift nach Massgabe von Buchstabe c;
 

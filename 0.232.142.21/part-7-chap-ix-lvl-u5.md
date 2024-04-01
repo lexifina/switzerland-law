@@ -4,7 +4,9 @@
 
 (2) Der Präsident des Europäischen Patentamts bestimmt die erforderlichen technischen und administrativen Bedingungen für die Verwaltung elektronischer Akten nach Massgabe von Absatz 1.
 
-(3) In eine elektronische Akte aufgenommene Unterlagen gelten als Originale. Die ursprünglich eingereichte Papierfassung einer solchen Unterlage wird erst nach Ablauf von mindestens fünf Jahren vernichtet. Diese Aufbewahrungsdauer beginnt am Ende des Jahres, in dem die Unterlage in die elektronische Akte aufgenommen wurde.
+  - (3)a) In eine elektronische Akte aufgenommene Unterlagen gelten als Originale.
+
+  - b) Die ursprünglich auf Papier oder auf einem Datenträger eingereichte Fassung einer solchen Unterlage wird erst nach Ablauf von mindestens fünf Jahren vernichtet. Diese Aufbewahrungsdauer beginnt am Ende des Jahres, in dem die Unterlage in die elektronische Akte aufgenommen wurde.
 
 (4) Die Akten werden mindestens fünf Jahre ab dem Ende des Jahres aufbewahrt, in dem:
 
