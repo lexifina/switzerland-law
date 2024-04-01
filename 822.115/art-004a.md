@@ -1,0 +1,7 @@
+# Art. 4a Gefährliche Arbeiten: berufliche Grundbildung
+
+1 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) kann mit Zustimmung des Staatssekretariats für Wirtschaft (SECO) für Jugendliche ab 15 Jahren in den Bildungsverordnungen Ausnahmen vom Verbot nach Artikel 4 Absatz 1 vorsehen, sofern dies für das Erreichen der Ziele der beruflichen Grundbildung oder für den Besuch von behördlich anerkannten Kursen unentbehrlich ist. Die Organisationen der Arbeitswelt definieren im Anhang zu den Bildungsplänen begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes. Sie hören dazu vorgängig eine Spezialistin oder einen Spezialisten der Arbeitssicherheit gemäss der Verordnung vom 25. November 1996 über die Eignung der Spezialistinnen und Spezialisten der Arbeitssicherheit an.
+
+2 Die Beschäftigung Jugendlicher für gefährliche Arbeiten nach Absatz 1 muss vom kantonalen Berufsbildungsamt bewilligt werden und Gegenstand der kantonalen Bildungsbewilligung nach Artikel 20 Absatz 2 BBG sein. Das kantonale Berufsbildungsamt hört vor Erteilung der Bewilligung die kantonale Arbeitsinspektion an.
+
+3 Das SECO kann auf Gesuch des Betriebs hin eine Ausnahmebewilligung erteilen für die Beschäftigung von Jugendlichen für gefährliche Arbeiten, für die in den Bildungsverordnungen keine Ausnahmen vorgesehen sind, sofern dies für das Erreichen der Ziele der beruflichen Grundbildung oder für den Besuch von behördlich anerkannten Kursen unentbehrlich ist.
