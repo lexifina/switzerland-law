@@ -1,3 +1,3 @@
 # Übergangsbestimmungen der Änderung vom 5. Oktober 2017
 
-Die neu gefassten Regeln 27 und 28 EPÜ sind anzuwenden auf ab diesem Datum eingereichte europäische Patentanmeldungen sowie auf zu diesem Zeitpunkt anhängige europäische Patentanmeldungen und europäische Patente.
+Die mit diesem Beschluss neu gefasste Regel 51 Absatz 1 EPÜ ist auf alle Anmeldungen anzuwenden, bei denen die Jahresgebühr ab dem 1. April 2018 entrichtet wird.
