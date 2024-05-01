@@ -2,6 +2,6 @@
 
 Das Eidgenössische Finanzdepartement (EFD),
 
-gestützt auf Artikel 45 Absatz 5 der Schwerverkehrsabgabeverordnung vom 6. März 2000,
+gestützt auf Artikel 98 Absatz 1 der Schwerverkehrsabgabeverordnung vom 27. März 2024,
 
 verordnet:
