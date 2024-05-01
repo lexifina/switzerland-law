@@ -4,7 +4,7 @@
 
   - a. ein gültiger Versicherungsnachweis vorliegt; ausgenommen sind Anhänger, die weder der Personenbeförderung noch dem Transport gefährlicher Güter dienen;
 
-  - b. die Unterlagen nach Artikel 74 Absatz 1 Buchstaben a und b Ziffer 1 der Verkehrszulassungsverordnung vom 27. Oktober 1976 (VZV) und der Fahrzeugausweis des Fahrzeuges, das ausser Verkehr gesetzt werden soll, der Zulassungsbehörde oder zu deren Händen der Post übergeben sowie gegebenenfalls zusätzlich die Unterlagen nach Artikel 81 Absatz 3 VZV und Artikel 16 Absatz 2 oder Artikel 15 Absatz 5 der Schwerverkehrsabgabeverordnung vom 6. März 2000 (SVAV) beigelegt worden sind; und
+  - b. die Unterlagen nach Artikel 74 Absatz 1 Buchstaben a und b Ziffer 1 der Verkehrszulassungsverordnung vom 27. Oktober 1976 (VZV) und der Fahrzeugausweis des Fahrzeuges, das ausser Verkehr gesetzt werden soll, der Zulassungsbehörde oder zu deren Händen der Post übergeben worden sind sowie gegebenenfalls zusätzlich die Unterlagen nach Artikel 81 Absatz 3 VZV beigelegt worden sind; und
 
   - c. die Erklärung nach Anhang 5 vom Halter ausgefüllt mitgeführt wird.
 
