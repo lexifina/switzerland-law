@@ -2,7 +2,7 @@
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 24septies, 36quater, 36sexies der Bundesverfassung und Artikel 23 der Übergangsbestimmungen der Bundesverfassung,
+gestützt auf die Artikel 74, 84 und 85 der Bundesverfassung,
 
 nach Einsicht in die Botschaft des Bundesrates vom 11. September 1996,
 
