@@ -12,7 +12,7 @@ Folgende Behörden und Stellen bearbeiten die Daten des IVZ:
 
   - e. die für die Kontrolle der Verzollung und Versteuerung nach dem AStG zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich;
 
-  - f. die für die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997 zuständigen Behörden: die Daten in ihrem Zuständigkeitsbereich;
+  - f. die mit der Erhebung und der Überprüfung der Entrichtung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997 betrauten Stellen: die Daten in ihrem Zuständigkeitsbereich;
 
   - g. die mit der Erhebung und der Überprüfung der Entrichtung der Nationalstrassenabgabe nach dem Nationalstrassenabgabegesetz vom 19. März 2010 betrauten Stellen: die Fahrzeughalter- und Fahrzeugdaten;
 
