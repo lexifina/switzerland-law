@@ -1,0 +1,3 @@
+# Art. 34h Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EG) Nr. 694/2003
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 694/2003, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf Artikel 2 der Verordnung (EG) Nr. 694/2003 erlassen wurden und technische Spezifikationen für das einheitliche Dokument für den erleichterten Transit, einschliesslich des Transits im Eisenbahnverkehr, oder den geheimen Charakter dieser Spezifikationen festlegen.

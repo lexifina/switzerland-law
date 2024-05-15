@@ -12,7 +12,9 @@
 
   - e. Weisungen zur Erteilung von Visa an den Schengener Aussengrenzen an Seeleute (Art. 36 Abs. 2a);
 
-  - f. Weisungen zur praktischen Anwendung des Visakodex (Art. 51).
+  - f. Weisungen zur praktischen Anwendung des Visakodex (Art. 51);
+
+  - g. die Mindestnormen, die bei der Kontrolle und Verifizierung von Reisedokumenten anzuwenden sind, um deren Echtheit zu überprüfen, und die Techniken, Methoden und Verfahren bei der Bearbeitung der auf dem Chip gespeicherten Daten (Art. 12 Abs. 7).
 
 2 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten des Rates der EU zum Visakodex, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:
 

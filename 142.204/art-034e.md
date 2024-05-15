@@ -14,9 +14,9 @@
 
   - f. die Festlegung der für die Entwicklung des C‑VIS, der nationalen Schnittstelle in jedem Mitgliedstaat und der Kommunikationsinfrastruktur zwischen dem C-VIS und den nationalen Schnittstellen erforderlichen Massnahmen (Art. 45 Abs. 1);
 
-  - g. die Festlegung der für die technische Implementierung der Funktionen des
+  - g. die Festlegung der für die technische Implementierung der Funktionen des C‑VIS erforderlichen Massnahmen (Art. 45 Abs. 2 Bst. a–f);
 
-  - C-VIS erforderlichen Massnahmen (Art. 45 Abs. 2);
+  - gbis. die Festlegung der für die technische Implementierung der Funktionen der EU-Visumantragsplattform und deren Betrieb erforderlichen Massnahmen, der Anforderungen an das Format der vorzulegenden Dokumente oder Personendaten und der Vorschriften für die Bearbeitung der Daten (Art. 45 Abs. 2 Bst. g–r);
 
   - h. die Festlegung der technischen Spezifikationen für die Qualität, Auflösung und Verwendung von Fingerabdrücken und des Gesichtsbilds für die biometrische Verifizierung und Identifizierung im C-VIS (Art. 45 Abs. 3);
 
@@ -30,7 +30,9 @@
 
 2 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008, sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a RVOG darstellen und Folgendes regeln:
 
-  - a. die Festlegung der vorgegebenen Liste von Beschäftigungen (Art. 9 Abs. 3);
+  - a. die Festlegung vereinfachter Antragsformulare auf der EU‑Visumantragsplattform, die in den Verfahren zur Bestätigung gültiger Visa in einem neuen Reisedokument oder zur Verlängerung eines Visums zu verwenden sind (Art. 7b Abs. 7);
+
+  - abis. die Festlegung der vorgegebenen Liste von Beschäftigungen (Art. 9 Abs. 3);
 
   - b. die genauere Definition des Risikos für die Sicherheit, des Risikos der illegalen Einwanderung oder des hohen Epidemierisikos (Art. 9j Abs. 2);
 
