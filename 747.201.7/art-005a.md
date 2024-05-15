@@ -4,7 +4,9 @@
 
   - a. im zu prüfenden Bereich eine Aus- oder Weiterbildung abgeschlossen haben, die der Komplexität und der Sicherheitsrelevanz des Projekts angemessen ist;
 
-  - b. Anlagen oder Teilsysteme auf Schiffen, die mit den zu prüfenden Anlagen und Teilsystemen vergleichbar sind, bereits selbst entwickelt, gebaut oder eingebaut oder solche Anlagen oder Teilsysteme bereits selbst geprüft und begutachtet haben; und
+  - b. Anlagen oder Teilsysteme auf Schiffen, die mit den zu prüfenden Anlagen und Teilsystemen vergleichbar sind, bereits selbst entwickelt, gebaut oder eingebaut oder solche Anlagen oder Teilsysteme bereits selbst geprüft und begutachtet haben;
+
+  - bbis. mit den einschlägigen Vorschriften und anerkannten Regeln der Technik, wie Normen, Regelwerken und technischen Regeln, umfassend vertraut sind; und
 
   - c. unabhängig sind.
 
