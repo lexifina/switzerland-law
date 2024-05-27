@@ -1,10 +1,10 @@
 # Art. XVII Unterzeichnung
 
-a. Dieses Übereinkommen liegt vom 20. August 1971 bis zu seinem Inkrafttreten, längstens jedoch neun Monate, in Washington
+a. Dieses Übereinkommen liegt vom 20. August 1971 bis zu seinem Inkrafttreten, längstens jedoch neun Monate, in Washington:
 
-  - i. für die Regierung jedes Vertragsstaates des Vorläufigen Übereinkommens,
+  - i. für die Regierung jedes Vertragsstaates des Vorläufigen Übereinkommens;
 
-  - ii. für die Regierung jedes anderen Mitgliedstaats der Vereinten Nationen oder der Internationalen Fernmeldeunion
+  - ii. für die Regierung jedes anderen Mitgliedstaats der Vereinten Nationen oder der Internationalen Fernmeldeunion,
 
 zur Unterzeichnung auf.
 

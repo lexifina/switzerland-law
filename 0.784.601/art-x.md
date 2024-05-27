@@ -2,11 +2,11 @@
 
 a. An der Spitze des geschäftsführenden Organs steht der Generaldirektor, der der Versammlung der Vertragsparteien unmittelbar verantwortlich ist.
 
-b. Der Generaldirektor
+b. Der Generaldirektor:
 
   - i. ist der höchste leitende Beamte der ITSO und vertritt diese nach aussen; er ist verantwortlich für die Wahrnehmung aller Geschäftsführungsaufgaben einschliesslich der Ausübung von Vertragsrechten;
 
-  - ii. handelt im Einklang mit den Zielsetzungen und Richtlinien der Versammlung der Vertragsparteien und
+  - ii. handelt im Einklang mit den Zielsetzungen und Richtlinien der Versammlung der Vertragsparteien; und
 
   - iii. wird von der Versammlung der Vertragsparteien für eine Amtszeit von vier Jahren oder einen anderen, von der Versammlung der Vertragsparteien beschlossenen, Zeitraum ernannt. Der Generaldirektor kann aus triftigem Grund von der Versammlung der Vertragsparteien abgesetzt werden. Ein Generaldirektor kann nicht für einen Zeitraum von mehr als acht Jahren ernannt werden.
 
@@ -16,13 +16,13 @@ d. Vorbehaltlich der Richtlinien und Weisungen der Versammlung der Vertragsparte
 
 e. Der Generaldirektor beaufsichtigt die Einhaltung der Kerngrundsätze durch das Unternehmen.
 
-f. Der Generaldirektor
+f. Der Generaldirektor:
 
   - i. überwacht die Einhaltung des Kerngrundsatzes durch das Unternehmen, LCO-Nutzniesser durch Erfüllung der LCO-Verträge zu bedienen;
 
   - ii. prüft die Entscheidungen des Unternehmens hinsichtlich von Anträgen auf Zulassung zum Abschluss eines LCO-Vertrags;
 
-  - iii. unterstützt LCO-Nutzniesser durch Vermittlungsdienste bei der Beilegung von Streitigkeiten mit dem Unternehmen und
+  - iii. unterstützt LCO-Nutzniesser durch Vermittlungsdienste bei der Beilegung von Streitigkeiten mit dem Unternehmen; und
 
   - iv. berät bei der Auswahl von Beratern und Schiedsrichtern, wenn ein LCO-Nutzniesser beschliesst, ein Schiedsverfahren gegen das Unternehmen einzuleiten.
 
