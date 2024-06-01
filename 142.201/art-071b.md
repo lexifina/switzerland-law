@@ -8,7 +8,7 @@
 
   - c. den Personen nach Artikel 71a Absatz 1;
 
-  - d.den Grenzgängerinnen und Grenzgängern, die Staatsangehörige des Vereinigten Königreichs sind, die in einem Staat Wohnsitz haben, der durch eines der Schengen-Assoziierungsabkommen nach Anhang 3 gebunden ist (Schengen-Staat), und die vom Geltungsbereich des Abkommens vom 25. Februar 2019 über die erworbenen Rechte erfasst werden.
+  - d. den Grenzgängerinnen und Grenzgängern, die Staatsangehörige des Vereinigten Königreichs sind, die in einem Staat Wohnsitz haben, der durch eines der Schengen-Assoziierungsabkommen nach Anhang 3 gebunden ist (Schengen-Staat), und die vom Geltungsbereich des Abkommens vom 25. Februar 2019 über die erworbenen Rechte erfasst werden.
 
 2 Bei der Legitimationskarte, die den Personen mit Vorrechten, Immunitäten und Erleichterungen vom EDA nach Artikel 17 Absatz 1 V-GSG ausgestellt wird, handelt es sich um einen nicht biometrischen Ausländerausweis.
 
