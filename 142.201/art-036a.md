@@ -8,4 +8,4 @@
 
 2 Zuständig für die Erteilung der Aufenthaltsbewilligung an Ausländerinnen und Ausländer im Rahmen des ausserprozessualen Zeugenschutzes ist die Migrationsbehörde des Kantons, in dem die Ausländerin oder der Ausländer untergebracht wird. Die Erteilung erfolgt nach Rücksprache mit der Zeugenschutzstelle.
 
-3 Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen nach Artikel 31 Absatz 3 oder 4 erfüllt sind.
+3 Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen von Artikel 29 Absätze 2 oder 3 erfüllt sind.
