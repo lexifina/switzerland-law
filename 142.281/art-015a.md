@@ -1,21 +1,11 @@
-# Art. 15a Übermittlung von Daten zur Administrativhaft
+# Art. 15a Beteiligung an den Betriebskosten kantonaler Ausreisezentren
 
-1 Die zuständigen kantonalen Behörden übermitteln dem SEM folgende Daten über die Anordnung der Haft nach den Artikeln 73 und 75–78 AIG im Asyl- und Ausländerbereich:
+1 Eine ausserordentlich hohe Zahl von illegalen Grenzübertritten sowie von Personenkontrollen (Art. 82 Abs. 3 Bst. b AIG) liegt vor, wenn:
 
-  - a. die Anzahl der Haftanordnungen und die Dauer der Haft im Einzelfall;
+  - a. über einen längeren Zeitraum eine Übergabe der betroffenen Personen an die Behörden eines Nachbarstaates am Tag, an dem die betroffenen Personen aufgegriffen wurden, nicht mehr möglich ist;
 
-  - b. die Anzahl der Rückführungen;
+  - b. die Unterbringung der betroffenen Personen in anderen kantonalen Unterkünften nicht gewährleistet werden kann und daher in einem kantonalen Ausreisezentrum im Grenzraum erfolgen muss; und
 
-  - c. die Anzahl der Haftentlassungen;
+  - c. die Verfahren zur Übergabe an den Nachbarstaat mit einem kantonalen Ausreisezentrum im Grenzraum vereinfacht werden.
 
-  - d. die Nationalität der inhaftierten Personen;
-
-  - e. das Geschlecht und das Alter der inhaftierten Personen;
-
-  - f. die Haftart;
-
-  - g. der Ort der Inhaftierung;
-
-  - h. die Haftdauer.
-
-2 Bei Minderjährigen übermitteln die zuständigen kantonalen Behörden zusätzlich, ob eine Rechtsvertretung eingesetzt wurde und ob Kindesschutzmassnahmen getroffen wurden.
+2 Bei einer kurzfristigen Festhaltung nach Artikel 73 Absatz 1 Buchstabe c AIG kann dem betroffenen Kanton ein vertraglich vereinbarter Pauschalbetrag von höchstens 100 Franken pro Tag ausgerichtet werden.
