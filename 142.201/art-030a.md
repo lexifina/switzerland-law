@@ -2,7 +2,7 @@
 
 1 Zur Ermöglichung einer beruflichen Grundbildung kann Personen mit rechtswidrigem Aufenthalt für die Dauer der Grundbildung unter den folgenden Voraussetzungen eine Aufenthaltsbewilligung erteilt werden:
 
-  - a. Die Gesuchstellerin oder der Gesuchsteller hat die obligatorische Schule während mindestens fünf Jahren ununterbrochen in der Schweiz besucht und reicht danach innerhalb von zwölf Monaten ein Gesuch ein; die Teilnahme an Brückenangeboten ohne Erwerbstätigkeit wird an die obligatorische Schulzeit angerechnet.
+  - a. Die Gesuchstellerin oder der Gesuchsteller hat die obligatorische Schule während mindestens zwei Jahren ununterbrochen in der Schweiz besucht und reicht danach innerhalb von zwei Jahren ein Gesuch ein; die Teilnahme an Brückenangeboten ohne Erwerbstätigkeit wird an die obligatorische Schulzeit angerechnet.
 
   - b. Das Gesuch des Arbeitgebers nach Artikel 18 Buchstabe b AIG liegt vor.
 
