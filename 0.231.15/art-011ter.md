@@ -2,7 +2,7 @@
 
 1) Die Urheber von Werken der Literatur geniessen das ausschliessliche Recht zu erlauben:
 
-  - 1. den öffentlichen Vortrag ihrer Werke einschliesslich des öffentlichen Vortrags durch irgendein Mittel oder Verfahren,
+  - 1. den öffentlichen Vortrag ihrer Werke einschliesslich des öffentlichen Vortrags durch irgendein Mittel oder Verfahren;
 
   - 2. die öffentliche Übertragung des Vortrags ihrer Werke durch irgendein Mittel.
 

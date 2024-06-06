@@ -2,9 +2,9 @@
 
 1) Die Urheber von Werken der Literatur und Kunst geniessen das ausschliessliche Recht zu erlauben:
 
-  - 1. die Rundfunksendung ihrer Werke oder die öffentliche Wiedergabe der Werke durch irgendein anderes Mittel zur drahtlosen Verbreitung von Zeichen, Tönen oder Bildern,
+  - 1. die Rundfunksendung ihrer Werke oder die öffentliche Wiedergabe der Werke durch irgendein anderes Mittel zur drahtlosen Verbreitung von Zeichen, Tönen oder Bildern;
 
-  - 2. jede öffentliche Wiedergabe des durch Rundfunk gesendeten Werkes mit oder ohne Draht, wenn diese Wiedergabe von einem anderen als dem ursprünglichen Sendeunternehmen vorgenommen wird,
+  - 2. jede öffentliche Wiedergabe des durch Rundfunk gesendeten Werkes mit oder ohne Draht, wenn diese Wiedergabe von einem anderen als dem ursprünglichen Sendeunternehmen vorgenommen wird;
 
   - 3. die öffentliche Wiedergabe des durch Rundfunk gesendeten Werkes durch Lautsprecher oder irgendeine andere ähnliche Vorrichtung zur Übertragung von Zeichen, Tönen oder Bildern.
 
