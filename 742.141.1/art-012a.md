@@ -1,3 +1,11 @@
-# Art. 12a Prüfungen vor dem Einsatz eines Fahrzeugs
+# Art. 12a Technisch-betriebliche Empfehlungen
 
-Eisenbahnverkehrsunternehmen und Infrastrukturbetreiberinnen führen vor dem Einsatz eines Fahrzeugs die in Artikel 23 Absätze 1 und 2 der Richtlinie 2016/797 genannten Prüfungstätigkeiten durch.
+Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für die Benützung der Infrastruktur. Die Empfehlungen dienen dazu, Betriebsstörungen zu minimieren und die Netzbenutzerinnen auf mögliche Schadenfälle aufmerksam zu machen. Sie enthalten insbesondere Hinweise:
+
+  - a. zur Traktion auf grossen bzw. langen Steigungen;
+
+  - b. zum Verschleiss der Infrastruktur;
+
+  - c. zur optimalen Zugslänge und zu Zughakenlasten, Fahrcharakteristik, Entgleisungssicherheit;
+
+  - d. zum Schutz der Güter gegen Ladungsverschiebung und Beschädigung.
