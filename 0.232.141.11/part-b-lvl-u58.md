@@ -34,6 +34,6 @@ Die für die Übermittlung notwendigen Kopien werden vom Internationalen Büro h
 
   - b) Wird die internationale Anmeldung in einer anderen Sprache veröffentlicht als derjenigen, in der sie eingereicht wurde, so übermittelt das Internationale Büro jedem Bestimmungsamt auf dessen Antrag eine Kopie dieser Anmeldung in der Sprache, in der sie eingereicht wurde.
 
-47.4 Ausdrücklicher Antrag nach Artikel 23 Absatz 2vor der internationalen Veröffentlichung
+47.4 Ausdrücklicher Antrag nach Artikel 23 Absatz 2 vor der internationalen Veröffentlichung
 
 Stellt der Anmelder vor der internationalen Veröffentlichung der internationalen Anmeldung einen ausdrücklichen Antrag nach Artikel 23 Absatz 2 bei einem Bestimmungsamt, so nimmt das Internationale Büro auf Antrag des Anmelders oder des Bestimmungsamts die in Artikel 20 vorgesehene Übermittlung an dieses Amt unverzüglich vor.
