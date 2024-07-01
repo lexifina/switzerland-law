@@ -5,3 +5,5 @@
 2 Für die Mutter und den andern Elternteil, die im Zeitpunkt der Geburt arbeitslos oder arbeitsunfähig sind, bescheinigt der letzte Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn sowie die Dauer der Beschäftigung.
 
 3 Der Arbeitgeber, bei dem der andere Elternteil während seines Urlaubs angestellt ist, oder die Arbeitslosenkasse des andern Elternteils bescheinigt den Bezug der Urlaubstage.
+
+4 Die zuständige Stelle stellt der Mutter, die als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter reicht diese Bescheinigung der Ausgleichkasse ein.
