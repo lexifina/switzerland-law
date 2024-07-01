@@ -14,9 +14,9 @@
 
   - c. An Bahnübergängen können, falls die Sichtverhältnisse genügend sind oder die Schienenfahrzeuge bei zeitweise ungenügenden Sichtverhältnissen zweckdienliche Achtungssignale abgeben, Andreaskreuze als einziges Signal angebracht werden, sofern:
 
-    - 1. die Strasse oder der Weg nur für den Fussgängerverkehr geöffnet und dieser schwach ist,
+    - 1. die Strasse oder der Weg nur für den Fussgängerverkehr geöffnet und dieser schwach ist;
 
-    - 2. der Strassenverkehr schwach und der Schienenverkehr langsam ist, oder
+    - 2. der Strassenverkehr schwach und der Schienenverkehr langsam ist; oder
 
     - 3. die Strasse oder der Weg nur der landwirtschaftlichen Bewirtschaftung dient (Feldweg), keine bewohnte Liegenschaft erschliesst und aufgrund der Signalisation nur einem beschränkten Personenkreis offensteht; die Infrastrukturbetreiberin hat diesen Personenkreis zu instruieren.
 
