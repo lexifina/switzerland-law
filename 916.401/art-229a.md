@@ -14,6 +14,6 @@
 
   - a. eine Pauschale von 125 bis 200 Franken für die Probenahme und den Versand der Proben an die Laboratorien, abhängig von der Grösse und der Lage der Tierhaltung;
 
-  - b. höchstens 45 Franken für die Untersuchung einer Sammelprobe von bis zu 10 Tieren im Labor;
+  - b. höchstens 60 Franken für die Untersuchung einer Sammelprobe von bis zu 10 Tieren im Labor;
 
   - c. eine angemessene Entschädigung für das Inkasso.

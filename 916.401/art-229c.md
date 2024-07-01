@@ -1,6 +1,6 @@
 # Art. 229c Ausrichtung der Entschädigungen und Überweisung eines allfälligen Überschusses
 
-1 Der beauftragte Dritte zahlt einem Laboratorium die Entschädigung aus, sobald es das Resultat der Grunduntersuchung oder der ersten Nachuntersuchung in das Laborinformationssystem (ALIS) nach der ISVet-V eingegeben hat.
+1 Der beauftragte Dritte zahlt einem Laboratorium die Entschädigung aus, sobald es das Resultat der Grunduntersuchung oder der ersten Nachuntersuchung in das Informationssystem für Resultate von Kontrollen und Untersuchungen (ARES) nach der Verordnung vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette eingegeben hat.
 
 2 Er stellt den Teil der Kosten für die Untersuchung der Probe, der nicht durch die Abgabe der Schafhalter gedeckt wird, dem Kanton in Rechnung, der den Auftrag dazu erteilt hat.
 

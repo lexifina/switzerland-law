@@ -6,4 +6,4 @@
 
 3 Die Tierärzte geben die Daten zu den Probenahmen in ASAN ein.
 
-4 Die Laboratorien, die mit der Untersuchung der Proben beauftragt werden, geben die Resultate spätestens innert einer Woche seit Erhalt der Probe in ALIS ein.
+4 Die Laboratorien, die mit der Untersuchung der Proben beauftragt werden, geben die Resultate spätestens innert einer Woche seit Erhalt der Probe in das ARES ein.
