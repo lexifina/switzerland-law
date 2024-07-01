@@ -1,7 +1,3 @@
-# Art. 51a Ausnahmen von der Entsorgungspflicht
+# Art. 51a Stoffliche Zusammensetzung der radioaktiven Abfälle
 
-Nicht unter die Entsorgungspflicht nach Artikel 31 KEG fallen:
-
-  - a. radioaktive Abfälle geringer Aktivität, die nach den Artikeln 111–116 StSV an die Umwelt abgegeben werden;
-
-  - b. radioaktive Abfälle, die einer Abklinglagerung nach Artikel 117 StSV zugeführt werden.
+Radioaktive Abfälle dürfen chemisch-toxische und chemisch-reaktive Stoffe enthalten, sofern dies mit der sicheren Entsorgung vereinbar ist.
