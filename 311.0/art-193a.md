@@ -1,0 +1,3 @@
+# Art. 193a
+
+Wer bei der Ausübung einer beruflichen oder organisierten ausserberuflichen Tätigkeit im Gesundheitsbereich an einer Person eine sexuelle Handlung vornimmt oder von ihr vornehmen lässt und sie dabei über den Charakter der Handlung täuscht oder ihren Irrtum über den Charakter der Handlung ausnützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
