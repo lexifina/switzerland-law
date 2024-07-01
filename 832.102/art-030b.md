@@ -12,7 +12,9 @@
 
     - 2. die Daten nach Artikel 30 Buchstaben a, d und e, sofern diese für die Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG) erforderlich sind,
 
-    - 3. die Daten nach Artikel 30, sofern sie für die Festlegung der Höchstzahlen notwendig sind (Art. 55a KVG);
+    - 3. die Daten nach Artikel 30, sofern sie für die Festlegung der Höchstzahlen notwendig sind (Art. 55a KVG),
+
+    - 4. die Daten nach Artikel 30, sofern sie für die Festlegung der Pflegekosten notwendig sind (Art. 55b KVG);
 
   - c. den Versicherern: die Daten nach Artikel 30 Buchstaben a, c, d und e, sofern diese für den Vollzug der Bestimmungen zur Kontrolle der Wirtschaftlichkeit der Leistungen, die von der obligatorischen Krankenpflegeversicherung übernommen werden, erforderlich sind;
 
