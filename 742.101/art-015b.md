@@ -1,8 +1,8 @@
 # Art. 15b Verfahren der Untersuchungskommission
 
-1 Die Kommission erstellt über jede Untersuchung einen Bericht. Dieser ist keine Verfügung und kann nicht angefochten werden.
+1 Die Untersuchungskommission erstellt über jede Untersuchung einen Bericht. Dieser ist keine Verfügung und kann nicht angefochten werden.
 
-2 Das Sekretariat kann zur Aufklärung des Sachverhalts anordnen:
+2 Der Untersuchungsdienst kann zur Aufklärung des Sachverhalts anordnen:
 
   - a. die Vorladung von Personen, die sachdienliche Auskünfte geben können;
 
@@ -18,9 +18,9 @@
 
   - g. das Einholen von Gutachten.
 
-3 Greift das Sekretariat in Rechte oder Pflichten ein, so erlässt es Verfügungen. Soweit dieses Gesetz keine abweichenden Bestimmungen enthält, ist das Verwaltungsverfahrensgesetz vom 20. Dezember 1968 anwendbar.
+3 Greift er in Rechte oder Pflichten ein, so erlässt er Verfügungen. Soweit dieses Gesetz keine abweichenden Bestimmungen enthält, ist das Verwaltungsverfahrensgesetz vom 20. Dezember 1968 anwendbar.
 
-4 Gegen die durch das Sekretariat im Rahmen der Untersuchung erlassenen Verfügungen kann innerhalb von 10 Tagen bei der Kommission Einsprache erhoben werden.
+4 Gegen die vom Untersuchungsdienst im Rahmen der Untersuchung erlassenen Verfügungen kann innerhalb von zehn Tagen bei der Kommission Einsprache erhoben werden.
 
 5 Die Kommission betreibt ein System zur Qualitätssicherung. Insbesondere sorgt sie dafür, dass die Eingaben aller Beteiligten angemessen gewürdigt werden.
 

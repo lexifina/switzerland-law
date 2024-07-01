@@ -8,7 +8,9 @@
 
   - c. einer gestützt auf dieses Gesetz erteilten Konzession zuwiderhandelt;
 
-  - d. und e. …
+  - d. eine Anlage ohne die nach Artikel 5 erforderliche Infrastrukturkonzession oder Sicherheitsgenehmigung oder unter Missachtung der daraus resultierenden Pflichten, Bedingungen, Auflagen oder Vorschriften betreibt oder betreiben lässt;
+
+  - e. ein Fahrzeug ohne die nach Artikel 8c erforderliche Netzzugangsbewilligung oder Sicherheitsbescheinigung oder unter Missachtung der daraus resultierenden Pflichten, Bedingungen, Auflagen oder Vorschriften betreibt oder betreiben lässt;
 
   - f. Videosignale unter Verletzung von Artikel 16b aufzeichnet, aufbewahrt, nutzt oder bekannt gibt;
 

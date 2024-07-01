@@ -12,7 +12,9 @@
 
   - d. während der üblichen Arbeitszeit die Geschäftsräume auskunftspflichtiger Personen betreten und besichtigen;
 
-  - e. verlangen, dass Unterlagen oder Auskünfte in einer der Amtssprachen abgefasst werden.
+  - e. verlangen, dass Unterlagen oder Auskünfte in einer der Amtssprachen abgefasst werden;
+
+  - f. Informationen mit der Europäischen Kommission, der ERA und anderen an der Marktüberwachung beteiligten Behörden und Stellen austauschen.
 
 3 Das BAV kann vom Bundesamt für Zoll und Grenzsicherheit für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Interoperabilitätskomponenten verlangen.
 
