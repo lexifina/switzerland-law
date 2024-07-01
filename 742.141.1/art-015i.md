@@ -1,11 +1,3 @@
-# Art. 15i Sicherheitsnachweis für Infrastruktur
+# Art. 15i Sicherheitsnachweis für Fahrzeuge
 
-1 Das Eisenbahnunternehmen muss zum Nachweis der Sicherheit und Vorschriftskonformität des Vorhabens folgende Unterlagen einreichen:
-
-  - a. Konformitätsbescheinigungen;
-
-  - b. Prüfberichte der Sachverständigen;
-
-  - c. Nachweis der vorschriftskonformen Ausführung.
-
-2 Das BAV kann weitere Unterlagen zum Nachweis der Einhaltung der Vorschriften verlangen.
+Das Eisenbahnunternehmen muss zum Nachweis der Sicherheit und Vorschriftskonformität des Vorhabens über die Unterlagen nach Artikel 21 Absatz 3 der Richtlinie (EU) 2016/797 sowie nach den Artikeln 28–30 und Anhang 1 der Durchführungsverordnung (EU) 2018/545 verfügen.

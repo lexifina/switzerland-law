@@ -1,3 +1,11 @@
-# Art. 15ibis Sicherheitsnachweis für Fahrzeuge
+# Art. 15ibis Prüfberichte Sachverständiger
 
-Das Eisenbahnunternehmen muss zum Nachweis der Sicherheit und Vorschriftskonformität des Vorhabens die Unterlagen nach Artikel 21 Absatz 3 der Richtlinie (EU) 2016/797 sowie nach den Artikeln 28–30 und Anhang 1 der Durchführungsverordnung (EU) 2018/545 einreichen.
+1 Werden bei Vorhaben mit hoher Sicherheitsrelevanz die folgenden Anforderungen durch andere Vorschriften als die TSI oder notifizierte nationale Vorschriften spezifiziert, so sind Prüfberichte Sachverständiger erforderlich zum Nachweis:
+
+  - a. der Sicherheit und Vorschriftskonformität der Teilsysteme und ihrer Schnittstellen;
+
+  - b. der technischen Kompatibilität der Teilsysteme;
+
+  - c. der sicheren Integration der Teilsysteme in das Gesamtsystem.
+
+2 Das BAV kann in einer Richtlinie festlegen, welche Prüfberichte Sachverständiger regelmässig erforderlich sind.

@@ -16,4 +16,4 @@
 
 2 Will die Infrastrukturbetreiberin den Betrieb oder die Infrastruktur so ändern, dass die Voraussetzungen für die Erteilung der Sicherheitsgenehmigung überprüft werden müssen, so muss sie das BAV rechtzeitig darüber unterrichten; dies gilt insbesondere dann, wenn sich Art oder Umfang des Betriebs wesentlich ändert.
 
-3 Das BAV entscheidet über das Gesuch um Erteilung oder Erneuerung der Sicherheitsgenehmigung innerhalb von vier Monaten nach Eingang.
+3 Das BAV informiert die Infrastrukturbetreiberin innerhalb eines Monats über die Vollständigkeit des Gesuchs. Es entscheidet über das Gesuch um Erteilung, Änderung oder Erneuerung der Sicherheitsgenehmigung innerhalb von vier Monaten nach Eingang des vollständigen Gesuchs.

@@ -1,5 +1,3 @@
-# Art. 15d Änderungen
+# Art. 15d Änderungen von Fahrzeugen
 
-1 Eine Betriebsbewilligung für die Änderung eines strukturellen Teilsystems ist insbesondere bei signifikanten Änderungen und bei Umrüstungen im Bereich des interoperablen Hauptnetzes nach Anhang 6 erforderlich.
-
-2 Eine Betriebsbewilligung für die Änderung eines Fahrzeugs ist erforderlich, sofern Artikel 21 Absatz 12 der Richtlinie (EU) 2016/797 dies vorsieht.
+Eine Genehmigung für das Inverkehrbringen eines geänderten Fahrzeuges ist bei wesentlichen Änderungen im Sinne von Artikel 21 Absatz 12 der Richtlinie (EU) 2016/797 und Artikel 16 der Durchführungsverordnung (EU) 2018/545 erforderlich.

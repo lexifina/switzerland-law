@@ -1,9 +1,5 @@
-# Art. 8a Sicherheitsnachweis
+# Art. 8a Prüfung des Sicherheitsnachweises
 
-1 Der Sicherheitsnachweis nach Artikel 18w Absatz 2 EBG ist durch Fachleute zu erstellen und durch diese zu unterzeichnen.
+1 Das BAV prüft im Rahmen des Verfahrens zur Erteilung einer Betriebsbewilligung die Vollständigkeit des Sicherheitsnachweises. Zudem prüft es anhand des Sicherheitsnachweises, ob die im Sicherheitsbericht aufgezeigten Massnahmen umgesetzt sind.
 
-2 Das BAV prüft die Vollständigkeit des Sicherheitsnachweises. Zudem prüft es anhand des Sicherheitsnachweises, ob die im Sicherheitsbericht aufgezeigten Massnahmen umgesetzt sind.
-
-3 Es kann Sicherheitsnachweise überprüfen, indem es Feststellungen an der Anlage selbst vornimmt.
-
-4 Es verlangt in der Regel bei Vorhaben mit hoher Sicherheitsrelevanz Prüfungen durch Sachverständige. Es verzichtet insbesondere dann auf solche Prüfungen, wenn sie nicht dazu beitragen können, Fehler mit Auswirkungen auf die Sicherheit zu vermeiden.
+2 Es kann Sicherheitsnachweise überprüfen, indem es selbst Feststellungen an der Eisenbahnanlage oder am Fahrzeug vornimmt.

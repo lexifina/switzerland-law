@@ -1,13 +1,11 @@
-# Art. 15k Bescheinigung der Konformität mit den TSI
+# Art. 15k Konformitätsbewertung von Teilsystemen
 
-1 Eine Bescheinigung der Konformität mit den TSI durch eine benannte Stelle (Art. 15r) ist erforderlich für:
+Die Konformitätsbewertung von Teilsystemen richtet sich nach:
 
-  - a. jede Interoperabilitätskomponente;
+  - a. Artikel 15 und Anhang IV der Richtlinie (EU) 2016/797;
 
-  - b. jedes strukturelle Teilsystem.
+  - b. den TSI;
 
-2 Die Konformitätsbescheinigung muss die Übereinstimmung der Interoperabilitätskomponenten oder Teilsysteme und ihrer Schnittstellen mit den grundlegenden Anforderungen bescheinigen, soweit diese durch TSI konkretisiert sind.
+  - c. Artikel 6 und Anhang I des Beschlusses 2010/713/EU; und
 
-3 Auf den normalspurigen Strecken ausserhalb des interoperablen Hauptnetzes nach Anhang 6 kann die Konformität mit den anwendbaren Bestimmungen der TSI statt durch benannte Stellen auch durch benannte beauftragte Stellen (Art. 15v Abs. 2) oder durch Sachverständige bescheinigt werden.
-
-4 Werden Teile durch Teile desselben Typs ersetzt, so ist keine Bescheinigung der Konformität mit den TSI erforderlich, sofern das Teilsystem vor dem Inkrafttreten der massgeblichen TSI in Betrieb genommen wurde.
+  - d. den Anhängen IV und V der Durchführungsverordnung (EU) 2019/250.

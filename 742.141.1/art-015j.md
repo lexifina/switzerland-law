@@ -1,5 +1,13 @@
-# Art. 15j Konformitätsbewertung
+# Art. 15j Erforderliche Nachweise
 
-1 Die Konformitätsbewertung von Interoperabilitätskomponenten richtet sich nach Artikel 10 der Richtlinie (EU) 2016/797, nach den TSI, nach den Artikeln 4 und 5 und Anhang I des Beschlusses 2010/713/EU sowie nach Anhang V der Durchführungsverordnung (EU) 2019/250.
+1 Der Gesuchsteller muss dem Gesuch um eine Betriebsbewilligung folgende Unterlagen beilegen:
 
-2 Die Konformitätsbewertung von Teilsystemen richtet sich nach Artikel 15 und Anhang IV der Richtlinie (EU) 2016/797, nach den TSI, nach Artikel 6 und Anhang I des Beschlusses 2010/713/EU sowie nach den Anhängen IV und V der Durchführungsverordnung (EU) 2019/250.
+  - a. den Sicherheitsnachweis;
+
+  - b. Unterlagen über die Einhaltung der grundlegenden Anforderungen, der TSI und der übrigen massgebenden Vorschriften.
+
+2 Er muss dem Gesuch um eine Betriebsbewilligung für eine Eisenbahnanlage zusätzlich beilegen:
+
+  - a. die Unterlagen nach Artikel 18 Absatz 4 Buchstaben a–c der Richtlinie (EU) 2016/797;
+
+  - b. im Falle streckenseitiger ERTMS-Ausrüstung die Zustimmung des BAV nach Artikel 15h.

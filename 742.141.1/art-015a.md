@@ -1,6 +1,6 @@
 # Art. 15a Geltungsbereich
 
-1 Die Bestimmungen dieses Kapitels gelten für den Neubau, Änderungen und Erneuerungen sowie den Betrieb der:
+1 Die Bestimmungen dieses Kapitels gelten für den Bau und den Betrieb der:
 
   - a. normalspurigen Strecken, soweit diese nicht in Anhang 5 aufgeführt sind (interoperable Strecken);
 
