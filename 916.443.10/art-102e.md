@@ -1,5 +1,0 @@
-# Art. 102e Rechte der betroffenen Personen
-
-1 Die Rechte der Personen, über die im Informationssystem EDAV Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020.
-
-2 Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022 ein Gesuch beim BLV einreichen.

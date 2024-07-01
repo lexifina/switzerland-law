@@ -1,0 +1,7 @@
+# Art. 102n Rechte der betroffenen Personen
+
+Die Rechte der Personen, über die in den Informationssystemen Daten bearbeitet werden, insbesondere das Recht auf Auskunft über ihre Daten oder auf Berichtigung oder Vernichtung von Daten sowie über die Beschaffung von Daten, richten sich nach:
+
+  - a. dem Datenschutzgesetz vom 25. September 2020, wenn sie ihre Rechte gegenüber dem BLV geltend machen;
+
+  - b. dem jeweiligen kantonalen Datenschutzrecht, wenn sie ihre Rechte gegenüber einer kantonalen Vollzugsbehörde geltend machen.
