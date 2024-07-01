@@ -16,17 +16,17 @@ Die in Regel 26.1 genannte Frist beträgt zwei Monate seit dem Datum der Aufford
 
 26.3 Prüfung der Formerfordernisse nach Artikel 14 Absatz 1 Buchstabe a Ziffer v
 
-  - a) Wird die internationale Anmeldung in einer Veröffentlichungssprache eingereicht, so prüft das Anmeldeamt
+  - a) Wird die internationale Anmeldung in einer Veröffentlichungssprache eingereicht, so prüft das Anmeldeamt:
 
-    - i) die internationale Anmeldung nur insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine im wesentlichen einheitliche internationale Veröffentlichung erforderlich ist;
+    - i) die internationale Anmeldung nur insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine im Wesentlichen einheitliche internationale Veröffentlichung erforderlich ist;
 
-    - ii) jede nach Regel 12.3 eingereichte Übersetzung insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine zufriedenstellende Vervielfältigung erforderlich ist.
+    - ii) jede nach Regel 12.3 oder 26.3ter eingereichte Übersetzung insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine zufriedenstellende Vervielfältigung erforderlich ist.
 
-  - b) Wird die internationale Anmeldung in einer Sprache eingereicht, die keine Veröffentlichungssprache ist, so prüft das Anmeldeamt
+  - b) Wird die internationale Anmeldung in einer Sprache eingereicht, die keine Veröffentlichungssprache ist, so prüft das Anmeldeamt:
 
     - i) die internationale Anmeldung nur insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine zufriedenstellende Vervielfältigung erforderlich ist;
 
-    - ii) jede nach Regel 12.3 oder 12.4 eingereichte Übersetzung und die Zeichnungen insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine im wesentlichen einheitliche internationale Veröffentlichung erforderlich ist.
+    - ii) jede nach Regel 12.3, 12.4 oder 26.3ter eingereichte Übersetzung und die Zeichnungen insoweit auf die Erfüllung der in Regel 11 genannten Formerfordernisse, als dies für eine im Wesentlichen einheitliche internationale Veröffentlichung erforderlich ist.
 
 26.3bis Aufforderung nach Artikel 14 Absatz 1 Buchstabe b zur Beseitigung von Mängeln nach Regel 11
 
@@ -34,11 +34,11 @@ Das Anmeldeamt braucht die Aufforderung nach Artikel 14 Absatz 1 Buchstabe b zur
 
 26.3ter Aufforderung zur Mängelbeseitigung nach Artikel 3 Absatz 4 Ziffer i
 
-  - a) Werden die Zusammenfassung oder Textbestandteile der Zeichnungen in einer anderen Sprache eingereicht als die Beschreibung und die Ansprüche, so fordert das Anmeldeamt den Anmelder auf, eine Übersetzung der Zusammenfassung oder der Textbestandteile der Zeichnungen in der Sprache einzureichen, in der die internationale Anmeldung zu veröffentlichen ist, es sei denn,
+  - a) Werden die Zusammenfassung oder Textbestandteile der Zeichnungen in einer anderen Sprache eingereicht als derjenigen – vorbehaltlich der Regeln 12.1bis und 26.3ter Absatz e – in der die Beschreibung und die Ansprüche abgefasst sind, so fordert das Anmeldeamt den Anmelder auf, eine Übersetzung der Zusammenfassung oder der Textbestandteile der Zeichnungen in der Sprache einzureichen, in der die internationale Anmeldung zu veröffentlichen ist, es sei denn:
 
-    - i) es ist eine Übersetzung der internationalen Anmeldung nach Regel 12.3 Absatz a erforderlich oder
+    - i) es ist eine Übersetzung der internationalen Anmeldung nach Regel 12.3 Absatz a erforderlich; oder
 
-    - ii) die Zusammenfassung oder die Textbestandteile der Zeichnungen sind in der Sprache, in der die internationale Anmeldung zu veröffentlichen ist.
+    - ii) die Zusammenfassung oder die Textbestandteile der Zeichnungen sind in der Sprache abgefasst, in der die internationale Anmeldung zu veröffentlichen ist.
 
   - Die Regeln 26.1, 26.2, 26.3, 26.3bis, 26.5 und 29.1 sind entsprechend anzuwenden.
 
@@ -46,7 +46,17 @@ Das Anmeldeamt braucht die Aufforderung nach Artikel 14 Absatz 1 Buchstabe b zur
 
   - c) Entspricht der Antrag nicht Regel 12.1 Absatz c, so fordert das Anmeldeamt den Anmelder auf, entsprechend dieser Regel eine Übersetzung einzureichen. Die Regeln 3, 26.1, 26.2, 26.5 und 29.1 sind entsprechend anzuwenden.
 
-  - d) Ist Absatz c am 1. Oktober 1997 nicht mit dem vom Anmeldeamt anzuwendenden nationalen Recht vereinbar, so gilt er für das Anmeldeamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 31. Dezember 1997 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.6
+  - d) Ist Absatz c am 1. Oktober 1997 nicht mit dem vom Anmeldeamt anzuwendenden nationalen Recht vereinbar, so gilt er für das Anmeldeamt nicht, solange diese Unvereinbarkeit besteht, sofern dieses Amt das Internationale Büro bis zum 31. Dezember 1997 davon unterrichtet. Diese Mitteilung wird vom Internationalen Büro unverzüglich im Blatt veröffentlicht.
+
+  - e) Wird die Beschreibung einer internationalen Anmeldung in einer anderen Sprache eingereicht als derjenigen der Ansprüche oder werden Teile der Beschreibung oder Teile der Ansprüche in einer anderen Sprache eingereicht als derjenigen der übrigen Bestandteile und sind alle diese Sprachen nach Regel 12.1 Absatz a vom Anmeldeamt zugelassen, so fordert das Anmeldeamt den Anmelder gegebenenfalls auf, innerhalb eines Monats nach Eingang der internationalen Anmeldung beim Anmeldeamt eine Übersetzung der Beschreibung oder der Ansprüche oder von Teilen derselben einzureichen, so dass die Beschreibung und die Ansprüche in einer einzigen Sprache abgefasst sind, welche zugleich:
+
+    - i) eine der Sprachen ist, die in der Beschreibung oder in den Ansprüchen enthalten ist, so wie sie eingereicht worden sind;
+
+    - ii) eine von der internationalen Recherchenbehörde, welche die internationale Recherche durchzuführen hat, zugelassene Sprache ist; und
+
+    - iii) die Sprache ist, in der die internationale Anmeldung zu veröffentlichen ist.
+
+  - Regel 12.3 Absätze c bis e sind entsprechend anzuwenden.
 
 26.4 Verfahren
 

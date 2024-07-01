@@ -2,7 +2,7 @@
 
 29.1 Feststellung durch das Anmeldeamt
 
-Erklärt das Anmeldeamt, dass die internationale Anmeldung nach Artikel 14 Absatz 1 Buchstabe b und Regel 26.5 (Nichtbeseitigung bestimmter Mängel), nach Artikel 14 Absatz 3 Buchstabe a (Nichtzahlung der nach Regel 27.1 Absatz a vorgeschriebenen Gebühren), nach Artikel 14 Absatz 4 (nachträgliche Feststellung der Nichterfüllung der Erfordernisse nach Artikel 11 Absatz 1 Ziffern i–iii), nach Regel 12.3 Absatz d oder 12.4 Absatz d (Nichteinreichung der erforderlichen Übersetzung oder gegebenenfalls Nichtzahlung einer Gebühr für verspätete Einreichung) oder nach Regel 92.4 Absatz g Ziffer i (Nichteinreichung des Originals eines Schriftstücks) als zurückgenommen gilt,
+Erklärt das Anmeldeamt, dass die internationale Anmeldung nach Artikel 14 Absatz 1 Buchstabe b und Regel 26.5 (Nichtbeseitigung bestimmter Mängel), nach Artikel 14 Absatz 3 Buchstabe a (Nichtzahlung der nach Regel 27.1 Absatz a vorgeschriebenen Gebühren), nach Artikel 14 Absatz 4 (nachträgliche Feststellung der Nichterfüllung der Erfordernisse nach Artikel 11 Absatz 1 Ziffern i bis iii), nach Regel 12.3 Absatz d, 12.4 Absatz d oder 26.3ter (Nichteinreichung der erforderlichen Übersetzung oder gegebenenfalls Nichtzahlung einer Gebühr für verspätete Einreichung) oder nach Regel 92.4 Absatz g Ziffer i (Nichteinreichung des Originals eines Schriftstücks) als zurückgenommen gilt:
 
   - i) so übersendet das Anmeldeamt das Aktenexemplar (soweit dies nicht bereits geschehen ist) sowie jede vom Anmelder vorgeschlagene Berichtigung an das Internationale Büro;
 

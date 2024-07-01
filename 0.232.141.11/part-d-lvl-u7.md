@@ -22,4 +22,4 @@
 
   - b) Nach Festlegung eines Verlängerungszeitraums nach Absatz a kann das betreffende Amt, die betreffende Behörde oder das Internationale Büro zusätzliche Verlängerungszeiträume festlegen, wenn die Umstände dies erfordern. In diesem Fall ist Absatz a mutatis mutandis anzuwenden.
 
-  - c) Die Verlängerung einer Frist nach Absatz a oder b muss von jedem Bestimmungsamt oder ausgewählten Amt berücksichtigt werden, wenn zum Zeitpunkt der Veröffentlichung der Angaben nach Absatz a oder b das nationale Verfahren vor diesem Amt bereits begonnen hat.
+  - c) Die Verlängerung einer Frist nach Absatz a oder b muss von einem Bestimmungsamt oder ausgewählten Amt nicht berücksichtigt werden, wenn zum Zeitpunkt der Veröffentlichung der Angaben nach Absatz a oder b das nationale Verfahren vor diesem Amt bereits begonnen hat.
