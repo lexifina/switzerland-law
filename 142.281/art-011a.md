@@ -16,9 +16,9 @@
 
 3 Für den Empfang am Flughafen und die polizeiliche Zuführung zum Flugzeug vergütet der Bund die folgenden Pauschalen pro Person:
 
-  - a. für Linienflüge 400 Franken;
+  - a. für Linienflüge 440 Franken;
 
-  - b. für Sonderflüge in Dritt- und Herkunftsstaaten 1700 Franken.
+  - b. für Sonderflüge in Dritt- und Herkunftsstaaten 2700 Franken.
 
 4 Das SEM stellt die medizinische Begleitung sicher:
 
