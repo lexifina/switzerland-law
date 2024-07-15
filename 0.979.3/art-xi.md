@@ -29,5 +29,3 @@
 ## Abschnitt 5: Registrierung
 
   - Die Bank ist ermächtigt, dieses Abkommen gemäss Artikel 102 der Charta der Vereinten Nationen und den dazu von der Generalversammlung beschlossenen Durchführungsbestimmungen beim Sekretariat der Vereinten Nationen registrieren zu lassen.
-
-  - Geschehen zu Washington in einer Urschrift, die im Archiv der Internationalen Bank für Wiederaufbau und Entwicklung hinterlegt bleibt, welche sich durch ihre nachstehende Unterschrift einverstanden erklärt hat, als Hinterlegungsstelle für dieses Abkommen tätig zu sein, es beim Sekretariat der Vereinten Nationen registrieren zu lassen und den Regierungen aller im Verzeichnis A genannten Staaten den Zeitpunkt zu notifizieren, zu dem dieses Abkommen gemäss Artikel XI Abschnitt 1 in Kraft getreten ist.
