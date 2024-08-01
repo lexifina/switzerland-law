@@ -1,6 +1,6 @@
-# Art. 12a Deckung der Kosten von Skyguide im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum durch den Bund
+# Art. 12a Deckung der Kosten von Skyguide im Zusammenhang mit dem U-Space
 
-1 Der Bund kann die jährlichen Kosten der Skyguide für Dienstleistungen im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Kosten für diese Dienstleistungen.
+1 Der Bund kann die jährlichen Kosten der Skyguide für Dienstleistungen im Zusammenhang mit dem U-Space im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Kosten für diese Dienstleistungen.
 
 2 Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 RAG und das BAZL prüfen die effektive Höhe der Kosten am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung.
 
