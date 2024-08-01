@@ -18,8 +18,8 @@
 
 2 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten des Rates der EU zum Visakodex, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:
 
-  - a. die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25a Abs. 5 Bst. a);
+  - a. die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25a Abs. 5 Bst. a und 6);
 
-  - b. die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25a Abs. 5 Bst. b);
+  - b. die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25a Abs. 5 Bst. b und 6);
 
   - c. die Einräumung besonderer Erleichterungen für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen ausreichend kooperiert (Art. 25a Abs. 8).
