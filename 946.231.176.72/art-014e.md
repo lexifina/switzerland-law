@@ -12,6 +12,18 @@
 
 6 Die Verbote nach den Absätzen 1–4 gelten nicht für Erzeugnisse mit Diamanten gemäss Anhang 27a Ziffer 3, die für den persönlichen Gebrauch von in die Schweiz einreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sich im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind.
 
+6bis Die Verbote nach den Absätzen 1, 3 und 4 gelten nicht, sofern bei der Einfuhr Folgendes nachgewiesen und bei der Zollanmeldung angegeben wird:
+
+  - a. falls es sich um Güter der Zolltarifnummern 7102 10 00, 7102 31 00 und 7104 21 00 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in der Schweiz oder der Europäischen Union befanden und sie anschliessend in ein anderes Drittland als die Russische Föderation ausgeführt wurden;
+
+  - b. falls es sich um Güter der Zolltarifnummern 7102 39 00 und 7104 91 00 sowie Gütern gemäss Anhang 27a Ziffer 3 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in einem anderen Drittstaat als der Russischen Föderation befanden, dort verarbeitet oder hergestellt wurden.
+
+6ter Das Verbot nach Absatz 5 gilt nicht für Erzeugnisse mit Diamanten gemäss Anhang 27a Ziffer 3, die vor dem 1. September 2024 hergestellt wurden, wenn diese Erzeugnisse:
+
+  - a. aus einem anderen Drittstaat oder Gebiet als der Russischen Föderation vorübergehend in die Schweiz eingeführt oder nach vorübergehender Ausfuhr aus der Schweiz in einen anderen Drittstaat oder ein anderes Gebiet als die Russische Föderation wieder in die Schweiz eingeführt wurden; und
+
+  - b. bei der Einfuhr in die Schweiz oder der Ausfuhr aus der Schweiz in das Zollverfahren der vorübergehenden Verwendung, der aktiven Veredelung oder der passiven Veredelung angemeldet wurden.
+
 7 Das SECO kann für die Einfuhr, die Durchfuhr oder den Transport von Kulturgütern Ausnahmen von den Verboten nach den Absätzen 1–4 bewilligen, wenn es sich dabei um Leihgaben im Rahmen der offiziellen kulturellen Zusammenarbeit mit der Russischen Föderation handelt.
 
-8 Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten und Diamanten in Erzeugnissen mit Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.
+8 Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.

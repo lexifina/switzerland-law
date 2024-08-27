@@ -1,6 +1,6 @@
 # Art. 30c Ausnahmen von den Verboten betreffend Dienstleistungen und Software
 
-1 Das SECO kann bis zum 31. Juli 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28e bewilligen, sofern:
+1 Das SECO kann bis zum 31. Dezember 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28e bewilligen, sofern:
 
   - a. die Dienstleistungen oder die Software für den Abzug von Investitionen aus der Russischen Föderation oder den Abschluss von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind; und
 

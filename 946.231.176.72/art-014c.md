@@ -20,7 +20,7 @@
 
     - 1. die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner in der Russischen Föderation oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder
 
-    - 2. den persönlichen Gebrauch durch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder ihre unmittelbaren Familienangehörigen;
+    - 2. den persönlichen Gebrauch durch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats, natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz verfügen, oder ihre unmittelbaren Familienangehörigen;
 
   - b. die Einfuhr von:
 
