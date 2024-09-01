@@ -4,7 +4,7 @@
 
 2 Der Kauf von Diamanten und Erzeugnissen mit Diamanten gemäss Anhang 27a jeglichen Ursprungs, die durch die Russische Föderation durchgeführt wurden, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
 
-3 …
+3 Der Kauf von Diamanten nach Anhang 27a Ziffern 1 und 2, die in einem Drittstaat verarbeitet wurden, aus Diamanten aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation bestehen oder solche enthalten und ein Gewicht von mindestens 0,5 Karat oder 0,1 Gramm pro Diamant aufweisen, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
 
 4 Der Kauf von Diamanten gemäss Anhang 27a Ziffer 1, die in einem Drittstaat verarbeitet wurden, aus Diamanten aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation bestehen und ein Gewicht von mindestens 1,0 Karat pro Diamant aufweisen, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
 
