@@ -1,6 +1,6 @@
 # Art. 111g Bewilligungsgesuch
 
-1 Das Bewilligungsgesuch muss folgende Angaben und Unterlagen über die Versicherungszweckgesellschaft enthalten:
+Das Bewilligungsgesuch muss folgende Angaben und Unterlagen über die Versicherungszweckgesellschaft enthalten:
 
   - a. die Statuten;
 
