@@ -56,15 +56,13 @@
 
     - c) Das Exekutivdirektorium der Gesellschaft setzt sich wie folgt zusammen:
 
-      - i) Ein Exekutivdirektor wird von dem Mitgliedstaat ernannt, der die meisten Anteile an der Gesellschaft besitzt;
+      - i) ein Exekutivdirektor wird von dem Mitgliedstaat ernannt, der die meisten Anteile an der Gesellschaft besitzt;
 
       - ii) neun Exekutivdirektoren werden von den Gouverneuren der in der Entwicklung befindlichen regionalen Mitgliedstaaten gewählt;
 
-      - iii) zwei Exekutivdirektoren werden von den Gouverneuren der übrigen Mitgliedstaaten gewählt.
+      - iii) vier Exekutivdirektoren werden von den Gouverneuren der übrigen Mitgliedstaaten gewählt.
 
     - Das Verfahren für die Wahl der Exekutivdirektoren wird durch die Vorschriften geregelt, die der Gouverneursrat mit einer Mehrheit von mindestens zwei Dritteln der Stimmen der Mitglieder beschliesst.
-
-    - Ein zusätzlicher Exekutivdirektor kann von den Gouverneuren der unter Ziffer iii bezeichneten Mitgliedstaaten unter den Bedingungen und innerhalb der Frist, die nach den genannten Vorschriften festzusetzen sind, oder, wenn diese Bedingungen nicht erfüllt werden, von den Gouverneuren der in der Entwicklung befindlichen regionalen Mitgliedstaaten nach Massgabe der genannten Vorschriften gewählt werden.
 
     - Jeder Exekutivdirektor kann einen Stellvertretenden Direktor benennen, der die Vollmacht hat, in seiner Abwesenheit für ihn zu handeln.
 
