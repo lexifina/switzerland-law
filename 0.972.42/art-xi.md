@@ -23,5 +23,3 @@
   - Sobald dieses Übereinkommen nach Abschnitt 2 in Kraft tritt, beruft der Präsident der Bank eine Sitzung des Gouverneursrats ein. Die Gesellschaft nimmt ihre Geschäftstätigkeit an dem Tag auf, an dem diese Sitzung stattfindet.
 
   - Geschehen zu Washington, District of Columbia, Vereinigte Staaten von Amerika, in einer Urschrift vom 19. November 1984, deren englischer, französischer, portugiesischer und spanischer Wortlaut gleichermassen verbindlich ist; die Urschrift wird im Archiv der Interamerikanischen Entwicklungsbank hinterlegt, die durch ihre nachstehende Unterschrift ihr Einverständnis bekundet hat, als Verwahrer dieses Übereinkommens tätig zu werden und den Regierungen der in Anlage A aufgeführten Staaten den Tag zu notifizieren, an dem dieses Übereinkommen nach Artikel XI Abschnitt 2 in Kraft tritt.
-
-  - (Es folgen die Unterschriften)
