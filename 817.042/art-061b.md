@@ -1,0 +1,23 @@
+# Art. 61b Testkonzept
+
+1 Jeder Testkauf stützt sich auf ein von der zuständigen kantonalen Behörde festgelegtes Testkonzept ab.
+
+2 Das Testkonzept beinhaltet mindestens Erläuterungen betreffend:
+
+  - a. die anwendbaren Gesetzesgrundlagen;
+
+  - b. die Rekrutierung von Minderjährigen;
+
+  - c. die Geheimhaltungspflicht der minderjährigen Person und der erwachsenen Person, die diese begleitet, in Bezug auf die getesteten Verkaufsstellen und die Ergebnisse der Testkäufe;
+
+  - d. die Planung und Vorbereitung der Testkäufe;
+
+  - e. den Ablauf der Testkäufe;
+
+  - f. die Protokollierung und die Dokumentation der Testkäufe;
+
+  - g. die Rückmeldungen an die betroffenen Verkaufsstellen;
+
+  - h. das zu befolgende Verfahren bei einem Verstoss;
+
+  - i. die Aufbewahrung und Vernichtung der Daten.
