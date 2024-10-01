@@ -4,7 +4,7 @@
 
 2 Diese Karte mit Benutzerschnittstelle wird für die Rechnungsstellung der Leistungen nach diesem Gesetz verwendet.
 
-2bis Sie kann als Identifikationsmittel nach Artikel 7 Absatz 2 des Bundesgesetzes vom 19. Juni 2015 über das elektronische Patientendossier verwendet werden.
+2bis Sie kann als Identifikationsmittel nach Artikel 7 Absatz 2 EPDG verwendet werden.
 
 3 Der Bundesrat regelt nach Anhören der interessierten Kreise die Einführung der Karte durch die Versicherer und die anzuwendenden technischen Standards.
 
