@@ -2,7 +2,7 @@
 
 1. Die Konferenz ernennt mit Zweidrittelmehrheit aller Mitgliedstaaten einen Generalsekretär für eine bestimmte Amtszeit. Er bleibt bis zur Ernennung seines Nachfolgers im Amt. Der Generalsekretär unterstützt den Präsidenten der Konferenz und gewährleistet die Stetigkeit der Geschäftsführung zwischen den Tagungen. Er kann alle Massnahmen treffen, die für die Führung der laufenden Geschäfte der Konferenz erforderlich sind.
 
-2. Der Generalsekretär unterbreitet der Konferenz
+2. Der Generalsekretär unterbreitet der Konferenz:
 
   - a) den Entwurf des in Artikel IV Absatz 3f) erwähnten Rahmenplans;
 

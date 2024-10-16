@@ -4,7 +4,7 @@
 
 2. Jeder Mitgliedstaat wird durch höchstens zwei Delegierte vertreten, die von Beratern begleitet sein können. Die Konferenz wählt einen Präsidenten und zwei Vizepräsidenten, deren Amtszeit bis zur nächsten ordentlichen Tagung währt.
 
-3. Die Konferenz
+3. Die Konferenz:
 
   - a) fasst die erforderlichen Beschlüsse, um die in Artikel II bezeichneten Ziele zu erreichen;
 
@@ -28,7 +28,7 @@
 
   - k) genehmigt und veröffentlicht ihre geprüften Jahresabrechnungen;
 
-  - 1) genehmigt den vom Generalsekretär vorgelegten Jahresbericht.
+  - l) genehmigt den vom Generalsekretär vorgelegten Jahresbericht.
 
   - 4. a)
 

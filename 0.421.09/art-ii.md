@@ -2,7 +2,7 @@
 
 1. Die Konferenz sorgt für die Zusammenarbeit europäischer Staaten auf dem Gebiete der Grundlagenforschung in der Molekularbiologie und in anderen hiermit eng zusammenhängenden Forschungsbereichen.
 
-2. Das Allgemeine Programm, das unter der Verantwortung der Konferenz durchzuführen ist, umfasst in erster Linie
+2. Das Allgemeine Programm, das unter der Verantwortung der Konferenz durchzuführen ist, umfasst in erster Linie:
 
   - a) die Vergabe von Ausbildungs‑, Lehr‑ und Forschungsstipendien;
 
