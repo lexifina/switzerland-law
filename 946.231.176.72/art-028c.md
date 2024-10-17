@@ -1,6 +1,10 @@
 # Art. 28c Verbote betreffend die Unterstützung öffentlicher Einrichtungen
 
-1 Die unmittelbare oder mittelbare Unterstützung, insbesondere durch die Gewährung von Finanzmitteln, Finanzhilfen oder sonstigen Vorteilen im Rahmen eines nationalen Programms der Schweiz, von in der Russischen Föderationen niedergelassenen juristischen Personen, Unternehmen oder Organisationen, die von einer staatlichen Stelle kontrolliert werden oder an denen eine staatliche Stelle zu über fünfzig Prozent beteiligt ist, ist verboten.
+1 Die unmittelbare oder mittelbare Unterstützung, insbesondere durch die Gewährung von Finanzmitteln oder sonstigen Vorteilen im Rahmen eines nationalen Programms der Schweiz, folgender juristischer Personen, Unternehmen oder Organisationen ist verboten:
+
+  - a. in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen;
+
+  - b. juristische Personen, Unternehmen oder Organisationen, an denen juristische Personen, Unternehmen oder Organisationen nach Buchstabe a zu über fünfzig Prozent beteiligt sind.
 
 2 Das Verbot nach Absatz 1 gilt nicht für:
 
@@ -18,4 +22,10 @@
 
   - g. Klima- und Umweltprogramme, die nicht der Forschung und Innovation dienen;
 
-  - h. die amtliche Tätigkeit diplomatischer und konsularischer Vertretungen der Schweiz und ihrer Partner oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, in der Russischen Föderation.
+  - h. die amtliche Tätigkeit diplomatischer und konsularischer Vertretungen der Schweiz und ihrer Partner oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, in der Russischen Föderation;
+
+  - i. die Tätigkeit von Handelskammern, Wirtschaftsverbänden, Kultur- und Bildungszentren und akademischen Austauschprogrammen der Schweiz oder von EWR-Mitgliedstaaten in der Russischen Föderation;
+
+  - j. zivilgesellschaftliche Aktivitäten, welche die Demokratie, die Menschenrechte, die Rechtsstaatlichkeit, den unabhängigen Journalismus oder die Bekämpfung von Desinformation in der Russischen Föderation unmittelbar fördern;
+
+  - k. Programme der Schweiz oder von EWR-Mitgliedstaaten für die Wahrnehmung historischer Verantwortung und zur Unterstützung ethnischer Minderheiten der Schweiz oder von EWR-Mitgliedstaaten in der Russischen Föderation.

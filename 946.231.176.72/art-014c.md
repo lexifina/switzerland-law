@@ -30,4 +30,16 @@
 
     - 3. Fahrzeugen der Zolltarifnummer 8703, die über ein Diplomatenkennzeichen verfügen und für die Arbeit diplomatischer und konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder für den persönlichen Gebrauch ihres Personals und ihrer unmittelbaren Familienangehörigen erforderlich sind.
 
-6 Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, sofern dies erforderlich ist für die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
+6 Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen:
+
+  - a. sofern dies erforderlich ist für:
+
+    - 1. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit Brennelementen und die Wiederaufbereitung von Brennelementen sowie ihre Sicherheit,
+
+    - 2. die Weiterführung der Planung, des Baus und der Abnahmetests für die Inbetriebnahme ziviler Atomanlagen und deren Sicherheit,
+
+    - 3. die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung, oder
+
+    - 4. die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung;
+
+  - b. für die Wartung, Reparatur oder Rückgabe fehlerhafter Teile in der Schweiz von Gütern der Zolltarifnummern 8471, 8523, 8536 und 9027, die Bestandteile von Medizinprodukten sind und die sich vor dem Geltungsbeginn der Verbote in der Russischen Föderation befanden.
