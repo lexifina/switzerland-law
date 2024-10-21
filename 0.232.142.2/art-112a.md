@@ -2,7 +2,7 @@
 
 (1) Jeder Beteiligte an einem Beschwerdeverfahren, der durch die Entscheidung einer Beschwerdekammer beschwert ist, kann einen Antrag auf Überprüfung der Entscheidung durch die Grosse Beschwerdekammer stellen.
 
-(2) Der Antrag kann nur darauf gestützt werden, dass
+(2) Der Antrag kann nur darauf gestützt werden, dass:
 
   - a) ein Mitglied der Beschwerdekammer unter Verstoss gegen Artikel 24 Absatz 1 oder trotz einer Ausschlussentscheidung nach Artikel 24 Absatz 4 an der Entscheidung mitgewirkt hat;
 
@@ -10,7 +10,7 @@
 
   - c) ein schwerwiegender Verstoss gegen Artikel 113 vorliegt;
 
-  - d) das Beschwerdeverfahren mit einem sonstigen, in der Ausführungsordnung genannten schwerwiegenden Verfahrensmangel behaftet war oder
+  - d) das Beschwerdeverfahren mit einem sonstigen, in der Ausführungsordnung genannten schwerwiegenden Verfahrensmangel behaftet war; oder
 
   - e) eine nach Massgabe der Ausführungsordnung festgestellte Straftat die Entscheidung beeinflusst haben könnte.
 
