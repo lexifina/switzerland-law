@@ -1,0 +1,17 @@
+# Art. 24a Verbote im Zusammenhang mit Unternehmen im Energiesektor in Belarus
+
+1 Die folgenden Tätigkeiten im Zusammenhang mit Unternehmen im Energiesektor in Belarus sind verboten:
+
+  - a. der Erwerb neuer oder die Ausweitung bestehender Beteiligungen an juristischen Personen, Unternehmen oder Organisationen, die nach dem Recht eines Staates ausserhalb der Schweiz oder des EWR gegründet oder eingetragen wurden und im Energiesektor in Belarus tätig sind;
+
+  - b. die Bereitstellung von oder die Beteiligung an neuen Darlehen, Krediten oder sonstigen Finanzmitteln, einschliesslich Eigenkapital, für oder für die Finanzierung von juristischen Personen, Unternehmen oder Organisationen, die nach dem Recht eines Staates ausserhalb der Schweiz und des EWR gegründet oder eingetragen wurden und im Energiesektor in Belarus tätig sind;
+
+  - c. die Gründung von Joint Ventures mit juristischen Personen, Unternehmen oder Organisationen, die nach dem Recht eines Staates ausserhalb der Schweiz oder des EWR gegründet oder eingetragen wurden und im Energiesektor in Belarus tätig sind;
+
+  - d. die Erbringung von Effektendienstleistungen, die unmittelbar oder mittelbar mit den in den Buchstaben a, b und c genannten Tätigkeiten in Zusammenhang stehen.
+
+2 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA, des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation und des EFD Ausnahmen von den Verboten betreffend den Energiesektor nach Absatz 1 bewilligen, falls die Tätigkeiten:
+
+  - a. erforderlich sind, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedstaates sicherzustellen und Erdgas und Erdöl, einschliesslich raffinierter Erdölerzeugnisse, aus oder durch Belarus in die Schweiz oder in die EWR-Mitgliedstaaten zu befördern; oder
+
+  - b. ausschliesslich zugunsten einer juristischen Person, eines Unternehmens oder einer Organisation erfolgen, die oder das im Energiesektor in Belarus tätig ist und sich im Eigentum eines oder einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen Unternehmens oder Organisation befindet.
