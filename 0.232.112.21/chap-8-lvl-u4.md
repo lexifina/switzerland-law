@@ -1,5 +1,0 @@
-# Regel 37Verteilung der Zusatz- und Ergänzungsgebühren
-
-1) Der in Artikel 8 Absätze 5 und 6 des Protokolls genannte Koeffizient ist folgender:
-
-2) Der Koeffizient vier wird auch auf Vertragsparteien angewendet, die von Amts wegen Recherchen nach älteren Rechten unter Angabe der besonders in Betracht kommenden älteren Rechte vornehmen.

@@ -1,3 +1,0 @@
-# Regel 29Offiziöse Mitteilung über den Schutzablauf
-
-Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse Mitteilung nicht eingegangen ist, stellt keine Entschuldigung für die Nichteinhaltung einer Frist nach Regel 30 dar.

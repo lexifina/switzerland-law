@@ -1,3 +1,0 @@
-# Regel 2Mitteilungen an das Internationale Büro
-
-An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in den Verwaltungsvorschriften beschrieben.

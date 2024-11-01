@@ -1,9 +1,0 @@
-# Regel 10Gebühren für das internationale Gesuch
-
-1) …
-
-2) [Vorgeschriebene Gebühren]
-
-Für das internationale Gesuch ist die Zahlung der unter Nummer 2 des Gebührenverzeichnisses angegebenen oder genannten Grundgebühr, Ergänzungsgebühr und/ oder individuellen Gebühr und gegebenenfalls Zusatzgebühr erforderlich. Diese Gebühren sind für zehn Jahre zu entrichten.
-
-3) …
