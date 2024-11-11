@@ -14,7 +14,9 @@
 
 3 Ist es einer ausländischen Person im Zusammenhang mit der Aufnahme in das Personenstandsregister unmöglich oder unzumutbar, Angaben über ihren Personenstand mit Urkunden zu belegen, so wird geprüft, ob eine Erklärung nach Artikel 41 Absatz 1 ZGB entgegengenommen werden kann.
 
-4 Erfolgt die Aufnahme nach Absatz 2 im Hinblick auf die Registrierung der Angaben über die Abstammung eines Kindes innert nützlicher Frist, so wird in begründeten Ausnahmefällen auf die Erfassung einzelner Daten über den Personenstand der Mutter und des Vaters verzichtet.
+4 Erfolgt die Aufnahme anlässlich einer Geburt oder einer Kindesanerkennung und können die Angaben zu den Eltern nicht innert nützlicher Frist rechtsgenüglich nachgewiesen werden, so wird in begründeten Ausnahmefällen auf die Aufnahme einzelner Daten über den Personenstand der Eltern verzichtet.
+
+4bis Ein solcher Verzicht ist nicht möglich in Bezug auf die Angaben Name, Vorname, Geschlecht und Geburtsdatum. Können diese nicht innert nützlicher Frist rechtsgenüglich nachgewiesen werden, werden die Eltern in begründeten Ausnahmefällen mit Namen, Vornamen, Geschlecht, Geburtsdatum sowie dem Vermerk «ungeklärte Personendaten» im Personenstandsregister aufgenommen.
 
 5 Erfolgt die Aufnahme nach Absatz 2 im Hinblick auf die Beurkundung des Todes innert nützlicher Frist, so wird in begründeten Ausnahmefällen auf die Erfassung einzelner Daten über den Personenstand der verstorbenen Person verzichtet.
 

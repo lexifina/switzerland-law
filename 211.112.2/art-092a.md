@@ -2,11 +2,11 @@
 
 1 Die Originale der für jeden Zivilstandskreis geführten Zivilstandsregister müssen dem nach kantonalem Recht zuständigen Zivilstandsamt mindestens für folgende Zeiträume zugänglich sein:
 
-  - a. Geburtsregister ab dem 1. Januar 1900;
+  - a. Geburtsregister 110 Jahre;
 
-  - b. Eheregister ab dem 1. Januar 1930;
+  - b. Eheregister 80 Jahre;
 
-  - c. Todesregister ab dem 1. Januar 1960;
+  - c. Todesregister 50 Jahre;
 
   - d. Familienregister und Anerkennungsregister ab ihrer Einführung.
 
