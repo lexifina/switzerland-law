@@ -10,7 +10,7 @@
 
   - (iii) Währungen, die durch Kreditaufnahmen nach Artikel VII Abschnitt 1 Ziffer i zwecks Auffüllung der Kapitalbestände der Bank erworben wurden;
 
-  - (iv) Gold und Dollarbeträge, welche die Bank durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffer i bezeichneten Gold- und Dollarmitteln gewährt wurden, erhalten hat; Währungen, die durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffern ii und iii bezeichneten Währungen gewährt wurden, eingegangen sind, und Währungen, die durch Zahlung von Provisionen und Gebühren für alle von der Bank gegebenen Garantien eingegangen sind, sowie
+  - (iv) Gold und Dollarbeträge, welche die Bank durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffer i bezeichneten Gold- und Dollarmitteln gewährt wurden, erhalten hat; Währungen, die durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffern ii und iii bezeichneten Währungen gewährt wurden, eingegangen sind, und Währungen, die durch Zahlung von Provisionen und Gebühren für alle von der Bank gegebenen Garantien eingegangen sind; sowie
 
   - (v) Währungen, mit Ausnahme der Landeswährung des Mitglieds, welche die Bank bei der Ausschüttung der Reingewinne nach Artikel VII Abschnitt 4 Buchstabe d und Artikel IV Abschnitt 10 ausgezahlt hat.
 

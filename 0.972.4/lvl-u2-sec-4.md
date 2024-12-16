@@ -12,9 +12,9 @@ a) Die Einzahlung der gezeichneten Beträge des ordentlichen Stammkapitals der B
 
 b) Jede Zahlung eines Mitglieds in seiner Landeswährung nach Buchstabe a Ziffer i erfolgt in einem Betrag, der nach Auffassung der Bank dem vollen Wert des zahlbaren Teils der Zeichnung in US-Dollar mit dem Gewicht und Feingehalt vom 1. Januar 1959 entspricht. Die Erstzahlung erfolgt in einem Betrag, den das Mitglied auf Grund dieser Bestimmungen für angemessen hält, unterliegt jedoch einer binnen 60 Tagen nach dem Fälligkeitsdatum durchzuführenden Berichtigung, wenn eine solche nach Feststellung der Bank zur Erreichung des vollen Dollargegenwerts nach Massgabe dieses Buchstabens erforderlich ist.
 
-c) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung der zweiten und dritten Rate des eingezahlten Teils ihrer Zeichnungen auf das Stammkapital voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für
+c) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung der zweiten und dritten Rate des eingezahlten Teils ihrer Zeichnungen auf das Stammkapital voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für:
 
-  - i) die erste bzw. zweite Rate des eingezahlten Teils der Zeichnungen und
+  - i) die erste bzw. zweite Rate des eingezahlten Teils der Zeichnungen; und
 
   - ii) die Erstzahlung und alle früheren Abrufe auf die Zeichnungsquoten für den Fonds
 

@@ -6,7 +6,7 @@ b) Eine Erhöhung der Zeichnung eines Mitglieds … auf das ordentliche Stammkap
 
 c) Bei der Abstimmung im Gouverneursrat kann jeder Gouverneur die Stimmen des von ihm vertretenen Mitgliedstaats abgeben. Sofern nicht in diesem Übereinkommen ausdrücklich etwas anderes vorgesehen ist, bedürfen Beschlüsse zu allen dem Gouverneursrat vorliegenden Fragen einer Mehrheit der Gesamtstimmenzahl der Mitgliedstaaten.
 
-d) Bei der Abstimmung im Direktorium
+d) Bei der Abstimmung im Direktorium:
 
   - i) kann der ernannte Direktor die Anzahl der Stimmen des Mitgliedstaats abgeben, der ihn ernannt hat;
 

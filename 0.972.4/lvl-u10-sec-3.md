@@ -1,6 +1,6 @@
 # Abschnitt 3 Abrechnung
 
-a) Nach dem Erlöschen der Mitgliedschaft eines Staates ist dieser nicht mehr an den Gewinnen und Verlusten der Bank beteiligt, und es entstehen ihm keine Verbindlichkeiten in bezug auf später von der Bank gewährten Darlehen und Garantien. Er haftet jedoch weiterhin für alle Beträge die er der Bank schuldet, sowie für seine Eventualverbindlichkeiten gegenüber der Bank, solange ein Teil der vor dem Zeitpunkt, an dem die Mitgliedschaft des Staates erlosch, von der Bank gewährten Darlehen oder Garantien aussteht.
+a) Nach dem Erlöschen der Mitgliedschaft eines Staates ist dieser nicht mehr an den Gewinnen und Verlusten der Bank beteiligt, und es entstehen ihm keine Verbindlichkeiten in Bezug auf später von der Bank gewährten Darlehen und Garantien. Er haftet jedoch weiterhin für alle Beträge die er der Bank schuldet, sowie für seine Eventualverbindlichkeiten gegenüber der Bank, solange ein Teil der vor dem Zeitpunkt, an dem die Mitgliedschaft des Staates erlosch, von der Bank gewährten Darlehen oder Garantien aussteht.
 
 b) Erlischt die Mitgliedschaft eines Staates, so trifft die Bank im Rahmen der Abrechnung mit diesem Staat nach diesem Abschnitt Vorkehrungen für den Rückkauf des Stammkapitals dieses Staates; dem Staat stehen jedoch auf Grund dieses Übereinkommens nur die in diesem Abschnitt und in Artikel XIII Abschnitt 2 vorgesehenen Rechte zu.
 

@@ -2,7 +2,7 @@
 
 a) Alle Befugnisse der Bank liegen beim Gouverneursrat. Jedes Mitglied ernennt einen Gouverneur und einen Stellvertreter für eine Amtszeit von fünf Jahren, wobei es die Ernennung jederzeit rückgängig machen oder erneuern kann. Stellvertreter nehmen nur bei Abwesenheit ihres Gouverneurs an der Abstimmung teil. Der Rat wählt einen der Gouverneure zum Vorsitzenden, der bis zur nächsten regelmässigen Tagung des Rates im Amt bleibt.
 
-b) Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen, jedoch mit Ausnahme der Befugnis,
+b) Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen, jedoch mit Ausnahme der Befugnis:
 
   - (i) neue Mitglieder aufzunehmen und die Bedingungen für ihre Aufnahme festzusetzen;
 
@@ -24,7 +24,7 @@ b) Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen
 
   - (x) externe Rechnungsprüfer zur Bestätigung der allgemeinen Bilanz und der Gewinn- und Verlustrechnung der Institution auszuwählen;
 
-  - (xi) dieses Übereinkommen zu ändern und
+  - (xi) dieses Übereinkommen zu ändern; und
 
   - (xii) die Beendigung der Geschäftstätigkeit der Bank und die Verteilung ihrer Vermögenswerte zu beschliessen.
 

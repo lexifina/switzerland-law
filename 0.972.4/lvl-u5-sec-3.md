@@ -16,9 +16,9 @@ d) Die Zahlung der Quoten wird auf folgende Weise vorgenommen:
 
 e) Jede Zahlung eines Mitglieds in seiner Landeswährung nach Buchstabe d erfolgt in einem Betrag, der nach Auffassung der Bank dem vollen Wert des zahlbaren Teils der Quote in US-Dollar mit dem Gewicht und Feingehalt vom 1. Januar 1959 entspricht. Die Erstzahlung erfolgt in einem Betrag, den das Mitglied auf Grund dieser Bestimmungen für angemessen hält; er unterliegt jedoch einer binnen 60 Tagen nach dem Fälligkeitsdatum durchzuführenden Berichtigung, wenn eine solche nach Feststellung der Bank zur Erreichung des vollen Dollargegenwerts nach Massgabe dieses Buchstabens erforderlich ist.
 
-f) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung auf einen Abruf des nicht eingezahlten Teils ihrer Zeichnungsquoten für den Fonds voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für
+f) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung auf einen Abruf des nicht eingezahlten Teils ihrer Zeichnungsquoten für den Fonds voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für:
 
-  - i) die Erstzahlung und alle früheren Abrufe solcher Quotenzeichnungen auf den Fonds und
+  - i) die Erstzahlung und alle früheren Abrufe solcher Quotenzeichnungen auf den Fonds; und
 
   - ii) alle für den eingezahlten Teil der Zeichnungen auf das Stammkapital der Bank fälligen Raten
 
@@ -32,7 +32,7 @@ h) In diesem Übereinkommen bezeichnet der Ausdruck «Mittel des Fonds» folgend
 
   - ii) alle durch Kreditaufnahme aufgebrachten Mittel, auf welche die in Artikel II Abschnitt 4 Buchstabe a Ziffer ii vorgesehene Verpflichtung keine Anwendung findet, d. h. solche Mittel, die ausdrücklich zu Lasten der Bestände des Fonds gehen;
 
-  - iii) alle Mittel aus der Rückzahlung von Darlehen, die aus den oben genannten Mitteln gewährt wurden,
+  - iii) alle Mittel aus der Rückzahlung von Darlehen, die aus den oben genannten Mitteln gewährt wurden;
 
   - iv) alle Einnahmen aus Operationen, für welche die oben genannten Mittel verwendet oder verpflichtet wurden;
 

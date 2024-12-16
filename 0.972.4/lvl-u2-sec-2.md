@@ -4,9 +4,9 @@ a) Das genehmigte ordentliche Stammkapital der Bank beträgt zunächst achthunde
 
 b) Das genehmigte ordentliche Stammkapital zerfällt in eingezahlte Anteile und abrufbare Anteile. Der Gegenwert von vierhundert Millionen US-Dollar ($400 000 000) ist einzuzahlen, und vierhundertfünfzig Millionen US-Dollar ($450 000 000) sind für die in Abschnitt 4 Buchstabe a Ziffer ii genannten Zwecke abrufbar.
 
-c) Das ordentliche Stammkapital nach Buchstabe a ist um fünfhundert Millionen US-Dollar ($500 000 000) mit dem Gewicht und Feingehalt vom 1. Januar 1959 zu erhöhen,
+c) Das ordentliche Stammkapital nach Buchstabe a ist um fünfhundert Millionen US-Dollar ($500 000 000) mit dem Gewicht und Feingehalt vom 1. Januar 1959 zu erhöhen:
 
-  - i) sofern der nach Abschnitt 4 für die Einzahlung aller Zeichnungen gesetzte Termin verstrichen ist und
+  - i) sofern der nach Abschnitt 4 für die Einzahlung aller Zeichnungen gesetzte Termin verstrichen ist; und
 
   - ii) sofern der Gouverneursrat auf einer so bald wie möglich nach dem unter Ziffer i erwähnten Zeitpunkt abgehaltenen ordentlichen oder ausserordentlichen Tagung die erwähnte Erhöhung um fünfhundert Millionen US-Dollar ($500 000 000) mit einer Mehrheit von drei Vierteln der Gesamtstimmenzahl der Mitgliedstaaten genehmigt hat.
 

@@ -2,11 +2,11 @@
 
 a) Dieses Übereinkommen kann nur durch Beschluss des Gouverneursrats mit der Mehrheit aller Gouverneure einschliesslich zwei Drittel der Gouverneure der regionalen Mitglieder geändert werden, die dabei mindestens drei Viertel der Gesamtstimmenzahl der Mitgliedstaaten vertreten müssen; die Abstimmungsmehrheiten in Artikel II Abschnitt 1 Buchstabe b können jedoch nur mit den dort genannten Abstimmungsmehrheiten geändert werden.
 
-b) Ungeachtet des Buchstabens a ist Einstimmigkeit im Gouverneursrat erforderlich bei einer Änderung
+b) Ungeachtet des Buchstabens a ist Einstimmigkeit im Gouverneursrat erforderlich bei einer Änderung:
 
-  - i) des Rechts zum Austritt aus der Bank nach Artikel IX Abschnitt 1,
+  - i) des Rechts zum Austritt aus der Bank nach Artikel IX Abschnitt 1;
 
-  - ii) des Rechts zum Erwerb von Stammkapital der Bank sowie zur Beteiligung am Fonds nach Artikel II Abschnitt 3 Buchstabe b bzw. Artikel IV Abschnitt 3 Buchstabe g und
+  - ii) des Rechts zum Erwerb von Stammkapital der Bank sowie zur Beteiligung am Fonds nach Artikel II Abschnitt 3 Buchstabe b bzw. Artikel IV Abschnitt 3 Buchstabe g; und
 
   - iii) der Haftungsbeschränkung nach Artikel II Abschnitt 3 Buchstabe d, … sowie nach Artikel IV Abschnitt 5.
 
