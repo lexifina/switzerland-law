@@ -10,7 +10,7 @@ a) Die Bank kann unter Beachtung folgender Vorschriften und Bedingungen Darlehen
 
   - iv) der Zinssatz, die sonstigen Lasten und die Termine für die Rückzahlung des Kapitals müssen nach Auffassung der Bank dem betreffenden Vorhaben angemessen sein;
 
-  - v) bei der Gewährung einer Garantie für ein von anderen Kapitalgebern gewährtes Darlehen muss die Bank eine angemessene Risikovergütung erhalten und
+  - v) bei der Gewährung einer Garantie für ein von anderen Kapitalgebern gewährtes Darlehen muss die Bank eine angemessene Risikovergütung erhalten; und
 
   - vi) die von der Bank gewährten Darlehen oder übernommenen Garantien haben in erster Linie der Finanzierung bestimmter Projekte zu dienen, einschliesslich solcher, die Teil eines nationalen oder regionalen Entwicklungsprogramms sind. Die Bank kann jedoch Sammeldarlehen an Entwicklungsinstitutionen oder ähnliche Einrichtungen der Mitglieder gewähren oder garantieren, damit diese die Finanzierung bestimmter Entwicklungsprojekte ermöglichen, deren Finanzbedarf im Einzelfall nach Auffassung der Bank zu gering ist, um eine direkte Überwachung durch die Bank zu rechtfertigen.
 
