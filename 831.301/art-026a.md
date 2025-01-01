@@ -2,11 +2,11 @@
 
 1 Das Eidgenössische Departement des Innern (Departement) legt in einer Verordnung fest:
 
-  - a. die Berechnungsmodalitäten für die Senkung oder Erhöhung der Mietzinshöchstbeträge nach Artikel 10 Absatz 1quinquies ELG;
+  - a. die Berechnungsmodalitäten für die Senkung oder Erhöhung der Mietzinshöchstbeträge nach Artikel 10 Absatz 1sexies ELG;
 
   - b. jeweils bis spätestens Ende Oktober die Senkung oder Erhöhung der Höchstbeträge für die betroffenen Gemeinden ab dem nächsten Jahr.
 
-2 Der Antrag, die Mietzinshöchstbeträge nach Artikel 10 Absatz 1quinquies ELG zu senken oder zu erhöhen, ist beim Bundesamt für Sozialversicherungen (Bundesamt) einzureichen.
+2 Der Antrag, die Mietzinshöchstbeträge nach Artikel 10 Absatz 1sexies ELG zu senken oder zu erhöhen, ist beim Bundesamt für Sozialversicherungen (Bundesamt) einzureichen.
 
 3 Er hat insbesondere zu umfassen:
 
