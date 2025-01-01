@@ -1,4 +1,4 @@
-# Art. 21b Weitere Anforderungen an die Kennzeichnung von Futtermitteln
+# Art. 21b Weitere Anforderungen an die Kennzeichnung von Futtermitteln für Nutztiere
 
 Die Angaben nach Artikel 21a müssen folgende Anforderungen erfüllen:
 

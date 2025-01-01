@@ -16,6 +16,8 @@
 
   - g. für den Fall, dass sich das Unternehmen oder dessen Subunternehmen aus dem Kontrollsystem zurückzieht, zu akzeptieren, dass sein Kontrolldossier mindestens fünf Jahre lang aufbewahrt wird;
 
-  - h. die betreffende Zertifizierungsstelle unverzüglich über etwaige Unregelmässigkeiten oder Verstösse zu informieren, die den biologischen Status ihres Erzeugnisses oder von biologischen Erzeugnissen, die sie von anderen Unternehmern oder Subunternehmern bezogen haben, beeinträchtigen.
+  - h. die betreffende Zertifizierungsstelle unverzüglich über etwaige Unregelmässigkeiten oder Verstösse zu informieren, die den biologischen Status ihres Erzeugnisses oder von biologischen Erzeugnissen, die sie von anderen Unternehmern oder Subunternehmern bezogen haben, beeinträchtigen;
+
+  - i. für den Fall, dass das Unternehmen nicht biologische Erzeugnisse und Stoffe in biologischen Lebensmitteln und Futtermitteln verwendet, die ein Risiko der Belastung durch Organismen oder Erzeugnisse nach Artikel 3 Buchstabe c Ziffern 1–3 darstellen, eine Bestätigung beim Verkäufer einzuholen, dass es sich bei den Erzeugnissen und Stoffen um keine gentechnisch veränderten Organismen handelt und dass sie nicht aus oder durch gentechnisch veränderte Organismen hergestellt wurden.
 
 2 Das Unternehmen muss schriftlich erklären, dass es die Pflichten nach Absatz 1 einhält. In der Erklärung sind zudem die Beschreibung und die Massnahmen nach Anhang 1 Ziffer 1.1. Absatz 1 festzuhalten.

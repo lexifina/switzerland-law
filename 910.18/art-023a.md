@@ -1,6 +1,6 @@
 # Art. 23a Anerkennung von Zertifizierungsstellen und Kontrollbehörden ausserhalb der Länderliste
 
-1 Zertifizierungsstellen und Kontrollbehörden, die aufgrund des Verfahrens nach Artikel 46 der Verordnung (EU) 2018/848 von der EU anerkannt wurden und im Anhang II der jeweils geltenden Fassung der Durchführungsverordnung (EU) 2021/2325 aufgenommen sind, sind anerkannt. Sie können bescheinigen, dass die eingeführten Erzeugnisse die Bedingungen nach Artikel 22 Buchstabe a erfüllen.
+1 Zertifizierungsstellen und Kontrollbehörden, die aufgrund des Verfahrens nach Artikel 46 der Verordnung (EU) 2018/848 von der EU anerkannt wurden und im Anhang II der jeweils geltenden Fassung der Durchführungsverordnung (EU) 2021/1378 aufgenommen sind, sind anerkannt. Sie können bescheinigen, dass die eingeführten Erzeugnisse die Bedingungen nach Artikel 22 Buchstabe a erfüllen.
 
 2 Das BLW kann auf Begehren hin weitere Zertifizierungsstellen und Kontrollbehörden, die nicht im Verzeichnis nach Absatz 1 und nicht in der Liste nach Artikel 23 aufgeführt sind, mit einer Aufnahme in eine Liste anerkennen, wenn die Zertifizierungsstellen und Kontrollbehörden nachweisen, dass die betroffenen Erzeugnisse die Bedingungen nach Artikel 22 erfüllen.
 

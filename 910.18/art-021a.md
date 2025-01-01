@@ -1,4 +1,4 @@
-# Art. 21a Kennzeichnung von Futtermitteln
+# Art. 21a Kennzeichnung von Futtermitteln für Nutztiere
 
 1 Auf verarbeiteten Futtermitteln dürfen die Bezeichnungen nach Artikel 2 Absatz 2 verwendet werden, sofern die folgenden Anforderungen erfüllt sind:
 

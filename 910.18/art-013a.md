@@ -1,17 +1,21 @@
-# Art. 13a Verwendung von nicht biologischem Saatgut und vegetativem Vermehrungsmaterial
+# Art. 13a Verwendung von nicht biologischem Saatgut und nicht biologischem vegetativem Vermehrungsmaterial
 
-1 Wer nicht biologisches Saatgut oder vegetatives Vermehrungsmaterial verwenden will, muss nachweisen, dass:
+1 Wer nicht biologisches Saatgut oder nicht biologisches vegetatives Vermehrungsmaterial verwenden will, muss nachweisen, dass:
 
-  - a. kein geeignetes biologisch erzeugtes Saatgut oder vegetatives Vermehrungsmaterial verfügbar ist, welches seine Anforderungen erfüllt; oder
+  - a. kein geeignetes biologisch erzeugtes Saatgut oder biologisches vegetatives Vermehrungsmaterial verfügbar ist; oder
 
-  - b. kein Anbieter in der Lage ist, das Saatgut oder vegetative Vermehrungs-material vor der Aussaat oder Anpflanzung zu liefern, obwohl er es vom Verwender rechtzeitig bestellt hatte.
+  - b. niemand in der Lage ist, das Saatgut oder das vegetative Vermehrungsmaterial vor der Aussaat oder Anpflanzung zu liefern, obwohl es rechtzeitig bestellt wurde.
 
-2 Als Nachweis nach Absatz 1 gilt ein Ausdruck des vorhandenen Angebotes vom Informationssystem nach Artikel 33a.
+2 Der Nachweis nach Absatz 1 muss anhand der Angaben zur Verfügbarkeit im Informationssystem nach Artikel 33a erbracht werden.
 
-3 Wer nicht-biologisches Saatgut oder vegetatives Vermehrungsmaterial verwendet, muss dem Betreiber des Informationssystems gemäss Artikel 33a die Menge des eingesetzten Saatgutes oder vegetativen Vermehrungsmaterials und die verwendete Sorte melden.
+3 Ist die Sorte, die der Verwender beschaffen möchte, gemäss den Informationen im Informationssystem nach Artikel 33a nicht als biologisches Saatgut oder nicht als biologisches vegetatives Pflanzenvermehrungsmaterial verfügbar, sind aber andere Sorten derselben Art verfügbar, so darf der Verwender nicht biologisches Saatgut oder nicht biologisches vegetatives Vermehrungsmaterial nur verwenden, wenn er begründen kann, warum keine der biologischen Sorten derselben Art insbesondere für die jeweiligen agronomischen und pedoklimatischen Bedingungen geeignet ist und warum keine der Sorten die erforderlichen technologischen Eigenschaften aufweist, die für die geplante Produktion erforderlich sind.
 
-4 Für Arten oder Untergruppen von Arten ohne oder mit nur sehr geringer Versorgung an biologisch erzeugtem Saatgut oder vegetativem Vermehrungsmaterial kann nicht biologisches Saatgut oder vegetatives Vermehrungsmaterial ohne Nachweis nach Absatz 2 und ohne Meldung nach Absatz 3 verwendet werden. Der Betreiber des Informationssystems bezeichnet die entsprechenden Sorten und Arten im Informationssystem nach Weisungen des Bundesamts für Landwirtschaft (BLW).
+4 Wer nicht biologisches Saatgut oder nicht biologisches vegetatives Vermehrungsmaterial verwendet, muss dem Betreiber des Informationssystems nach Artikel 33a die Menge des eingesetzten Saatguts oder des eingesetzten vegetativen Vermehrungsmaterials und die verwendete Sorte melden.
 
-5 Für Arten und Untergruppen von Arten nach Artikel 13 Absatz 3bis darf nur dann nicht biologisches Saatgut und vegetatives Vermehrungsmaterial eingesetzt werden, wenn das BLW eine Bewilligung für die Verwendung von nicht biologischem Saatgut und vegetativem Vermehrungsmaterial erteilt. Die Bewilligung wird nur erteilt, falls das Saatgut oder Vermehrungsmaterial zu Forschungszwecken, für Untersuchungen im Rahmen von Feldversuchen kleinen Umfangs oder zur Sortenerhaltung verwendet wird.
+5 Auf Gesuch hin kann das Forschungsinstitut für biologischen Landbau (FiBL) eine Verwendung von nicht biologischem Saatgut oder nicht biologischem vegetativem Vermehrungsmaterial bewilligen, sofern dies im Rahmen von Feldversuchen kleinen Umfangs die Forschung zur Sortenerhaltung oder zur Produktinnovation ermöglicht.
 
-6 Nicht biologisches Saatgut und nicht biologische Saatkartoffeln dürfen nur verwendet werden, wenn sie nicht mit Pflanzenschutzmitteln behandelt worden sind; ausgenommen sind die Behandlung mit Pflanzenschutzmitteln, die für die biologische Produktion zulässig sind, und chemische Behandlungen, die aus Gründen der Pflanzengesundheit für alle Sorten einer bestimmten Art im Anbaugebiet vorgeschrieben wurden.
+6 Nicht biologisches Pflanzenvermehrungsmaterial darf nur verwendet werden, wenn es nicht mit Pflanzenschutzmitteln behandelt worden ist; ausgenommen sind:
+
+  - a. Behandlungen, die für die biologische Produktion zulässig sind; und
+
+  - b. Behandlungen, die aus Gründen der Pflanzengesundheit für alle Sorten einer bestimmten Art im Anbaugebiet vorgeschrieben sind.

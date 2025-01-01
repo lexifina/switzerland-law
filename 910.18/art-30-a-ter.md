@@ -8,13 +8,15 @@
 
   - b. Tiere und unverarbeitete tierische Erzeugnisse;
 
-  - c. verarbeitete landwirtschaftliche Erzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind;
+  - c. Algen und unverarbeitete Aquakulturerzeugnisse;
 
-  - d. Futtermittel;
+  - d. verarbeitete landwirtschaftliche Erzeugnisse und verarbeitete Aquakulturerzeugnisse, die zur Verwendung als Lebensmittel bestimmt sind;
 
-  - e. Wein;
+  - e. Futtermittel;
 
-  - f. sonstige Erzeugnisse.
+  - f. Wein;
+
+  - g. sonstige Erzeugnisse.
 
 3 Das Zertifikat kann auch elektronisch ausgestellt werden, sofern seine Authentizität mittels einer anerkannten fälschungssicheren elektronischen Methode gewährleistet ist.
 
