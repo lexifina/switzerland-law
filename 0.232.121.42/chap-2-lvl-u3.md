@@ -14,7 +14,7 @@
 
 3) [Erforderliche Ansichten]
 
-  - a) Vorbehaltlich des Buchstabens b hat jede durch das Abkommen in der Fassung von 1999 gebundene Vertragspartei, die bestimmte angegebene Ansichten des Erzeugnisses oder der Erzeugnisse verlangt, die das gewerbliche Muster oder Modell darstellen oder für die das gewerbliche Muster oder Modell verwendet werden soll, den Generaldirektor hiervon in einer Erklärung zu notifizieren und dabei anzugeben, welche Ansichten erforderlich sind und unter welchen Umständen sie verlangt werden.
+  - a) Vorbehaltlich des Buchstabens b hat jede Vertragspartei, die bestimmte angegebene Ansichten des Erzeugnisses oder der Erzeugnisse verlangt, die das gewerbliche Muster oder Modell darstellen oder für die das gewerbliche Muster oder Modell verwendet werden soll, den Generaldirektor hiervon in einer Erklärung zu notifizieren und dabei anzugeben, welche Ansichten erforderlich sind und unter welchen Umständen sie verlangt werden.
 
   - b) Von einem flächenmässigen gewerblichen Muster oder Erzeugnis kann keine Vertragspartei mehr als eine Ansicht verlangen; von einem dreidimensionalen Erzeugnis nicht mehr als sechs Ansichten.
 

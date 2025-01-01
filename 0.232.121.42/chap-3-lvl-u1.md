@@ -2,9 +2,9 @@
 
 1) [Frist für die Mitteilung der Schutzverweigerung]
 
-  - a) Die vorgeschriebene Frist für die Mitteilung der Verweigerung der Wirkungen einer internationalen Eintragung nach Artikel 12 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Artikel 8 Absatz 1 des Abkommens in der Fassung von 1960 beträgt sechs Monate ab dem Tag der Veröffentlichung der internationalen Eintragung nach Regel 26 Absatz 3.
+  - a) Die vorgeschriebene Frist für die Mitteilung der Verweigerung der Wirkungen einer internationalen Eintragung nach Artikel 12 Absatz 2 beträgt sechs Monate ab dem Tag der Veröffentlichung der internationalen Eintragung nach Regel 26 Absatz 3.
 
-  - b) Unbeschadet des Buchstabens a kann jede Vertragspartei, deren Amt ein Prüfungsamt ist oder deren Recht einen Widerspruch gegen die Schutzerteilung zulässt, den Generaldirektor in einer Erklärung davon in Kenntnis setzen, wenn sie nach dem Abkommen in der Fassung von 1999 als solche bestimmt ist, dass anstelle der in Buchstabe a genannten Frist von sechs Monaten eine Frist von 12 Monaten gilt.
+  - b) Unbeschadet des Buchstabens a kann jede Vertragspartei, deren Amt ein Prüfungsamt ist oder deren Recht einen Widerspruch gegen die Schutzerteilung zulässt, den Generaldirektor in einer Erklärung davon in Kenntnis setzen, dass anstelle der in Buchstabe a genannten Frist von sechs Monaten eine Frist von 12 Monaten gilt.
 
   - c) In der Erklärung nach Buchstabe b kann auch angegeben werden, dass die Wirkung der internationalen Eintragung nach Artikel 14 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 spätestens wie folgt eintritt:
 
@@ -22,7 +22,7 @@
 
     - ii) die Nummer der internationalen Eintragung;
 
-    - iii) alle Gründe, auf die sich die Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes;
+    - iii) alle Gründe, auf die sich die Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes,
 
     - iv) beziehen sich die Gründe, auf die sich die Schutzverweigerung stützt, auf eine Ähnlichkeit mit einem gewerblichen Muster oder Modell, das Gegenstand einer früheren nationalen, regionalen oder internationalen Anmeldung oder Eintragung gewesen ist, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung (falls verfügbar), eine Kopie einer Abbildung des früheren gewerblichen Musters oder Modells (wenn diese Abbildung allgemein zugänglich ist) und den Namen und die Anschrift des Inhabers des genannten gewerblichen Musters oder Modells entsprechend den Verwaltungsvorschriften;
 
@@ -32,7 +32,7 @@
 
     - vii) das Datum, an dem die Schutzverweigerung ausgesprochen wurde.
 
-3) [Mitteilung über die Teilung der internationalen Eintragung] Wird die internationale Eintragung nach einer Mitteilung der Schutzverweigerung gemäss Artikel 13 Absatz 2 des Abkommens in der Fassung von 1999 vor dem Amt einer bestimmten Vertragspartei geteilt, um ein in dieser Mitteilung angegebenes Schutzhindernis zu beseitigen, so macht dieses Amt, wie in den Verwaltungsvorschriften festgelegt, dem Internationalen Büro die die Teilung betreffenden Angaben.
+3) [Mitteilung über die Teilung der internationalen Eintragung] Wird die internationale Eintragung nach einer Mitteilung der Schutzverweigerung gemäss Artikel 13 Absatz 2 vor dem Amt einer bestimmten Vertragspartei geteilt, um ein in dieser Mitteilung angegebenes Schutzhindernis zu beseitigen, so macht dieses Amt, wie in den Verwaltungsvorschriften festgelegt, dem Internationalen Büro die die Teilung betreffenden Angaben.
 
 4) [Mitteilung über die Zurücknahme der Schutzverweigerung]
 

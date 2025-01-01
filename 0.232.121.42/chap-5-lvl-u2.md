@@ -6,9 +6,9 @@
 
     - i) einer Grundgebühr;
 
-    - ii) einer Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 abgegeben hat und für jede bestimmte Vertragspartei nach dem Abkommen in der Fassung von 1960 für die die internationale Eintragung zu verlängern ist;
+    - ii) einer Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 abgegeben hat und für die die internationale Eintragung zu verlängern ist;
 
-    - iii) einer individuellen Bestimmungsgebühr für jede bestimmte Vertragspartei nach dem Abkommen in der Fassung von 1999, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 abgegeben hat und für die die internationale Eintragung zu verlängern ist.
+    - iii) einer individuellen Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 abgegeben hat und für die die internationale Eintragung zu verlängern ist.
 
   - b) Die Höhe der Gebühren nach Buchstabe a Ziffern i und ii ergibt sich aus dem Gebührenverzeichnis.
 
@@ -18,7 +18,7 @@
 
 2) [Weitere Einzelheiten]
 
-  - a) Beabsichtigt ein Inhaber nicht, die internationale Eintragung
+  - a) Beabsichtigt ein Inhaber nicht, die internationale Eintragung:
 
     - i) in Bezug auf eine bestimmte Vertragspartei; oder
 
@@ -26,9 +26,7 @@
 
   - b) Beabsichtigt der Inhaber, die internationale Eintragung für eine bestimmte Vertragspartei ungeachtet der Tatsache zu verlängern, dass die maximale Schutzdauer für gewerbliche Muster oder Modelle in dieser Vertragspartei abgelaufen ist, so ist der Zahlung der erforderlichen Gebühren einschliesslich der Standard-Bestimmungsgebühr oder gegebenenfalls der individuellen Bestimmungsgebühr für diese Vertragspartei eine Erklärung beizufügen, dass die Verlängerung der internationalen Eintragung für diese Vertragspartei im internationalen Register zu registrieren ist.
 
-  - c) Beabsichtigt der Inhaber, die internationale Eintragung für eine bestimmte Vertragspartei ungeachtet der Tatsache zu verlängern, dass für diese Vertragspartei im internationalen Register eine Schutzverweigerung in Bezug auf alle betroffenen gewerblichen Muster oder Modelle eingetragen ist, so ist der Zahlung der erforderlichen Gebühren einschliesslich der Standard-Bestimmungsgebühr oder gegebenenfalls der individuellen Bestimmungsgebühr für diese Vertragspartei eine Erklärung beizufügen, dass die
-
-  - Verlängerung der internationalen Eintragung für diese Vertragspartei im internationalen Register zu registrieren ist.
+  - c) Beabsichtigt der Inhaber, die internationale Eintragung für eine bestimmte Vertragspartei ungeachtet der Tatsache zu verlängern, dass für diese Vertragspartei im internationalen Register eine Schutzverweigerung in Bezug auf alle betroffenen gewerblichen Muster oder Modelle eingetragen ist, so ist der Zahlung der erforderlichen Gebühren einschliesslich der Standard-Bestimmungsgebühr oder gegebenenfalls der individuellen Bestimmungsgebühr für diese Vertragspartei eine Erklärung beizufügen, dass die Verlängerung der internationalen Eintragung für diese Vertragspartei im internationalen Register zu registrieren ist.
 
   - d) Die internationale Eintragung kann nicht in Bezug auf eine bestimmte Vertragspartei verlängert werden, für die eine Ungültigerklärung für alle gewerblichen Muster oder Modelle nach Regel 20 oder ein Verzicht nach Regel 21 eingetragen worden ist. Die internationale Eintragung kann nicht in Bezug auf eine bestimmte Vertragspartei für die gewerblichen Muster oder Modelle verlängert werden, für die in dieser Vertragspartei eine Ungültigerklärung nach Regel 20 oder eine Einschränkung nach Regel 21 eingetragen worden ist.
 

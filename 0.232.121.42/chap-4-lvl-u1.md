@@ -8,9 +8,9 @@
 
     - ii) eine Änderung des Namens oder der Anschrift des Inhabers;
 
-    - iii) einen Verzicht auf die internationale Eintragung in Bezug auf eine oder alle bestimmten Vertragsparteien; oder
+    - iii) einen Verzicht auf die internationale Eintragung in Bezug auf eine oder alle bestimmten Vertragsparteien;
 
-    - iv) in Bezug auf eine Vertragspartei eine Einschränkung auf ein oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind;
+    - iv) in Bezug auf eine Vertragspartei eine Einschränkung auf ein oder einige gewerbliche Muster oder Modelle, die Gegenstand der internationalen Eintragung sind; oder
 
     - v) eine Änderung des Namens oder der Anschrift des Vertreters.
 
@@ -28,7 +28,7 @@
 
     - ii) den Namen des Inhabers, oder des Vertreters, wenn die Änderung sich auf den Namen oder die Anschrift des Vertreters bezieht;
 
-    - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des neuen Inhabers der internationalen Eintragung;
+    - iii) im Falle einer Änderung des Inhabers der internationalen Eintragung den Namen und die Anschrift entsprechend den Verwaltungsvorschriften sowie die E‑Mail-Adresse des neuen Inhabers der internationalen Eintragung;
 
     - iv) im Falle einer Änderung des Inhabers der internationalen Eintragung die Vertragspartei oder die Vertragsparteien, für die der neue Inhaber die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
 
@@ -38,7 +38,7 @@
 
   - b) Das Gesuch um Eintragung einer Änderung des Inhabers der internationalen Eintragung kann begleitet sein von einer Mitteilung zur Bestellung eines Vertreters für den neuen Inhaber. Sofern die in Regel 3 Absatz 2 Buchstaben b und c genannten Bedingungen erfüllt sind, entspricht das Datum des Wirksamwerdens der Bestellung des Vertreters dem Eintragungsdatum der Änderung des Inhabers gemäss Absatz 6 Buchstabe b. In diesem Fall gibt die Eintragung der Änderung des Inhabers im internationalen Register die Bestellung des Vertreters an.
 
-3) [Unzulässiger Antrag] Eine Änderung des Inhabers der internationalen Eintragung kann in Bezug auf eine bestimmte Vertragspartei nicht eingetragen werden, falls diese Vertragspartei nicht durch ein Abkommen gebunden ist, welches die in Absatz 2 Ziffer iv bezeichnete Vertragspartei oder eine der Vertragsparteien bindet.
+3) [Gelöscht]
 
 4) [Nicht vorschriftsmässiger Antrag] Entspricht der Antrag nicht den geltenden Vorschriften, so teilt das Internationale Büro dem Inhaber dies mit; gibt der Antragsteller an, der neue Inhaber zu sein, so wird die Mitteilung an ihn gerichtet.
 
@@ -55,3 +55,5 @@
 7) [Eintragung einer teilweisen Änderung der Inhaberschaft] Eine Abtretung oder sonstige Übertragung der internationalen Eintragung in Bezug auf nur einige der gewerblichen Muster oder Modelle oder nur einige der bestimmten Vertragsparteien wird im internationalen Register unter der Nummer der internationalen Eintragung registriert, die teilweise abgetreten oder auf andere Weise übertragen worden ist; jeder abgetretene oder auf andere Weise übertragene Teil wird unter der Nummer der genannten internationalen Eintragung gelöscht und als eigenständige internationale Eintragung registriert. Die eigenständige internationale Eintragung trägt die Nummer der teilweise abgetretenen oder auf andere Weise übertragenen internationalen Eintragung mit einem Grossbuchstaben.
 
 8) [Registrierung von Zusammenschlüssen internationaler Eintragungen] Wird eine Person infolge eines teilweisen Inhaberwechsels Inhaber von zwei oder mehr internationalen Eintragungen, so werden diese Eintragungen auf Antrag der genannten Person zusammengeführt; die Absätze 1 bis 6 finden sinngemäss Anwendung. Die aus einer Zusammenführung hervorgegangene internationale Eintragung trägt die Nummer der teilweise abgetretenen oder auf andere Weise übertragenen internationalen Eintragung, gegebenenfalls mit einem Grossbuchstaben.
+
+Eintragung, gegebenenfalls mit einem Grossbuchstaben.

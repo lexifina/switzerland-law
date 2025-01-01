@@ -8,9 +8,9 @@
 
   - i) den Namen des Anmelders, der nach Massgabe der Verwaltungsvorschriften anzugeben ist;
 
-  - ii) die Anschrift, die nach Massgabe der Verwaltungsvorschriften anzugeben ist, sowie die E-Mail-Adresse des Anmelders;
+  - ii) die Anschrift, die nach Massgabe der Verwaltungsvorschriften anzugeben ist, sowie die E‑Mail-Adresse des Anmelders;
 
-  - iii) die Vertragspartei oder die Vertragsparteien, für die der Anmelder die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt;
+  - iii) die Vertragspartei oder die Vertragsparteien, für die der Anmelder die Voraussetzungen für die Inhaberschaft einer internationalen Eintragung erfüllt, und die Vertragspartei des Anmelders;
 
   - iv) das Erzeugnis oder die Erzeugnisse, die das gewerbliche Muster oder Modell darstellen oder für die das gewerbliche Muster oder Modell verwendet werden soll; hierbei ist anzugeben, ob das Erzeugnis oder die Erzeugnisse das gewerbliche Muster oder Modell darstellen, oder ob es sich um Erzeugnisse handelt, für die das gewerbliche Muster oder Modell verwendet werden soll; zur Bezeichnung des Erzeugnisses oder der Erzeugnisse sind vorzugsweise die Begriffe des Warenverzeichnisses der Internationalen Klassifikation zu verwenden;
 
@@ -18,23 +18,19 @@
 
   - vi) die bestimmten Vertragsparteien;
 
-  - vii) die Höhe der entrichteten Gebühren und die Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrages von einem beim Internationalen Büro eröffneten Konto sowie den Namen des Einzahlers
-
-  - oder des Auftraggebers der Zahlung.
+  - vii) die Höhe der entrichteten Gebühren und die Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrages von einem beim Internationalen Büro eröffneten Konto sowie den Namen des Einzahlers oder des Auftraggebers der Zahlung.
 
 4) [Zusätzlicher zwingend vorgeschriebener Inhalt einer internationalen Anmeldung]
 
-  - a) Hinsichtlich der in einer internationalen Anmeldung nach dem Abkommen in der Fassung von 1999 bestimmten Vertragsparteien hat diese Anmeldung nebst den Angaben nach Absatz 3 Ziffer iii) die Angabe der Vertragspartei des Anmelders zu enthalten.
+  - a) Hat eine Vertragspartei den Generaldirektor nach Artikel 5 Absatz 2 Buchstabe a davon in Kenntnis gesetzt, dass nach ihrem Recht ein oder mehrere Bestandteile erforderlich sind, auf die in Artikel 5 Absatz 2 Buchstabe b verwiesen wird, so hat die internationale Anmeldung diesen Bestandteil oder diese Bestandteile wie in Regel 11 vorgeschrieben zu enthalten.
 
-  - b) Hat eine Vertragspartei nach dem Abkommen in der Fassung von 1999 den Generaldirektor nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 davon in Kenntnis gesetzt, dass nach ihrem Recht ein oder mehrere Bestandteile erforderlich sind, auf die in Artikel 5 Absatz 2 Buchstabe b des Abkommens in der Fassung von 1999 verwiesen wird, so hat die internationale Anmeldung diesen Bestandteil oder diese Bestandteile wie in Regel 11 vorgeschrieben zu enthalten.
+  - b) Ist Regel 8 anwendbar, so muss die internationale Anmeldung je nach Fall Angaben nach Regel 8 Absätze 2 und 3 enthalten und mit jeglicher darin erwähnter Erklärung, Eidesaussage oder Bestätigung einhergehen.
 
-  - c) Ist Regel 8 anwendbar, so muss die internationale Anmeldung je nach Fall Angaben nach Regel 8 Absätze 2 und 3 enthalten und mit jeglicher darin erwähnter Erklärung, Eidesaussage oder Bestätigung einhergehen.
+5) [Fakultativer Inhalt einer internationalen Anmeldung]
 
-  - 5) [Fakultativer Inhalt einer internationalen Anmeldung]
+  - a) Jeder Bestandteil, auf den in Artikel 5 Absatz 2 Buchstabe b Ziffer i oder ii verwiesen wird, kann in die internationale Anmeldung aufgenommen werden, wenn der Anmelder dies wünscht, selbst wenn dieser Bestandteil aufgrund einer Erklärung nach Artikel 5 Absatz 2 Buchstabe a nicht erforderlich ist.
 
-  - a) Jeder Bestandteil, auf den in Artikel 5 Absatz 2 Buchstabe b Ziffer i oder ii des Abkommens in der Fassung von 1999 oder auf den in Artikel 8 Absatz 4 Buchstabe a des Abkommens in der Fassung von 1960 verwiesen wird, kann in die internationale Anmeldung aufgenommen werden, wenn der Anmelder dies wünscht, selbst wenn dieser Bestandteil aufgrund einer Erklärung nach Artikel 5 Absatz 2 Buchstabe a des Abkommens in der Fassung von 1999 oder aufgrund eines Erfordernisses gemäss Artikel 8 Absatz 4 Buchstabe a des Abkommens in der Fassung von 1960 nicht erforderlich ist.
-
-  - b) Hat der Anmelder einen Vertreter bestellt, so sind in der internationalen Anmeldung Name und Anschrift entsprechend den Verwaltungsvorschriften sowie die E-Mail-Adresse des Vertreters anzugeben.
+  - b) Hat der Anmelder einen Vertreter bestellt, so sind in der internationalen Anmeldung Name und Anschrift entsprechend den Verwaltungsvorschriften sowie die E‑Mail-Adresse des Vertreters anzugeben.
 
   - c) Wünscht der Anmelder nach Artikel 4 der Pariser Verbandsübereinkunft die Priorität einer früheren Hinterlegung in Anspruch zu nehmen, so hat die internationale Anmeldung eine Erklärung zu enthalten, dass die Priorität der früheren Hinterlegung beansprucht wird, und den Namen des Amtes anzugeben, bei dem diese Hinterlegung erfolgte, sowie das Datum und, soweit verfügbar, das Aktenzeichen dieser Hinterlegung und, sofern sich der Prioritätsanspruch nicht auf alle in dieser internationalen Anmeldung enthaltenen gewerblichen Muster oder Modelle bezieht, die Angabe der gewerblichen Muster oder Modelle, auf die sich der Prioritätsanspruch bezieht oder nicht bezieht.
 
@@ -44,8 +40,8 @@
 
   - f) Die internationale Anmeldung kann auch Erklärungen, Feststellungen oder andere massgebliche Angaben enthalten, die gegebenenfalls in den Verwaltungsvorschriften angegeben sind.
 
-g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welcher Informationen genannt werden, die nach Kenntnis des Anmelders für die Schutzfähigkeit des betreffenden gewerblichen Musters oder Modells von wesentlicher Bedeutung sind.
+  - g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welcher Informationen genannt werden, die nach Kenntnis des Anmelders für die Schutzfähigkeit des betreffenden gewerblichen Musters oder Modells von wesentlicher Bedeutung sind.
 
-6) [Keine zusätzlichen Angaben] Enthält die internationale Anmeldung andere als die nach dem Abkommen in der Fassung von 1999, nach dem Abkommen in der Fassung von 1960, dieser Ausführungsordnung oder den Verwaltungsvorschriften vorgeschriebenen oder zulässigen Angaben, so werden diese vom Internationalen Büro von Amtes wegen gestrichen. Sind der internationalen Anmeldung andere als die vorgeschriebenen oder zulässigen Unterlagen beigefügt, so kann das Internationale Büro über diese Unterlagen verfügen.
+6) [Keine zusätzlichen Angaben] Enthält die internationale Anmeldung andere als die nach der Fassung, dieser Ausführungsordnung oder den Verwaltungsvorschriften vorgeschriebenen oder zulässigen Angaben, so werden diese vom Internationalen Büro von Amtes wegen gestrichen. Sind der internationalen Anmeldung andere als die vorgeschriebenen oder zulässigen Unterlagen beigefügt, so kann das Internationale Büro über diese Unterlagen verfügen.
 
 7) [Zugehörigkeit aller Erzeugnisse zu derselben Klasse] Alle Erzeugnisse, die die gewerblichen Muster oder Modelle darstellen, auf die sich eine internationale Anmeldung bezieht, oder für welche die gewerblichen Muster oder Modelle verwendet werden sollen, müssen derselben Klasse der Internationalen Klassifikation angehören.
