@@ -1,6 +1,6 @@
 # Art. 177b Gewerbliche Leistungen
 
-1 Das BLW, seine Versuchs- und Untersuchungsanstalten (Art. 114) sowie das Eidgenössische Gestüt (Art. 147) können Dritten gewerbliche Leistungen erbringen, wenn diese Leistungen:
+1 Das BLW, seine landwirtschaftliche Forschungsanstalt (Art. 114) sowie das Gestüt (Art. 121) können Dritten gewerbliche Leistungen erbringen, wenn diese Leistungen:
 
   - a. mit den Hauptaufgaben in einem engen Zusammenhang stehen;
 
