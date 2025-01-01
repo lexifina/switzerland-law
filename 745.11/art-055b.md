@@ -33,3 +33,5 @@
   - d. wichtigste Anschlussverbindungen;
 
   - e. Sicherheitshinweise.
+
+3 Die Unternehmen müssen gemeinsam einen Branchenstandard zur Informationspflicht erarbeiten und diesen dem BAV zur Genehmigung unterbreiten.
