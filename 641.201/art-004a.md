@@ -6,4 +6,4 @@
 
 3 Der Ort der Lieferung bleibt bis zum Ende desjenigen Kalenderjahres im Inland gelegen, in dem der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze von 100 000 Franken aus Lieferungen nach Absatz 1 unterschreitet.
 
-4 Unterschreitet der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze und teilt er oder sie dies der ESTV nicht schriftlich mit, so gilt er oder sie als unterstellt nach Artikel 7 Absatz 3 Buchstabe a MWSTG.
+4 Unterschreitet der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze und teilt er oder sie dies der Eidgenössischen Steuerverwaltung (ESTV) nicht schriftlich mit, so gilt er oder sie als unterstellt nach Artikel 7 Absatz 3 Buchstabe a MWSTG.
