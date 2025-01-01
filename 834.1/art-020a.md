@@ -2,9 +2,9 @@
 
 1 Die Kantone haften für Schäden, die der Erwerbsersatzordnung entstanden sind oder zugefügt wurden:
 
-  - a. durch die Missachtung von Vorschriften beim Aufgebot für Zivilschutzeinsätze nach den Artikeln 27 Absatz 2, 27a Absatz 1 Buchstabe b und 33–36 BZG;
+  - a. durch die Missachtung von Vorschriften beim Aufgebot für Zivilschutzeinsätze nach den Artikeln 46 Absatz 2 und 49–53 BZG;
 
-  - b. durch die Missachtung von Vorschriften bei der Bewilligung von Einsätzen zugunsten der Gemeinschaft nach Artikel 27a Absatz 1 Buchstabe b BZG;
+  - b. durch die Missachtung von Vorschriften bei der Bewilligung von Einsätzen zugunsten der Gemeinschaft nach Artikel 53 Absatz 3 BZG;
 
   - c. widerrechtlich durch die Rechnungsführer der Zivilschutzorganisationen.
 

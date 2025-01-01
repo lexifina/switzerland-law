@@ -16,7 +16,7 @@
 
 3 Personen, die Schutzdienst leisten, haben jeden ganzen Tag, für den sie Sold nach Artikel 39 Absatz 1 Buchstabe a des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019 (BZG) beziehen, Anspruch auf eine Entschädigung. Ausgenommen ist das Personal der für den Zivilschutz zuständigen kantonalen und kommunalen Stellen, das im Rahmen von Einsätzen des Zivilschutzes zugunsten der Gemeinschaft nach Artikel 53 Absatz 3 BZG eingesetzt wird.
 
-4 Teilnehmer an eidgenössischen und kantonalen Kaderkursen von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011 sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995 sind den in Absatz 1 genannten Personen gleichgestellt.
+4 Personen, die an eidgenössischen und kantonalen Kursen der Kaderbildung von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011 sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995 teilnehmen, sind den in Absatz 1 genannten Personen gleichgestellt.
 
 4bis Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer ganzen Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG).
 
