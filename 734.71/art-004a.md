@@ -1,25 +1,9 @@
-# Art. 4a Abzug von Unterstützungen bei der Einrechnung von Beschaffungskosten in den Tarifanteil für die Energielieferung
+# Art. 4a Mindestanteile aus erneuerbaren Energien
 
-1 Stammt die nach Artikel 6 Absatz 5bis StromVG gelieferte Elektrizität nicht aus Erzeugungsanlagen des Verteilnetzbetreibers, so berücksichtigt er Einmalvergütungen oder Investitionsbeiträge bei der Bestimmung der höchstens einrechenbaren Kosten wie folgt:
+1 Der Mindestanteil der erweiterten Eigenproduktion aus erneuerbaren Energien aus dem Inland (Art. 6 Abs. 5 Bst. a StromVG), der in der Grundversorgung abgesetzt werden muss, beträgt ab dem Tarifjahr 2026 50 Prozent. Solange mindestens 80 Prozent der in der Grundversorgung abgesetzten Elektrizität aus dieser erweiterten Eigenproduktion stammt, müssen die Verteilnetzbetreiber diesen Mindestanteil nicht einhalten.
 
-  - a. Einmalvergütungen für Photovoltaikanlagen:
+2 Der Mindestanteil aus erneuerbaren Energien aus Anlagen im Inland (Art. 6 Abs. 5 Bst. b StromVG) beträgt ab dem Tarifjahr 2026 20 Prozent der in der Grundversorgung abgesetzten Elektrizität. Ist zur Erreichung dieses Mindestanteils der Abschluss von Bezugsverträgen erforderlich, so müssen diese eine Laufzeit von mindestens drei Jahren haben.
 
-    - 1. Wurde die Einmalvergütung vor der Beschaffung definitiv festgesetzt, so wird dieser Betrag abgezogen.
+3 Die Verteilnetzbetreiber legen die Prozentsätze gemäss den Absätzen 1 und 2 jeweils per 31. August für das nächste Tarifjahr in der Kostenträgerrechnung (Art. 6 Abs. 4 Satz 2 StromVG) fest.
 
-    - 2. Wurde die Einmalvergütung noch nicht definitiv festgesetzt, so wird ein Abzug vorgenommen, sobald das Projekt in die Warteliste aufgenommen wird; die Höhe des Abzugs bestimmt sich nach den Artikeln 7 und 38 EnFV.
-
-    - 3. Werden die Beschaffungskosten eingerechnet (Art. 4 Abs. 3), so werden unabhängig davon, ob eine Einmalvergütung zugesprochen worden ist, abgezogen:
-
-      - – bei Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen werden und die gesamte produzierte Elektrizität einspeisen: 40 Prozent des jeweils massgeblichen Vergütungssatzes;
-
-      - – bei den übrigen Anlagen: 20 Prozent des jeweils massgeblichen Vergütungssatzes.
-
-  - b. Investitionsbeiträge für Wasserkraft- und Biomasseanlagen:
-
-    - 1. Wurde der Investitionsbeitrag vor der Beschaffung definitiv festgesetzt, so wird dieser Betrag abgezogen.
-
-    - 2. In den übrigen Fällen wird ab Zusicherung dem Grundsatz nach ein Abzug in der Höhe des verfügten Höchstbetrags (Art. 54 Bst. b und 75 Bst. b EnFV) vorgenommen.
-
-2 Wird eine Einmalvergütung oder ein Investitionsbeitrag später abweichend vom nach Absatz 1 abgezogenen Betrag festgesetzt, so kann der Abzug mit Wirkung ab dem Zeitpunkt dieser Festsetzung entsprechend angepasst werden. Dies gilt nicht, sofern ein Pauschalabzug gemäss Absatz 1 Buchstabe a Ziffer 3 vorzunehmen ist.
-
-3 Weitere vergleichbare Unterstützungen, einschliesslich kantonale oder kommunale Unterstützungen, werden sinngemäss berücksichtigt.
+4 Sie müssen der ElCom zum Nachweis der Einhaltung der Mindestanteile auf Verlangen die entsprechenden Beteiligungen und die mittel- und langfristigen Bezugsverträge vorlegen.

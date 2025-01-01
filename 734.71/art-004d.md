@@ -1,11 +1,13 @@
-# Art. 4d Deckungsdifferenzen in der Grundversorgung
+# Art. 4d Kosten für Massnahmen zur Effizienzsteigerung
 
-1 Stimmt die Summe des Entgelts, das der Verteilnetzbetreiber für die Grundversorgung während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Energiekosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
+1 Von den Kosten, die für Massnahmen zur Erreichung der Zielvorgaben zur Effizienzsteigerung anfallen, kann den Endverbrauchern mit Grundversorgung derjenige Anteil belastet werden, der ihrem Anteil am Referenzstromabsatz entspricht.
 
-2 In begründeten Fällen kann die ElCom den Zeitraum zum Ausgleich einer Deckungsdifferenz verlängern.
+2 Festen Endverbrauchern und Endverbrauchern, die auf den Netzzugang verzichtet haben und die für die Bestimmung des Referenzstromabsatzes nicht berücksichtigt werden (Art. 51a Abs. 2 der Energieverordnung vom 1. November 2017 [EnV]), dürfen nicht mit Kosten belastet werden.
 
-3 Der Zinssatz, den der Verteilnetzbetreiber gegenüber dem Endverbraucher anwenden muss, entspricht:
+3 Die Kosten sind nur anrechenbar, wenn die Verteilnetzbetreiber:
 
-  - a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz gemäss Anhang 1;
+  - a. die Massnahmen in einem transparenten, diskriminierungsfreien und marktorientierten Verfahren in Auftrag gegeben haben;
 
-  - b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz gemäss Anhang 1.
+  - b. die Nachweise von Massnahmen höchstens zu marktüblichen Ansätzen erworben haben;
+
+  - c. die Massnahmen kostenbasiert, jedoch höchsten zu marktüblichen Ansätzen selber umgesetzt haben.

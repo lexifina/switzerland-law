@@ -1,7 +1,7 @@
-# Art. 13a Anrechenbare Kosten von Mess-, Steuer- und Regelsystemen
+# Art. 13a Kostenzuordnung für Massnahmen bei Gefährdung des sicheren Übertragungsnetzbetriebs
 
-Als anrechenbare Kosten gelten:
+Die folgenden Kosten sind nicht als Kosten für Massnahmen bei Gefährdung des sicheren Übertragungsnetzbetriebs nach Artikel 20a Absatz 5 StromVG anrechenbar:
 
-  - a. die Kapital- und Betriebskosten von Messsystemen nach dieser Verordnung;
+  - a. von Verteilnetzbetreibern für Massnahmen, die zu ihren regulären Aufgaben nach Artikel 8 Absatz 1 Buchstabe a StromVG gehören;
 
-  - b. die Kapital- und Betriebskosten von Steuer- und Regelsystemen, die im Sinn von Artikel 8c eingesetzt werden, einschliesslich der ausgerichteten Vergütung (Art. 8c Abs. 1 Bst. c).
+  - b. von Erzeugern, Endverbrauchern und Speicherbetreibern für Massnahmen zur Unterstützung von Verteilnetzbetreibern nach Artikel 8 Absatz 1bis erster Satz StromVG.

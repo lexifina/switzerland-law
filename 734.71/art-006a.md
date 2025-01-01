@@ -14,4 +14,4 @@
 
   - f. den Bedarf für das Projekt mittels Nachweis der wirtschaftlichen und technischen Wirksamkeit des Projekts.
 
-2 Die Mehrjahrespläne der Verteilnetze mit einer Nennspannung von über 36 kV sind von den Netzbetreibern innerhalb von neun Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat zu erstellen.
+2 Die Netzbetreiber müssen die Mehrjahrespläne für die Verteilnetze mit einer Nennspannung von über 36 kV innerhalb von zwölf Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat erstellen.
