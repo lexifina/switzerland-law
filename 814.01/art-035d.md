@@ -1,11 +1,17 @@
 # Art. 35d
 
-1 Werden in erheblichem Mass biogene Treib- und Brennstoffe oder Gemische, die biogene Treib- und Brennstoffe enthalten, in Verkehr gebracht, welche die Anforderungen nach Artikel 12b Absätze 1 und 3 des Mineralölsteuergesetzes vom 21. Juni 1996 nicht erfüllen, so kann der Bundesrat vorsehen, dass von ihm bezeichnete biogene Treib- und Brennstoffe nur in Verkehr gebracht werden dürfen, wenn sie bestimmte ökologische oder soziale Anforderungen erfüllen.
+1 Erneuerbare Brenn- und Treibstoffe dürfen nur in Verkehr gebracht werden, wenn sie bestimmte ökologische Anforderungen erfüllen.
 
-2 Von der Zulassungspflicht ausgenommen ist Ethanol zu Brennzwecken.
+2 Erneuerbare Brenn- und Treibstoffe, die aus Nahrungs- oder Futtermitteln hergestellt werden oder die die Erzeugung von Nahrungsmitteln direkt konkurrenzieren, dürfen nicht in Verkehr gebracht werden. Davon ausgenommen sind massenbilanzierte erneuerbare Brenn- und Treibstoffe, welche die ökologischen Anforderungen erfüllen.
 
-3 Der Bundesrat legt unter Berücksichtigung der Bestimmungen der Mineralölsteuergesetzgebung fest:
+3 Der Bundesrat legt die ökologischen Anforderungen fest. Er berücksichtigt dabei vergleichbare internationale Regelungen und Standards.
 
-  - a. die ökologischen oder sozialen Anforderungen, welche die zulassungspflichtigen biogenen Treib- und Brennstoffe erfüllen müssen;
+4 Er kann ökologische Anforderungen für das Inverkehrbringen von weiteren Brenn- und Treibstoffen vorsehen, die deutlich tiefere Treibhausgasemissionen verursachen als konventionelle fossile Brenn- und Treibstoffe.
 
-  - b. das Verfahren der Zulassung.
+5 Er kann vorsehen, dass die Anforderungen nach diesem Artikel nicht gelten für:
+
+  - a. Ethanol zu Brennzwecken;
+
+  - b. erneuerbare Brenn- und Treibstoffe, die nur in geringen Mengen in Verkehr gebracht werden.
+
+6 Er kann weitere Ausnahmen vorsehen, sofern dies aufgrund der Marktgegebenheiten erforderlich ist.
