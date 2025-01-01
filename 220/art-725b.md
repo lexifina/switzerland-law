@@ -10,7 +10,7 @@
 
   - 1. wenn Gesellschaftsgläubiger im Ausmass der Überschuldung im Rang hinter alle anderen Gläubiger zurücktreten und ihre Forderungen stunden, sofern der Rangrücktritt den geschuldeten Betrag und die Zinsforderungen während der Dauer der Überschuldung umfasst; oder
 
-  - 2. solange begründete Aussicht besteht, dass die Überschuldung innert angemessener Frist, spätestens aber 90 Tage nach Vorliegen der geprüften Zwischenabschlüssen, behoben werden kann und dass die Forderungen der Gläubiger nicht zusätzlich gefährdet werden.
+  - 2. solange begründete Aussicht besteht, dass die Überschuldung innert angemessener Frist, spätestens aber 90 Tage nach Vorliegen der geprüften Zwischenabschlüsse, behoben werden kann und dass die Forderungen der Gläubiger nicht zusätzlich gefährdet werden.
 
 5 Verfügt die Gesellschaft über keine Revisionsstelle, so obliegen dem zugelassenen Revisor die Anzeigepflichten der eingeschränkt prüfenden Revisionsstelle.
 
