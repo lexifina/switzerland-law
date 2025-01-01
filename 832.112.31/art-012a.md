@@ -34,7 +34,7 @@
 
   - o. Impfung gegen Herpes Zoster | Mit dem adjuvantierten Subunit-Impfstoff.Bei den Alters- und Risikogruppen gemäss Impfplan 2024.
 
-  - p. Impfung gegen Mpox | Für Personen mit einem erhöhten Expositionsrisiko gemäss «Analyserahmen und Empfehlungen zur Impfung gegen Affenpocken» des BAG und der EKIF vom 1. September 2022.Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.Die Kostenübernahme ist in Evaluation bis zum 31. Dezember 2024.
+  - p. Impfung gegen Mpox | Für Personen mit einem erhöhten Expositionsrisiko gemäss «Analyserahmen und Empfehlungen zur Impfung gegen Affenpocken» des BAG und der EKIF vom 1. September 2022.Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.Die Kostenübernahme ist in Evaluation bis zum 31. Dezember 2025.
 
   - q. Impfung gegen Rotaviren | Gemäss Impfplan 2024.
 
