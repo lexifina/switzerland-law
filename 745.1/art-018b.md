@@ -1,13 +1,7 @@
-# Art. 18b Nebennutzungen
+# Art. 18b Benützungsvorschriften
 
-1 Die Unternehmen können Anlagen und Fahrzeuge neben dem Beförderungszweck Dritten für kommerzielle Nebennutzungen zur Verfügung stellen, wenn:
+1 Die Unternehmen können Vorschriften über die Benützung ihrer Anlagen und Fahrzeuge erlassen, soweit diese Vorschriften für den sicheren und reibungslosen Betrieb der Anlagen und Fahrzeuge erforderlich sind und sich die Verhaltenspflichten nicht aus dem Transportvertrag ergeben.
 
-  - a. der Beförderungszweck dadurch nicht beeinträchtigt wird;
+2 Sie können zur Umsetzung der Benützungsvorschriften Verfügungen erlassen.
 
-  - b. die Anlagen und Fahrzeuge auch nicht kommerziellen Nebennutzungen offenstehen.
-
-2 Sie können Nebennutzungen des gesteigerten Gemeingebrauchs von einer Bewilligung abhängig machen.
-
-3 Das Entgelt für nicht kommerzielle Nebennutzungen des allgemeinen oder des gesteigerten Gemeingebrauchs darf den Aufwand nicht übersteigen.
-
-4 Streitigkeiten zwischen kommerziellen Nutzerinnen oder Nutzern und den Unternehmen beurteilt das Zivilgericht.
+3 Sie veröffentlichen die Benützungsvorschriften.

@@ -1,6 +1,6 @@
 # Art. 32f Ausschluss vom Ausschreibungsverfahren
 
-Die Besteller können ein Unternehmen vom Ausschreibungsverfahren ausschliessen, insbesondere wenn es:
+Die Besteller der gemeinsam bestellten Angebote können ein Unternehmen vom Ausschreibungsverfahren ausschliessen, insbesondere wenn es:
 
   - a. die Eignungskriterien nicht erfüllt;
 
