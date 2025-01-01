@@ -12,7 +12,9 @@
 
   - d. Leistung;
 
-  - e. Inbetriebnahmedatum.
+  - e. Inbetriebnahmedatum;
+
+  - f. Angabe, ob die Anlage im nationalen Interesse ist oder nicht.
 
 3 Wird eine Elektrizitätsproduktionsanlage erweitert, so enthält die Gesamtsicht zudem die Angaben zu Anlagenkategorie, Leistung und Inbetriebnahmedatum der Erweiterung.
 
