@@ -2,7 +2,9 @@
 
 1 Sind die Voraussetzungen für eine ordentliche Revision nicht gegeben, so muss die Gesellschaft ihre Jahresrechnung durch eine Revisionsstelle eingeschränkt prüfen lassen.
 
-2 Mit der Zustimmung sämtlicher Aktionäre kann auf die eingeschränkte Revision verzichtet werden, wenn die Gesellschaft nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat.
+2 Mit der Zustimmung sämtlicher Aktionäre kann auf die eingeschränkte Revision verzichtet werden, wenn die Gesellschaft nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat. Der Verzicht gilt nur für künftige Geschäftsjahre und muss vor Beginn des Geschäftsjahres beim Handelsregisteramt angemeldet werden.
+
+2bis Der Anmeldung des Verzichts im Handelsregister muss die Jahresrechnung des zuletzt abgelaufenen Geschäftsjahres beigelegt werden.
 
 3 Der Verwaltungsrat kann die Aktionäre schriftlich um Zustimmung ersuchen. Er kann für die Beantwortung eine Frist von mindestens 20 Tagen ansetzen und darauf hinweisen, dass das Ausbleiben einer Antwort als Zustimmung gilt.
 
