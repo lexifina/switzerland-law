@@ -8,7 +8,7 @@
 
   - b. die Daten zu den abgegebenen Pflanzenschutzmitteln oder zu mit Pflanzenschutzmitteln behandeltem Saatgut nach Artikel 16a Absatz 1 Buchstabe d.
 
-3 Unternehmen und Personen, die eine andere Person mit der Ausbringung von Pflanzenschutzmitteln nach Artikel 16a Absatz 1 Buchstabe c beauftragen, erfassen die Daten zur beauftragten Verwenderin oder zum beauftragten Verwender im IS PSM.
+3 Die Unternehmen und Personen, die ein anderes Unternehmen oder eine andere Person mit der Ausbringung von Pflanzenschutzmitteln nach Artikel 16a Absatz 1 Buchstabe c beauftragen, erfassen die Daten zur beauftragten Verwenderin oder zum beauftragten Verwender.
 
 4 Die Unternehmen, die Bewirtschafterinnen und Bewirtschafter und die anderen Verwenderinnen und Verwender nach Artikel 16a Absatz 1 Buchstaben b und c erfassen die Daten der von ihnen beruflich verwendeten Pflanzenschutzmittel nach Artikel 16a Absatz 1 Buchstabe e.
 
@@ -25,3 +25,5 @@
 7 Datenkorrekturen sind durch die Unternehmen und Personen nach den Absätzen 2–4 vorzunehmen.
 
 8 Die Erfassung der Daten nach den Absätzen 2–4 und die Datenkorrekturen nach Absatz 7 zu einem Kalenderjahr müssen bis zum 31. Januar des Folgejahres abgeschlossen sein.
+
+9 Die zuständige kantonale Behörde kann Daten nach Artikel 16a Absatz 1 Buchstaben b, f und g zu einem Kalenderjahr bis Ende März des Folgejahres erfassen, berichtigen oder ergänzen.

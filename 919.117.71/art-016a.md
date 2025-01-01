@@ -10,6 +10,10 @@
 
   - d. Daten zu den in Verkehr gebrachten Pflanzenschutzmitteln oder dem mit Pflanzenschutzmitteln behandelten Saatgut nach Artikel 62 Absatz 1 PSMV;
 
-  - e. Daten zu jeder beruflichen Verwendung von Pflanzenschutzmitteln nach Artikel 62 Absatz 1bis PSMV, namentlich im Rahmen der Ausbringung im Einzelfall (Anwendung).
+  - e. Daten zu jeder beruflichen Verwendung von Pflanzenschutzmitteln nach Artikel 62 Absatz 1bis PSMV, namentlich im Rahmen der Ausbringung im Einzelfall (Anwendung);
+
+  - f. Daten zur Menge der abgegebenen, weitergegebenen, zurückgenommenen, im Auftrag ausgebrachten oder eingeführten Produkte mit den jeweiligen Wirkstoffen;
+
+  - g. Daten zu den Vorräten jedes Produktes nach Buchstabe d bei den Personen nach Buchstabe b mit den jeweiligen Wirkstoffen.
 
 2 Die relevanten Datenkategorien sind in Anhang 3b festgelegt.
