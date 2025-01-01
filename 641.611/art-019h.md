@@ -1,6 +1,6 @@
 # Art. 19h Geltungsdauer der Steuererleichterung
 
-1 Die Steuererleichterung gilt für vier Jahre ab Verfügungsdatum. Sie wird widerrufen, falls die Voraussetzungen nicht mehr erfüllt sind.
+1 Die Steuererleichterung gilt bis zum 31. Dezember 2030. Sie wird widerrufen, falls die Voraussetzungen nicht mehr erfüllt sind.
 
 2 Importeure und Herstellungsbetriebe müssen der Steuerbehörde folgende Änderungen unverzüglich mitteilen:
 
