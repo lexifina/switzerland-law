@@ -1,13 +1,7 @@
 # Art. 87e Zusicherung dem Grundsatz nach
 
-Ergibt die Prüfung des Gesuchs, dass die Anspruchsvoraussetzungen erfüllt sind, und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so sichert das BFE den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
+Sind die Anspruchsvoraussetzungen voraussichtlich erfüllt und stehen genügend Mittel zur Verfügung, so sichert die Vollzugsstelle den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
 
-  - a. die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten;
+  - a. die voraussichtliche Höhe des Investitionsbeitrags aufgrund der geplanten Anlagenleistung;
 
-  - b. den Höchstbetrag, den der Investitionsbeitrag nicht überschreiten darf;
-
-  - c. bis wann spätestens mit dem Bau zu beginnen ist;
-
-  - d. den Zahlungsplan gemäss Artikel 87j;
-
-  - e. die Frist, innerhalb der die Anlage in Betrieb zu nehmen ist.
+  - b. den Höchstbetrag, den der Investitionsbeitrag nicht überschreiten darf; er entspricht dem nach Buchsstabe a festgesetzten Betrag.

@@ -1,9 +1,7 @@
 # Art. 87j Gestaffelte Auszahlung des Investitionsbeitrags
 
-1 Der Investitionsbeitrag wird in mehreren Tranchen ausbezahlt.
+Der Investitionsbeitrag wird in zwei Tranchen ausbezahlt:
 
-2 Das BFE setzt den Zeitpunkt für die Auszahlung der einzelnen Tranchen und die Höhe der pro Tranche auszuzahlenden Beträge einzelfallweise in der Zusicherung nach Artikel 87e fest (Zahlungsplan).
+  - a. 50 Prozent des nach Artikel 87g aktualisierten Höchstbetrags: bei Baubeginn;
 
-3 Die erste Tranche darf frühestens bei Baubeginn ausbezahlt werden.
-
-4 Die letzte Tranche darf erst nach der definitiven Festsetzung des Investitionsbeitrags ausbezahlt werden. Bis dahin dürfen maximal 80 Prozent des in der Zusicherung nach Artikel 87e festgesetzten Höchstbetrags ausbezahlt werden.
+  - b. Differenz des Betrags nach Buchstabe a zum definitiven Investitionsbeitrag: nach Eintritt der Rechtskraft der definitiven Festsetzung des Investitionsbeitrags.

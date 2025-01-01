@@ -1,11 +1,9 @@
-# Art. 46f Widerruf des Zuschlags und Sanktion
+# Art. 46f Widerruf des Zuschlags
 
-1 Die Vollzugsstelle widerruft den Zuschlag und behält die hinterlegte Sicherheitsleistung als Sanktion zugunsten des Netzzuschlagsfonds ein, wenn:
+Die Vollzugsstelle widerruft den Zuschlag, wenn:
 
   - a. nach der Inbetriebnahme nicht alle Anspruchsvoraussetzungen erfüllt sind;
 
   - b. die Inbetriebnahme nicht fristgerecht erfolgt;
 
-  - c. der Standort der Anlage nicht dem im Gebot angegebenen Standort entspricht.
-
-2 Die Vollzugsstelle kann die hinterlegte Sicherheitsleistung als Sanktion ganz oder teilweise zugunsten des Netzzuschlagsfonds einbehalten, wenn die Inbetriebnahmemeldung nicht spätestens drei Monate ab der Inbetriebnahme erfolgt.
+  - c. der Standort der Anlage nicht dem im Gebot angegebenen entspricht.

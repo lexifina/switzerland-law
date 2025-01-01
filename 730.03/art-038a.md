@@ -6,6 +6,8 @@
 
 3 Die mittels Auktionen bestimmte Einmalvergütung besteht aus einem Leistungsbeitrag pro Kilowatt installierte Leistung.
 
-4 Weist eine Anlage einen Neigungswinkel von mindestens 75 Grad auf, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Neigungswinkelbonus gemäss Artikel 38 Absatz 1bis oder 1ter gewährt.
+4 Der Ansatz, der im Gebot angegeben wurde, wird um einen oder mehrere Boni erhöht, wenn die Voraussetzungen nach Artikel 30c Absatz 2 erfüllt sind.
 
-5 Erfüllt eine Anlage die Voraussetzungen gemäss Artikel 38 Absatz 1quater, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Höhenbonus gewährt.
+5 Die Höhe der Boni ist in Anhang 2.1 Ziffer 2.7 festgelegt.
+
+6 Erfüllen nur Teile einer Anlage die Voraussetzungen für einen Bonus, so werden die Boni nur für die Leistung dieser Teile gewährt.

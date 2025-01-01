@@ -1,6 +1,6 @@
-# Art. 87h Erstrecken von Fristen
+# Art. 87h Erstrecken der Inbetriebnahmefrist
 
-Das BFE kann die Fristen für die Inbetriebnahme und für das Einreichen der Bauabschlussmeldung auf Gesuch des Antragstellers erstrecken, wenn:
+Die Vollzugsstelle kann die Frist für die Inbetriebnahme auf Gesuch des Antragstellers erstrecken, wenn:
 
   - a. die Frist aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden kann; und
 

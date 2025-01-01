@@ -4,8 +4,4 @@
 
 2 Ist die Leistung der Anlage grösser als im Gebot angegeben, so wird die Einmalvergütung nur für die im Gebot angegebene Leistung entrichtet.
 
-3 Ist die Leistung der Anlage kleiner als im Gebot angegeben, so wird:
-
-  - a. die Einmalvergütung nur für die tatsächlich installierte Leistung entrichtet;
-
-  - b. die hinterlegte Sicherheit entsprechend der Abweichung vom Gebot anteilsmässig einbehalten, wenn die tatsächlich installierte Leistung weniger als 90 Prozent der angebotenen Leistung beträgt.
+3 Ist die Leistung der Anlage kleiner als im Gebot angegeben, so wird die Einmalvergütung nur für die tatsächlich installierte Leistung entrichtet.

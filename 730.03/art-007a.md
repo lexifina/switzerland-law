@@ -1,4 +1,4 @@
-# Art. 67 Kategorien
+# Art. 7a Kategorien von Biomasseanlagen
 
 1 Als Biogasanlagen gelten Anlagen zur Erzeugung von Elektrizität und Wärme aus biogenem Gas, das entweder am Standort des WKK-Moduls oder an einem mit einer betriebseigenen Gasleitung erschlossenen Standort durch die Vergärung von Biomasse erzeugt wird.
 
@@ -6,7 +6,7 @@
 
 3 Als KVA gelten Anlagen zur thermischen Behandlung von Siedlungsabfällen nach den Artikeln 31 und 32 der Abfallverordnung vom 4. Dezember 2015 (VVEA).
 
-4 Als Schlammverbrennungsanlagen gelten Anlagen zur thermischen Behandlung von Abfällen aus Biomasse insbesondere Klärschlämme, Papierschlämme und Schlämme aus der Lebensmittelindustrie nach den Artikeln 31 und 32 VVEA.
+4 Als Schlammverbrennungsanlagen gelten Anlagen zur thermischen Behandlung von Abfällen aus Biomasse insbesondere Klärschlämme, Papierschlämme und Schlämme aus der Lebensmittelindustrie nach den Artikeln 31 und 32 VVEA, auch wenn in diesen Anlagen zusätzlich andere Biomasse eingesetzt wird.
 
 5 Als Klärgasanlagen gelten Anlagen zur Nutzung von Klärgas aus Abwasserreinigungsanlagen des Gemeinwesens zur Erzeugung von Elektrizität und Wärme, unabhängig davon, ob in diesen Anlagen auch angelieferte Co-Substrate vergärt werden.
 
