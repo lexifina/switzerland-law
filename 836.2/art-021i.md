@@ -1,6 +1,6 @@
 # Art. 21i Verfahren und Höchstsatz
 
-1 Gesuche um Finanzhilfen sind beim Bundesamt für Sozialversicherungen (BSV) einzureichen.
+1 Gesuche um Finanzhilfen sind beim BSV einzureichen.
 
 2 Die Finanzhilfen werden auf der Grundlage eines öffentlich-rechtlichen Vertrags ausgerichtet.
 

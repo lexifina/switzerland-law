@@ -8,4 +8,6 @@ Die Zentrale Ausgleichsstelle führt ein Familienzulagenregister, um:
 
   - c. die Stellen nach Artikel 21c beim Vollzug dieses Gesetzes zu unterstützen;
 
-  - d. dem Bund und den Kantonen als Auskunftsstelle zu dienen, sowie die für die statistischen Erhebungen benötigten Daten zu liefern.
+  - d. dem Bund und den Kantonen als Auskunftsstelle zu dienen, sowie die für die statistischen Erhebungen benötigten Daten zu liefern;
+
+  - e. die zuständigen Stellen von Bund und Kantonen im Falle der Geltendmachung von Leistungsansprüchen zu informieren, wenn der Informationsanspruch in einem Bundesgesetz vorgesehen ist.
