@@ -20,7 +20,7 @@
 
   - b. abzüglich der von der SNB vorgegebenen Wertabschläge auf den Hypothekarforderungen nach Buchstabe a;
 
-  - c. abzüglich fünf Prozent des Gesamtengagements der Bank nach Artikel 46 Absatz 2 ERV.
+  - c. abzüglich 5 Prozent des Gesamtengagements der Bank nach Artikel 42a ERV.
 
 5 HQLA, die nach Artikel 15c Absatz 8 nicht angerechnet werden, und weitere HQLA nach den Absätzen 1 und 2 des vorliegenden Artikels, die eine Niederlassung oder eine konsolidierte Einheit zur Erfüllung der lokalen Liquiditätsanforderungen hält, dürfen so weit an den Bestand der anrechenbaren Vermögenswerte der Bank angerechnet werden, als diese Niederlassung oder Einheit zum Liquiditätsbedarf der Bank beiträgt, der sich aus den besonderen Liquiditätsanforderungen ergibt.
 

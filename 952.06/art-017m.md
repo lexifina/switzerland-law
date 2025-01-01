@@ -6,9 +6,9 @@
 
   - b. die nach Buchstabe a gewichteten Buchwerte über alle RSF-Kategorien addiert werden.
 
-2 Der Buchwert der Aktiva und Ausserbilanzpositionen berechnet sich nach ihrem im Abschluss ausgewiesenen Wert. Wertberichtigungen sind nach Absatz 52 des Standardansatzes unter Basel II und Absatz 12 des Basler Regelwerks zur Leverage Ratio zu berücksichtigen.
+2 Der Buchwert der Aktiva und Ausserbilanzpositionen berechnet sich nach ihrem im Abschluss ausgewiesenen Wert. Wertberichtigungen sind nach Ziffer 20.1 des Basler Mindeststandards zur Berechnung der nach Risiko gewichteten Positionen für Kreditrisiken (CRE) in der Fassung nach Anhang 1 Ziffer 4 ERV und nach Kapitel 30 LEV in der Fassung nach Anhang 1 Ziffer 7 ERV zu berücksichtigen.
 
-3 Bei der Berechnung des Buchwerts von lastenfreien Hypothekarforderungen für Wohnliegenschaften nach Anhang 5 Ziffer 5.1 sind die als Sicherheiten für Pfandbriefdarlehen nach PfG verpfändeten Aktiven gesamthaft in Abzug zu bringen.
+3 Bei der Berechnung des Buchwerts von lastenfreien Hypothekarforderungen für Wohnliegenschaften nach Anhang 5 Ziffern 5.1 und 5.1a sind die als Sicherheiten für Pfandbriefdarlehen nach dem PfG verpfändeten Aktiven gesamthaft in Abzug zu bringen.
 
 4 Bei der Berechnung des Buchwerts von belasteten Hypothekarforderungen und der Dauer ihrer Belastung ist vom Buchwert und der Restlaufzeit der zu sichernden Pfandbriefdarlehen auszugehen.
 

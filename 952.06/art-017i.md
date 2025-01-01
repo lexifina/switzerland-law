@@ -8,7 +8,7 @@
 
   - a. es sich um ein besichertes Finanzierungsgeschäft mit ein und derselben Gegenpartei handelt; und
 
-  - b. die Bedingungen nach Absatz 33(i) des Basler Regelwerks zur Höchstverschuldungsquote (Leverage Ratio) erfüllt sind.
+  - b. die Bedingungen nach Ziffer 30.37 des Basler Mindeststandards zur Höchstverschuldungsquote (LEV) in der Fassung nach Anhang 1 Ziffer 7 ERV erfüllt sind.
 
 4 Die FINMA erlässt Ausführungsbestimmungen für die Berechnung:
 
