@@ -2,7 +2,7 @@
 
 1 Als berufliche Tätigkeiten im Sinne von Artikel 67 gelten Tätigkeiten in Ausübung eines Haupt- oder Nebenberufs oder -gewerbes oder eines Handelsgeschäfts. Als organisierte ausserberufliche Tätigkeiten gelten Tätigkeiten, die nicht oder nicht primär zu Erwerbszwecken und die im Rahmen eines Vereins oder einer anderen Organisation ausgeübt werden.
 
-2 Das Tätigkeitsverbot nach Artikel 67 umfasst die Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person oder Handelsgesellschaft, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt.
+2 Das Tätigkeitsverbot nach Artikel 67 umfasst die Tätigkeiten, die der Täter selbstständig, als Organ einer juristischen Person oder Handelsgesellschaft oder in einer anderen Funktion, die im Handelsregister einzutragen ist, als Beauftragter oder als Vertreter einer anderen Person ausübt oder durch eine von seinen Weisungen abhängige Person ausüben lässt.
 
 3 Besteht die Gefahr, dass der Täter seine Tätigkeit auch zur Begehung von Straftaten missbraucht, wenn er sie nach Weisung und unter Kontrolle eines Vorgesetzten oder einer Aufsichtsperson ausübt, so ist ihm die Tätigkeit ganz zu untersagen.
 
