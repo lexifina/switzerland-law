@@ -1,6 +1,6 @@
 # Art. 9d Mehrjahrespläne
 
-1 Die Netzbetreiber erstellen für ihre Netze mit einer Nennspannung von über 36 kV auf der Grundlage des Szenariorahmens und entsprechend dem weiteren Bedarf für ihr Netzgebiet einen auf zehn Jahre ausgelegten Entwicklungsplan (Mehrjahresplan). Die nationale Netzgesellschaft legt ihren Mehrjahresplan innerhalb von neun Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat der ElCom zur Prüfung vor.
+1 Die Netzbetreiber erstellen für ihre Netze mit einer Nennspannung von über 36 kV auf der Grundlage des Szenariorahmens und entsprechend dem weiteren Bedarf für ihr Netzgebiet einen auf den Zeitraum des Szenariorahmens ausgelegten Entwicklungsplan (Mehrjahresplan). Die nationale Netzgesellschaft legt ihren Mehrjahresplan innerhalb von zwölf Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat der ElCom zur Prüfung vor.
 
 2 Der vorzulegende Mehrjahresplan enthält folgende Angaben:
 
