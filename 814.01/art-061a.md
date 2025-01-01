@@ -1,11 +1,11 @@
-# Art. 61a Widerhandlungen gegen die Vorschriften über die Lenkungsabgaben und über die biogenen Treib- und Brennstoffe
+# Art. 61a Hinterziehung von Lenkungsabgaben
 
-1 Wer vorsätzlich oder fahrlässig eine Abgabe nach den Artikeln 35a, 35b oder 35bbis hinterzieht, gefährdet oder sich oder einem anderen einen unrechtmässigen Abgabevorteil (Befreiung oder Rückerstattung von Abgaben) verschafft, wird mit Busse bis zum Fünffachen der hinterzogenen oder gefährdeten Abgabe oder des Vorteils bestraft. Kann der Abgabebetrag zahlenmässig nicht genau ermittelt werden, so wird er geschätzt.
+1 Mit Busse bis zum Fünffachen des unrechtmässigen Abgabevorteils wird bestraft, wer vorsätzlich sich oder einer anderen Person einen unrechtmässigen Abgabevorteil im Zusammenhang mit der Abgabe nach Artikel 35a verschafft, namentlich die Abgabe hinterzieht oder die Abgabebefreiung, -vergütung oder -rückerstattung unrechtmässig erwirkt.
 
-2 Wer vorsätzlich oder fahrlässig biogene Treib- oder Brennstoffe ohne Zulassung nach Artikel 35d in Verkehr bringt oder eine Zulassung mit falschen, unwahren oder unvollständigen Angaben erschleicht, wird mit Busse bis zu 500 000 Franken bestraft.
+2 Der Versuch ist strafbar.
 
-3 Der Versuch einer Widerhandlung nach den Absätzen 1 und 2 ist strafbar.
+3 Handelt der Täter fahrlässig, so ist die Strafe Busse bis zum Dreifachen des unrechtmässigen Abgabevorteils.
 
-4 Verfolgende und urteilende Behörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG).
+4 Lässt sich der unrechtmässige Abgabevorteil nicht genau ermitteln, so wird er im Rahmen des Verwaltungsverfahrens geschätzt.
 
-5 Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch das BAZG zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+5 Verfolgende und urteilende Behörde ist das BAZG.
