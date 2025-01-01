@@ -1,6 +1,6 @@
 # Art. 106c Aufgaben des Versicherers
 
-1 Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann.
+1 Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann. Er teilt dem Kanton ausserdem die genehmigte Prämie sowie den Ausgleichsbetrag nach Artikel 26 Absatz 4 der Krankenversicherungsaufsichtsverordnung vom 18. November 2015 mit.
 
 2 Er meldet dem Kanton wesentliche Änderungen im Verhältnis zwischen der versicherten Person und ihm. Das EDI kann festlegen, welche Änderungen als wesentlich gelten.
 
