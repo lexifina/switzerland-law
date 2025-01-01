@@ -3,3 +3,5 @@
 1 Die Frist nach Artikel 9a wird bis zum 31. Januar 2023 verlängert.
 
 2 Die Frist nach Artikel 9a wird bis zum 31. Dezember 2024 verlängert.
+
+3 Die Frist nach Artikel 9a wird bis zum 31. Dezember 2026 verlängert.
