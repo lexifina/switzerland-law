@@ -4,7 +4,7 @@
 
 2) [Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung]
 
-  - a) Erklärt eine Vertragspartei nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1, dass sie eine individuelle Bestimmungsgebühr zu erhalten wünscht, so ist die Höhe der Gebühr dem Internationalen Büro in der von ihrem Amt verwendeten Währung anzugeben.
+  - a) Erklärt eine Vertragspartei nach Artikel 7 Absatz 2, dass sie eine individuelle Bestimmungsgebühr zu erhalten wünscht, so ist die Höhe der Gebühr dem Internationalen Büro in der von ihrem Amt verwendeten Währung anzugeben.
 
   - b) Wird die Gebühr in der unter Buchstabe a genannten Erklärung nicht in Schweizer Währung angegeben, so setzt der Generaldirektor nach Beratung mit dem Amt der betreffenden Vertragspartei den Gebührenbetrag in Schweizer Währung auf der Basis des amtlichen Wechselkurses der Vereinten Nationen fest.
 

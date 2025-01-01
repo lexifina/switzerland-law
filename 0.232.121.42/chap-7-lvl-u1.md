@@ -1,6 +1,6 @@
 # Regel 27Höhe und Zahlung der Gebühren
 
-1) [Höhe der Gebühren] Mit Ausnahme der individuellen Bestimmungsgebühren nach Regel 12 Absatz 1 Buchstabe a Ziffer iii ergeben sich die Beträge der nach dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 und dieser Ausführungsordnung zu entrichtenden Gebühren aus dem Gebührenverzeichnis, das im Anhang dieser Ausführungsordnung erscheint und Bestandteil derselben ist.
+1) [Höhe der Gebühren] Mit Ausnahme der individuellen Bestimmungsgebühren nach Regel 12 Absatz 1 Buchstabe a Ziffer iii ergeben sich die Beträge der nach dieser Ausführungsordnung zu entrichtenden Gebühren aus dem Gebührenverzeichnis, das im Anhang dieser Ausführungsordnung erscheint und Bestandteil derselben ist.
 
 2) [Festsetzung des Betrages der individuellen Bestimmungsgebühren in Schweizer Währung]
 

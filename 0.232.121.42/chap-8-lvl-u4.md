@@ -1,12 +1,12 @@
 # Regel 33Änderung bestimmter Regeln
 
-1) [Erfordernis der Einstimmigkeit] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung setzt Einstimmigkeit der durch das Abkommen in der Fassung von 1999 gebundenen Vertragsparteien voraus:
+1) [Erfordernis der Einstimmigkeit] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung setzt Einstimmigkeit der durch das Abkommen gebundenen Vertragsparteien voraus:
 
   - i) Regel 13 Absatz 4;
 
   - ii) Regel 18 Absatz 1.
 
-(2) [Erfordernis einer Mehrheit von vier Fünfteln] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung und des Absatzes 3 der vorliegenden Regel setzt eine Mehrheit von vier Fünfteln der durch das Abkommen in der Fassung von 1999 gebundenen Vertragsparteien voraus:
+(2) [Erfordernis einer Mehrheit von vier Fünfteln] Die Änderung der folgenden Bestimmungen dieser Ausführungsordnung und des Absatzes 3 der vorliegenden Regel setzt eine Mehrheit von vier Fünfteln der durch das Abkommen gebundenen Vertragsparteien voraus:
 
   - i) Regel 7 Absatz 7;
 

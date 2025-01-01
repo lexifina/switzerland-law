@@ -14,4 +14,4 @@
 
   - b) Bei jeder Bekanntmachung wird der Zeitpunkt angegeben, an dem die bekannt gemachten Bestimmungen in Kraft treten. Der Zeitpunkt muss nicht für alle Bestimmungen derselbe sein, jedoch kann keine Bestimmung vor dem Datum ihrer Bekanntmachung auf der Internetseite der Organisation für wirksam erklärt werden.
 
-4) [Mangelnde Übereinstimmung zwischen den Verwaltungsvorschriften und dem Abkommen in der Fassung von 1999, dem Abkommen in der Fassung von 1960 oder dieser Ausführungsordnung] Im Falle mangelnder Übereinstimmung einer Bestimmung der Verwaltungsvorschriften und einer Bestimmung des Abkommens in der Fassung von 1999, des Abkommens in der Fassung von 1960 oder dieser Ausführungsordnung haben Letztere Vorrang.
+4) [Mangelnde Übereinstimmung zwischen den Verwaltungsvorschriften und dem vorliegenden Abkommen, dem Abkommen in der Fassung von 1960 oder dieser Ausführungsordnung] Im Falle mangelnder Übereinstimmung einer Bestimmung der Verwaltungsvorschriften und einer Bestimmung des vorliegenden Abkommens, des Abkommens in der Fassung von 1960 oder dieser Ausführungsordnung haben Letztere Vorrang.
