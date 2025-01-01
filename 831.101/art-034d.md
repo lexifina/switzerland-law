@@ -1,6 +1,6 @@
 # Art. 34d Geringfügiger Lohn
 
-1 Vom massgebenden Lohn, der je Arbeitgeber den Betrag von 2300 Franken im Kalenderjahr nicht übersteigt, werden die Beiträge nur auf Verlangen des Versicherten erhoben.
+1 Vom massgebenden Lohn, der je Arbeitgeber den Betrag von 2500 Franken im Kalenderjahr nicht übersteigt, werden die Beiträge nur auf Verlangen des Versicherten erhoben.
 
 2 In jedem Fall entrichtet werden müssen die Beiträge:
 
