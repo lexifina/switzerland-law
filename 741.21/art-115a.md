@@ -1,6 +1,6 @@
 # Art. 115a Befristet anwendbare Normen
 
-Folgende Normen sind bis zum 31. Dezember 2024 anwendbar:
+Folgende Normen sind bis zum 31. Dezember 2026 anwendbar:
 
   - a. Anzeige der Fahrstreifen: Schweizer Norm (SN) 640 814b in der Fassung vom Mai 1998;
 
