@@ -1,7 +1,7 @@
 # Art. 32g Vergabeentscheid
 
-1 Die Besteller vergeben das ausgeschriebene Verkehrsangebot dem Unternehmen mit dem wirtschaftlich günstigsten Angebot.
+1 Die Besteller der gemeinsam bestellten Angebote vergeben das ausgeschriebene Angebot dem Unternehmen mit der vorteilhaftesten Offerte.
 
-2 Sie berücksichtigen bei der Ermittlung des wirtschaftlich günstigsten Angebots insbesondere die Qualität, das Angebotskonzept, die Erlöse, die Kosten und die Umweltverträglichkeit.
+2 Sie berücksichtigen bei der Ermittlung der vorteilhaftesten Offerte insbesondere die Qualität, das Angebotskonzept, die Kosten, den Innovationsgehalt, die Nachhaltigkeit und die Plausibilität des Angebots.
 
-3 Das Verkehrsangebot wird für die in den Ausschreibungsunterlagen vorgesehene Geltungsdauer vergeben.
+3 Das Angebot wird für die in den Ausschreibungsunterlagen vorgesehene Geltungsdauer vergeben.

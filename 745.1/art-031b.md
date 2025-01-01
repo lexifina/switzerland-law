@@ -1,3 +1,5 @@
-# Art. 31b Periodizität des Bestellverfahrens
+# Art. 31b Bestellverfahren
 
-Das Bestellverfahren wird alle zwei Jahre durchgeführt. Das BAV stimmt das Bestellverfahren mit der Fahrplanperiode ab.
+1 Das Bestellverfahren wird alle zwei Jahre durchgeführt. Das BAV stimmt das Bestellverfahren mit der Leistungs- und Angebotsplanung ab.
+
+2 Der Bundesrat legt die Einzelheiten des Bestellverfahrens sowie die Grundsätze für die Abgeltung nach Anhörung der Kantone fest.
