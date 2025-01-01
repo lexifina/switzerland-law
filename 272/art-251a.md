@@ -1,6 +1,6 @@
 # Art. 251a Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht
 
-Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
+1 Das summarische Verfahren gilt für folgende Angelegenheiten:
 
   - a. Ernennung und Ersetzung von Mitgliedern des Schiedsgerichts (Art. 179 Abs. 2–5 IPRG);
 
@@ -15,3 +15,5 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
   - f. Hinterlegung des Schiedsentscheids und Ausstellung einer Vollstreckbarkeitsbescheinigung (Art. 193 IPRG);
 
   - g. Anerkennung und Vollstreckung ausländischer Schiedsentscheide (Art. 194 IPRG).
+
+2 Das kantonale Recht kann vorsehen, dass auf Antrag sämtlicher Parteien die englische Sprache als Verfahrenssprache benutzt wird, wenn für die Schiedsvereinbarung oder Schiedsklausel oder als Verfahrenssprache im Schiedsverfahren die englische Sprache verwendet wird.
