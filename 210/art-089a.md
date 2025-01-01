@@ -99,3 +99,9 @@
   - 2. Über Teilliquidationssachverhalte von patronalen Wohlfahrtsfonds mit Ermessensleistungen verfügt die Aufsichtsbehörde auf Antrag des Stiftungsrats.
 
   - 3. Sie beachten die Grundsätze der Gleichbehandlung und der Angemessenheit sinngemäss.
+
+  - 4. Sie können:
+
+    - – zur Finanzierung anderer Personalfürsorgeeinrichtungen beitragen;
+
+    - – Leistungen in Notlagen, bei Krankheit, Unfall, Invalidität oder Arbeitslosigkeit, für Massnahmen zur Aus- und Weiterbildung, zur Vereinbarkeit von Familie und Beruf sowie zur Gesundheitsförderung und Prävention ausrichten; in diesen Fällen sind auch die Artikel 80, 81 Absatz 1 und 83 BVG anwendbar.
