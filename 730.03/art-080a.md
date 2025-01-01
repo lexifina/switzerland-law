@@ -1,0 +1,7 @@
+# Art. 80a Gesuch
+
+1 Das Gesuch um einen Investitionsbeitrag ist bei der Vollzugsstelle einzureichen.
+
+2 Es kann erst gestellt werden, wenn eine rechtskräftige Baubewilligung vorliegt oder, sofern für ein Projekt keine Baubewilligung erforderlich ist, die Baureife des Projekts nachgewiesen ist.
+
+3 Es hat sämtliche Angaben und Unterlagen nach Anhang 2.3 zu enthalten.

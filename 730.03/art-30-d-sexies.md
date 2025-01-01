@@ -1,0 +1,3 @@
+# Art. 30dsexies Zusicherung dem Grundsatz nach
+
+Sind die Anspruchsvoraussetzungen voraussichtlich erfüllt und stehen genügend Mittel zur Verfügung, so sichert die Vollzugsstelle die Teilnahme der Anlage am System der gleitenden Marktprämie mit einer Verfügung dem Grundsatz nach zu.

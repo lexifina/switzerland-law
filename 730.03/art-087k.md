@@ -1,3 +1,3 @@
-# Art. 87k Anrechenbare Investitionskosten
+# Art. 87k
 
-Anrechenbar sind die Investitionskosten nach Artikel 61.
+Der Investitionsbeitrag berechnet sich gestützt auf die Kategorie, die Anlagenleistung und die in Anhang 2.4 festgelegten Ansätze.
