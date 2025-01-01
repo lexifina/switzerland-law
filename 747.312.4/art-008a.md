@@ -6,17 +6,17 @@
 
   - 2. | Eintragung einer Jacht im Register | 300
 
-  - 3. | Ausstellung oder Duplikat eines Flaggenscheins für 3 Jahre | 450
+  - 3. | Ausstellung eines Flaggenscheins für 5 Jahre | 750
 
   - 4. | Verlängerung eines Flaggenscheins für jedes Jahr der Gültigkeitsdauer | 150
 
   - 5. | Prüfung der Voraussetzungen für die Zulassung eines Schiffes | 300
 
-  - 6. | Ausstellung oder Duplikat einer Flaggenbestätigung für 3 Jahre | 300
+  - 6. | Ausstellung einer Flaggenbestätigung für 5 Jahre | 500
 
   - 7. | Verlängerung einer Flaggenbestätigung für jedes Jahr der Gültigkeitsdauer | 100
 
-  - 8. | Änderung eines Flaggenscheines oder einer Flaggenbestätigung | 100
+  - 8. | Änderung oder Duplikat eines Flaggenscheines oder einer Flaggenbestätigung | 100
 
   - 9. | Ausstellung einer Streichungsbescheinigung oder einer Bescheinigung anderer Art | 100
 
