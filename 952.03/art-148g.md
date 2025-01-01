@@ -1,7 +1,19 @@
-# Art. 148g
+# Art. 148g Risikogewichtung von Instrumenten mit Beteiligungscharakter
 
-1 Die Kreditäquivalente von Derivaten sind für die Ermittlung der erforderlichen Eigenmittel spätestens 36 Monate ab dem Inkrafttreten der Änderung vom 23. November 2016 gemäss den Artikeln 56–59 zu berechnen.
+1 Das Risikogewicht für Positionen nach Anhang 4 Ziffer 3 beträgt:
 
-2 Die Gewichtung der Positionen innerhalb der Positionsklasse nach Artikel 63 Absatz 3 Buchstabe fbis hat spätestens 36 Monate ab dem Inkrafttreten der Änderung vom 23. November 2016 gemäss Artikel 66 Absatz 3bis zu erfolgen.
+  - a. ab 1. Januar 2025: 220 Prozent;
 
-3 Bis zum 31. Dezember 2019 kann die Umrechnung von Derivaten in ihr Kreditäquivalent im Rahmen des 4. Titels auch nach der Marktwertmethode oder der Standardmethode gemäss den Artikeln 56–58 in der Fassung vom 1. Juli 2016 erfolgen. Die FINMA kann diese Frist erstrecken.
+  - b. ab 31. Dezember 2025: 280 Prozent;
+
+  - c. ab 31. Dezember 2026 bis 30. Dezember 2027: 340 Prozent.
+
+2 Das Risikogewicht für Positionen nach Anhang 4 Ziffer 4 beträgt:
+
+  - a. ab 1. Januar 2025: 160 Prozent;
+
+  - b. ab 31. Dezember 2025: 190 Prozent;
+
+  - c. ab 31. Dezember 2026 bis 30. Dezember 2027: 220 Prozent.
+
+3 Die Absätze 1 und 2 gelten nicht für Banken, die den IRB anwenden.

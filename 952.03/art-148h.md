@@ -1,3 +1,3 @@
-# Art. 148h
+# Art. 148h Meldung von Klumpenrisiken und anderen grossen Kreditrisiken
 
-Banken, die damit rechnen oder vermuten, dass sie die Obergrenze für Klumpenrisiken (Art. 97–99) unzulässigerweise ab dem 1. Januar 2019 überschreiten, melden sich innert drei Monaten ab Inkrafttreten der Änderung vom 22. November 2017 bei der FINMA.
+Die Meldungen nach den Artikeln 100 Absatz 2 und 102 mit einem Meldestichtag bis einschliesslich 31. Dezember 2025 sind anstelle der FINMA der Schweizerischen Nationalbank zuzustellen.

@@ -1,3 +1,3 @@
-# Art. 148i Behandlung von Beteiligungen
+# Art. 148i Geltungsbereich des ursprünglichen Belehnungswerts
 
-Von der FINMA vor Inkrafttreten der Änderung vom 21. November 2018 im Einzelfall verfügte Übergangsregelungen zur Behandlung von Beteiligungen gehen den Bestimmungen von Artikel 32 Buchstabe j und des Anhangs 4 vor.
+Artikel 72b Absätze 1, 2 und 5 findet auf direkt und indirekt grundpfandgesicherte Positionen, die vor dem Inkrafttreten der Änderung vom 29. November 2023 Bestand hatten, erst bei Kreditvergabe bei Neugeschäften und Krediterhöhungen Anwendung.

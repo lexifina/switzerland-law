@@ -1,5 +1,9 @@
-# Art. 148e Vor dem Inkrafttreten der Änderung vom 11. Mai 2016 ausgegebene Bail‑in‑Bonds
+# Art. 148e Untergrenzen nach den Artikeln 45a Absatz 3 Buchstabe b und 77 Absatz 2 sowie Anhang 7 Ziffer 2 zweiter Satz
 
-1 Die FINMA genehmigt nachträglich die von nach Artikel 124a international tätigen systemrelevanten Banken vor dem Inkrafttreten der Änderung am 1. Juli 2016 ausgegebenen Bail-in-Bonds, wenn die Voraussetzungen gemäss Artikel 126a gegeben sind.
+Die Untergrenzen nach den Artikeln 45a Absatz 3 Buchstabe b und 77 Absatz 2 sowie Anhang 7 Ziffer 2 zweiter Satz betragen:
 
-2 Bis zum 31. Dezember 2021 können auch von einer Sonderzweckgesellschaft ausgegebene Bail-in-Bonds genehmigt werden.
+  - a. ab 1. Januar 2025: 60 Prozent;
+
+  - b. ab 1. Januar 2026: 65 Prozent;
+
+  - c. ab 1. Januar 2027 bis 31. Dezember 2027: 70 Prozent.
