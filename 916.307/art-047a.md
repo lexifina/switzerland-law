@@ -4,4 +4,6 @@
 
 2 Die Bewirtschafterinnen und Bewirtschafter und die anderen Personen, die Kraftfutter weitergeben, teilen die Weitergabe mit Menge und den darin enthaltenen Nährstoffmengen mit.
 
+2bis Werden Kraftfutter direkt eingeführt, so überträgt sich die Mitteilungspflicht auf den Importeur.
+
 3 Nicht mitgeteilt werden müssen Mengen bis höchstens 105 kg Stickstoff und 15 kg Phosphor pro Kalenderjahr, sofern der Bewirtschafter oder die Bewirtschafterin den ökologischen Leistungsnachweis nach Artikel 11 der Direktzahlungsverordnung vom 23. Oktober 2013 nicht erbringen muss.
