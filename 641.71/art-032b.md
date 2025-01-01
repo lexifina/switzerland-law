@@ -1,7 +1,13 @@
-# Art. 32b Umfang und Voraussetzungen der teilweisen Rückerstattung
+# Art. 32b Umfang der Rückerstattung
 
-1 Zurückerstattet werden auf Gesuch hin in jedem Fall 60 Prozent der CO2-Abgabe auf Brennstoffen, die nachweislich für die Stromproduktion eingesetzt wurden.
+1 Zurückerstattet werden 60 Prozent der CO2-Abgabe auf den fossilen Brennstoffen, für die der Betreiber nachweist, dass sie für die Erzeugung von Elektrizität eingesetzt wurden.
 
-2 Die restlichen 40 Prozent werden nur zurückerstattet, sofern der Betreiber gegenüber dem Bund nachweist, dass er im Umfang dieser Mittel Massnahmen ergriffen hat für die Steigerung seiner eigenen Energieeffizienz oder der Energieeffizienz von Anlagen, die aus der WKK-Anlage Strom oder Wärme beziehen.
+2 Die restlichen 40 Prozent werden zurückerstattet, wenn der Betreiber nachweist, dass er im Umfang eines gleichwertigen Betrags Massnahmen zur Steigerung der Energieeffizienz der eigenen oder anderer Anlagen, die aus der Anlage Elektrizität oder Wärme beziehen (Effizienzmassnahmen), ergriffen hat.
 
-3 Der Bundesrat regelt die Einzelheiten analog zu Artikel 31a Absatz 3. Für die Abgabebeträge, die nicht zurückerstattet werden können, gilt Artikel 31a Absatz 4.
+3 Der Bundesrat regelt die Einzelheiten, insbesondere:
+
+  - a. welche Effizienzmassnahmen zur Rückerstattung berechtigen;
+
+  - b. bis wann die Effizienzmassnahmen ergriffen werden müssen;
+
+  - c. die Berichterstattung.

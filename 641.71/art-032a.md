@@ -1,9 +1,19 @@
-# Art. 32a Berechtigte Betreiber von WKK-Anlagen
+# Art. 32a Betreiber von WKK-Anlagen
 
-1 Betreibern von WKK-Anlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind, wird die CO2-Abgabe nach Massgabe von Artikel 32b teilweise zurückerstattet, sofern die Anlage:
+1 Betreibern von WKK-Anlagen, die weder am EHS teilnehmen noch eine Verminderungsverpflichtung eingegangen sind, wird die CO2-Abgabe auf Gesuch hin ganz oder teilweise zurückerstattet, wenn die Anlage:
 
-  - a. primär auf die Produktion von Wärme ausgelegt ist;
+  - a. hauptsächlich für die Erzeugung von Wärme ausgelegt ist;
 
-  - b. die energetischen, ökologischen oder anderen Mindestanforderungen erfüllt.
+  - b. eine Feuerungswärmeleistung innerhalb einer bestimmten Bandbreite aufweist; und
 
-2 Der Bundesrat legt die Leistungsgrenzen sowie die Mindestanforderungen fest.
+  - c. die energetischen, ökologischen und anderen Mindestanforderungen erfüllt.
+
+2 Betreiber, denen die CO2-Abgabe zurückerstattet wird, müssen dem Bund regelmässig Bericht erstatten über:
+
+  - a. die Menge der für die Erzeugung von Elektrizität verwendeten fossilen Brennstoffe; und
+
+  - b. die Kosten für die Massnahmen zur Steigerung der Energieeffizienz.
+
+3 Der Bundesrat kann weitere Angaben vorsehen, soweit diese für die Beurteilung der Rückerstattung erforderlich sind.
+
+4 Er legt die Mindestanforderungen an die WKK-Anlagen und die Bandbreite für die Feuerungswärmeleistung fest.

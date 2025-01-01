@@ -8,13 +8,15 @@
 
 4 Das BAFU kann folgenden Stellen und Personen Zugang zu den Informations- und Dokumentationssystemen gewähren:
 
-  - a. dem Bundesamt für Energie;
+  - a. dem BFE;
 
   - b. dem Bundesamt für Sozialversicherungen;
 
   - c. dem Bundesamt für Zivilluftfahrt;
 
   - d. das Bundesamt für Zoll und Grenzsicherheit (BAZG);
+
+  - dbis. dem Bundesamt für Landestopografie;
 
   - e. privaten Organisationen nach Artikel 39 Absatz 2;
 
