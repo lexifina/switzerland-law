@@ -1,5 +1,15 @@
-# Art. 21a
+# Art. 21a Offenlegung
 
-1 Ordnet die Eidgenössische Finanzmarktaufsicht (FINMA) gegen ein Mitglied Massnahmen nach den Artikeln 40 und 40a des Gesetzes an, so kann die von der FINMA beauftragte Person den Pfandbriefzentralen alle Auskünfte erteilen, die diese zur Erfüllung ihrer Aufgaben benötigen.
+Die Pfandbriefzentralen müssen mindestens halbjährlich und innerhalb von zwei Monaten nach dem Stichtag des Zwischenabschlusses die folgenden Informationen offenlegen:
 
-2 Die beauftragte Person informiert die Pfandbriefzentralen regelmässig über den Stand des Verfahrens, soweit sie davon betroffen sind.
+  - a. Wert der Pfandbriefe und der Deckung;
+
+  - b. Verteilung des Deckungsstocks nach Standort und Art der Liegenschaft sowie nach Grösse der einzelnen Deckungsforderungen;
+
+  - c. Zinsertrag der Pfandbriefe und der Deckung;
+
+  - d. Währungsrisiko;
+
+  - e. Fälligkeitsstruktur der Pfandbriefe und der Deckung;
+
+  - f. Anteil der seit mehr als 90 Tagen überfälligen Deckungsforderungen.
