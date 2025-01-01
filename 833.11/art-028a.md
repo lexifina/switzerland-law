@@ -1,6 +1,6 @@
 # Art. 28a Prämie für Leistungen bei Krankheit
 
-1 Die monatliche Prämie für Leistungen bei Krankheit beträgt 430 Franken.
+1 Die monatliche Prämie für Leistungen bei Krankheit beträgt 450 Franken.
 
 2 Bei beruflich Versicherten, deren Lohn in einer der folgenden Bandbreiten liegt, wird die Prämie wie folgt reduziert:
 
