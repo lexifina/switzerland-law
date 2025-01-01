@@ -8,7 +8,7 @@
 
   - c. Zusatzstoffe zur Verhütung der Kokzidiose und der Histomoniasis;
 
-  - d. Aminosäuren und ihre Salze sowie analoge Produkte;
+  - d. synthetische Aminosäuren und ihre Salze sowie analoge Produkte;
 
   - e. nicht proteinhaltige Stickstoffverbindungen (NPN-Verbindungen);
 
