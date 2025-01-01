@@ -12,4 +12,6 @@ Die zuständige Behörde berücksichtigt die persönlichen Verhältnisse der Aus
 
     - 2. Erwerbsarmut,
 
-    - 3. der Wahrnehmung von Betreuungsaufgaben.
+    - 3. der Wahrnehmung von Betreuungsaufgaben,
+
+    - 4. den negativen Folgen von häuslicher Gewalt oder von Zwangsheirat.
