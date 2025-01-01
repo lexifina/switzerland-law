@@ -2,9 +2,9 @@
 
 1 Die Anforderungen nach Artikel 12b Absatz 1 Buchstaben d und e MinöStG (soziale Anforderungen) sind erfüllt, wenn:
 
-  - a. die Flächen, auf denen die für die biogenen Treibstoffe benötigten Rohstoffe angebaut werden, rechtmässig erworben wurden, wobei sich der rechtmässige Erwerb nach dem nationalen Recht und den internationalen Verpflichtungen des Staats, in dem sich die Anbauflächen befinden, sowie nach den von ihm anerkannten internationalen Standards richtet; und
+  - a. die Flächen, auf denen die für die erneuerbaren Treibstoffe benötigten Rohstoffe angebaut werden, rechtmässig erworben wurden, wobei sich der rechtmässige Erwerb nach dem nationalen Recht und den internationalen Verpflichtungen des Staats, in dem sich die Anbauflächen befinden, sowie nach den von ihm anerkannten internationalen Standards richtet; und
 
-  - b. beim Anbau der Rohstoffe und bei der Herstellung der biogenen Treibstoffe die am Anbauort und am Herstellungsort anwendbare soziale Gesetzgebung, mindestens aber die grundlegenden Prinzipien und Rechte der Arbeitnehmerinnen und Arbeitnehmer, die Gegenstand der Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) sind, eingehalten werden.
+  - b. beim Anbau der Rohstoffe und bei der Herstellung der erneuerbaren Treibstoffe die am Anbauort und am Herstellungsort anwendbare soziale Gesetzgebung, mindestens aber die grundlegenden Prinzipien und Rechte der Arbeitnehmerinnen und Arbeitnehmer, die Gegenstand der Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) sind, eingehalten werden.
 
 2 Die Kernübereinkommen der ILO sind:
 

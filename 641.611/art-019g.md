@@ -1,6 +1,6 @@
-# Art. 19g Gesuch um Steuererleichterung für biogene Treibstoffe
+# Art. 19g Gesuch um Steuererleichterung für erneuerbare Treibstoffe
 
-1 Das Gesuch um Steuererleichterung für biogene Treibstoffe ist bei der Steuerbehörde einzureichen.
+1 Das Gesuch um Steuererleichterung für erneuerbare Treibstoffe ist bei der Steuerbehörde einzureichen.
 
 2 Dem Gesuch sind die folgenden Unterlagen beizulegen:
 

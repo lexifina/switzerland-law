@@ -2,9 +2,9 @@
 
 1 Die Anforderungen nach Artikel 12b Absatz 1 Buchstaben a–c MinöStG (ökologische Anforderungen) sind erfüllt, wenn:
 
-  - a. die biogenen Treibstoffe vom Anbau der Rohstoffe bis zu ihrem Verbrauch mindestens 40 Prozent weniger Treibhausgasemissionen erzeugen als fossiles Benzin;
+  - a. die erneuerbaren Treibstoffe vom Anbau der Rohstoffe bis zu ihrem Verbrauch mindestens 40 Prozent weniger Treibhausgasemissionen erzeugen als fossiles Benzin;
 
-  - b. die biogenen Treibstoffe die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft höchstens 25 Prozent mehr belasten als fossiles Benzin; und
+  - b. die erneuerbaren Treibstoffe die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft höchstens 25 Prozent mehr belasten als fossiles Benzin; und
 
   - c. die Rohstoffe nicht auf Flächen angebaut wurden, die nach dem 1. Januar 2008 umgenutzt wurden und vor der Umnutzung einen hohen Kohlenstoffbestand oder eine grosse biologische Vielfalt aufgewiesen haben.
 

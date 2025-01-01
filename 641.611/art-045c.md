@@ -10,4 +10,4 @@
 
     - 2. für die die Steuerbefreiung in Form einer Rückerstattung gewährt wurde.
 
-2 Der Vorschuss wird für den effektiven Gehalt an biogenen Treibstoffen zurückgefordert. Kann die steuerpflichtige Person den effektiven Gehalt an biogenen Treibstoffen nicht nachweisen, so wird der Vorschuss für die Menge an biogenem Treibstoff zurückgefordert, die je Ware maximal beigemischt werden darf.
+2 Der Vorschuss wird für den effektiven Gehalt an erneuerbaren Treibstoffen zurückgefordert. Kann die steuerpflichtige Person den effektiven Gehalt an erneuerbaren Treibstoffen nicht nachweisen, so wird der Vorschuss für die Menge an erneuerbarem Treibstoff zurückgefordert, die je Ware maximal beigemischt werden darf.

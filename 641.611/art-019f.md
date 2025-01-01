@@ -2,9 +2,9 @@
 
 1 Der Nachweis der Erfüllung der ökologischen Anforderungen und die Glaubhaftmachung der Erfüllung der sozialen Anforderungen sind zu erbringen:
 
-  - a. für eingeführte biogene Treibstoffe: vom Importeur;
+  - a. für eingeführte erneuerbare Treibstoffe: vom Importeur;
 
-  - b. für im Inland hergestellte biogene Treibstoffe: vom Herstellungsbetrieb.
+  - b. für im Inland hergestellte erneuerbare Treibstoffe: vom Herstellungsbetrieb.
 
 2 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation regelt die Einzelheiten für den Nachweis der Erfüllung der ökologischen Anforderungen.
 
