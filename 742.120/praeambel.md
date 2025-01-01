@@ -2,6 +2,6 @@
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 1 Absatz 3, 6, 8, 9b, 57 Absatz 3 und 97 des Eisenbahngesetzes vom 20. Dezember 1957 (EBG),
+gestützt auf die Artikel 1 Absatz 3, 6, 8, 9b, 57 Absatz 3 und 97 des Eisenbahngesetzes vom 20. Dezember 1957 (EBG) und Artikel 35 Absatz 3 des Personenbeförderungsgesetzes vom 20. März 2009 (PBG),
 
 verordnet:
