@@ -10,7 +10,9 @@
 
   - cbis. die Abwehr widerrechtlicher Handlungen gegen die Luftfahrt (Luftsicherheit);
 
-  - d. den Austausch von Luftfahrtdaten.
+  - d. den Austausch von Luftfahrtdaten;
+
+  - e. die Bekämpfung und Verringerung von schädlichen oder lästigen Umwelteinwirkungen im Luftverkehr.
 
 2 Die Vereinbarungen über die Flugsicherheit, die Flugsicherung und die Luftsicherheit können insbesondere Bestimmungen enthalten über:
 
