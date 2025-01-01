@@ -1,5 +1,11 @@
 # Art. 45b Nutzung der Sonnenenergie bei Infrastrukturen des Bundes
 
-1 Die Sonnenergie ist auf den dafür geeigneten Infrastrukturoberflächen des Bundes bestmöglich zu nutzen. Geeignete Flächen sind bis 2030 solaraktiv auszurüsten.
+1 An den Infrastrukturen der Bundesverwaltung und der bundesnahen Betriebe sind geeignete Flächen solaraktiv auszurüsten. Infrastrukturoberflächen, die nicht genutzt werden, sind privaten Organisationen, Unternehmen oder Personen zur Nutzung zur Verfügung zu stellen.
 
-2 Der Bundesrat regelt die Rahmenbedingungen und die Einzelheiten.
+2 Der Bundesrat regelt die Ausnahmen, insbesondere wenn das Erstellen einer Solaranlage:
+
+  - a. anderen öffentlich-rechtlichen Vorschriften widerspricht;
+
+  - b. technisch nicht möglich ist; oder
+
+  - c. wirtschaftlich unverhältnismässig ist.
