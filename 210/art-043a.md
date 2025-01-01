@@ -25,3 +25,5 @@
   - 7. die für die Führung des zentralen Versichertenregisters nach Artikel 71 Absatz 4 Buchstabe a des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung zuständige Stelle des Bundes;
 
   - 8. die für die Führung des Auslandschweizerregisters nach Artikel 4 Absatz 1 des Bundesgesetzes vom 24. März 2000 über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten zuständigen Stellen des Bundes.
+
+5 Auf Daten, die für die Abklärung des Bestehens von Kindesverhältnissen notwendig sind, hat die für die Führung des Informationssystems nach Artikel 21a des Erwerbsersatzgesetzes vom 25. September 1952 zuständige Stelle des Bundes im Abrufverfahren Zugriff.
