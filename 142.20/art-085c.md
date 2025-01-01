@@ -14,4 +14,4 @@
 
 2 Bei ledigen Kindern unter 18 Jahren findet die Voraussetzung nach Absatz 1 Buchstabe d keine Anwendung. Von dieser Voraussetzung kann zudem abgewichen werden, wenn wichtige Gründe nach Artikel 49a Absatz 2 vorliegen.
 
-3 Hat das SEM bei der Prüfung des Nachzugs Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 6 ZGB vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde. Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
+3 Hat das SEM bei der Prüfung des Nachzugs nach Absatz 1 Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 105a ZGB vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde. Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
