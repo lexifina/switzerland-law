@@ -4,7 +4,7 @@
 
 1bis Ist die versicherte Person minderjährig, so sind die Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen auf ihre Eltern oder den Elternteil, der die Prämien schuldet, anzuwenden.
 
-2 Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so muss der Versicherer die Betreibung anheben. Der Kanton kann verlangen, dass der Versicherer der zuständigen kantonalen Behörde die Schuldnerinnen und Schuldner, die betrieben werden, bekannt gibt.
+2 Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so muss der Versicherer die Betreibung anheben. Eine Person darf in einem Kalenderjahr höchstens je zwei Mal für eigene Ausstände und für Ausstände eines Kindes betrieben werden. Dabei werden Betreibungen für Forderungen, die bereits zu einem Verlustschein oder einem gleichwertigen Rechtstitel geführt haben, nicht hinzugerechnet. Der Kanton kann verlangen, dass der Versicherer ihm die von einer Betreibung betroffenen Personen bekannt gibt.
 
 3 Der Versicherer gibt der zuständigen kantonalen Behörde die betroffenen Versicherten sowie, pro Schuldner und Schuldnerin, den Gesamtbetrag der Forderungen aus der obligatorischen Krankenpflegeversicherung (ausstehende Prämien und Kostenbeteiligungen sowie Verzugszinse und Betreibungskosten) bekannt, die während des berücksichtigten Zeitraumes zur Ausstellung eines Verlustscheines oder eines gleichwertigen Rechtstitels geführt haben. Er ersucht die vom Kanton bezeichnete Revisionsstelle, die Richtigkeit der Daten, die er dem Kanton bekannt gegeben hat, zu bestätigen und übermittelt die Bestätigung dem Kanton.
 
