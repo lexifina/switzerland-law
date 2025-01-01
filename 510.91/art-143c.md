@@ -24,4 +24,4 @@ Das SPHAIR-Expert enthält folgende Daten:
 
   - k. Angaben über die Kleidergrösse;
 
-  - 1. persönliche Interessen hinsichtlich der Anstellung, Ausbildung, Weiterentwicklung sowie Berufs- und Funktionswahl.
+  - l. persönliche Interessen hinsichtlich der Anstellung, Ausbildung, Weiterentwicklung sowie Berufs- und Funktionswahl.
