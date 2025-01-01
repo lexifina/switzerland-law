@@ -1,4 +1,4 @@
-# Art. 24b
+# Art. 24b Benutzung des Informationssystems Animex-ch
 
 1 Das BLV erhebt für die Benutzung des Informationssystems Animex-ch von den Kantonen folgende Gebühren:
 
