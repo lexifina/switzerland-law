@@ -1,6 +1,6 @@
 # Art. IX Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt
 
-a) Dieses Übereinkommen liegt vom 1. November 1974 bis zum 1. Juli 1975 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien dieses Übereinkommens werden,
+a) Dieses Übereinkommen liegt vom 1. November 1974 bis zum 1. Juli 1975 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Staaten können Vertragsparteien dieses Übereinkommens werden:
 
   - i) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen;
 

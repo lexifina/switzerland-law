@@ -2,7 +2,7 @@
 
 a) Das am 17. Juni 1960 in London unterzeichnete Internationale Übereinkommen zum Schutz des menschlichen Lebens auf See wird durch dieses Übereinkommen zwischen den Vertragsregierungen abgelöst und aufgehoben.
 
-b) Alle anderen Verträge, Übereinkommen und Vereinbarungen über den Schutz des menschlichen Lebens auf See oder damit zusammenhängende Fragen, die gegenwärtig zwischen den Vertragsregierungen des vorliegenden Übereinkommens in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam für
+b) Alle anderen Verträge, Übereinkommen und Vereinbarungen über den Schutz des menschlichen Lebens auf See oder damit zusammenhängende Fragen, die gegenwärtig zwischen den Vertragsregierungen des vorliegenden Übereinkommens in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam für:
 
   - i) Schiffe, auf die dieses Übereinkommen nicht anwendbar ist;
 
