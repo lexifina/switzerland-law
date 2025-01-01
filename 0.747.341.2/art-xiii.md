@@ -1,6 +1,6 @@
 # Art. XIII Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt
 
-1. Das Übereinkommen liegt vom 1. Dezember 1978 bis zum 30. November 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Jeder Staat kann Vertragspartei werden,
+1. Das Übereinkommen liegt vom 1. Dezember 1978 bis zum 30. November 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Jeder Staat kann Vertragspartei werden:
 
   - a) indem er es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnet;
 

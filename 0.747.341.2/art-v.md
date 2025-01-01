@@ -1,6 +1,6 @@
 # Art. V Sonstige Verträge und Auslegung
 
-1. Alle früheren Verträge, Übereinkommen und Vereinbarungen über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, die zwischen den Vertragsparteien in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam in bezug auf
+1. Alle früheren Verträge, Übereinkommen und Vereinbarungen über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, die zwischen den Vertragsparteien in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam in bezug auf:
 
   - a) Seeleute, auf die dieses Übereinkommen nicht angewendet wird;
 

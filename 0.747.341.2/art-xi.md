@@ -1,6 +1,6 @@
 # Art. XI Förderung der technischen Zusammenarbeit
 
-1. Die Vertragsparteien fördern in Konsultation mit der Organisation und mit ihrer Hilfe die Unterstützung derjenigen Vertragsparteien, die um technische Hilfe ersuchen
+1. Die Vertragsparteien fördern in Konsultation mit der Organisation und mit ihrer Hilfe die Unterstützung derjenigen Vertragsparteien, die um technische Hilfe ersuchen:
 
   - a) für die Ausbildung von Verwaltungs‑ und technischem Personal;
 

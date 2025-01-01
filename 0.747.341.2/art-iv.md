@@ -1,6 +1,6 @@
 # Art. IV Übermittlung von Informationen
 
-1. Die Vertragsparteien übermitteln dem Generalsekretär so bald wie möglich
+1. Die Vertragsparteien übermitteln dem Generalsekretär so bald wie möglich:
 
   - a) den Wortlaut der Gesetze, Verordnungen, Ausführungsbestimmungen und sonstigen Vorschriften, die auf den verschiedenen Sachgebieten im Anwendungsbereich des Übereinkommens erlassen wurden,
 
