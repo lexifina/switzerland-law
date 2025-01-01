@@ -10,7 +10,7 @@
 
 2 Kein Beitrag nach Absatz 1 wird ausgerichtet für:
 
-  - a. Biodiversitätsförderflächen nach Artikel 55, mit Ausnahme von Getreide in weiter Reihe und Rebflächen mit natürlicher Artenvielfalt;
+  - a. Biodiversitätsförderflächen nach Artikel 55, mit Ausnahme von Getreide in weiter Reihe als regionsspezifische Biodiversitätsförderfläche und Rebflächen mit natürlicher Artenvielfalt;
 
   - b. Nützlingsstreifen auf offener Ackerfläche nach Artikel 71b Absatz 1 Buchstabe a;
 
