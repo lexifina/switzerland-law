@@ -1,6 +1,6 @@
-# Art. 17 Importeur
+# Art. 17g Importeur
 
-1 Als Importeur nach Artikel 10 Absatz 3 CO2-Gesetz gilt, wer ein Fahrzeug beim Bundesamt für Energie (BFE) gemäss Artikel 23 Absatz 4 bescheinigen lässt.
+1 Als Importeur nach Artikel 11 Absatz 1 des CO2-Gesetzes gilt, wer ein Fahrzeug beim Bundesamt für Energie (BFE) gemäss Artikel 23 Absatz 4 bescheinigen lässt oder wer dem BFE die Daten nach 23a Absatz 1 Buchstabe b bekanntgibt.
 
 2 Wird das Fahrzeug nicht bescheinigt, so gilt als Importeur, wer im Informationssystem Verkehrszulassung nach Artikel 89a des Strassenverkehrsgesetzes vom 19. Dezember 1958 als solcher erfasst ist.
 

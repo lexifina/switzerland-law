@@ -4,4 +4,8 @@
 
 2 Die Rückerstattung erfolgt durch das BAZG und umfasst 100 Prozent der CO2-Abgabe auf die Brennstoffe, die zur Stromproduktion eingesetzt wurden.
 
-3 Der Anspruch auf Rückerstattung verwirkt, wenn das Gesuch nicht fristgemäss eingereicht wird.
+3 Der Anspruch auf Rückerstattung verwirkt, wenn:
+
+  - a. die Bestätigung des BAFU nicht fristgerecht eingeholt wird; oder
+
+  - b. die Auszahlung des Rückerstattungsbetrags nicht fristgerecht beim BAZG beantragt wird.

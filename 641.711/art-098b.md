@@ -1,6 +1,6 @@
 # Art. 98b Gesuch um Rückerstattung für Betreiber von WKK-Anlagen, die weder am EHS teilnehmen noch einer Verminderungsverpflichtung unterliegen
 
-1 Betreiber von WKK-Anlagen, die weder am EHS teilnehmen noch einer Verminderungsverpflichtung unterliegen, reichen das Rückerstattungsgesuch bis zum 30. Juni zuhanden der Vollzugsbehörde ein. Es muss insbesondere enthalten:
+1 Ein Betreiber von WKK-Anlagen, der weder am EHS teilnimmt noch einer Verminderungsverpflichtung unterliegt, muss bis zum 30. Juni beim BAFU eine Bestätigung der Höhe der rückerstattungsberechtigen Brennstoffmenge einholen. Er muss dabei insbesondere die folgenden Angaben einreichen:
 
   - a. die Menge der für die Stromproduktion verwendeten abgabebelasteten Brennstoffe; diese berechnet sich anhand der auf dem Herkunftsnachweis ausgewiesenen jährlichen Strommenge und des Heizwertes des verwendeten Energieträgers;
 
@@ -12,7 +12,7 @@
 
   - e. Angaben über die jährliche Entwicklung der CO2-Emissionen, die aufgrund der gemessenen Produktion von Strom entstanden sind;
 
-  - f. die Bestätigung des Standortkantons, dass die Luftreinhalteverordnung eingehalten ist;
+  - f. die Bestätigung des Standortkantons, dass die Emissionsgrenzwerte nach der Luftreinhalte-Verordnung vom 16. Dezember 1985 eingehalten sind;
 
   - g. Angaben über geplante Massnahmen;
 
@@ -20,10 +20,10 @@
 
   - j. die Bestätigung, dass für den Betrieb der WKK-Anlagen abgabebelastete Brennstoffe eingesetzt wurden, sowie die Angabe des angewendeten CO2-Abgabesatzes.
 
-2 Das BAFU macht Vorgaben für die Form des Gesuchs.
+2 …
 
-3 Es prüft die Voraussetzungen nach Absatz 1 Buchstaben a–g und leitet das Gesuch zum Entscheid an das BAZG weiter.
+3 Der Betreiber kann innert 6 Monaten seit Ausstellung der Bestätigung des BAFU beim BAZG in der von diesem vorgeschriebenen Form die Auszahlung des Rückerstattungsbetrags beantragen.
 
-3bis Dem BAZG sind auf Verlangen die Rechnungen über die bezahlten CO2-Abgaben vorzulegen.
+3bis Dem BAZG sind auf Verlangen die Bestätigung des BAFU sowie die Rechnungen über die bezahlten CO2-Abgaben vorzulegen.
 
 4 Der Monitoringbericht nach Absatz 1 Buchstabe d muss insbesondere Angaben über die Entwicklung der CO2-Emissionen, die aufgrund der Stromproduktion entstanden sind, sowie eine Beschreibung der umgesetzten Massnahmen und Investitionen enthalten. Das BAFU macht Vorgaben für die Form des Berichts.
