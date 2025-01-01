@@ -1,6 +1,6 @@
 # Art. 6ter Im Ausland erzieltes Erwerbseinkommen
 
-Von der Beitragserhebung ist das Erwerbseinkommen ausgenommen, das Personen mit Wohnsitz in der Schweiz zufliesst
+Von der Beitragserhebung ist das Erwerbseinkommen ausgenommen, das Personen mit Wohnsitz in der Schweiz zufliesst:
 
   - a. als Inhaber oder Teilhaber von Betrieben oder von Betriebsstätten in einem Nichtvertragsstaat;
 
