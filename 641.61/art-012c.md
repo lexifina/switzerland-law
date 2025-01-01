@@ -1,10 +1,10 @@
-# Art. 12c Nachweis und Rückverfolgbarkeit von biogenen Treibstoffen
+# Art. 12c Nachweis und Rückverfolgbarkeit von erneuerbaren Treibstoffen
 
-1 Wer eine Steuererleichterung für biogene Treibstoffe erhalten will, muss nachweisen, dass diese die Anforderungen nach Artikel 12b Absätze 1 und 3 erfüllen.
+1 Wer eine Steuererleichterung für erneuerbare Treibstoffe erhalten will, muss nachweisen, dass diese die Anforderungen nach Artikel 12b Absätze 1 und 3 erfüllen.
 
 2 Der Nachweis beinhaltet:
 
-  - a. verständliche und überprüfbare Angaben, welche die Rückverfolgbarkeit des biogenen Treibstoffs über alle Produktionsstufen ermöglichen; und
+  - a. verständliche und überprüfbare Angaben, welche die Rückverfolgbarkeit des erneuerbaren Treibstoffs über alle Produktionsstufen ermöglichen; und
 
   - b. Unterlagen, die diese Angaben belegen.
 

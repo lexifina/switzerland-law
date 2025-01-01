@@ -1,10 +1,10 @@
 # Art. 20a Treibstoffgemische
 
-1 Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemischen aus biogenen Treibstoffen und anderen Treibstoffen separat anmelden:
+1 Steuerpflichtige Personen müssen bei der Steueranmeldung von Treibstoffgemischen aus erneuerbaren Treibstoffen und anderen Treibstoffen separat anmelden:
 
-  - a. den Anteil biogener Treibstoffe, welche die Anforderungen nach Artikel 12b Absätze 1 und 3 erfüllen;
+  - a. den Anteil erneuerbarer Treibstoffe, welche die Anforderungen nach Artikel 12b Absätze 1 und 3 erfüllen;
 
-  - b. den Anteil biogener Treibstoffe, welche die Anforderungen nach Artikel 12b Absätze 1 und 3 nicht erfüllen; und
+  - b. den Anteil erneuerbarer Treibstoffe, welche die Anforderungen nach Artikel 12b Absätze 1 und 3 nicht erfüllen; und
 
   - c. den Anteil anderer Treibstoffe.
 
