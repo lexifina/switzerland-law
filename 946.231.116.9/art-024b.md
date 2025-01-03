@@ -58,4 +58,6 @@
 
 12 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 2 bewilligen, sofern die Rechtsberatungsdienstleistungen für die Fortsetzung bestehender Initiativen zur Unterstützung der Opfer von Natur- oder Nuklearkatastrophen oder von Chemieunfällen und im Rahmen von internationalen Adoptionsverfahren erforderlich sind.
 
-13 und 14 …
+13 Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie gemäss Absatz 6 Buchstabe a erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2025 und anschliessend semesterweise melden.
+
+14 Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Dienstleistungen oder Software enthalten.
