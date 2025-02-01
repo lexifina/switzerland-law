@@ -13,3 +13,5 @@
   - b. das Eintreten eines Schadens oder einer Gefährdung von Menschen zu verhindern, sofern dies durch zumutbare Schutzmassnahmen nicht erreicht werden kann; oder
 
   - c. regional angemessene Wildbestände zu erhalten.
+
+3 Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Finanzhilfen an die Kosten für die Aufsicht und die Durchführung von Mass-nahmen zum Umgang mit Arten nach Absatz 1.
