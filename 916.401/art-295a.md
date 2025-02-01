@@ -8,7 +8,7 @@
 
   - c. Reiseveranstalter, die Reisen in die betroffenen Seuchengebiete anbieten.
 
-2 Die Unternehmen informieren die Reisenden mit Plakaten oder Informationsblättern.
+2 Die Unternehmen informieren die Reisenden mit Plakaten, Informationsblättern oder über elektronische Anzeigetafeln sowie auf ihren Webseiten.
 
 3 Das BLV bestimmt die betroffenen Unternehmen, den Inhalt und die Dauer der Information. Es harmonisiert die Massnahmen mit den Pflichten aus Anhang 11 des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen. Es stellt das Informationsmaterial zur Verfügung.
 

@@ -1,6 +1,6 @@
 # Art. 239e Blauzungen- oder EHD-Zone
 
-1 Die Blauzungen- oder EHD-Zone umfasst ein Gebiet im Umkreis von ungefähr 100 km um die verseuchten Bestände. Bei der Festlegung der Zone sind geografische Gegebenheiten, Kontrollmöglichkeiten und epidemiologische Erkenntnisse zu berücksichtigen.
+1 Die Blauzungen- oder EHD-Zone umfasst ein Gebiet im Umkreis von ungefähr 150 km um die verseuchten Bestände. Bei der Festlegung der Zone sind geografische Gegebenheiten, Kontrollmöglichkeiten und epidemiologische Erkenntnisse zu berücksichtigen.
 
 2 Das BLV legt den Umfang der Zone nach Anhören der Kantone fest. Es hebt die Zone nach Anhören der Kantone auf, wenn während mindestens zwei Jahren bei empfänglichen Tieren keine Blauzungen- beziehungsweise EHD-Viren festgestellt wurden.
 

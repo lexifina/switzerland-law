@@ -26,9 +26,9 @@
 
   - e. die Mikrochipnummer;
 
-  - f. den Verwendungszweck gemäss Artikel 3 der Tierarzneimittelverordnung vom 18. August 2004;
+  - f. den Verwendungszweck nach Artikel 3 Absatz 1 Buchstabe a oder b der Tierarzneimittelverordnung vom 18. August 2004 (TAMV);
 
-  - g. einen Abschnitt für die Erfüllung der Mitteilungspflicht bei Halterwechsel gemäss Artikel 23 der Tierarzneimittelverordnung vom 18. August 2004 und der Gesundheitsmeldung gemäss Artikel 24 der Verordnung vom 23. November 2005 über das Schlachten und die Fleischkontrolle (VSFK);
+  - g. einen Abschnitt für die Erfüllung der Mitteilungspflicht bei Halterwechsel nach Artikel 23 TAMV und der Gesundheitsmeldung nach Artikel 24 der Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkontrolle (VSFK);
 
   - h. das Lesesystem, falls dieses nicht der ISO-Norm 11784 entspricht;
 

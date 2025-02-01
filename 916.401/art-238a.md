@@ -1,6 +1,6 @@
 # Art. 238a Seuchenfall
 
-1 Bei jedem Seuchenfall ordnet der Kantonstierarzt zusätzlich an, dass:
+1 Der Kantonstierarzt verhängt bei Feststellung der Paratuberkulose die einfache Sperre 1. Grades über alle Bestände der verseuchten Tierhaltung. Ausserdem ordnet er an, dass:
 
   - a. die verseuchten Tiere abgesondert, getötet und entsorgt werden;
 

@@ -1,6 +1,6 @@
 # Art. 112c Seuchenfall
 
-1 Der Kantonstierarzt verhängt bei Feststellung der Pferdepest die einfache Sperre 1. Grades über den verseuchten Bestand. Ausserdem ordnet er an:
+1 Der Kantonsarzt verhängt bei Feststellung der Pferdepest in Abweichung von Artikel 85 Absatz 1 die einfache Sperre 1. Grades über den verseuchten Bestand. Ausserdem ordnet er an:
 
   - a. die Tötung und Entsorgung der verseuchten Tiere;
 

@@ -1,6 +1,6 @@
 # Art. 112b Verdachtsfall
 
-1 Der Kantonstierarzt verhängt bei Seuchen- oder Ansteckungsverdacht auf Pferdepest die einfache Sperre 1. Grades über den verdächtigen Bestand. Ausserdem ordnet er an:
+1 Der Kantonstierarzt verhängt bei Seuchen- oder Ansteckungsverdacht auf Pferdepest in Abweichung von Artikel 84 Absatz 2 Buchstabe a die einfache Sperre 1. Grades über den verdächtigen Bestand. Ausserdem ordnet er an:
 
   - a. die Untersuchung der betroffenen Tiere auf Pferdepest-Viren;
 

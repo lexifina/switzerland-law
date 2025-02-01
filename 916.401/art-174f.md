@@ -1,3 +1,3 @@
 # Art. 174f Viehmärkte und Viehausstellungen
 
-Auf Viehmärkten und Viehausstellungen dürfen nur Tiere aufgeführt werden, die aus einer anerkannt BVD-freien Tierhaltung stammen. Ausgenommen sind Schlachtviehmärkte, wenn sichergestellt ist, dass alle aufgeführten Tiere anschliessend direkt zur Schlachtung gehen.
+Auf Viehmärkten und Viehausstellungen dürfen nur Tiere aufgeführt werden, die mindestens seit 30 Tagen ausschliesslich in amtlich anerkannt BVD-freien Tierhaltungen gestanden sind.
