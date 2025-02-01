@@ -1,6 +1,6 @@
 # Art. 4a Regulierung von Steinböcken
 
-1 Die Kantone können mittels Verfügung und nach vorheriger Zustimmung des BAFU Fortpflanzungsgemeinschaften von Steinböcken nach Artikel 7a Absatz 1 Buchstabe a Jagdgesetz regulieren.
+1 Die Kantone können mittels Verfügung und nach vorheriger Zustimmung des BAFU Fortpflanzungsgemeinschaften von Steinböcken (Kolonien) nach Artikel 7a des Jagdgesetzes regulieren.
 
 2 Sie geben in ihrem Antrag an das BAFU pro Steinbock-Kolonie an:
 
@@ -20,7 +20,7 @@
 
   - b. eine Begründung, inwiefern die Regulierung erforderlich ist für:
 
-    - 1. das Verhüten von Schäden am Lebensraum, unter Angabe der Einwirkung des Steinbockbestands auf den Wald, falls die Regulierung die Verhütung von Schäden am Gebirgswald bezweckt, oder
+    - 1. das Verhüten von Schäden am Lebensraum, insbesondere am Wald, oder
 
     - 2. den Erhalt eines gesunden Wildbestands;
 
@@ -34,6 +34,6 @@
 
   - b. Von den erlegten Tieren müssen mindestens 50 Prozent weiblich sein.
 
-4 Die Kantone koordinieren die jährlichen Bestandserhebungen und Bewilligungen zur Regulierung von Kolonien, die sich über mehrere Kantone erstrecken.
+4 Die Kantone koordinieren die jährlichen Bestandeserhebungen und Bewilligungen zur Regulierung von Kolonien, die sich über mehrere Kantone erstrecken.
 
 5 Das BAFU erteilt die Zustimmung an den Kanton pro Kolonie für höchstens vier Jahre.
