@@ -1,6 +1,6 @@
 # Art. 10c Entschädigung im übrigen Verkehr
 
-1 Im Güterverkehr auf Normalspurstrecken entrichtet die Infrastrukturbetreiberin dem Eisenbahnverkehrsunternehmen bei Umleitungen auf der Schiene eine Entschädigung von 800 Franken pro betroffenen Zug, ausgenommen Dienstzüge.
+1 Im Güterverkehr auf Normalspurstrecken entrichtet die Infrastrukturbetreiberin dem Eisenbahnverkehrsunternehmen bei Umleitungen auf der Schiene eine Entschädigung von 800 Franken pro betroffenen Zug, ausgenommen Dienstzüge. Umleitungen in Bahnhofsgebieten sind nur dann entschädigungspflichtig, wenn durch sie die maximale Zuglänge oder das maximale Zuggewicht reduziert wird.
 
 2 Ist eine Umleitung auf der Schiene nicht möglich, so beträgt die Entschädigung 1500 Franken pro betroffenen Zug.
 

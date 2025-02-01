@@ -1,7 +1,7 @@
-# Art. 10a Arten von Streckensperrungen
+# Art. 10a Anforderungen an Transportketten im Personenverkehr
 
-1 Eine Wochenendsperre beginnt frühestens am Freitagabend nach der Hauptverkehrszeit (HVZ) und endet spätestens am Montagmorgen vor der HVZ.
+Beim Ersatzverkehr gelten Transportketten im Personenverkehr als gewährleistet, wenn sich die gesamte Reisezeit für Reisen:
 
-2 Eine verlängerte Nachtsperre beginnt frühestens am Abend nach der HVZ und endet spätestens am folgenden Morgen vor der HVZ.
+  - a. von bis zu einer Stunde planmässiger Dauer um höchstens 15 Minuten verlängert;
 
-3 Die Transportketten gelten im Personenverkehr als gewährleistet, wenn sich dadurch die gesamte Reisezeit für Reisen von bis zu einer Stunde planmässiger Dauer um höchstens 15 Minuten und für Reisen von längerer planmässiger Dauer um höchstens 30 Minuten verlängert.
+  - b. von mehr als einer Stunde planmässiger Dauer um höchstens 30 Minuten verlängert.

@@ -1,6 +1,6 @@
-# Art. 10b Kosten der Eisenbahnverkehrsunternehmen bei Streckensperrungen
+# Art. 10b Kosten der Eisenbahnverkehrsunternehmen bei Kapazitätsbeschränkungen
 
-Die Eisenbahnverkehrsunternehmen tragen bei Streckensperrungen die eigenen Kosten für:
+Die Eisenbahnverkehrsunternehmen tragen bei Kapazitätsbeschränkungen die eigenen Kosten für:
 
   - a. die Planung und Vorbereitung des Ersatzverkehrs und der Umleitungen;
 
