@@ -2,6 +2,6 @@
 
 Das Eidgenössische Departement des Innern (EDI),
 
-gestützt auf die Artikel 190 Absätze 3 und 4, 197 Absatz 3, 198 Absatz 3, 202 Absatz 2 und 203 Absatz 1 der Tierschutzverordnung vom 23. April 2008 (TSchV),
+gestützt auf die Artikel 76 Absatz 3, 190 Absatz 3, 197 Absatz 3, 198 Absatz 3, 198c Absatz 2 und 202 Absatz 2 der Tierschutzverordnung vom 23. April 2008 (TSchV),
 
 verordnet:
