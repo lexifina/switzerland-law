@@ -7,3 +7,5 @@
 3 Fixationseinrichtungen dürfen nicht zu vermeidbaren Schmerzen oder Verletzungen führen und müssen gewährleisten, dass die zur Schlachtung bestimmten Tiere, ausgenommen Geflügel, im Stehen oder in aufrechter Haltung betäubt werden.
 
 4 Geflügel muss vor dem Entbluten betäubt werden, ausgenommen beim rituellen Schlachten.
+
+5 Bei der Betäubung von Geflügel mit einer Gasmischung dürfen lebende Küken nicht aufeinandergeschichtet werden.
