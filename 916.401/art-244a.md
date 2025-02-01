@@ -4,6 +4,6 @@
 
 2 Venezolanische Pferdeenzephalomyelitis liegt vor, wenn der Erreger nachgewiesen wurde.
 
-3 Das BLV bestimmt die Untersuchungsmethoden zum Nachweis der venezolanischen Pferdeenzephalomyelitis. Es berücksichtigt dabei die vom Internationalen Tierseuchenamt anerkannten Untersuchungsmethoden.
+3 Das BLV bestimmt die Untersuchungsmethoden zum Nachweis der venezolanischen Pferdeenzephalomyelitis. Es berücksichtigt dabei die von der Weltorganisation für Tiergesundheit anerkannten Untersuchungsmethoden.
 
 4 Das BLV kann die notwendigen Untersuchungen und Massnahmen zur Überwachung und Bekämpfung der venezolanischen Pferdeenzephalomyelitis gebietsweise oder landesweit vorschreiben und sie auf weitere Tierarten ausweiten.
