@@ -20,4 +20,4 @@
 
   - a. eine provisorisch zugeteilte Trasse, wenn die Zuteilung mindestens fünf Arbeitstage zurückliegt;
 
-  - b. eine bestellte Trasse, wenn die Bestellung zu Konflikten unter Nutzerinnen führt und die Trassenvergabestelle die betroffenen Nutzerinnen vor mehr als fünf Arbeitstagen über die Konflikte informiert hat.
+  - b. eine bestellte Trasse, wenn die Bestellung zu Konflikten unter Nutzerinnen führt und die zuständige Trassenvergabestelle die betroffenen Nutzerinnen vor mehr als fünf Arbeitstagen über die Konflikte informiert hat.

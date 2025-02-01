@@ -10,8 +10,8 @@
 
   - d. Kapazitäten für die nicht geplante Nachfrage;
 
-  - e. Einschränkungen infolge längerer Streckensperrungen.
+  - e. bekannte planbare Kapazitätsbeschränkungen mit einer Dauer von mehr als sieben aufeinanderfolgenden Tagen und mit einer Beschränkung von mehr als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag sowie ihre Auswirkungen auf die Kapazitäten jeder Verkehrsart.
 
-2 Er enthält soweit erforderlich Angaben zu geplanten Ankunfts-, Abfahrts- und Durchfahrtszeiten.
+2 Er enthält soweit erforderlich Angaben zu geplanten Ankunfts-, Abfahrts- und Durchfahrtszeiten sowie Angaben über Kapazitätsbeschränkungen mit einer Dauer von bis zu sieben aufeinanderfolgenden Tagen oder mit einer Beschränkung von weniger als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag sowie ihre Auswirkungen auf die Kapazitäten jeder Verkehrsart.
 
 3 …

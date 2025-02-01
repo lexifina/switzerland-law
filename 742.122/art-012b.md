@@ -8,7 +8,7 @@
 
 2 Die Infrastrukturbetreiberinnen und die Unternehmen, die an der Durchführung des Eisenbahnverkehrs interessiert sind (Art. 9a Abs. 4 EBG), können über den Netzzugang eine Rahmenvereinbarung abschliessen. Darin legen sie die Merkmale der zuzuteilenden Trassen fest.
 
-3 Stellt die Trassenvergabestelle Konflikte bei Anträgen für neue Rahmenvereinbarungen fest, so sucht sie nach einer einvernehmlichen Lösung. Kommt keine Lösung zustande, so richtet sich das Verfahren sinngemäss nach Artikel 12c Absatz 2 Buchstaben b und c.
+3 Der Abschluss einer Rahmenvereinbarung ist bei der Trassenvergabestelle zu beantragen. Stellt die Trassenvergabestelle Konflikte bei Anträgen für Rahmenvereinbarungen fest, so sucht sie nach einer einvernehmlichen Lösung. Kommt keine Lösung zustande, so richtet sich das Verfahren sinngemäss nach Artikel 12c Absatz 2 Buchstaben b und c.
 
 4 Die Rahmenvereinbarung darf keine ausschliesslichen Nutzungsrechte zusichern.
 

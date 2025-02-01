@@ -1,21 +1,13 @@
-# Art. 11b Bauarbeiten
+# Art. 11b Planbare Bauarbeiten
 
-1 Die Infrastrukturbetreiberin muss Bauarbeiten an einer Strecke, die während mehr als sieben aufeinanderfolgenden Tagen zu einer Einschränkung von mehr als einem Drittel des täglichen Verkehrsaufkommens führen, erstmals mindestens 24 Monate und in aktualisierter Form mindestens 12 Monate vor dem Beginn der betroffenen Fahrplanperiode veröffentlichen.
+1 Die Infrastrukturbetreiberin beantragt Kapazitäten für planbare Bauarbeiten im Rahmen der Netzfahrplanerstellung.
 
-2 Sie muss den betroffenen Eisenbahnverkehrsunternehmen und Anschliessern Wochenendsperren und verlängerte Nachtsperren drei Monate zum Voraus bekanntgeben.
+2 Kapazitätsbeschränkungen mit einer Dauer von mehr als sieben aufeinanderfolgenden Tagen und mit einer Beschränkung von mehr als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag muss die Infrastrukturbetreiberin zum ersten Mal mindestens 24 Monate und zum zweiten Mal in aktualisierter Form mindestens 12 Monate vor dem betreffenden Netzfahrplanwechsel veröffentlichen.
 
-3 Sie kann Sperren ohne Auswirkungen auf die Anschlussgewährung des Personenverkehrs und mit der Möglichkeit, andere Strecken für den Gütertransport zu nutzen, mit den Eisenbahnverkehrsunternehmen und Anschliessern kurzfristig vereinbaren.
+3 Kapazitätsbeschränkungen mit einer Dauer von bis zu sieben aufeinanderfolgenden Tagen oder mit einer Beschränkung von weniger als 30 Prozent des geschätzten Verkehrsaufkommens pro Tag muss die Infrastrukturbetreiberin den betroffenen Eisenbahnverkehrsunternehmen und Anschliessern sechs Monate und soweit erforderlich in aktualisierter Form mindestens drei Monate zum Voraus bekanntgeben.
 
-4 Sie beantragt Kapazitäten für planbare Bauarbeiten im Rahmen der Netzfahrplanerstellung.
+4 Die Infrastrukturbetreiberin kann Kapazitätsbeschränkungen ohne Auswirkungen auf die Transportketten im Personen- und Güterverkehr und mit der Möglichkeit, andere Strecken für den Gütertransport zu nutzen, mit den Eisenbahnverkehrsunternehmen und Anschliessern nach Ablauf der für die Bekanntgabe geltenden Frist von 12 Monaten nach Absatz 2 beziehungsweise 3 Monaten nach Absatz 3 vereinbaren.
 
-5 Sind Kapazitäten aufgrund ausserplanmässiger Bauarbeiten nicht verfügbar, so informiert sie die betroffenen Eisenbahnverkehrsunternehmen so früh wie möglich darüber.
+5 Bei drohenden wesentlichen Nachteilen für das Vorhaben oder Bauprojekt kann sie nach Ablauf der für die Bekanntgabe geltenden Frist von 12 Monaten nach Absatz 2 beziehungsweise 3 Monaten nach Absatz 3 ausnahmsweise Kapazitätsbeschränkungen mit Auswirkungen auf die Transportketten im Personen- und Güterverkehr oder ohne Möglichkeit, andere Strecken für den Gütertransport zu nutzen, anordnen. Die Frist für die Publikation der angepassten Fahrpläne nach Absatz 6 ist einzuhalten.
 
-6 Sie legt nach Konsultation der Eisenbahnverkehrsunternehmen und der Besteller im konzessionierten Personenverkehr sowie nach Absprache mit der Trassenvergabestelle den Ersatzverkehr und die Umleitungen fest. Dabei sind die Transportketten zu gewährleisten. Die angepassten Fahrpläne sind mindestens zwei Monate im Voraus zu publizieren. Auf Reisende, Absender und Empfänger dürfen keine Mehrkosten überwälzt werden.
-
-7 Im konzessionierten Personenverkehr auf Normalspurstrecken trägt die Infrastrukturbetreiberin die eigenen Kosten sowie die Kosten des Ersatzverkehrs. Die Eisenbahnverkehrsunternehmen tragen die eigenen Kosten.
-
-8 Im übrigen Verkehr entschädigt die Infrastrukturbetreiberin die Eisenbahnverkehrsunternehmen für die Mehrkosten des Ersatzverkehrs und der mit der Umleitung verbundenen Fahrleistungen. Das BAV regelt die Berechnung der Entschädigung.
-
-9 Der Trassenpreis richtet sich nach den effektiv erbrachten Leistungen.
-
-10 Gibt die Infrastrukturbetreiberin eine Einschränkung nicht rechtzeitig bekannt, so entschädigt sie die Eisenbahnverkehrsunternehmen für die dadurch entstandenen Mehrkosten und Mindererlöse mit einer Pauschale. Das BAV regelt die Berechnung der Pauschale.
+6 Im Fall einer Kapazitätsbeschränkung legt sie nach Konsultation der Eisenbahnverkehrsunternehmen und der weiteren interessierten Kreise sowie nach Absprache mit der Trassenvergabestelle den Ersatzverkehr und die Umleitungen fest. Dabei sind die Transportketten zu gewährleisten. Die angepassten Fahrpläne für die Reisenden sind mindestens zwei Monate im Voraus zu publizieren. Auf Reisende, Absender sowie Empfänger dürfen keine Mehrkosten überwälzt werden.

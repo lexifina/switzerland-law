@@ -6,7 +6,7 @@
 
   - a. 1,25 für Trassen des konzessionierten Personenfernverkehrs (Kategorie A);
 
-  - b. 1 für Trassen des übrigen konzessionierten Personenverkehrs (Kategorie B);
+  - b. 1 für Trassen des übrigen konzessionierten Personenverkehrs oder des grenzüberschreitenden Personenverkehrs aufgrund eines Staatsvertrages (Kategorie B);
 
   - c. 0,4 für Trassen des nicht konzessionierten Personenverkehrs, Leerfahrten des Personenverkehrs sowie Trassen des Güterverkehrs (Kategorie C);
 
@@ -34,4 +34,4 @@
 
   - c. ein Rabatt für lärmarme Fahrzeuge (Lärmbonus).
 
-6 Das BAV kann für Fahrten auf Schmalspurstrecken, auf Grenzbetriebsstrecken nach Anhang 2 oder mit historischen Fahrzeugen eine Vereinfachung oder Pauschalierung der Preisfaktoren, Zuschläge und Rabatte vorsehen.
+6 Das BAV kann für Fahrten auf Schmalspurstrecken, auf grenznahen Strecken oder mit historischen Fahrzeugen eine Vereinfachung oder Pauschalierung der Preisfaktoren, Zuschläge und Rabatte vorsehen.

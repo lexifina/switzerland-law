@@ -6,7 +6,7 @@
 
   - a. Anträge, die aufgrund einer Rahmenvereinbarung gestellt wurden, haben Vorrang.
 
-  - b. Das BAV kann für Anträge, die nicht aufgrund einer Rahmenvereinbarung gestellt werden, einen Vorrang definieren.
+  - b. Für Anträge, die nicht aufgrund einer Rahmenvereinbarung gestellt werden, kann die Trassenvergabestelle einen Vorrang definieren; sie berücksichtigt dabei die technischen Rahmenbedingungen, die Transportketten, die Häufigkeit der Züge und die Bedürfnisse der Landesversorgung.
 
   - c. Zwischen gleichrangigen Anträgen führt die Trassenvergabestelle ein Bietverfahren durch.
 
