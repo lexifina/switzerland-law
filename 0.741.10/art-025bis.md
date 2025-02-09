@@ -10,7 +10,7 @@ In Tunneln mit einem besonderen Verkehrszeichen gelten folgende Vorschriften:
 
   - c) …
 
-2. Selbst wenn der Tunnel beleuchtet ist, muss jeder Führer sein Fern‑ oder Abblendlicht einschalten.
+2. Selbst wenn der Tunnel beleuchtet ist, muss jeder Führer sich vergewissern, dass sein Fern‑ oder Abblendlicht eingeschaltet ist.
 
 3. Fahrzeugführer dürfen ihr Fahrzeug nur im Notfall oder bei drohender Gefahr anhalten oder abstellen. Dabei ist darauf zu achten, dass dies nach Möglichkeit an den besonders gekennzeichneten Stellen geschieht.
 
