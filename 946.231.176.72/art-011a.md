@@ -14,7 +14,7 @@
 
   - b. für die Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder für die Bewältigung von Naturkatastrophen bestimmt sind und nichtmilitärischen Zwecken oder nichtmilitärischen Endempfänger dienen.
 
-4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–2 bewilligen, falls dies erforderlich ist für:
+4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA Ausnahmen von den Verboten nach den Absätzen 1–2 bewilligen, falls dies erforderlich ist für:
 
   - a. medizinische oder pharmazeutische Zwecke bei einer Endverwendung nichtmilitärischer Art;
 
@@ -32,7 +32,7 @@
 
   - c. Güter der Zolltarifnummern 3917, 8421, 8471, 8523, 8536 und 8544, sofern diese für die Wartung oder Reparatur von Medizinprodukten erforderlich sind;
 
-  - d. Güter der Zolltarifnummern 8414 90 und 9026, die sich am 17. Oktober 2024 physisch in der Schweiz befanden, sofern diese im Rahmen des Projekts Sachalin-2 für die Wartung oder Reparatur erforderlich sind;
+  - d. Güter der Zolltarifnummern 8414 90 und 9026, die sich ab dem 17. Oktober 2024 physisch in der Schweiz befanden, sofern diese im Rahmen des Projekts Sachalin-2 für die Wartung oder Reparatur erforderlich sind;
 
   - e. Güter der Zolltarifnummer 8481 80, die für Sanitär-, Heiz-, Belüftungs- oder Klimasysteme bestimmt sind, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
