@@ -2,7 +2,7 @@
 
 (1) Diese Protokoll wird beim Generalsekretär der Organisation (im folgenden als «Depositar» bezeichnet) hinterlegt.
 
-(2) Der Depositar
+(2) Der Depositar:
 
   - a) unterrichtet alle Staaten, die dieses Protokoll unterzeichnet haben oder ihm beigetreten sind,
 
