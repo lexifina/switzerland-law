@@ -1,3 +1,0 @@
-# Art. 4 bis Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden
-
-Die Schlussklauseln des Protokolls von 2005 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden, sind die Artikel 8–13 des Protokolls von 2005 zum Protokoll von 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden. Bezugnahmen auf Vertragsstaaten im vorliegenden Protokoll gelten als Bezugnahmen auf Vertragsstaaten des Protokolls von 2005.
