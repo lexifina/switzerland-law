@@ -20,7 +20,7 @@
 
   - e. entschuldigt ist.
 
-6 Als entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für einen ganzen Sitzungstag aufgrund eines Auftrages einer ständigen Delegation gemäss Artikel 60 ParlG oder wegen Todesfalls im engen Familienkreis, Mutterschaft, Unfall oder Krankheit abgemeldet hat.
+6 Als entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für einen ganzen Sitzungstag aufgrund eines Auftrages einer ständigen Delegation gemäss Artikel 60 ParlG oder wegen Todesfalls im engen Familienkreis, Mutterschaft, Vaterschaft, Unfall oder Krankheit abgemeldet hat.
 
 6bis Als teilweise entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für Teile des Sitzungstages aufgrund eines Auftrages eines parlamentarischen Organes abgemeldet hat.
 
