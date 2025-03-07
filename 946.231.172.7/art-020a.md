@@ -1,3 +1,3 @@
 # Art. 20a Veröffentlichung
 
-Der Inhalt von Anhang 7 wird in der Amtlichen Sammlung des Bundesrechts (AS) und der Systematischen Sammlung des Bundesrechts (SR) nicht veröffentlicht.
+Der Inhalt der Anhänge 7 und 7a wird in der Amtlichen Sammlung des Bundesrechts (AS) und in der Systematischen Sammlung des Bundesrechts (SR) nur durch Verweis veröffentlicht.
