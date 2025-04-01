@@ -2,7 +2,7 @@
 
 1 Das Bundesamt für Cybersicherheit (BACS) ist das Kompetenzzentrum des Bundes für Cyberbedrohungen (National Cyber Security Centre [NCSC]).
 
-2 Zur Verfolgung dieses Ziels nimmt das BACS insbesondere folgende Funktionen wahr:
+2 Es nimmt insbesondere folgende Funktionen wahr:
 
   - a. Es koordiniert die Arbeiten des Bundes im Bereich der Cybersicherheit.
 
@@ -14,6 +14,8 @@
 
   - e. Es warnt betroffene Behörden, Organisationen und Personen vor unmittelbaren Cyberbedrohungen oder laufenden Cyberangriffen.
 
-  - f. Es unterstützt die Betreiberinnen von kritischen Infrastrukturen beim Schutz vor Cyberbedrohungen; es betreibt dazu das nationale Einsatzteam für Computersicherheit (Computer Emergency Response Team [CERT]).
+  - f. Es betreibt das nationale Einsatzteam für Computersicherheit.
 
   - g. Es erarbeitet zuhanden des Bundesrats die Nationale Cyberstrategie und koordiniert deren Umsetzung.
+
+  - h. Es vertritt die Schweiz in internationalen Fachgremien zur Cybersicherheit.
