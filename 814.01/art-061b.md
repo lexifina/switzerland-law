@@ -2,7 +2,7 @@
 
 1 Mit Busse bis zu 30 000 Franken wird bestraft, wer vorsätzlich:
 
-  - a. für die Abgabeerhebung nach Artikel 35a Absatz 1 massgebende Daten und Gegenstände nicht oder unrichtig deklariert;
+  - a. für die Abgabeerhebung nach Artikel 35a Absatz 1 massgebenden Daten und Gegenstände nicht oder unrichtig deklariert;
 
   - b. in einem Antrag auf Abgaberückerstattung nach Artikel 35c Absatz 3 erhebliche Tatsachen verschweigt oder über solche Tatsachen unwahre Belege vorlegt;
 
