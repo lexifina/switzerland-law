@@ -1,0 +1,3 @@
+# Art. 58a Kosten von Sicherungs- und Behebungsmassnahmen
+
+Die Kosten von Massnahmen, welche die Behörden zur Abwehr einer unmittelbar drohenden Einwirkung sowie zu deren Feststellung und Behebung treffen, werden dem Verursacher überbunden.
