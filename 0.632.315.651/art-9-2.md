@@ -1,0 +1,5 @@
+# Art. 9.2 Recht auf Regulierungstätigkeit und Schutzniveaus
+
+1. In Anerkennung des Rechts jeder Vertragspartei, unter Vorbehalt der Bestimmungen dieses Abkommens, ihr eigenes Arbeitsschutz- und Umweltschutzniveau zu bestimmen und ihre massgebenden Gesetze, Politiken und Praktiken entsprechend festzulegen oder zu ändern, ist jede Vertragspartei bestrebt, sicherzustellen, dass ihre Gesetze, Politiken und Praktiken ein hohes Arbeitsschutz- und Umweltschutzniveau vorsehen und fördern, das mit den in diesem Kapitel erwähnten Normen, Grundsätzen und Übereinkommen im Einklang steht. Jede Vertragspartei bemüht sich, das in diesen Gesetzen, Politiken und Praktiken vorgesehene Schutzniveau weiter zu verbessern.
+
+2. Bei der Ausarbeitung und Umsetzung von Massnahmen, die im Zusammenhang mit Umwelt- und Arbeitsbedingungen stehen und Auswirkungen auf den Handel und die Investitionen zwischen den Vertragsparteien haben, berücksichtigen die Vertragsparteien die verfügbaren wissenschaftlichen, technischen und weiteren Informationen sowie die einschlägigen internationalen Normen, Richtlinien und Empfehlungen.
