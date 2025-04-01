@@ -1,6 +1,6 @@
 # Art. 13a
 
-1 Die Kantone können mit Bewilligung des EJPD zusätzlich zu den anerkannten Zustellplattformen alternative Übermittlungssysteme einsetzen.
+1 Die Bundesbehörden und die Kantone können mit Bewilligung des EJPD zusätzlich zu den anerkannten Zustellplattformen alternative Übermittlungssysteme einsetzen.
 
 2 Für diese Übermittlungssysteme und die Bewilligung des EJPD gelten unter Vorbehalt der nachstehenden Absätze die Bestimmungen der Abschnitte 1–4 über die Zustellplattformen und deren Anerkennung.
 
@@ -10,7 +10,7 @@
 
   - b. die Voraussetzungen nach Artikel 2 Buchstaben a–e erfüllt sind;
 
-  - c. die Übermittlung über Internetseiten des Kantons abgewickelt wird; und
+  - c. die Übermittlung über Internetseiten des Bundes oder des betreffenden Kantons abgewickelt wird; und
 
   - d. der Anwendungsbereich des Systems definiert ist.
 
