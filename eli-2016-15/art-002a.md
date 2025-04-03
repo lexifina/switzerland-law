@@ -1,6 +1,6 @@
-# Art. 2a Verbote betreffend Güter und Technologie für unbemannte Luftfahrzeuge
+# Art. 2a Verbote betreffend Güter und Technologie für unbemannte Luftfahrzeuge und Raketen
 
-1 Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern und Technologie für unbemannte Luftfahrzeuge nach Anhang 1a an iranische Personen oder Organisationen oder zur Verwendung im Iran sind verboten.
+1 Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern und Technologie für unbemannte Luftfahrzeuge und Raketen nach Anhang 1a an iranische Personen oder Organisationen oder zur Verwendung im Iran sind verboten.
 
 2 Dienstleistungen jeder Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, der Gewährung von Finanzmitteln sowie Investitionen, Beteiligungen und Joint Ventures, im Zusammenhang mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Instandhaltung, der Herstellung oder der Verwendung von Gütern und Technologie nach Anhang 1a sind verboten.
 
@@ -10,4 +10,4 @@
 
   - a. medizinische oder pharmazeutische Zwecke;
 
-b. humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und weitreichende Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen.
+  - b. humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und weitreichende Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen.
