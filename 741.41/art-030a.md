@@ -12,7 +12,7 @@
 
     - 3. Konformitätserklärungen nach den Artikeln 2 Buchstabe f und 14 TGV vorliegen,
 
-    - 4. Prüfberichte vorliegen, die nach den in Anhang 2 aufgeführten Vorschriften von Prüfstellen erstellt wurden, die für diese Prüfungen in Anhang 2 TGV aufgeführt oder vom ASTRA nach Artikel 17 Absatz 2 TGV anerkannt sind, oder
+    - 4. Prüfberichte vorliegen, die nach den in Anhang 2 aufgeführten Vorschriften von anerkannten Prüfstellen nach Artikel 17 Absatz 1 TGV erstellt wurden, oder
 
     - 5. die Halter und Halterinnen diplomatische oder konsularische Vorrechte und Immunitäten geniessen.
 

@@ -4,7 +4,7 @@
 
 2 Die Zulassungsprüfungen und die Nachprüfungen werden unter den Zulassungsbehörden anerkannt. Ebenso anerkannt werden delegierte Prüfungen von Personen, die nachweisen, dass sie vom Standortkanton zur Selbstabnahme ermächtigt sind (Art. 32).
 
-3 Kann die Zulassungsbehörde bestimmte technische Überprüfungen nicht selber durchführen, so kann sie dafür eine Prüfung durch eine Prüfstelle nach Anhang 2 TGV verlangen.
+3 Kann die Zulassungsbehörde bestimmte technische Überprüfungen nicht selber durchführen, so kann sie dafür eine Prüfung durch eine anerkannte Prüfstelle nach Artikel 17 Absatz 1 TGV verlangen.
 
 4 Die Zulassungsbehörde kann für die ihr einzureichenden Unterlagen, die nicht in deutscher, französischer, italienischer oder englischer Sprache abgefasst sind, eine beglaubigte Übersetzung verlangen.
 
