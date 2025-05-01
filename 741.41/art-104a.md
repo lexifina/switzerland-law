@@ -1,8 +1,8 @@
 # Art. 104a Frontpartie und Frontschutzsysteme
 
-1 Fahrzeuge der Klassen M1 und N1 müssen hinsichtlich des Schutzes der Insassen und Insassinnen beim Frontaufprall der Verordnung (EU) 2019/2144 entsprechen. Bei Fahrzeugen von Herstellern oder Herstellerinnen, die jährlich insgesamt nicht mehr als 1 500 Stück Fahrzeuge der Klassen M1 und N1 herstellen, genügt die Bestätigung einer vom ASTRA anerkannten Prüfstelle, dass das Fahrzeug in dieser Hinsicht dem Stand der Technik entspricht.
+1 Fahrzeuge der Klassen M1 und N1 müssen hinsichtlich des Schutzes der Insassen und Insassinnen beim Frontaufprall der Verordnung (EU) 2019/2144 entsprechen. Bei Fahrzeugen von Herstellern oder Herstellerinnen, die jährlich insgesamt nicht mehr als 1 500 Stück Fahrzeuge der Klassen M1 und N1 herstellen, genügt die Bestätigung einer anerkannten Prüfstelle nach Artikel 17 Absatz 1 TGV, dass das Fahrzeug in dieser Hinsicht dem Stand der Technik entspricht.
 
-2 Fahrzeuge der Klassen M1 und N1 müssen hinsichtlich des Fussgängerschutzes der Verordnung (EU) 2019/2144 entsprechen. Bei zum Eigengebrauch importierten Fahrzeugen (Art. 4 Abs. 1 TGV) sowie bei Fahrzeugen von Herstellern oder Herstellerinnen, die jährlich insgesamt nicht mehr als 1 500 Stück Fahrzeuge der Klassen M1 und N1 herstellen, genügt die Bestätigung einer vom ASTRA anerkannten Prüfstelle, dass das Fahrzeug in dieser Hinsicht ein gleichwertiges Schutzniveau bietet.
+2 Fahrzeuge der Klassen M1 und N1 müssen hinsichtlich des Fussgängerschutzes der Verordnung (EU) 2019/2144 entsprechen. Bei zum Eigengebrauch importierten Fahrzeugen (Art. 4 Abs. 1 TGV) sowie bei Fahrzeugen von Herstellern oder Herstellerinnen, die jährlich insgesamt nicht mehr als 1 500 Stück Fahrzeuge der Klassen M1 und N1 herstellen, genügt die Bestätigung einer anerkannten Prüfstelle nach Artikel 17 Absatz 1 TGV, dass das Fahrzeug in dieser Hinsicht ein gleichwertiges Schutzniveau bietet.
 
 2bis Für den Anbau von Frontanbaugeräten sind Ausnahmen von Absatz 2 zulässig bei:
 
