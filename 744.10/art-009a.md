@@ -1,33 +1,11 @@
-# Art. 9a Register zur Beurteilung der Zuverlässigkeit von Verkehrsleitern und Verkehrsleiterinnen
+# Art. 9a Gegenseitige Amtshilfe und Informationsaustausch
 
-1 Das BAV führt ein Register zur Beurteilung der Zuverlässigkeit von Verkehrsleitern und Verkehrsleiterinnen.
+1 Im Rahmen der gegenseitigen Amtshilfe gibt das BAV den zuständigen Behörden der EU-Mitgliedstaaten und Drittstaaten auf Anfrage Auskunft darüber, ob ein Strassentransportunternehmen die Voraussetzung des tatsächlichen und dauerhaften Sitzes in der Schweiz erfüllt.
 
-2 Es bearbeitet darin folgende Daten:
+2 Der Informationsaustausch mit EU-Mitgliedstaaten über die Daten nach Artikel 9 Absätze 2 und 3 Buchstaben a, d und e erfolgt über das in der Durchführungsverordnung (EU) 2016/480 vorgesehene Informationssystem.
 
-  - a. Daten, die zur Identifizierung der betroffenen Person notwendig sind;
+3 Der Bundesrat kann völkerrechtliche Verträge über den Anschluss an Informationssysteme für die grenzüberschreitende Verwaltungszusammenarbeit abschliessen. Er regelt die Einzelheiten wie die Zuständigkeit für die nationale Koordination und die Zugriffsrechte.
 
-  - b. Verurteilungen wegen Straftaten nach Artikel 5 Absatz 1;
+4 Auf Anfrage von Drittstaaten gibt das BAV nach Massgabe der im Einzelfall anwendbaren Abkommen die Daten nach Artikel 9 Absätze 2 und 3 Buchstaben a, d und e bekannt. Das BAV kann diese Daten im Abrufverfahren zugänglich machen.
 
-  - c. administrative Massnahmen wegen Straftaten nach Artikel 5 Absatz 1;
-
-  - d. Gründe für Zweifel an der Zuverlässigkeit nach Artikel 5 Absatz 2;
-
-  - e. Feststellung im Rahmen einer Prüfung nach Artikel 8 Absatz 1, dass die Person die Anforderungen an die Zuverlässigkeit nicht mehr erfüllt;
-
-  - f. Entzug oder Widerruf der Zulassungsbewilligung des betroffenen Strassentransportunternehmens.
-
-3 Das BAV gibt die Daten nach Absatz 2 Buchstaben a, e und f auf Anfrage den für die Zulassung als Strassentransportunternehmen zuständigen Behörden der EU-Mitgliedstaaten sowie von Drittstaaten nach Massgabe der anwendbaren Abkommen bekannt. Es kann diese Daten im Abrufverfahren zugänglich machen.
-
-4 Es vernichtet die Daten nach zehn Jahren.
-
-5 Der Bundesrat regelt insbesondere:
-
-  - a. die Modalitäten des Zugriffs im Abrufverfahren;
-
-  - b. die Ausübung des Auskunfts- und Berichtigungsrechts der betroffenen Person;
-
-  - c. die Anforderungen an die Datensicherheit;
-
-  - d. die Fristen für die Löschung und die Vernichtung der Daten.
-
-6 Er kann völkerrechtliche Verträge über die Bekanntgabe der Daten nach Absatz 3 abschliessen.
+5 Der Bundesrat kann völkerrechtliche Verträge über die Bekanntgabe der Daten nach Absatz 4 abschliessen. Er regelt die Einzelheiten des Zugriffs im Abrufverfahren.

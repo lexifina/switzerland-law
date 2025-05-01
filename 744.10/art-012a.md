@@ -1,13 +1,7 @@
-# Art. 12a Übergangsbestimmungen zur Änderung vom 26. September 2014
+# Art. 12a Übergangsbestimmungen zur Änderung vom 14. Juni 2024
 
-1 Bei Inkrafttreten der Änderung vom 26. September 2014 bestehende Zulassungsbewilligungen bleiben nach bisherigem Recht gültig, sofern sie nicht nach neuem Recht entzogen oder widerrufen werden.
+1 Bei Inkrafttreten der Änderung vom 14. Juni 2024 bestehende Zulassungsbewilligungen bleiben nach bisherigem Recht gültig, sofern sie nicht nach neuem Recht entzogen oder widerrufen werden.
 
-2 Nach Inkrafttreten dieser Änderung gelten als Verkehrsleiter oder Verkehrsleiterin natürliche Personen, die:
+2 Strassentransportunternehmen nach Artikel 3 Absatz 1bis Buchstabe b, die nach bisherigem Recht über eine Zulassungsbewilligung verfügen, erhalten für Fahrzeuge, deren Gesamtgewicht nach Fahrzeugausweis 2,5 Tonnen übersteigt, jedoch höchstens 3,5 Tonnen beträgt, eine neue Zulassungsbewilligung für die verbleibende Gültigkeitsdauer der bestehenden Zulassungsbewilligung.
 
-  - a. als Strassentransportunternehmen die Voraussetzungen nach Artikel 4 Absatz 1 bisherigen Rechts erfüllen;
-
-  - b. als leitende Person in einem Strassentransportunternehmen die Voraussetzungen nach Artikel 4 Absatz 2 bisherigen Rechts erfüllen.
-
-3 Strassentransportunternehmen, deren Verkehrsleiter oder Verkehrsleiterin die Voraussetzungen nach Artikel 4 Absatz 2 nicht erfüllt, müssen dem BAV innerhalb eines Jahres nach Inkrafttreten dieser Änderung eine Person melden, welche die Voraussetzungen erfüllt.
-
-4 Für die Güterbeförderung mit Fahrzeugen mit einem Gesamtgewicht zwischen 3,5 und 6 Tonnen ist während zwei Jahren nach Inkrafttreten dieser Änderung keine Zulassung erforderlich.
+3 Bis zum Inkrafttreten der für den Informationsaustausch nach Artikel 9a Absatz 2 erforderlichen Abkommen gibt das BAV die Daten den zuständigen Behörden der EU-Mitgliedstaaten auf Anfrage bekannt. Es kann diese Daten im Abrufverfahren zugänglich machen.
