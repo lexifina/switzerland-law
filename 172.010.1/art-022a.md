@@ -1,35 +1,25 @@
-# Art. 22a Führen mit Leistungsvereinbarungen
+# Art. 22a
 
-1 Die Departemente oder die von ihnen bezeichneten Stellen schliessen mit ihren Verwaltungseinheiten Leistungsvereinbarungen ab. Diese umfassen mindestens:
+Von der Führung mit Leistungsvereinbarung sind neben der Eidgenössischen Finanzkontrolle ausgenommen:
 
-  - a. die Jahresziele des Bundesrates und der Departemente nach den Artikeln 19 und 20;
+  - a. die Bundeskanzlei;
 
-  - b. weitere wichtige Vorhaben mit Meilensteinen und Terminen;
+  - b. der Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragte;
 
-  - c. die Leistungs- und Wirkungsziele der Leistungsgruppen, die in der Regel mit Messgrössen und Sollwerten versehen werden.
+  - c. die Eidgenössischen Spielbankenkommission;
 
-2 Keine Leistungsvereinbarung muss abgeschlossen werden mit:
+  - d. der Preisüberwacher;
 
-  - a. der Bundeskanzlei;
+  - e. die Wettbewerbskommission;
 
-  - b. dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten;
+  - f. die Schweizerische Sicherheitsuntersuchungsstelle;
 
-  - c. der Eidgenössischen Spielbankenkommission;
+  - g. die Eidgenössische Postkommission;
 
-  - d. der Eidgenössischen Finanzkontrolle;
+  - h. die Kommission für den Eisenbahnverkehr;
 
-  - e. dem Preisüberwacher;
+  - i. die Eidgenössische Elektrizitätskommission;
 
-  - f. der Wettbewerbskommission;
+  - j. die Eidgenössische Kommunikationskommission;
 
-  - g. der Schweizerischen Sicherheitsuntersuchungsstelle;
-
-  - h. der Eidgenössischen Postkommission;
-
-  - i. der Kommission für den Eisenbahnverkehr;
-
-  - j. der Eidgenössischen Elektrizitätskommission;
-
-  - k. der Eidgenössischen Kommunikationskommission;
-
-  - l. der Unabhängigen Beschwerdeinstanz für Radio und Fernsehen.
+  - k. die Unabhängige Beschwerdeinstanz für Radio und Fernsehen.
