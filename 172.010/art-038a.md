@@ -10,6 +10,4 @@
 
 3 Führen Gruppen und Ämter Verwaltungseinheiten mit eigenem Globalbudget, so kann ihnen das Departement die Kompetenz zum Abschluss der Leistungsvereinbarungen mit diesen Verwaltungseinheiten delegieren.
 
-4 In der Leistungsvereinbarung sind die Aufgaben der Verwaltungseinheiten nach Vorhaben und Leistungsgruppen gegliedert. Sie sind mit messbaren Zielen zu versehen.
-
-5 Die Verwaltungseinheiten berichten jährlich über die Zielerreichung. Zu Beginn jeder Legislaturplanung überprüfen sie die Struktur und die Ziele ihrer Leistungsgruppen.
+4 und 5 …
