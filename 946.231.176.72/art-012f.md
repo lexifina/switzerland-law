@@ -10,6 +10,8 @@
 
   - c. die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen;
 
-  - d. die Erbringung von Weiterverladungsdiensten, die für die Bunkerung von mit Flüssigerdgas betriebenen Schiffen erforderlich sind.
+  - d. die Erbringung von Weiterverladungsdiensten, die für die Bunkerung von mit Flüssigerdgas betriebenen Schiffen erforderlich sind;
+
+  - e. die Erbringung von Weiterverladungsdiensten, die für die Beförderung zwischen Häfen eines EU-Mitgliedstaates, einschliesslich der Häfen in der Randlage des EU-Mitgliedstaates, erforderlich sind.
 
 3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen, wenn die Weiterverladung für den Transport in einen Mitgliedstaat der Europäischen Union erforderlich ist und dieser Mitgliedstaat bestätigt hat, dass die Weiterverladung zur Gewährleistung seiner Energieversorgung erforderlich ist.

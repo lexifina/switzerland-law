@@ -10,9 +10,9 @@
 
   - a. nach Anhang 21, die Teil der von der EU festgelegten Einfuhrkontingente sind;
 
-  - b. nach Anhang 21 Ziffer 1, die für einen Drittstaat ausserhalb der Schweiz oder der EU bestimmt sind;
+  - b. nach Anhang 21, die für einen Drittstaat ausserhalb der Schweiz oder der EU bestimmt sind;
 
-  - c. der Zolltarifnummern 7201 und 7203, die Teil der von der EU festgelegten Einfuhrkontingente sind.
+  - c. der Zolltarifnummern 7201, 7203 und 7601, die Teil der von der EU festgelegten Einfuhrkontingente sind.
 
 5 Das Verbot nach Absatz 1 gilt nicht für:
 
@@ -42,4 +42,6 @@
 
     - 4. die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung;
 
-  - b. für die Wartung, Reparatur oder Rückgabe fehlerhafter Teile in der Schweiz von Gütern der Zolltarifnummern 8471, 8523, 8536 und 9027, die Bestandteile von Medizinprodukten sind und die sich vor dem Geltungsbeginn der Verbote in der Russischen Föderation befanden.
+  - b. für die Wartung, Reparatur oder Rückgabe fehlerhafter Teile in der Schweiz von Gütern der Zolltarifnummern 8471, 8523, 8536 und 9027, die Bestandteile von Medizinprodukten sind und die sich vor dem Geltungsbeginn der Verbote in der Russischen Föderation befanden;
+
+  - c. für Güter der Zolltarifnummern 9026, 9027 und 9031, die der Wartung, Reparatur oder periodischen Zertifizierung primärer oder sekundärer Rohölmessstellen auf der Druschba-Pipeline dienen, sofern dies für die ununterbrochene Versorgung mit Rohöl der Zolltarifnummer 2709 aus der Russischen Föderation über die Druschba-Pipeline in die EU unbedingt erforderlich ist.

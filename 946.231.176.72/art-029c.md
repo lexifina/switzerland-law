@@ -8,7 +8,7 @@
 
   - c. juristische Personen, Unternehmen oder Organisationen, an denen natürliche oder juristische Personen, Unternehmen oder Organisationen nach den Buchstaben a oder b zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind;
 
-  - d. juristische Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung einer natürlichen oder juristischen Person, eines Unternehmens oder einer Organisation nach den Buchstaben a, b oder c handeln.
+  - d. natürliche oder juristische Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung einer natürlichen oder juristischen Person, eines Unternehmens oder einer Organisation nach Buchstabe a, b oder c handeln.
 
 2 Auftraggeberinnen nach Absatz 1 ist es verboten, mit natürlichen oder juristischen Personen, Unternehmen oder Organisationen nach Absatz 1 Buchstaben a–d Beschaffungsverträge, die in den Geltungsbereich von Absatz 1 fallen, abzuschliessen.
 

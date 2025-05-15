@@ -8,6 +8,12 @@
 
   - c. Luftfahrzeuge, die für Nichtlinienflüge genutzt werden und bei denen eine russische natürliche oder juristische Person, Organisation oder Einrichtung in der Lage ist, den Ort oder die Uhrzeit des Starts oder der Landung zu bestimmen.
 
+1bis Das Starten vom und das Landen im Hoheitsgebiet der Schweiz sowie das Überfliegen des Schweizer Hoheitsgebiets ist folgenden Luftfahrtunternehmen verboten:
+
+  - a. Luftfahrtunternehmen gemäss Anhang 35;
+
+  - b. Organisationen, die sich im Eigentum oder unter Kontrolle eines Luftfahrtunternehmens nach Buchstabe a befinden.
+
 2 Vom Verbot nach Absatz 1 ausgenommen sind:
 
   - a. Flüge zu humanitären Zwecken;
@@ -16,13 +22,17 @@
 
   - c. einmalige Rückführungsflüge von geleasten Luftfahrzeugen mit entsprechender Bewilligung des Bundesamtes für Zivilluftfahrt (BAZL);
 
-  - d. Überflüge und Landungen in Notsituationen;
+  - d. …
 
   - e. Flüge ausländischer Militär- und anderer Staatsluftfahrzeuge, die über eine Bewilligung (diplomatic clearance) gemäss Artikel 4 der Verordnung vom 23. März 2005 über die Wahrung der Lufthoheit verfügen;
 
   - f. Luftfahrzeuge mit einer Sitzplatzkapazität für höchstens vier Personen und einer zulässigen Startmasse von höchstens 2000 kg, sofern sie für private, nichtgewerbliche Flüge zu Freizeitzwecken oder zur Ausbildung für den Erwerb einer privaten Fluglizenz und darauf bezogene Einstufungen von Ausbildungsdienstleistern der Schweiz im Hoheitsgebiet der Schweiz eingesetzt werden.
 
-3 Das BAZL kann nach Rücksprache mit den zuständigen Stellen des SECO und des EDA zur Wahrung schweizerischer Interessen oder für andere mit den Zielen dieser Verordnung im Einklang stehende Zwecke weitere Ausnahmen vom Verbot nach Absatz 1 bewilligen.
+2bis Vom Verbot nach den Absätzen 1 und 1bis ausgenommen sind Überflüge und Landungen in Notsituationen.
+
+3 Das BAZL kann nach Rücksprache mit den zuständigen Stellen des SECO und des EDA zur Wahrung schweizerischer Interessen oder für andere mit den Zielen dieser Verordnung im Einklang stehende Zwecke weitere Ausnahmen vom Verbot nach Absätzen 1 und 1bis bewilligen.
+
+3bis Das BAZL kann nach Rücksprache mit den zuständigen Stellen des SECO und des EDA weitere Ausnahmen vom Verbot nach Absatz 1 bewilligen für den Betrieb eines unbemannten Luftfahrzeugs in der offenen Kategorie gemäss Anhang des Abkommens zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft vom 21. Juni 1999 über den Luftverkehr, sofern der Betrieb für private, nichtgewerbliche oder nichtgeschäftliche Flüge erfolgt, die im Gebiet und im Luftraum der Schweiz zu Freizeitzwecken durchgeführt werden.
 
 4 Luftfahrzeugbetreiber, die zwischen der Russischen Föderation und der Schweiz Nichtlinienflüge, einschliesslich Flügen über ein Drittland, durchführen, müssen dem BAZL mindestens 48 Stunden vor dem Flug alle diesbezüglichen Informationen übermitteln.
 

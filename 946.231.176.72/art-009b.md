@@ -24,7 +24,9 @@
 
   - b. in der Ukraine oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.
 
-2ter Das SECO kann Ausnahmen vom Verbot nach Absatz 1bis bewilligen für Flugturbinenkraftstoffe und Kraftstoffadditive gemäss Anhang 19, falls dies erforderlich ist für:
+2ter Die Verbote und Bewilligungspflichten nach den Absätzen 1, 2, 2bis und 4 gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zur Beimischung in ein Gut gemäss Anhang 19 bestimmt sind und ihre Herstellungskosten unter 50 Prozent der Herstellungskosten des fertigen Gutes ausmachen.
+
+3 Das SECO kann Ausnahmen vom Verbot nach Absatz 1bis bewilligen für Flugturbinenkraftstoffe und Kraftstoffadditive gemäss Anhang 19, falls dies erforderlich ist für:
 
   - a. die Herstellung von Titangütern, die in der Luftfahrtindustrie benötigt werden und nicht anders beschafft werden können;
 
@@ -32,4 +34,4 @@
 
   - c. das Verhindern von Kollisionen zwischen Satelliten oder deren unbeabsichtigtes Wiedereintreten in die Atmosphäre.
 
-3 Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b, 1bis Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.
+4 Es verweigert Bewilligungen für Güter und Dienstleistungen nach den Absätzen 1 Buchstabe b, 1bis Buchstabe b und 2 Buchstabe b, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.

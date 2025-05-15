@@ -5,3 +5,9 @@
 2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Flüssigerdgas nach Absatz 1 sind verboten.
 
 3 Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Lieferung von Flüssig-erdgas nach Absatz 1 vom Festland der Europäischen Union an ihre Gebiete in äusserster Randlage.
+
+4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des UVEK Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für den Kauf, die Einfuhr, die Durchfuhr oder den Transport von Flüssigerdgas der Zolltarifnummer 2711 11 00 durch einen EU-Mitgliedstaat mit Flüssigerdgasterminals ohne Anschluss an das Erdgasnetz, sofern:
+
+  - a. das Flüssigerdgas von einem Terminal in einem anderen EU-Mitgliedstaat gekauft, eingeführt oder transportiert wurde und der Terminal an das Erdgasnetz angeschlossen ist; und
+
+  - b. der Kauf, die Einfuhr, die Durchfuhr oder der Transport der Sicherstellung der Energieversorgung dient.
