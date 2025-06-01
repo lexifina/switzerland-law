@@ -4,4 +4,4 @@
 
 2 Die Frist zur Kündigung von Zusammenarbeits- und Tarifverträgen beträgt mindestens sechs Monate.
 
-3 Für die Datenbekanntgabe nach Artikel 26 Absatz 3bis des Gesetzes, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59f, 59g und 59i der Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV) sinngemäss anwendbar.
+3 Für die Datenbekanntgabe nach Artikel 26 Absatz 3bis des Gesetzes, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59f, 59g und 59i KVV sinngemäss anwendbar.
