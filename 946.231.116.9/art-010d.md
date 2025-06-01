@@ -12,7 +12,7 @@
 
 6 Die Verbote nach den Absätzen 1–3 gelten nicht für Güter und Dienstleistungen, die humanitären Zwecken, der Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit, der dringenden Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder der Bewältigung von Naturkatastrophen dienen, sofern sie für nichtmilitärische Zwecke oder Endempfänger bestimmt sind.
 
-7 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD) Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen, falls dies erforderlich ist für:
+7 Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen, falls dies erforderlich ist für:
 
   - a. medizinische oder pharmazeutische Zwecke bei einer Endverwendung nichtmilitärischer Art;
 
@@ -22,7 +22,7 @@
 
   - d. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
 
-8 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen für:
+8 Es kann Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen für:
 
   - a. Güter der Zolltarifnummer 8417 20, falls diese von natürlichen Personen im Haushalt für die Herstellung von Backwaren, Patisserie und Biskuits verwendet werden;
 
@@ -31,3 +31,5 @@
   - c. Güter der Zolltarifnummern 7411 oder 7412 mit einem inneren Durchmesser von bis zu 50 mm, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
   - d. Güter der Zolltarifnummer 3917 10, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind.
+
+9 Es kann Ausnahmen von den Verboten nach den Absätzen 1 und 3 bewilligen für Güter der Zolltarifnummern 8517 62 und 8523 52 für nichtmilitärische Zwecke und nichtmilitärische Endempfänger, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind.

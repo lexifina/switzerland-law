@@ -2,13 +2,15 @@
 
 1 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
 
-2 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
+2 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Bauwesen, Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
 
 3 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Markt- und Meinungsforschung, technische physikalische und chemische Untersuchung sowie Werbung für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, ist verboten.
 
 4 Der Verkauf, die Lieferung, die Ausfuhr und die Bereitstellung von Software für die Unternehmensführung und Software für Industriedesign und Fertigung gemäss Anhang 27 an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sowie der Transport und die Durchfuhr dieser Güter durch die Schweiz sind verboten.
 
 5 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Dienstleistungen oder Software nach den Absätzen 1–4 oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport oder der Bereitstellung dieser Dienstleistungen oder Software nach oder zur Verwendung in Belarus sind verboten.
+
+5bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Software nach Absatz 4 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Software an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sind verboten.
 
 6 Die Verbote nach den Absätzen 1–5 gelten nicht für:
 
@@ -50,13 +52,19 @@
 
     - 1. den Betrieb, die Instandhaltung und die Sicherheit, einschliesslich der Cybersicherheit, von elektronischen Kommunikationsdiensten in Belarus, der Ukraine, der Schweiz oder einem EWR-Mitgliedstaat, zwischen Belarus oder der Ukraine und der Schweiz oder einem EWR-Mitgliedstaat, oder
 
-    - 2. Rechenzentrumsdienste in der Schweiz oder einem EWR-Mitgliedstaat.
+    - 2. Rechenzentrumsdienste in der Schweiz oder einem EWR-Mitgliedstaat;
+
+  - i. den laufenden Bau von Infrastruktur mit einer Höhe von bis zu 25 Meter für die zivile Energieversorgung und -verteilung an Bildungseinrichtungen und Einrichtungen der Gesundheitsversorgung.
 
 10 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Dienstleistungen, die erforderlich sind für die Errichtung, Zertifizierung oder Bewertung eines Systems nach Artikel 12 Absatz 5.
 
 11 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 4 bewilligen, sofern die Software für den Beitrag belarussischer Staatsangehöriger zu internationalen Open-Source-Projekten erforderlich ist.
 
-12 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 2 bewilligen, sofern die Rechtsberatungsdienstleistungen für die Fortsetzung bestehender Initiativen zur Unterstützung der Opfer von Natur- oder Nuklearkatastrophen oder von Chemieunfällen und im Rahmen von internationalen Adoptionsverfahren erforderlich sind.
+12 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 2 bewilligen, sofern:
+
+  - a. es sich um Rechtsberatungsdienstleistungen handelt, die für die Fortsetzung bestehender Initiativen zur Unterstützung der Opfer von Natur- oder Nuklearkatastrophen oder von Chemieunfällen oder im Rahmen von internationalen Adoptionsverfahren erforderlich sind;
+
+  - b. die Dienstleistungen für die Tätigkeit einer konsularischen oder diplomatischen Vertretung von Belarus in der Schweiz oder einem EWR-Mitgliedstaat unbedingt erforderlich sind.
 
 13 Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie gemäss Absatz 6 Buchstabe a erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2025 und anschliessend semesterweise melden.
 

@@ -1,0 +1,9 @@
+# Art. 10cbis Software für den Energiesektor
+
+1 Der Verkauf, die Lieferung, die Ausfuhr und die Bereitstellung von Software für den Energiesektor nach Anhang 7b nach oder zur Verwendung in Belarus sind verboten.
+
+2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Software nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, der Bereitstellung, der Herstellung, der Wartung, dem Transport oder der Verwendung dieser Software sind verboten.
+
+3 Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Software nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Software an natürliche oder juristische Personen, Organisationen oder Einrichtungen in Belarus oder zur Verwendung in Belarus sind verboten.
+
+4 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und, wo Finanzdienstleistungen oder die Energieversorgung betroffen sind, des Eidgenössischen Finanzdepartements (EFD) beziehungsweise des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, falls dies notwendig ist, um bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage die Energieversorgung der Schweiz oder eines EWR-Mitgliedstaates sicherzustellen.
