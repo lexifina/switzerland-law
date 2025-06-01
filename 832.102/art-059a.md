@@ -2,7 +2,7 @@
 
 1 Im Falle eines Vergütungsmodells vom Typus DRG (Diagnosis Related Groups) muss der Leistungserbringer die Datensätze mit den administrativen und medizinischen Angaben nach Artikel 59 Absatz 1 mit einer einmaligen Identifikationsnummer versehen. Das EDI legt die gesamtschweizerisch einheitliche Struktur der Datensätze fest.
 
-2 Diagnosen und Prozeduren nach Artikel 59 Absatz 1 Buchstabe c sind entsprechend den Klassifikationen für die medizinische Statistik der Krankenhäuser nach Ziffer 62 des Anhangs der Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes zu codieren.
+2 Diagnosen und Prozeduren nach Artikel 59 Absatz 1 Buchstabe c sind entsprechend den Klassifikationen für die Erhebung für die Statistik der Gesundheitsversorgung nach Anhang 1 Ziffer 05.03. der Bundesstatistikverordnung vom 30. April 2025 zu kodieren.
 
 3 Der Leistungserbringer leitet die Datensätze mit den administrativen und den medizinischen Angaben nach Artikel 59 Absatz 1 gleichzeitig mit der Rechnung an die Datenannahmestelle des Versicherers weiter. Es muss sichergestellt werden, dass ausschliesslich diese Datenannahmestelle Zugang zu den medizinischen Angaben erhält.
 
