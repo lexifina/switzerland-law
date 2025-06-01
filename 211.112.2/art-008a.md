@@ -30,7 +30,7 @@ Im Personenstandsregister werden weitere Geschäfte und Daten geführt, die nich
 
     - 2. umfassende Beistandschaft oder Wirksamkeit eines Vorsorgeauftrags infolge dauernder Urteilsunfähigkeit (Art. 449c ZGB);
 
-  - i. statistische Angaben nach der Statistikerhebungsverordnung vom 30. Juni 1993;
+  - i. statistische Angaben nach der Bundesstatistikverordnung vom 30. April 2025;
 
   - j. Angaben zur genetischen und biologischen Abstammung eines Kindes, das im Rahmen einer Leihmutterschaft oder mittels Eizellen- oder Samenspende im Ausland gezeugt wurde, sofern sie bekannt und nicht bereits in den Abstammungsangaben (Art. 8 Bst. g) erfasst sind;
 
