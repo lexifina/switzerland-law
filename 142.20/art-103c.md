@@ -14,7 +14,9 @@
 
   - b. das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden: im Rahmen des Visumverfahrens via das zentrale Visa-Informationssystem (C-VIS) (Art. 109a);
 
-  - c. das Grenzwachtkorps, die kantonalen und kommunalen Polizeibehörden, die Personenkontrollen durchführen, das SEM sowie die kantonalen und kommunalen Migrationsbehörden: zum Zweck der Prüfung der Voraussetzungen für die Einreise oder den Aufenthalt in der Schweiz sowie zur Identifikation von Ausländerinnen und Ausländern, welche möglicherweise unter einer anderen Identität im EES erfasst wurden oder welche die Voraussetzungen zur Einreise oder zum Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen.
+  - c. das Grenzwachtkorps, die kantonalen und kommunalen Polizeibehörden, die Personenkontrollen durchführen, das SEM sowie die kantonalen und kommunalen Migrationsbehörden: zum Zweck der Prüfung der Voraussetzungen für die Einreise oder den Aufenthalt in der Schweiz sowie zur Identifikation von Ausländerinnen und Ausländern, welche möglicherweise unter einer anderen Identität im EES erfasst wurden oder welche die Voraussetzungen zur Einreise oder zum Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen;
+
+  - d. das SEM: im Rahmen der Erfüllung seiner Aufgaben als nationale Stelle des Europäischen Reiseinformations- und -genehmigungssystems (ETIAS) (nationale ETIAS-Stelle).
 
 3 Die Behörden nach Absatz 2 können die Daten, die das automatisierte Berechnungssystem nach Artikel 11 der Verordnung (EU) 2017/2226 liefert, online abfragen.
 
@@ -26,7 +28,9 @@
 
   - c. die Bundesanwaltschaft;
 
-  - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
+  - d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano;
+
+  - e. die für die Strafverfolgung eingesetzten Mitarbeiterinnen und Mitarbeiter des Bundesamtes für Zoll und Grenzsicherheit (BAZG).
 
 5 …
 
