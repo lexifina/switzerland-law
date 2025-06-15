@@ -1,8 +1,8 @@
 # Art. 122a Sorgfaltspflichtverletzungen durch Luftverkehrsunternehmen
 
-1 Ein Luftverkehrsunternehmen, das seine Sorgfaltspflicht nach Artikel 92 Absatz 1 verletzt, wird mit 4000 Franken pro beförderte Person, die nicht über die erforderlichen Reisedokumente, Visa oder Aufenthaltstitel verfügt, belastet. In schweren Fällen beträgt die Belastung 16 000 Franken pro Person. In leichten Fällen kann von der Eröffnung eines Verfahrens abgesehen werden.
+1 Ein Luftverkehrsunternehmen, das seine Sorgfaltspflicht nach Artikel 92 Absatz 1 verletzt, wird mit 4000 Franken pro beförderte Person, die nicht über die erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa oder Aufenthaltstitel verfügt, belastet. In schweren Fällen beträgt die Belastung 16 000 Franken pro Person. In leichten Fällen kann von der Eröffnung eines Verfahrens abgesehen werden.
 
-2 Eine Verletzung der Sorgfaltspflicht wird vermutet, wenn das Luftverkehrsunternehmen Personen befördert, die nicht über die für die Einreise in den Schengen-Raum oder für die Durchreise durch die internationalen Transitzonen der Flughäfen erforderlichen Reisedokumente, Visa oder Aufenthaltstitel verfügen und denen die Einreise verweigert wird.
+2 Eine Verletzung der Sorgfaltspflicht wird vermutet, wenn das Luftverkehrsunternehmen Personen befördert, die nicht über die für die Einreise in den Schengen-Raum oder für die Durchreise durch die internationalen Transitzonen der Flughäfen erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa oder Aufenthaltstitel verfügen und denen die Einreise verweigert wird.
 
 3 Keine Verletzung der Sorgfaltspflicht liegt vor, wenn:
 
@@ -14,7 +14,9 @@
 
     - 3. das Ermitteln der zulässigen Aufenthaltstage oder Einreisen aufgrund der Stempelung des Reisedokuments nicht ohne Weiteres möglich war,
 
-    - 4. es alle erforderlichen und zumutbaren organisatorischen Vorkehren getroffen hat, um zu verhindern, dass es Personen befördert, die nicht über die für die Einreise in den Schengen-Raum oder für die Durchreise durch die internationalen Transitzonen der Flughäfen erforderlichen Reisedokumente, Visa und Aufenthaltstitel verfügen;
+    - 4. es alle erforderlichen und zumutbaren organisatorischen Vorkehren getroffen hat, um zu verhindern, dass es Personen befördert, die nicht über die für die Einreise in den Schengen-Raum oder für die Durchreise durch die internationalen Transitzonen der Flughäfen erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa und Aufenthaltstitel verfügen,
+
+    - 5. aufgrund einer Störung des ETIAS die Überprüfung, ob eine gültige ETIAS-Reisegenehmigung vorliegt, nicht möglich war;
 
   - b. das Luftverkehrsunternehmen glaubhaft macht, zur Beförderung einer Person genötigt worden zu sein.
 
