@@ -1,6 +1,6 @@
-# Art. 109c Abfrage des nationalen Visumsystems
+# Art. 109c Abfrage des ORBIS
 
-Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des nationalen Visumsystems gewähren:
+Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des ORBIS gewähren:
 
   - a. dem Grenzwachtkorps und den Grenzposten der kantonalen Polizeibehörden: zur Durchführung der Personenkontrollen und zur Erteilung von Ausnahmevisa;
 
@@ -20,4 +20,6 @@ Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des nationalen
 
   - g. den Beschwerdeinstanzen des Bundes: für die Instruktion der bei ihnen eingegangenen Beschwerden;
 
-  - h. den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97a Absatz 1 ZGB und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004.
+  - h. den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97a Absatz 1 ZGB und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004;
+
+  - i. der nationalen ETIAS-Stelle: im Rahmen der Erfüllung ihrer Aufgaben.

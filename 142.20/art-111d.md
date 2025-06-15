@@ -14,10 +14,4 @@
 
 4 Der Bundesrat bestimmt den Umfang der zu erbringenden Garantien und die Modalitäten der Garantieerbringung.
 
-5 Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen übermittelt werden an:
-
-  - a. einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist;
-
-  - b. internationale Organisationen;
-
-  - c. private Stellen.
+5 …

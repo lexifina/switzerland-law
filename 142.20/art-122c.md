@@ -8,4 +8,4 @@
 
   - a. im Fall einer Verletzung der Sorgfaltspflicht: spätestens zwei Jahre nach der betreffenden Einreiseverweigerung;
 
-  - b. im Fall einer Verletzung der Meldepflicht: spätestens zwei Jahre nach dem Datum, an dem nach Artikel 104 Absatz 1 die Daten hätten übermittelt werden müssen.
+  - b. im Fall einer Verletzung der Meldepflicht: spätestens zwei Jahre nach dem Datum, an dem nach Artikel 92a Absatz 1 die Daten hätten übermittelt werden müssen.

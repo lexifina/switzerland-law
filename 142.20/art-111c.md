@@ -4,4 +4,4 @@
 
 2 Zu diesem Zweck können sie namentlich die Personendaten nach Artikel 111b Absatz 2 Buchstaben b–d bekannt geben und abrufen.
 
-3 Die Artikel 111a, 111d und 111f gelten sinngemäss.
+3 Die Artikel 109l, 111a und 111d gelten sinngemäss.

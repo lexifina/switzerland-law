@@ -1,3 +1,0 @@
-# Art. 111f Auskunftsrecht
-
-Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder der Kantone. …

@@ -4,12 +4,18 @@
 
 2 Folgende Kategorien von Daten werden über die nationale Schnittstelle an das EES übermittelt:
 
-  - a. die alphanumerischen Daten über die betreffenden Drittstaatsangehörigen sowie die Daten über erteilte Visa, falls solche ausgestellt werden müssen;
+  - a. die Identitätsdaten über die betreffenden Drittstaatsangehörigen sowie die Daten zu den Reisedokumenten;
 
   - b. das Gesichtsbild;
+
+  - bbis. die Daten über erteilte Visa, falls eine Visumpflicht besteht;
+
+  - bter. die Daten über erteilte ETIAS-Reisegenehmigungen, falls eine Pflicht für solche besteht;
 
   - c. den Zeitpunkt der Ein- und Ausreise in den und aus dem Schengen-Raum sowie die Grenzübergangsstelle und die für die Grenzkontrolle zuständige Behörde;
 
   - d. Einreiseverweigerungen.
 
 3 Unterstehen die Drittstaatsangehörigen nicht der Visumpflicht, werden von der zuständigen Behörde zusätzlich zu den Daten nach Absatz 2 die Fingerabdrücke dieser Personen erfasst und an das EES übermittelt.
+
+4 Die Daten des EES nach Absatz 2 Buchstaben a und b sowie nach Absatz 3 werden automatisiert im gemeinsamen Speicher für Identitätsdaten (CIR) gespeichert.
