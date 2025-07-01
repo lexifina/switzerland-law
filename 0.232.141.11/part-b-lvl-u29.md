@@ -36,7 +36,7 @@ Das Anmeldeamt braucht die Aufforderung nach Artikel 14 Absatz 1 Buchstabe b zur
 
   - a) Werden die Zusammenfassung oder Textbestandteile der Zeichnungen in einer anderen Sprache eingereicht als derjenigen – vorbehaltlich der Regeln 12.1bis und 26.3ter Absatz e – in der die Beschreibung und die Ansprüche abgefasst sind, so fordert das Anmeldeamt den Anmelder auf, eine Übersetzung der Zusammenfassung oder der Textbestandteile der Zeichnungen in der Sprache einzureichen, in der die internationale Anmeldung zu veröffentlichen ist, es sei denn:
 
-    - i) es ist eine Übersetzung der internationalen Anmeldung nach Regel 12.3 Absatz a erforderlich; oder
+    - i) es ist eine Übersetzung der internationalen Anmeldung nach Regel 12.3 Absatz a in die Sprache erforderlich, in der die internationale Anmeldung zu veröffentlichen ist, oder
 
     - ii) die Zusammenfassung oder die Textbestandteile der Zeichnungen sind in der Sprache abgefasst, in der die internationale Anmeldung zu veröffentlichen ist.
 

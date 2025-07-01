@@ -18,7 +18,7 @@
 
   - d) Jedes Schreiben des Anmelders an das Internationale Büro wird in englischer oder französischer Sprache oder in einer anderen durch die Verwaltungsvorschriften zugelassenen Veröffentlichungssprache abgefasst.
 
-  - e) Jedes Schreiben oder jede Mitteilung des Internationalen Büros an den Anmelder oder an ein nationales Amt wird in englischer oder französischer Sprache abgefasst.
+  - e) Jedes Schreiben oder jede Mitteilung des Internationalen Büros an den Anmelder oder an ein nationales Amt wird in englischer oder französischer Sprache oder in einer anderen durch die Verwaltungsvorschriften zugelassenen Veröffentlichungssprache abgefasst.
 
 92.3 Postversand durch nationale Ämter oder zwischenstaatliche Organisationen
 
