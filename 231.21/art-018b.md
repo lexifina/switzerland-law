@@ -1,5 +1,7 @@
 # Art. 18b Wahrung von Fabrikations- und Geschäftsgeheimnissen
 
-1 Das BAZG weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Halbleitererzeugnisse auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
+1 Der Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Halbleitererzeugnisse kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
 
-2 Gestattet das BAZG dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Halbleitererzeugnisse, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+2 Das BAZG informiert den Anmelder, Besitzer oder Eigentümer oder die Anmelderin, Besitzerin oder Eigentümerin der Halbleitererzeugnisse über die Möglichkeit nach Absatz 1 und gewährt ihm oder ihr eine angemessene Frist.
+
+3 Gestattet es dem Antragsteller oder der Antragstellerin, die zurückbehaltenen Halbleitererzeugnisse zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers oder der Antragstellerin sowie des Anmelders, Besitzers oder Eigentümers oder der Anmelderin, Besitzerin oder Eigentümerin.
