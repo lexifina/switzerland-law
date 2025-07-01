@@ -14,7 +14,7 @@
 
   - c. ein Bremslicht;
 
-  - d. fest angebrachte Richtungsblinker nach Artikel 140 Absatz 1 Buchstabe c; Artikel 79 und Anhang 10 sind sinngemäss anwendbar;
+  - d. Richtungsblinker;
 
   - e. eine Kontrollschildbeleuchtung;
 

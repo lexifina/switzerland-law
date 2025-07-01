@@ -10,6 +10,4 @@
 
 3 Die Hilfsbremse nach Absatz 2 Buchstabe b darf als Feststellbremse benützt werden. Anstelle der Feststellbremse kann eine Abstellstütze dienen, wenn sie das vollbeladene Fahrzeug in einer Steigung und einem Gefälle bis 12 Prozent am Wegrollen hindern kann. Für einrädrige Fahrzeuge ist eine andere geeignete Abstellmöglichkeit ausreichend, wenn dadurch die gleichen Bedingungen erfüllt werden.
 
-4 Anstelle einer Glocke ist eine Warnvorrichtung nach der Verordnung (EU) Nr. 168/2013 und der delegierten Verordnung (EU) Nr. 3/2014 oder nach dem UNECE-Reglement Nr. 28 zulässig.
-
-5 Eine Lenkstange ist nicht erforderlich.
+4 und 5 …
