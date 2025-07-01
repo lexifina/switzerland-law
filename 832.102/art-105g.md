@@ -1,6 +1,6 @@
 # Art. 105g Personendaten
 
-Bei der Bekanntgabe nach Artikel 64a Absatz 3 des Gesetzes muss der Versicherer zur Identifikation der versicherten Personen und der Schuldnerinnen und Schuldner melden:
+Nimmt der Versicherer eine Meldung nach Artikel 64a Absätze 3 und 3bis KVG vor, so muss er zur Identifikation der versicherten Personen und der Schuldnerinnen und Schuldner melden:
 
   - a. den Namen und den Vornamen;
 
@@ -8,6 +8,8 @@ Bei der Bekanntgabe nach Artikel 64a Absatz 3 des Gesetzes muss der Versicherer 
 
   - c. das Geburtsdatum;
 
-  - d. den Wohnsitz;
+  - d. die Adresse;
 
-  - e. die AHV-Nummer.
+  - e. die AHV-Nummer;
+
+  - f. die Korrespondenzsprache.
