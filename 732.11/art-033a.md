@@ -1,5 +1,5 @@
-# Art. 33a Zuverlässigkeitskontrollen
+# Art. 33a Umfassende systematische Sicherheitsbewertungen für andere Kernanlagen als Kernkraftwerke
 
-1 Die periodischen Zuverlässigkeitskontrollen von Personen, die Funktionen ausüben, die für die nukleare Sicherheit und die Sicherung der Kernanlage wesentlich sind, sind in der Verordnung vom 8. November 2023 über die Personensicherheitsprüfung (VPSP) geregelt.
+1 Der Inhaber einer Betriebsbewilligung für eine andere Kernanlage als ein Kernkraftwerk hat zusätzlich zu den systematischen Sicherheitsbewertungen nach Artikel 33 Absatz 1 alle zehn Jahre eine umfassende systematische Sicherheitsbewertung zu erstellen.
 
-2 Die Kosten für die Prüfung trägt die einleitende Stelle nach Artikel 15 Absatz 4 Buchstabe a VPSP.
+2 Das ENSI wird beauftragt, die detaillierten Anforderungen an die umfassende systematische Sicherheitsbewertung in Richtlinien zu regeln.
