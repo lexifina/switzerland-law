@@ -1,6 +1,6 @@
 # Art. 40e
 
-1 Die in den Artikeln 36–40d vorgesehenen Lizenzen werden nur unter der Voraussetzung erteilt, dass Bemühungen des Gesuchstellers um Erteilung einer vertraglichen Lizenz zu angemessenen Marktbedingungen innerhalb einer angemessenen Frist erfolglos geblieben sind; im Falle einer Lizenz nach Artikel 40d gilt eine Frist von 30 Werktagen als angemessen. Solche Bemühungen sind nicht notwendig im Falle eines nationalen Notstandes, bei äusserster Dringlichkeit oder bei öffentlichem, nicht gewerblichem Gebrauch.
+1 Die in den Artikeln 36–40d vorgesehenen Lizenzen werden nur unter der Voraussetzung erteilt, dass Bemühungen des Gesuchstellers um Erteilung einer vertraglichen Lizenz zu angemessenen Marktbedingungen innerhalb einer angemessenen Frist erfolglos geblieben sind; im Falle einer Lizenz nach Artikel 40d gilt eine Frist von 30 Arbeitstagen als angemessen. Solche Bemühungen sind nicht notwendig im Falle eines nationalen Notstandes, bei äusserster Dringlichkeit oder bei öffentlichem, nicht gewerblichem Gebrauch.
 
 2 Umfang und Dauer der Lizenz sind auf den Zweck beschränkt, für den sie erteilt worden ist.
 
