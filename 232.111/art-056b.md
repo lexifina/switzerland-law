@@ -1,5 +1,7 @@
 # Art. 56b Wahrung von Fabrikations- und Geschäftsgeheimnissen
 
-1 Das BAZG weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihm für die Stellung des Antrags eine angemessene Frist.
+1 Der Anmelder, Besitzer oder Eigentümer der Ware kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
 
-2 Gestattet das BAZG dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+2 Das BAZG informiert den Anmelder, Besitzer oder Eigentümer der Ware über die Möglichkeit nach Absatz 1 und gewährt ihm eine angemessene Frist.
+
+3 Gestattet es dem Antragsteller, die zurückbehaltene Ware zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers sowie des Anmelders, Besitzers oder Eigentümers.
