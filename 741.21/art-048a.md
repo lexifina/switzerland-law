@@ -1,6 +1,6 @@
 # Art. 48a Parkieren mit Parkscheibe
 
-1 Das Signal «Parkieren mit Parkscheibe» (4.18) kennzeichnet Parkplätze, auf denen beim Parkieren eine Parkscheibe nach Anhang 3 Ziffer 1 verwendet werden muss. Diese Parkplätze können von Motorwagen, anderen mehrspurigen Motorfahrzeugen, Motorrädern mit Seitenwagen und weiteren Fahrzeugen mit ähnlichen Ausmassen benützt werden.
+1 Das Signal «Parkieren mit Parkscheibe» (4.18) kennzeichnet Parkplätze, auf denen beim Parkieren eine Parkscheibe nach Anhang 3 Ziffer 1 verwendet werden muss. Diese Parkplätze können von Motorwagen, anderen mehrspurigen Motorfahrzeugen, Motorrädern mit Seitenwagen und weiteren Fahrzeugen mit ähnlichen Ausmassen benützt werden; ausgenommen sind mehrspurige Motorfahrräder.
 
 2 Das Signal hat folgende Bedeutung:
 

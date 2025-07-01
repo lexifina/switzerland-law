@@ -4,4 +4,4 @@
 
 2 Die Höchstgeschwindigkeit beträgt 20 km/h.
 
-3 Das Parkieren ist nur an den durch Signale oder Markierungen gekennzeichneten Stellen erlaubt. Für das Abstellen von Fahrrädern gelten die allgemeinen Vorschriften über das Parkieren.
+3 Das Parkieren ist nur an den durch Signale oder Markierungen gekennzeichneten Stellen erlaubt. Für das Abstellen von Fahrrädern und Motorfahrrädern gelten die allgemeinen Vorschriften über das Parkieren.

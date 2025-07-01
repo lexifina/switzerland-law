@@ -20,9 +20,9 @@
 
   - c. am Fahrbahnrand vor Fussgängerinseln und vergleichbaren kürzeren Engstellen, wenn ein vorhandener Radstreifen unterbrochen werden muss;
 
-  - d. für die Kennzeichnung von Fahrradgegenverkehr in Einbahnstrassen, wenn kein Radstreifen vorhanden ist;
+  - d. für die Kennzeichnung von Fahrrad- und Motorfahrradgegenverkehr in Einbahnstrassen, wenn kein Radstreifen vorhanden ist;
 
-  - e. auf Rechtsabbiegestreifen, auf denen die Fahrräder entgegen dem allgemeinen Verkehr geradeaus fahren dürfen; in diesem Fall wird das Symbol mit gelben Richtungspfeilen ergänzt;
+  - e. auf Rechtsabbiegestreifen, auf denen die Fahrräder und Motorfahrräder entgegen dem allgemeinen Verkehr geradeaus fahren dürfen; in diesem Fall wird das Symbol mit gelben Richtungspfeilen ergänzt;
 
   - f. im «Aufstellbereich für Radfahrer» (6.26) bei Lichtsignalanlagen;
 
