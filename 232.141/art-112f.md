@@ -1,3 +1,7 @@
-# Art. 112f Gebühren
+# Art. 112f Wahrung von Fabrikations- und Geschäftsgeheimnissen
 
-Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007 über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+1 Der Anmelder, Besitzer oder Eigentümer der Ware kann dem BAZG beantragen, die Entnahme von Proben oder Mustern zu verweigern. Der Antrag ist zu begründen.
+
+2 Das BAZG informiert den Anmelder, Besitzer oder Eigentümer der Ware über die Möglichkeit nach Absatz 1 und gewährt ihm eine angemessene Frist.
+
+3 Gestattet es dem Antragsteller, die zurückbehaltene Ware zu besichtigen, so berücksichtigt es bei der Festlegung des Zeitpunkts angemessen die Interessen des Antragstellers sowie des Anmelders, Besitzers oder Eigentümers.

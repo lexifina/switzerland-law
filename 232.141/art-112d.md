@@ -1,5 +1,5 @@
-# Art. 112d Wahrung von Fabrikations- und Geschäftsgeheimnissen
+# Art. 112d Übertragung der Zuständigkeit bei Kleinsendungen
 
-1 Das BAZG weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihm für die Stellung des Antrags eine angemessene Frist.
+1 Handelt es sich bei der zurückbehaltenen Ware um eine Kleinsendung, so überträgt das BAZG die Zuständigkeit für den Vollzug des Verfahrens dem IGE und übergibt diesem oder einer von diesem bezeichneten Drittperson die Ware zur Verwahrung.
 
-2 Gestattet das BAZG dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+2 Ist das IGE der Antragsteller, so bleibt das BAZG zuständig.

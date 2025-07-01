@@ -1,5 +1,7 @@
-# Art. 112e Aufbewahrung von Beweismitteln bei Vernichtung der Ware
+# Art. 112e Proben oder Muster
 
-1 Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 86c Absatz 1 PatG auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
+1 Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen.
 
-2 Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+2 Das BAZG kann dem Antragsteller anstelle der Proben oder Muster auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung ermöglichen.
+
+3 Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung beim BAZG oder, während die Ware zurückbehalten wird, bei der zuständigen Behörde gestellt werden.
