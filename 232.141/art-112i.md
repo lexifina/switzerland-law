@@ -1,0 +1,5 @@
+# Art. 112i Gebühren
+
+1 Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007 über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
+
+2 Ist das IGE für den Vollzug des Verfahrens zuständig, so richten sich die Gebühren nach der GebV-IGE.
