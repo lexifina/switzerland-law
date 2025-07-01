@@ -8,9 +8,11 @@
 
 3 Der Versicherer gibt der zuständigen kantonalen Behörde die betroffenen Versicherten sowie, pro Schuldner und Schuldnerin, den Gesamtbetrag der Forderungen aus der obligatorischen Krankenpflegeversicherung (ausstehende Prämien und Kostenbeteiligungen sowie Verzugszinse und Betreibungskosten) bekannt, die während des berücksichtigten Zeitraumes zur Ausstellung eines Verlustscheines oder eines gleichwertigen Rechtstitels geführt haben. Er ersucht die vom Kanton bezeichnete Revisionsstelle, die Richtigkeit der Daten, die er dem Kanton bekannt gegeben hat, zu bestätigen und übermittelt die Bestätigung dem Kanton.
 
-4 Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren.
+3bis Kann der Versicherer bei den Eltern oder dem Elternteil, der die Prämien schuldet, für ein Kind zu den in Absatz 3 erwähnten Forderungen keinen Verlustschein oder keinen gleichwertigen Rechtstitel erwirken, kann er diese Forderungen dem Kanton dennoch bekannt geben.
 
-5 Der Versicherer bewahrt die Verlustscheine und die gleichwertigen Rechtstitel bis zur vollständigen Bezahlung der ausstehenden Forderungen auf. Sobald die versicherte Person ihre Schuld vollständig oder teilweise gegenüber dem Versicherer beglichen hat, erstattet dieser 50 Prozent des von der versicherten Person erhaltenen Betrages an den Kanton zurück.
+4 Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach den Absätzen 3 und 3bis waren. Der Versicherer bewahrt die Verlustscheine und die gleichwertigen Rechtstitel bis zur vollständigen Bezahlung der ausstehenden Forderungen auf. Sobald die Schuld vollständig oder teilweise gegenüber dem Versicherer beglichen ist, erstattet dieser 50 Prozent des erhaltenen Betrages an den Kanton zurück.
+
+5 Übernimmt der Kanton zusätzlich fünf Prozent der Forderungen, die der Versicherer ihm bekannt gegeben hat, so tritt der Versicherer ihm diese Forderungen ab. Der Kanton informiert die versicherte Person über die Abtretung. In diesen Fällen kann die versicherte Person den Versicherer in Abweichung von Absatz 6 wieder wechseln.
 
 6 In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten nicht vollständig bezahlt sind. Kinder können den Versicherer nicht wechseln, wenn solche Ausstände für sie bestehen. Versicherte, die nur Ausstände für ihre Kinder haben, dürfen den Versicherer trotzdem wechseln. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.
 
