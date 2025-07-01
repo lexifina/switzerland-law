@@ -1,4 +1,4 @@
-# Art. 4a Wahl des Versicherers für versicherungspflichtige Familienangehörige mit in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich
+# Art. 4a Wahl des Versicherers für versicherungspflichtige Familienangehörige mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich
 
 Es sind beim selben Versicherer versichert:
 
