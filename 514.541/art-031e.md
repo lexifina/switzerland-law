@@ -11,3 +11,5 @@
   - b. ihre Entfernung den wesentlichen Bestandteil beschädigt und deutliche Spuren hinterlässt.
 
 4 Die Schriftgrösse muss mindestens 1,6 mm betragen. Die zuständige Behörde kann Ausnahmen bewilligen.
+
+5 Die Markierungstiefe muss mindestens 0,0762 mm betragen.
