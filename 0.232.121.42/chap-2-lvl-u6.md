@@ -8,7 +8,7 @@
 
     - ii) eine Standard-Bestimmungsgebühr für jede bestimmte Vertragspartei, die keine Erklärung nach Artikel 7 Absatz 2 oder nach Regel 36 Absatz 1 abgegeben hat;
 
-    - iii) eine individuelle Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 oder nach Regel 36 Absatz 1 abgegeben hat;
+    - iii) eine individuelle Bestimmungsgebühr für jede bestimmte Vertragspartei, die eine Erklärung nach Artikel 7 Absatz 2 abgegeben hat;
 
     - iv) eine Veröffentlichungsgebühr.
 
