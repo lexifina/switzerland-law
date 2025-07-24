@@ -28,7 +28,7 @@ ferner im Hinblick auf den Vertrag über die Nichtverbreitung von Kernwaffen, di
 
 in Anerkennung der Notwendigkeit einer höchst effizienten Aufsuchung, Produktion, Umwandlung, Speicherung, Beförderung, Verteilung und Nutzung von Energie;
 
-eingedenk des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen, des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung und seiner Protokolle sowie anderer internationaler Umweltübereinkünfte mit energiebezogenen Aspekten und
+eingedenk des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen, des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung und seiner Protokolle sowie anderer internationaler Umweltübereinkünfte mit energiebezogenen Aspekten; und
 
 in der Erkenntnis, dass Massnahmen zum Schutz der Umwelt, einschliesslich der Stilllegung energietechnischer Anlagen und der Abfallentsorgung, sowie international vereinbarte Ziele und Kriterien für diesen Zweck immer grössere Dringlichkeit erlangen –
 
