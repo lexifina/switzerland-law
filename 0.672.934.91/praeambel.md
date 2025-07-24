@@ -2,10 +2,8 @@
 
 Der Bundesrat der Schweizerischen Eidgenossenschaft und der Präsident der Französischen Republik,
 
-vom Wunsche geleitet, die Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen zu vermeiden, haben die Vereinbarung eines Abkommens beschlossen und zu diesem Zwecke zu ihren Bevollmächtigten ernannt:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und ihre Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
 
-(Es folgen die Namen der Bevollmächtigten)
+in der Absicht, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
 
-die nach Austausch ihrer in guter und gehöriger Form befundenen Vollmachten
-
-folgendes vereinbart haben:
+haben Folgendes vereinbart:
