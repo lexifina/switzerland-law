@@ -1,15 +1,9 @@
-# Art. 24a Vorfinanzierung durch die Trägerschaft
+# Art. 24a Verlängerung der Leistungsvereinbarung für Massnahmen von Agglomerationsprogrammen der ersten oder zweiten Generation
 
-1 Die Vorfinanzierung durch die Trägerschaft kann vereinbart werden, wenn:
+1 Auf Antrag eines Kantons kann das ARE die Geltungsdauer der Leistungsvereinbarung eines Agglomerationsprogramms der ersten oder zweiten Generation für eine Massnahme verlängern, wenn:
 
-  - a. das Agglomerationsprogramm im entsprechenden Bundesbeschluss zum Programm Agglomerationsverkehr die Massnahme enthält;
+  - a. diese Massnahme für das entsprechende Agglomerationsprogramm von zentraler Bedeutung ist; und
 
-  - b. die Vorfinanzierung den Bundesbeitrag für eine einzelne Massnahme oder ein Massnahmenpaket betrifft;
+  - b. die Umsetzung der Massnahme mit der Planung einer Infrastruktur des Bundes koordiniert werden muss, diese Planung verzögert ist und für die Massnahme daher bis Ende 2027 keine Finanzierungsvereinbarung abgeschlossen werden kann.
 
-  - c. die Massnahme oder das Massnahmenpaket den Grundgedanken des Agglomerationsprogramms und insbesondere die im Agglomerationsprogramm festgehaltene Prioritätensetzung respektiert;
-
-  - d. die Finanzierungsvereinbarung vorsieht, dass sich der Termin für die Auszahlung des Bundesbeitrags nach den finanziellen Rahmenbedingungen des Fonds für die Nationalstrassen und den Agglomerationsverkehr richtet; und
-
-  - e. die Finanzierungsvereinbarung vorsieht, dass die Zinsen, die der Trägerschaft durch die Vorfinanzierung entstehen, vom Bund nicht übernommen werden.
-
-2 Das zuständige Bundesamt bestimmt den Termin für die Ausrichtung des Bundesbeitrags. Der Termin wird in der Finanzierungsvereinbarung festgelegt.
+2 Eine Massnahme ist von zentraler Bedeutung, wenn sie das Verkehrssystem der gesamten beitragsberechtigten Stadt oder Agglomeration oder bedeutender Teile davon erheblich verbessert.
