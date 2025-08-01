@@ -1,4 +1,4 @@
-# Art. 41a
+# Art. 41a Herkunftsbezeichnung
 
 1 Zur Förderung von Qualität und Absatz kann der Bundesrat Vorschriften über die freiwillige Kennzeichnung der Herkunft von waldwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten erlassen.
 
