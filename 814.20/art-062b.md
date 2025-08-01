@@ -6,6 +6,8 @@
 
 3 Die Höhe der Abgeltungen richtet sich nach der Bedeutung der Massnahmen für die Wiederherstellung der natürlichen Funktionen der Gewässer sowie nach der Wirksamkeit der Massnahmen.
 
+3bis Bei Revitalisierungsprojekten ist die Gestaltung der Gewässerraumabschnitte nach Artikel 37 Absatz 3 in den ersten fünf Jahren über das Projekt zu finanzieren.
+
 4 Keine Beiträge werden an den Rückbau einer Anlage geleistet, wenn der Inhaber dazu verpflichtet ist.
 
 5 Den Bewirtschaftern des Gewässerraums werden die Abgeltungen gemäss Landwirtschaftsgesetz vom 29. April 1998 für die extensive Nutzung ihrer Flächen entrichtet. Das Landwirtschaftsbudget sowie der entsprechende Zahlungsrahmen werden zu diesem Zweck aufgestockt.
