@@ -18,9 +18,11 @@
 
   - c. der Ersatz von Isolatoren durch Isolatoren anderer Bauart;
 
-  - d. der Ersatz von Kabeln in bestehenden Rohranlagen durch Kabel anderer Bauart, sofern weder die Rohrbelegung verändert noch der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV dauerhaft erhöht wird; und
+  - d. der Ersatz von Kabeln in bestehenden Rohranlagen durch Kabel anderer Bauart, sofern weder die Rohrbelegung verändert noch der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV dauerhaft erhöht wird;
 
-  - e. der Ersatz von Transformatoren in bestehenden Stationen durch Transformatoren des gleichen Typs mit höherer Leistung.
+  - e. der Ersatz von Transformatoren in bestehenden Stationen durch Transformatoren des gleichen Typs mit höherer Leistung; und
+
+  - f. die Umsetzung von Vorkehren zum Vogelschutz nach Artikel 30 Leitungsverordnung vom 30. März 1994.
 
 4 Bei Instandhaltungsarbeiten entscheidet das Inspektorat im Zweifelsfall über die Plangenehmigungspflicht.
 
