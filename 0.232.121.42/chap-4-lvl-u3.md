@@ -1,5 +1,0 @@
-# Regel 22Berichtigungen im internationalen Register
-
-1) [Berichtigung] Ist das Internationale Büro, das von Amts wegen oder auf Antrag des Inhabers tätig wird, der Auffassung, dass in Bezug auf eine internationale Eintragung ein Fehler im internationalen Register vorliegt, so ändert es das Register und unterrichtet den Inhaber entsprechend.
-
-2) [Nichtanerkennung der Wirkungen der Berichtigung] Das Amt jeder bestimmten Vertragspartei hat das Recht, das Internationale Büro in einer Erklärung davon in Kenntnis zu setzen, dass es die Wirkungen der Berichtigung nicht anerkennt. Die Regeln 18–19 finden sinngemäss Anwendung.
