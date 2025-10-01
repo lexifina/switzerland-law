@@ -1,0 +1,7 @@
+# Art. 2.2 Einreihung von Waren
+
+1. Die Einreihung von Waren im Handel zwischen den Vertragsparteien erfolgt gemäss der jeweiligen Tarifnomenklatur der einzelnen Vertragsparteien im Einklang mit dem Internationalen Übereinkommen über das Harmonisierten System zur Bezeichnung und Codierung der Waren einschliesslich seiner Anmerkungen zu den Abschnitten, Kapiteln und Unternummern sowie der Allgemeinen Vorschriften für die Auslegung des Harmonisierten Systems (nachfolgend als «HS» bezeichnet), in der regelmässig im Rahmen der Weltzollorganisation geänderten Fassung.
+
+2. Jede Vertragspartei stellt sicher, dass ihre jeweilige Liste der Zollverpflichtungen, die zur Umsetzung der Anhänge 2.C (Liste der Zollverpflichtungen betreffend Waren), 2.D (Liste der Zollverpflichtungen betreffend Waren), 2.E (Liste der Zollverpflichtungen betreffend Waren) bzw. 2.F (Liste der Zollverpflichtungen betreffend Waren) in der Nomenklatur des revidierten HS-Codes unter Berücksichtigung der regelmässigen Änderungen am HS-Code erstellt wurde, ohne Beeinträchtigung oder Abschwächung der Zollverpflichtungen umgesetzt wird.
+
+3. Im Anschluss an die regelmässigen Änderungen am HS-Code stellen die Vertragsparteien jeweils sicher, dass die Umsetzung der «produktspezifischen Regeln» in Anhang 2.A Anlage 2.A.1 (nachfolgend als «PSR» bezeichnet) ohne Beeinträchtigung – d. h. auch ohne Verschärfung – der ab Inkrafttreten dieses Abkommens geltenden PSR erfolgt.
