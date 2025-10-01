@@ -11,3 +11,7 @@
   - c. mit der Mitteilung die Kündigung androht oder ausspricht.
 
 3 Die Absätze 1 und 2 gelten auch, wenn der Vermieter beabsichtigt, sonstwie den Mietvertrag einseitig zu Lasten des Mieters zu ändern, namentlich seine bisherigen Leistungen zu vermindern oder neue Nebenkosten einzuführen.
+
+4 Für die Mitteilung einer Mietzinserhöhung und anderer einseitiger Vertragsänderungen genügt eine auf mechanischem Weg nachgebildete Unterschrift auf dem vorgeschriebenen Formular.
+
+5 Für die Mitteilung von Mietzinserhöhungen, die in einer Vereinbarung nach Artikel 269c vorgesehen sind, genügt die schriftliche Form.
