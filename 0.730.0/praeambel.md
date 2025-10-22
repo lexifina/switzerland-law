@@ -10,7 +10,7 @@ eingedenk dessen, dass sich alle Unterzeichner des Abschlussdokuments der Haager
 
 ferner in dem Wunsch, einen festen Rahmen zu schaffen, der für die Verwirklichung der in der Europäischen Energiecharta verkündeten Grundsätze erforderlich ist;
 
-von dem Wunsch geleitet, den Grundgedanken der Europäischen Energiecharta-Initiative zu verwirklichen, der darin besteht, das Wirtschaftswachstum durch Massnahmen zur Liberalisierung der Investitionen und des Handels mit Primärenergieträgern und Energieerzeugnissen zu fördern;
+von dem Wunsch geleitet, den Grundgedanken der Europäischen Energiecharta-Initiative zu verwirklichen, der darin besteht, das Wirtschaftswachstum durch Massnahmen zur Liberalisierung der Investitionen und des Handels mit Energie zu fördern;
 
 in Bekräftigung dessen, dass die Vertragsparteien einer wirksamen Anwendung der vollen Inländerbehandlung und der Meistbegünstigungsbehandlung grösste Bedeutung beimessen und dass diese Verpflichtungen auf die Vornahme von Investitionen entsprechend einem Zusatzvertrag angewandt werden;
 
