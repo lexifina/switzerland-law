@@ -24,7 +24,9 @@
 
   - h. den Kauf, die Einfuhr oder den Transport von Rohöl, das auf dem Seeweg transportiert wird, und von Erdölerzeugnissen gemäss Anhang 24, sofern diese Güter ihren Ursprung nicht in der Russischen Föderation haben und sich nicht in russischem Eigentum befinden und lediglich in der Russischen Föderation verladen, aus der Russischen Föderation ausgeführt oder durch die Russische Föderation durchgeführt werden;
 
-  - i. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und der Abnahmetests für die Indienststellung ziviler Atomanlagen.
+  - i. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und der Abnahmetests für die Indienststellung ziviler Atomanlagen;
+
+  - j. den Kauf, die Einfuhr und den Transport von Steinkohle der Zolltarifnummer 2701, sofern diese ihren Ursprung nicht in der Russischen Föderation hat und sich nicht in russischem Eigentum befindet und lediglich in der Russischen Föderation verladen, aus der Russischen Föderation ausgeführt oder durch die Russische Föderation durchgeführt wird.
 
 3 Das Verbot nach Absatz 1 Buchstabe b gilt nicht für Geschäfte, die erforderlich sind für:
 
@@ -40,6 +42,8 @@
 
   - f. private Reisen natürlicher Personen nach und aus der Russischen Föderation;
 
-  - g. den Kauf, die Einfuhr oder den Transport von pharmazeutischen Erzeugnissen, Medizinprodukten und landwirtschaftlichen Erzeugnissen sowie Lebensmitteln, deren Kauf, Einfuhr oder Transport nach dieser Verordnung gestattet ist.
+  - g. den Kauf, die Einfuhr oder den Transport von pharmazeutischen Erzeugnissen, Medizinprodukten und landwirtschaftlichen Erzeugnissen sowie Lebensmitteln, deren Kauf, Einfuhr oder Transport nach dieser Verordnung gestattet ist;
+
+  - h. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und der Abnahmetests für die Indienststellung ziviler Atomanlagen.
 
 4 In der Schweiz eingetragene Betreiber müssen Geschäfte nach den Absätzen 2 und 3 innerhalb von zwei Wochen nach dem Abschluss dem SECO melden.

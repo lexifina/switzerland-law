@@ -2,7 +2,7 @@
 
 1 Es ist verboten, sich direkt mit dem System zur Übermittlung von Finanzmitteilungen der Zentralbank der Russischen Föderation oder gleichwertigen von der Zentralbank der Russischen Föderation eingerichteten spezialisierten Nachrichtenübermittlungsdiensten für den Zahlungsverkehr zu verbinden.
 
-2 Die Beteiligung an Transaktionen mit Banken, Unternehmen und Organisationen nach Anhang 14a ist verboten.
+2 Es ist verboten, unmittelbar oder mittelbar Transaktionen zu tätigen mit Banken, Unternehmen und Organisationen nach Anhang 14a.
 
 3 Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Entgegennahme von Zahlungen, die von Banken, Unternehmen oder Organisationen nach Anhang 14a aufgrund von Verträgen geschuldet sind, die vor dem 24. März 2024 ausgeführt wurden.
 

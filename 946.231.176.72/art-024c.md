@@ -1,10 +1,10 @@
 # Art. 24c Verbot von Transaktionen im Zusammenhang mit Krypto‑Dienstleistungen
 
-1 Es ist verboten, mit folgenden Personen und Einrichtungen, die Krypto-Dienstleistungen erbringen, unmittelbar oder mittelbar Geschäfte zu tätigen:
+1 Es ist verboten, unmittelbar oder mittelbar Geschäfte zu tätigen mit:
 
-  - a. Personen und Einrichtungen nach Anhang 15b;
+  - a. den in Anhang 15b aufgeführten Banken, Unternehmen oder Organisationen, die Krypto-Dienstleistungen erbringen;
 
-  - b. Personen und Einrichtungen, die im Namen oder auf Anweisung von Personen und Einrichtungen nach Buchstabe a handeln.
+  - b. Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a handeln.
 
 2 Das Verbot nach Absatz 1 gilt nicht für Transaktionen, die erforderlich sind:
 

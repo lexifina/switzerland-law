@@ -4,7 +4,7 @@
 
   - a. Banken, Unternehmen oder Organisationen mit Sitz in der Russischen Föderation gemäss Anhang 15;
 
-  - b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, die von Banken oder Unternehmen nach Buchstabe a zu über 50 Prozent beherrscht werden;
+  - b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, an denen Banken, Unternehmen oder Organisationen nach Buchstabe a zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind;
 
   - c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
@@ -14,7 +14,7 @@
 
   - b. juristischen Personen, Organisationen oder Einrichtungen mit Sitz in der Russischen Föderation, die sich unter öffentlicher Kontrolle oder zu über 50 Prozent in öffentlichem Eigentum befinden, bei denen die Russische Föderation und ihre Regierung oder ihre Zentralbank das Recht auf Gewinnbeteiligung haben oder mit denen die Russische Föderation und ihre Regierung oder ihre Zentralbank andere wesentliche wirtschaftliche Beziehungen unterhalten;
 
-  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, die von einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b zu über 50 Prozent beherrscht werden;
+  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, an denen eine juristische Person, Organisation oder Einrichtung nach Buchstabe b zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt ist;
 
   - d. juristischen Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b oder c handeln.
 

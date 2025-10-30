@@ -40,11 +40,17 @@
 
   - g. Güter der Zolltarifnummer 2920, 3917 10 und 3920 62, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind;
 
-  - h. Güter der Zolltarifnummer 7007 19, falls diese von natürlichen Personen im Haushalt verwendet werden;
+  - h. Güter der Zolltarifnummern 7007 19, 7615, 8414 60 und 8422 30, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
   - i. Güter der Zolltarifnummern 9026, 9027 und 9031, falls deren Einfuhr aus der Russischen Föderation nach Artikel 14c Absatz 6 Buchstabe c bewilligt worden ist;
 
-  - j. Güter der Zolltarifnummer 8517 62 und 8523 52, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind, die nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über 50 Prozent beteiligt ist.
+  - j. Güter der Zolltarifnummer 8517 62 und 8523 52, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind, die nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über 50 Prozent beteiligt ist;
+
+  - k. Güter der Zolltarifnummer 3916 20, falls diese für den Verkauf von PVC-Bodenbelägen an natürliche Personen zur Verwendung im Haushalt erforderlich sind;
+
+  - l. Güter der Zolltarifnummer 8422 30, falls diese für die Verpackung von Lebensmitteln, Getränken oder Pharmazeutika erforderlich sind;
+
+  - m. Güter der Zolltarifnummer 3402 90, falls diese erforderlich sind für die Erfüllung von vor dem 1. Januar 2025 geschlossenen Verträgen bis zum 1. Januar 2028 oder bis zu ihrem Ablaufdatum, je nachdem, welcher Zeitpunkt früher liegt.
 
 6 Es kann Ausnahmen vom Verbot nach Absatz 1bis bewilligen, falls dies erforderlich ist für die Herstellung von Titangütern, die in der Luftfahrtindustrie benötigt werden und nicht anders beschafft werden können.
 
