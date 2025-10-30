@@ -2,7 +2,7 @@
 
 1 Das SECO kann bis zum 31. März 2025 Ausnahmen von den Verboten nach den Artikeln 4, 5, 6, 10, 10a, 10b, 10c, 10d und 10e bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in den entsprechenden Anhängen 3, 4, 6, 16, 17, 18, 19 und 21 aufgeführten Gütern und Technologien und von Gütern nach Anhang 2 GKV, sofern:
 
-  - a. die genannten Tätigkeiten für den Abzug von Investitionen aus Belarus oder den Abschluss von Geschäftstätigkeiten in Belarus unbedingt erforderlich sind;
+  - a. die genannten Tätigkeiten für den Abzug von Investitionen aus Belarus oder die Beendigung von Geschäftstätigkeiten in Belarus unbedingt erforderlich sind;
 
   - b. sich die Güter und Technologien im Eigentum befinden von:
 
@@ -20,7 +20,7 @@
 
 3 Es kann bis zum 31. Dezember 2025 Ausnahmen von den Verboten nach den Artikeln 10f, 10g und 11 Absatz 1 Buchstaben d, e, f und g betreffend die Einfuhr, die Durchfuhr und den Transport von in den Anhängen 7, 9, 10, 11, 12, 22, 23 und 24 aufgeführten Gütern bewilligen, sofern:
 
-  - a. die genannten Tätigkeiten für den Abzug von Investitionen aus Belarus oder den Abschluss von Geschäftstätigkeiten in Belarus unbedingt erforderlich sind;
+  - a. die genannten Tätigkeiten für den Abzug von Investitionen aus Belarus oder die Beendigung von Geschäftstätigkeiten in Belarus unbedingt erforderlich sind;
 
   - b. sich die Güter im Eigentum befinden von:
 

@@ -30,6 +30,10 @@
 
   - c. Güter der Zolltarifnummern 7411 oder 7412 mit einem inneren Durchmesser von bis zu 50 mm, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
-  - d. Güter der Zolltarifnummer 3917 10, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind.
+  - d. Güter der Zolltarifnummer 3917 10, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind;
+
+  - e. Güter der Zolltarifnummer 8414 60, falls diese von natürlichen Personen im Haushalt verwendet werden;
+
+  - f. Güter der Zolltarifnummer 3916 20, falls diese für den Verkauf von PVC-Bodenbelägen an natürliche Personen zur Verwendung im Haushalt erforderlich sind.
 
 9 Es kann Ausnahmen von den Verboten nach den Absätzen 1 und 3 bewilligen für Güter der Zolltarifnummern 8517 62 und 8523 52 für nichtmilitärische Zwecke und nichtmilitärische Endempfänger, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind.
