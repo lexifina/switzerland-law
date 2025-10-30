@@ -2,7 +2,7 @@
 
 1 Das SECO kann bis zum 31. Dezember 2025 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28e bewilligen, sofern:
 
-  - a. die Dienstleistungen oder die Software für den Abzug von Investitionen aus der Russischen Föderation oder den Abschluss von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind; und
+  - a. die Dienstleistungen oder die Software für den Abzug von Investitionen aus der Russischen Föderation oder die Beendigung von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind; und
 
   - b. die Dienstleistungen oder die Software ausschliesslich zugunsten der aus dem Abzug von Investitionen hervorgehenden juristischen Personen, Organisationen oder Einrichtungen erbracht werden.
 
