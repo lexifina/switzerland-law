@@ -10,11 +10,15 @@
 
     - ii) den Namen des Inhabers;
 
-    - iii) den Namen und die Anschrift des Lizenznehmers nach den Verwaltungsvorschriften;
+    - iii) den Namen und die Anschrift des Lizenznehmers nach den Verwaltungsvorschriften sowie seine E-Mail-Adresse;
 
     - iv) die benannte Vertragspartei, in Bezug auf welche die Lizenz gewährt wird;
 
-    - v) dass die Lizenz für alle Waren und Dienstleistungen gewährt wird, die durch die internationale Registrierung erfasst werden, oder die Waren und Dienstleistungen, für die die Lizenz gewährt wird, gruppiert in die entsprechenden Klassen der internationalen Klassifikation der Waren und Dienstleistungen.
+    - v) dass die Lizenz für alle Waren und Dienstleistungen gewährt wird, die durch die internationale Registrierung erfasst werden, oder die Waren und Dienstleistungen, für die die Lizenz gewährt wird, gruppiert in die entsprechenden Klassen der internationalen Klassifikation der Waren und Dienstleistungen;
+
+    - vi) die E-Mail-Adresse des Inhabers, wenn diese im internationalen Gesuch oder bei einem früheren Antrag auf Eintragung nicht angegeben wurde;
+
+    - vii) gegebenenfalls die E-Mail-Adresse des Vertreters, wenn diese im Antrag auf Eintragung bei der Bestellung des Vertreters nicht als solche angegeben wurde.
 
   - c) Der Antrag kann auch folgende Angaben enthalten:
 
@@ -24,7 +28,7 @@
 
     - iii) dass die Lizenz nur einen Teil des Gebietes einer angegebenen benannten Vertragspartei betrifft;
 
-    - iv) hat der Lizenznehmer einen Vertreter, den Namen und die Anschrift des Vertreters nach den Verwaltungsvorschriften;
+    - iv) hat der Lizenznehmer einen Vertreter, den Namen und die Anschrift des Vertreters nach den Verwaltungsvorschriften sowie seine E-Mail-Adresse,
 
     - v) gegebenenfalls die Tatsache, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist;
 
@@ -34,13 +38,13 @@
 
 2) [Nicht vorschriftsmässiger Antrag]
 
-  - a) Entspricht der Antrag auf Eintragung einer Lizenz nicht den Erfordernissen des Absatzes 1 Buchstaben a, b und d, so teilt das Internationale Büro dies dem Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, dieser Behörde mit.
+  - a) Entspricht der Antrag auf Eintragung einer Lizenz nicht den Erfordernissen des Absatzes 1 Buchstaben a, b und d, so teilt das Internationale Büro dies dem Inhaber, dem Lizenznehmer oder gegebenenfalls seinem Vertreter und, falls der Antrag von einer Behörde eingereicht wurde, dieser Behörde mit.
 
-  - b) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über den Mangel behoben, so gilt der Antrag als zurückgenommen, und das Internationale Büro teilt dies gleichzeitig dem Inhaber und, falls der Antrag auf Eintragung einer Lizenz von einer Behörde eingereicht wurde, dieser Behörde mit und erstattet dem Einzahler die entrichteten Gebühren nach Abzug eines Betrags in Höhe der Hälfte der entsprechenden unter Nummer 7 des Gebührenverzeichnisses genannten Gebühren.
+  - b) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über den Mangel behoben, so gilt der Antrag als zurückgenommen, und das Internationale Büro teilt dies gleichzeitig dem Inhaber, dem Lizenznehmer oder gegebenenfalls seinem Vertreter und, falls der Antrag auf Eintragung einer Lizenz von einer Behörde eingereicht wurde, dieser Behörde mit und erstattet dem Einzahler die entrichteten Gebühren nach Abzug eines Betrags in Höhe der Hälfte der entsprechenden unter Nummer 7 des Gebührenverzeichnisses genannten Gebühren.
 
 3) [Eintragung und Mitteilung]
 
-  - a) Entspricht der Antrag den Erfordernissen des Absatzes 1 Buchstaben a, b und d, trägt das Internationale Büro die Lizenz sowie die im Antrag enthaltenen Angaben in das internationale Register ein, teilt dies den Behörden der benannten Vertragsparteien, in Bezug auf welche die Lizenz gewährt wird, mit und benachrichtigt gleichzeitig den Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, diese Behörde.
+  - a) Entspricht der Antrag den Erfordernissen des Absatzes 1 Buchstaben a, b und d, trägt das Internationale Büro die Lizenz sowie die im Antrag enthaltenen Angaben in das internationale Register ein, teilt dies den Behörden der benannten Vertragsparteien, in Bezug auf welche die Lizenz gewährt wird, mit und benachrichtigt gleichzeitig den Inhaber, den Lizenznehmer oder gegebenenfalls seinen Vertreter und, falls der Antrag von einer Behörde eingereicht wurde, diese Behörde.
 
   - b) Die Lizenz wird mit dem Datum des Tages eingetragen, an dem ein den geltenden Erfordernissen entsprechender Antrag beim Internationalen Büro eingeht.
 
@@ -66,9 +70,9 @@ Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Lösc
 
   - c) Die in Buchstabe a genannte Erklärung ist an das Internationale Büro vor Ablauf von 18 Monaten ab dem Datum, an dem die in Absatz 3 genannte Mitteilung an die betroffene Behörde abgesandt wurde, zu übersenden.
 
-  - d) Das Internationale Büro trägt in das internationale Register jede Erklärung ein, die nach Buchstabe c abgegeben wurde, und unterrichtet, je nachdem, ob der Inhaber oder die Behörde den Antrag auf Eintragung der Lizenz eingereicht hat, diesen Inhaber oder diese Behörde entsprechend. Die Erklärung wird mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
+  - d) Das Internationale Büro trägt in das internationale Register jede Erklärung ein, die nach Buchstabe c abgegeben wurde, und unterrichtet, je nachdem, ob der Inhaber oder die Behörde den Antrag auf Eintragung der Lizenz eingereicht hat, diesen Inhaber oder diese Behörde sowie den Lizenznehmer oder gegebenenfalls seinen Vertreter entsprechend. Die Erklärung wird mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
 
-  - e) Jede rechtskräftige Entscheidung, die eine nach Buchstabe c abgegebene Erklärung betrifft, ist dem Internationalen Büro mitzuteilen, das diese in das internationale Register einträgt und die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung der Lizenz eingereicht hat, entsprechend unterrichtet.
+  - e) Jede rechtskräftige Entscheidung, die eine nach Buchstabe c abgegebene Erklärung betrifft, ist dem Internationalen Büro mitzuteilen, das diese in das internationale Register einträgt und die Partei (Inhaber, Behörde, Lizenznehmer oder gegebenenfalls seinen Vertreter), die den Antrag auf Eintragung der Lizenz eingereicht hat, entsprechend unterrichtet.
 
 6) [Erklärung der Unwirksamkeit der Eintragung von Lizenzen in das internationale Register in einer Vertragspartei]
 
