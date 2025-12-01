@@ -8,9 +8,9 @@
 
     - 2. das Verändern,
 
-    - 3. das Lesen, sofern die Daten nicht allgemein öffentlich zugänglich sind,
+    - 3. das Zugreifen, sofern die Daten nicht allgemein zugänglich sind,
 
-    - 4. das Bekanntgeben, sofern die Daten nicht allgemein öffentlich zugänglich sind,
+    - 4. das Bekanntgeben, sofern die Daten nicht allgemein zugänglich sind,
 
     - 5. das Löschen,
 
