@@ -1,0 +1,3 @@
+# Abschnitt 2: Austausch von Informationen aus GloBE-Erklärungen
+
+Nach Artikel 6 des Amtshilfeübereinkommens und auf der Grundlage der Benennung der obersten Muttergesellschaft oder der beauftragten einreichenden Einheit tauscht jede zuständige Behörde mit allen anderen zuständigen Behörden von Staaten, mit denen sie in einer aktiven Austauschbeziehung nach Abschnitt 8 Absatz 2 steht, die Informationen aus der GloBE-Erklärung der multinationalen Unternehmensgruppe, die sie von einer in ihrem Staat belegenen obersten Muttergesellschaft oder beauftragten einreichenden Einheit erhalten hat und die für diese Staaten gemäss dem Verteilungsansatz relevant sind, automatisch aus.
