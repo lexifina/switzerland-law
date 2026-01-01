@@ -6,7 +6,7 @@
 
 3 Anerkannt werden können:
 
-  - a. die nach Artikel 5 der Tierzuchtverordnung vom 31. Oktober 2012 anerkannten Zuchtorganisationen von Equiden;
+  - a. die nach Artikel 3 der Tierzuchtverordnung vom 29. Oktober 2025 anerkannten Zuchtorganisationen von Equiden;
 
   - b. die Betreiberin der Tierverkehrsdatenbank;
 
