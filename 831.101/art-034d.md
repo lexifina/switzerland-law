@@ -10,7 +10,7 @@
 
     - 2. der je Arbeitgeber den Betrag von 750 Franken im Kalenderjahr nicht übersteigt;
 
-  - b. auf dem massgebenden Lohn der Personen, die von Tanz- und Theaterproduzenten, Orchestern, Phono- und Audiovisionsproduzenten, Radio und Fernsehen sowie von Schulen im künstlerischen Bereich beschäftigt werden.
+  - b. auf dem massgebenden Lohn der Personen, die von Tanz- und Theaterproduzenten, Orchestern, Chören, Phono- und Audiovisionsproduzenten, Radio und Fernsehen, elektronischen Medien und Printmedien, Designunternehmen, Museen sowie Schulen im künstlerischen Bereich beschäftigt werden.
 
 3 Akzeptiert der Arbeitnehmer die ungekürzte Lohnzahlung, so kann er nachträglich nicht mehr verlangen, dass die Beiträge erhoben werden.
 

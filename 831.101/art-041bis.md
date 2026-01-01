@@ -12,7 +12,9 @@
 
   - e. Selbständigerwerbende, Nichterwerbstätige und Arbeitnehmer ohne beitragspflichtigen Arbeitgeber auf auszugleichenden persönlichen Beiträgen, die sie nicht innert 30 Tagen ab Rechnungsstellung leisten, ab Rechnungsstellung durch die Ausgleichskasse;
 
-  - f. Selbständigerwerbende, Nichterwerbstätige und Arbeitnehmer ohne beitragspflichtigen Arbeitgeber auf auszugleichenden Beiträgen, falls die Akontobeiträge mindestens 25 Prozent unter den tatsächlich geschuldeten Beiträgen liegen und nicht bis zum 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres entrichtet werden, ab dem 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres.
+  - f. Selbständigerwerbende, Nichterwerbstätige und Arbeitnehmer ohne beitragspflichtigen Arbeitgeber auf auszugleichenden Beiträgen, falls die Akontobeiträge mindestens 25 Prozent unter den tatsächlich geschuldeten Beiträgen liegen und nicht bis zum 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres entrichtet werden, ab dem 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres;
+
+  - g. Personen, die nach Aufgabe ihrer selbstständigen Erwerbstätigkeit einen Liquidationsgewinn erzielen und die Ausgleichskasse bis zum Ende des Kalenderjahres, das auf das Jahr der Gewinnerzielung folgt, darüber informieren, auf Akontobeiträgen und auf auszugleichenden Beiträgen, die sie nicht innert 30 Tagen ab Rechnungsstellung leisten, ab Rechnungsstellung durch die Ausgleichskasse.
 
 1bis …
 
