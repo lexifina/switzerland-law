@@ -6,7 +6,7 @@
 
   - b. die Indikatoren zur Messung der Wirkungen;
 
-  - c. die Rahmenbedingungen für den Betrieb der Vollzugsstellen;
+  - c. die Rahmenbedingungen für den Betrieb der Durchführungsstellen;
 
   - d. die Leistungen der Ausgleichsstelle und der Kantone;
 

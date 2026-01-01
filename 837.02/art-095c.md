@@ -6,4 +6,4 @@
 
 3 Die zuständige Bürgschaftsorganisation entscheidet innert vier Wochen nach Zustellung des Gesuches und stellt eine Kopie ihres Entscheides der kantonalen Amtsstelle zu.
 
-4 Wird eine Bürgschaft nach dem Bundesgesetz vom 6. Oktober 2006 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen gewährt, so übernimmt der Ausgleichsfonds zugunsten der Bürgschaftsorganisation zusätzlich 20 Prozent des Verlustrisikos. Die kantonale Amtsstelle erlässt eine Verfügung über den vom Ausgleichsfonds garantierten Betrag.
+4 Wird eine Bürgschaft nach dem Bundesgesetz vom 6. Oktober 2006 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen gewährt, so übernimmt der Ausgleichsfonds der Arbeitslosenversicherung zugunsten der Bürgschaftsorganisation zusätzlich 20 Prozent des Verlustrisikos. Die kantonale Amtsstelle erlässt eine Verfügung über den vom Ausgleichsfonds der Arbeitslosenversicherung garantierten Betrag.
