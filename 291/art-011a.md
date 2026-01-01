@@ -6,4 +6,4 @@
 
 3 Die schweizerischen Gerichte oder Behörden können Urkunden nach einer Form des ausländischen Rechts ausstellen oder einem Gesuchsteller die eidesstattliche Erklärung abnehmen, wenn eine Form nach schweizerischem Recht im Ausland nicht anerkannt wird und deshalb ein schützenswerter Rechtsanspruch dort nicht durchgesetzt werden könnte.
 
-4 Bei Rechtshilfeersuchen um Zustellung oder um Beweiserhebung in die Schweiz und aus der Schweiz ist die Haager Übereinkunft vom 1. März 1954 betreffend Zivilprozessrecht anwendbar.
+4 …
