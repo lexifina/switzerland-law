@@ -8,7 +8,7 @@ Das Informationssystem enthält folgende Daten:
 
     - 2. von denen eine Probe genommen wurde;
 
-  - b. die TVD-Nummern der Tierhaltungen mit Rindern:
+  - b. die TVD- oder die BUR-Nummer der Tierhaltungen mit Rindern:
 
     - 1. welche die Voraussetzungen für eine Überwachung erfüllen,
 
@@ -20,7 +20,7 @@ Das Informationssystem enthält folgende Daten:
 
     - 2. untersucht wurden;
 
-  - d. die TVD-Nummern der Schlachtbetriebe:
+  - d. die TVD- oder die BUR-Nummer der Schlachtbetriebe:
 
     - 1. in denen die Proben zu nehmen sind,
 
