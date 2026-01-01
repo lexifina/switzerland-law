@@ -12,6 +12,6 @@
 
   - c. der Gläubiger die Betreibung zurückgezogen hat;
 
-  - d. der Schuldner nach Ablauf einer Frist von drei Monaten seit der Zustellung des Zahlungsbefehls ein entsprechendes Gesuch gestellt hat, sofern der Gläubiger nach Ablauf einer vom Betreibungsamt angesetzten Frist von 20 Tagen den Nachweis nicht erbringt, dass rechtzeitig ein Verfahren zur Beseitigung des Rechtsvorschlages (Art. 79-84) eingeleitet wurde; wird dieser Nachweis nachträglich erbracht oder wird die Betreibung fortgesetzt, wird sie Dritten wieder zur Kenntnis gebracht.
+  - d. der Schuldner Rechtsvorschlag erhoben und nach Ablauf einer Frist von drei Monaten seit der Zustellung des Zahlungsbefehls und vor Erlöschen des Einsichtsrechts Dritter ein entsprechendes Gesuch gestellt hat, sofern der Gläubiger nach Ablauf einer vom Betreibungsamt angesetzten Frist von 20 Tagen den Nachweis nicht erbringt, dass rechtzeitig ein Verfahren zur Beseitigung des Rechtsvorschlags (Art. 79–84) eingeleitet wurde; wird dieser Nachweis nachträglich erbracht oder wird die Betreibung fortgesetzt, so wird sie Dritten wieder zur Kenntnis gebracht, es sei denn, der Schuldner weist nach, dass ein Begehren des Gläubigers um Beseitigung des Rechtsvorschlags definitiv nicht gutgeheissen wurde.
 
 4 Das Einsichtsrecht Dritter erlischt fünf Jahre nach Abschluss des Verfahrens. Gerichts- und Verwaltungsbehörden können im Interesse eines Verfahrens, das bei ihnen hängig ist, weiterhin Auszüge verlangen.
