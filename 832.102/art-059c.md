@@ -1,13 +1,19 @@
-# Art. 59c Tarifgestaltung
+# Art. 59c Grundsätze für Tarifverträge
 
-1 Die Genehmigungsbehörde im Sinne von Artikel 46 Absatz 4 des Gesetzes prüft, ob der Tarifvertrag namentlich folgenden Grundsätzen entspricht:
+1 Tarifverträge müssen namentlich folgenden Grundsätzen entsprechen:
 
-  - a. Der Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung decken.
+  - a. Ihr Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung decken.
 
-  - b. Der Tarif darf höchstens die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
+  - b. Ihr Tarif darf höchstens die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
 
   - c. Ein Wechsel des Tarifmodells darf keine Mehrkosten verursachen.
 
-2 Die Vertragsparteien müssen die Tarife regelmässig überprüfen und anpassen, wenn die Erfüllung der Grundsätze nach Absatz 1 Buchstaben a und b nicht mehr gewährleistet ist. Die zuständigen Behörden sind über die Resultate der Überprüfungen zu informieren.
+2 Tarifverträge, die eine Tarifstruktur enthalten, müssen zudem folgenden Grundsätzen entsprechen:
 
-3 Die zuständige Behörde wendet die Absätze 1 und 2 bei Tariffestsetzungen nach den Artikeln 43 Absatz 5, 47 oder 48 des Gesetzes sinngemäss an.
+  - a. Sie müssen von Parteien abgeschlossen werden, die für die von ihnen betroffenen Leistungserbringer und Versicherer repräsentativ sind.
+
+  - b. Sie müssen auf einem kohärenten Tarifmodell und auf wirtschaftlichen Kriterien beruhen.
+
+  - c. Sie müssen auf Daten beruhen, die für die Leistungserbringer repräsentativ sind, welche die Tarifstrukturen anwenden müssen.
+
+3 Die Modalitäten zur Anwendung der Tarifstrukturen müssen Bestandteil der Tarifverträge sein.

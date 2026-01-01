@@ -20,6 +20,8 @@
 
 5 Das Sekretariat der Kommission untersteht fachlich dem Präsidium der Kommission und administrativ dem BAG.
 
+5bis Die Kommission koordiniert ihre Arbeiten mit der Eidgenössischen Kommission für das Kosten- und Qualitätsmonitoring in der obligatorischen Krankenpflegeversicherung.
+
 6 Die Kommission erstellt jährlich einen Bericht zuhanden des Bundesrates und veröffentlicht diesen in geeigneter Form.
 
 7 Sie veröffentlicht ihre Reglemente und Berichte sowie die Dokumente, die mit den ihr nach Artikel 58c KVG zugewiesenen Aufgaben zusammenhängen.
