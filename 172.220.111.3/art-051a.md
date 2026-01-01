@@ -2,11 +2,11 @@
 
 1 Die zuständige Stelle nach Artikel 2 richtet der angestellten Person ergänzende Leistungen zur Familienzulage aus, sofern diese tiefer ist als:
 
-  - a. 4063 Franken für das erste zulagenberechtigte Kind;
+  - a. 4891 Franken für das erste zulagenberechtigte Kind;
 
-  - b. 2623 Franken für jedes weitere zulagenberechtigte Kind;
+  - b. 3223 Franken für jedes weitere zulagenberechtigte Kind;
 
-  - c. 3000 Franken für jedes weitere zulagenberechtigte Kind, welches das 15. Altersjahr vollendet hat und in Ausbildung steht.
+  - c. 3530 Franken für jedes weitere zulagenberechtigte Kind, welches das 15. Altersjahr vollendet hat und in Ausbildung steht.
 
 2 Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem massgebenden Betrag nach Absatz 1 und der Familienzulage. Dabei werden zur Familienzulage hinzugerechnet:
 
