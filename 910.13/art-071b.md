@@ -16,11 +16,7 @@
 
 2 Für Nützlingsstreifen in Dauerkulturen werden nur für 5 Prozent der Fläche der Dauerkultur Beiträge ausgerichtet.
 
-3 Kein Beitrag wird ausgerichtet für Nützlingsstreifen nach Absatz 1 Buchstabe b in:
-
-  - a. Rebflächen mit natürlicher Artenvielfalt nach Artikel 55 Absatz 1 Buchstabe n;
-
-  - b. regionsspezifischen Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstabe p.
+3 Kein Beitrag wird ausgerichtet für Nützlingsstreifen nach Absatz 1 Buchstabe b in Rebflächen mit natürlicher Artenvielfalt nach Artikel 55 Absatz 1 Buchstabe n.
 
 4 Die Nützlingsstreifen müssen vor dem 15. Mai angesät werden.
 

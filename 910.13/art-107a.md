@@ -1,10 +1,10 @@
-# Art. 107a Verzicht auf Anpassung des Sömmerungs-, Biodiversitäts- und Landschaftsqualitätsbeitrags bei vorzeitiger Abalpung aufgrund von Grossraubtieren
+# Art. 107a Verzicht auf Anpassung der Sömmerungsbeiträge, des Biodiversitätsbeitrags sowie des Beitrags für regionale Biodiversität und Landschaftsqualität bei vorzeitiger Abalpung aufgrund von Grossraubtieren
 
 1 Werden Sömmerungs- und Gemeinschaftsweidebetriebe aufgrund einer Gefährdung der Nutztiere durch Grossraubtiere vorzeitig abgealpt, so kann der Kanton:
 
   - a. auf eine Anpassung des Sömmerungsbeitrags nach Artikel 49 Absatz 2 Buchstabe c verzichten;
 
-  - b. den Biodiversitätsbeitrag nach Anhang 7 Ziffer 3.1.1 Ziffer 12 sowie den Landschaftsqualitätsbeitrag nach Anhang 7 Ziffer 4.1 Buchstabe b in der vollen Höhe der ausbezahlten Beiträge des Vorjahres ausrichten, auch wenn die Bestossung den Normalbesatz unterschreitet.
+  - b. den Biodiversitätsbeitrag nach Anhang 7 Ziffer 3.1.1 Ziffer 12 und den Beitrag für regionale Biodiversität und Landschaftsqualität nach Anhang 7 Ziffer 5a.1 in der vollen Höhe der ausbezahlten Beiträge des Vorjahres ausrichten, auch wenn die Bestossung den Normalbesatz unterschreitet.
 
 2 Nach der erstmaligen Bewilligung des Verzichts auf die Anpassung der Beiträge kann der Kanton in den nachfolgenden vier Jahren auf derselben Alp höchstens ein weiteres Mal auf die Anpassung der Beiträge verzichten.
 
