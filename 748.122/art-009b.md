@@ -1,27 +1,27 @@
 # Art. 9b Aufgaben und Anforderungen
 
-1 Die externen Schulungsanbieter können insbesondere folgende Aufgaben haben:
+1 Der externe Schulungsanbieter kann insbesondere folgende Aufgaben haben:
 
-  - a. Sie erstellen eigene Schulungsunterlagen für die Ausbildung von Sicherheitsverantwortlichen oder von Ausbildnerinnen und Ausbildnern und reichen diese dem BAZL zur Genehmigung ein.
+  - a. Er erstellt eigene Schulungsunterlagen für die Ausbildung von Sicherheitsverantwortlichen und weiteren Mitarbeitenden der Entitäten nach den Vorgaben des BAZL und reicht diese dem BAZL zur Genehmigung ein.
 
-  - b. Sie unterrichten die Sicherheitsverantwortlichen oder die Ausbildnerinnen Ausbildner nach den Vorgaben des BAZL.
+  - b. Er unterrichtet die Sicherheitsverantwortlichen und die weiteren Mitarbeitenden der Entitäten nach den Vorgaben des BAZL.
 
-  - c. Sie prüfen die Sicherheitsverantwortlichen oder die Ausbildnerinnen und Ausbildner nach abgeschlossener Schulung.
+  - c. Er prüft die Sicherheitsverantwortlichen und die weiteren vom BAZL für die Schulung bestimmten Mitarbeitenden der Entitäten nach abgeschlossener Schulung.
 
-  - d. Sie stellen dem BAZL Antrag auf Zulassung der Sicherheitsverantwortlichen von reglementierten Beauftragten von Fracht oder Post oder von Ausbildnerinnen und Ausbildnern.
+  - d. Er stellt dem BAZL Antrag auf Zulassung der Instruktorinnen und Instruktoren.
 
-2 Sie unterstehen der Aufsicht des BAZL.
+  - e. Er stellt den Personen gemäss Artikel 6 Buchstabe j nach deren Zulassung durch das BAZL auf Anfrage derselben eine Zulassungsbestätigung aus.
 
-3 Das BAZL beauftragt nur Schulungsanbieter, die:
+2 Er untersteht der Aufsicht des BAZL.
 
-  - a. über Kompetenzen in der Durchführung und Organisation von Schulungen verfügen;
+3 Das BAZL beauftragt nur einen Schulungsanbieter, der:
 
-  - b. mit ihrer Schulungstätigkeit die ganze Schweiz zu einheitlichen Preisen abdecken.
+  - a. unabhängig ist von allen Entitäten und nicht selber unabhängige Prüfstelle ist;
 
-4 Die mit der Schulung beauftragten Instruktorinnen und Instruktoren müssen:
+  - b. über Kompetenzen in der Durchführung und Organisation von Schulungen verfügt;
 
-  - a. über Kompetenzen in den relevanten Bereichen der Luftsicherheit verfügen;
+  - c. mit seiner Schulungstätigkeit die ganze Schweiz zu einheitlichen Preisen abdeckt;
 
-  - b. über Qualifikationen und Kompetenzen im Bereich der Schulungstechniken verfügen;
+  - d. über Personal mit ausreichender Ausbildung und Erfahrung in den relevanten Bereichen der Luftsicherheit verfügt;
 
-  - c. einen Instruktorenkurs des BAZL mit anschliessender Prüfung erfolgreich absolviert haben oder über einen gleichwertigen Zertifizierungsnachweis verfügen.
+  - e. über mindestens eine Ausbildungsverantwortliche oder einen Ausbildungsverantwortlichen verfügt.
