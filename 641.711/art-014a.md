@@ -1,6 +1,6 @@
 # Art. 14a
 
-1 Wer Flugreisen im Linienverkehr oder im planmässigen Gelegenheitsverkehr anbietet, die mit Verkaufsinseraten in Druckerzeugnissen oder in visuell-elektronischen Medien beworben werden, muss ab dem 1. Januar 2026 im Inserat gut sicht- und lesbar und in Zahlen, die durch die Flugreise bis zum Zielflugplatz voraussichtlich verursachten Emissionen in CO2-Äquivalenten angeben.
+1 Wer Flugreisen im Linienverkehr oder im planmässigen Gelegenheitsverkehr anbietet, die mit Verkaufsinseraten in Druckerzeugnissen oder in visuell-elektronischen Medien beworben werden, muss ab dem 1. Januar 2027 im Inserat gut sicht- und lesbar und in Zahlen die durch die Flugreise bis zum Zielflugplatz voraussichtlich verursachten Emissionen in CO2-Äquivalenten angeben. Die Betreiber von Luftfahrzeugen müssen den Anbietern solcher Flugreisen die entsprechenden Angaben zur Verfügung stellen.
 
 2 Die Pflicht gilt für Angebote für Flugreisen:
 

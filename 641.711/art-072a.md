@@ -2,7 +2,7 @@
 
 1 Der Dekarbonisierungsplan nach Artikel 31a Buchstabe b des CO2-Gesetzes muss mindestens enthalten:
 
-  - a. eine Bilanzierung aller direkten Treibhausgasemissionen (Art. 2 Bst. b Bundesgesetz vom 30. September 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit [KlG]) aus fossilen Brennstoffen;
+  - a. eine Bilanzierung aller direkten Treibhausgasemissionen (Art. 2 Bst. b KlG) aus fossilen Brennstoffen;
 
   - b. eine Beschreibung der bestehenden Anlagen und Prozesse;
 
