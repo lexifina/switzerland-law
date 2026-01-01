@@ -4,7 +4,7 @@
 
   - a. Programmen öffentlicher oder privater, nicht gewinnorientierter Institutionen; solche Programme dürfen die Privatwirtschaft nicht unmittelbar konkurrenzieren;
 
-  - b. Berufspraktika in Unternehmen und in der Verwaltung; im Falle erhöhter Arbeitslosigkeit kann der Bundesrat die Teilnahme an Berufspraktika für Personen während einer Wartezeit nach Artikel 18 Absatz 2 vorsehen;
+  - b. Berufspraktika in Unternehmen und in der öffentlichen Verwaltung; der Bundesrat kann die Teilnahme an Berufspraktika für Personen während einer Wartezeit nach Artikel 18 Absatz 2 vorsehen;
 
   - c. Motivationssemestern für Versicherte, die nach Erfüllung der obligatorischen Schulpflicht einen Ausbildungsplatz suchen, wenn sie über keinen Berufsabschluss verfügen und die Schulzeit nicht mit einer Maturität abgeschlossen haben.
 

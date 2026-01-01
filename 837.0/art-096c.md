@@ -1,18 +1,8 @@
 # Art. 96c Zugriff auf von der Ausgleichsstelle betriebene Informationssysteme
 
-1 Die Arbeitslosenkassen haben Zugriff auf das Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung (Art. 83 Abs. 1bis Bst. a) zur Auszahlung, Abrechnung und Verbuchung von Leistungen der Arbeitslosenversicherung.
+1 Die Durchführungsorgane nach Artikel 76 Absatz 1 Buchstaben a und c haben Zugriff auf die Informationssysteme nach Artikel 83 Absatz 1bis, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben nach den Artikeln 81 und 85 erforderlich ist.
 
-1bis Die Stellen, die Zugriff auf das Informationssystem der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. b) haben, sowie Personen und Stellen, die einen gesicherten Zugriff auf die Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. e) haben, sind in Artikel 35 Absätze 3 und 3ter AVG aufgeführt.
-
-1ter Die folgenden Stellen haben Zugriff auf das Informationssystem für die Analyse von Arbeitsmarktdaten (Art. 83 Abs. 1bis Bst. c), um die erforderlichen Leistungs- und Führungskennzahlen zu erhalten:
-
-  - a. die kantonalen Amtsstellen (Art. 85);
-
-  - b. die RAV (Art. 85b);
-
-  - c. die Logistikstellen für arbeitsmarktliche Massnahmen (Art. 85c);
-
-  - d. die Arbeitslosenkassen (Art. 77 und 78).
+1bis und 1ter …
 
 1quater Folgende Personen können sich auf der Zugangsplattform für elektronische Dienstleistungen (Art. 83 Abs. 1bis Bst. d) registrieren:
 

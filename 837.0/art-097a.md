@@ -1,6 +1,6 @@
 # Art. 97a Datenbekanntgabe
 
-1 Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mit der Durchführung, der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betraut sind, Daten in Abweichung von Artikel 33 ATSG bekannt geben:
+1 Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betraut sind, Daten in Abweichung von Artikel 33 ATSG bekannt geben:
 
   - a. anderen mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organen, wenn die Daten für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;
 
@@ -14,7 +14,7 @@
 
   - c. den für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
 
-  - cbis. den kantonalen Steuerbehörden, sofern das kantonale Recht eine direkte Übermittlung der Leistungsabrechnung an diese vorsieht;
+  - cbis. den kantonalen Steuerbehörden, sofern das kantonale Recht eine direkte Übermittlung der Bescheinigung über die Leistungen der Arbeitslosenversicherung an diese vorsieht;
 
   - d. den Organen der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992;
 
@@ -34,11 +34,11 @@
 
     - 5. Steuerbehörden, wenn die Daten für die Anwendung der Steuergesetze erforderlich sind,
 
-    - 6. den Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 ZGB;
+    - 6. den Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 des Zivilgesetzbuches (ZGB),
 
     - 7. den Ausländerbehörden, wenn die Daten für den Vollzug des AIG sowie zum Vollzug des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit samt Anhängen und Protokollen sowie der dazugehörigen schweizerischen Ausführungsgesetzgebung notwendig sind,
 
-    - 8. …
+    - 8. der vom kantonalen Recht bezeichneten Fachstelle nach den Artikeln 131 und 290 ZGB, wenn sie für das Inkasso von ausstehenden oder die Sicherung von zukünftigen Unterhaltsbeiträgen erforderlich sind.
 
 2 Die zur Bekämpfung der Schwarzarbeit erforderlichen Daten dürfen von den betroffenen Behörden des Bundes, der Kantone und der Gemeinden nach den Artikeln 11 und 12 des Bundesgesetzes vom 17. Juni 2005 gegen die Schwarzarbeit bekannt gegeben werden.
 
