@@ -1,10 +1,10 @@
-# Art. 31a Verfütterung von verarbeitetem tierischem Protein von Nichtwiederkäuern an Wassertiere: Regelung für verarbeitetes tierisches Protein von Insekten
+# Art. 31a Verfütterung von verarbeitetem Protein von Nutzinsekten an Geflügel, an Schweine und an Wassertiere in Aquakulturbetrieben
 
-1 Abweichend von Artikel 27 Absatz 3 darf verarbeitetes tierisches Protein von Insekten als Bestandteil von Futtermitteln für Wassertiere verwendet werden, wenn:
+1 Bei kanalisierter Verwertung darf verarbeitetes Protein von Nutzinsekten als Bestandteil von Futtermitteln für Geflügel, von Futtermitteln für Schweine und von Futtermitteln für Wassertiere in Aquakulturbetrieben verwendet werden, wenn:
 
-  - a. es aus tierischen Nebenprodukten nach Artikel 7 Buchstabe d stammt;
+  - a. das Rohmaterial aus Nebenprodukten von Nutzinsekten der Kategorie 3 nach Artikel 7 Buchstaben d–f besteht;
 
-  - b. die tierischen Nebenprodukte von einer der folgenden Insektenarten stammen:
+  - b. die tierischen Nebenprodukte aus der Primärproduktion einer der folgenden Insektenarten stammen:
 
     - 1. schwarze Soldatenfliege (Hermetia illucens),
 
@@ -18,28 +18,22 @@
 
     - 6. Steppengrille (Gryllus assimilis),
 
-    - 7. Stubenfliege (Musca domestica);
+    - 7. Stubenfliege (Musca domestica),
+
+    - 8. Seidenspinner (Bombyx mori);
 
   - c. die Insektenlarven ausschliesslich mit Produkten nach Absatz 2 gefüttert werden;
 
-  - d. es nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird;
+  - d. das verarbeitete tierische Protein nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird; und
 
-  - e. es auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert wird;
-
-  - f. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
-
-  - g. der Herstellerbetrieb über die Verwendung des verarbeiteten tierischen Proteins Buch führt;
-
-  - h. die Futtermittel in keinen anderen Tierhaltungen gelagert und verfüttert werden als in registrierten Aquakulturbetrieben nach Artikel 6 Buchstabe obis TSV; und
-
-  - i. andere Nutztiere, die auf dem Areal des Aquakulturbetriebs gehalten werden, weder direkt noch indirekt mit den Futtermitteln für Wassertiere in Kontakt kommen.
+  - e. die Trennung entlang der Futtermittelkette nach Artikel 32a sichergestellt wird.
 
 2 Den Insektenlarven dürfen pflanzliche Substrate sowie die folgenden tierischen Nebenprodukte verfüttert werden:
 
-  - a. Erzeugnisse nach Artikel 28;
+  - a. tierische Nebenprodukte nach Artikel 28;
 
-  - b. Blutprodukte von Nichtwiederkäuern;
+  - b. Fischmehl;
 
-  - c. Di- und Tricalciumphosphat;
+  - c. Blutprodukte von Nichtwiederkäuern;
 
-  - d. Fischmehl.
+  - d. Dicalciumphosphat und Tricalciumphosphat tierischer Herkunft.
