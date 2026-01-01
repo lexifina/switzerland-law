@@ -1,6 +1,6 @@
 # Art. 10a Sistierung der Versicherungspflicht
 
-1 Die Sistierung der Versicherungspflicht nach Artikel 3 Absatz 4 des Gesetzes beginnt am Tag, an dem die versicherte Person dem MVG unterstellt wird.
+1 Die Sistierung der Versicherungspflicht nach Artikel 3 Absatz 4 KVG beginnt am Tag, an dem die versicherte Person dem MVG unterstellt wird.
 
 2 Die versicherte Person ist ab Beginn der Unterstellung unter die Militärversicherung von der Prämienzahlung befreit, wenn sie die Unterstellung mindestens acht Wochen vor deren Beginn ihrem Versicherer meldet. Hält sie diese Frist nicht ein, so erhebt der Versicherer ab dem nächsten ihm möglichen Termin, spätestens aber acht Wochen nach der Meldung keine Prämie mehr.
 

@@ -6,7 +6,7 @@
 
   - b. Die Massnahmen eignen sich dazu, eines der Ziele nach Artikel 59b Absatz 1 KVG in einem der Bereiche nach Artikel 59b Absatz 2 KVG zu erreichen.
 
-  - c. Die Massnahmen eignen sich dazu, in das Gesetz aufgenommen zu werden.
+  - c. Die Massnahmen eignen sich dazu, in das KVG aufgenommen zu werden.
 
 2 Die Bewilligungsverfügung enthält namentlich:
 

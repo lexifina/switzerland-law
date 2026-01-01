@@ -1,8 +1,8 @@
 # Art. 76b Vereinbarung über die nicht vollumfängliche Weitergabe von Vergünstigungen
 
-1 Vereinbarungen nach Artikel 56 Absatz 3bis des Gesetzes werden in erster Linie zwischen den Verbänden der Leistungserbringer und der Versicherer abgeschlossen.
+1 Vereinbarungen nach Artikel 56 Absatz 3bis KVG werden in erster Linie zwischen den Verbänden der Leistungserbringer und der Versicherer abgeschlossen.
 
-2 Die Vereinbarungen über die nicht vollumfängliche Weitergabe der Vergünstigung nach Artikel 56 Absatz 3bis des Gesetzes müssen schriftlich abgeschlossen werden und namentlich folgende Angaben enthalten:
+2 Die Vereinbarungen über die nicht vollumfängliche Weitergabe der Vergünstigung nach Artikel 56 Absatz 3bis KVG müssen schriftlich abgeschlossen werden und namentlich folgende Angaben enthalten:
 
   - a. Art und Umfang der Vergünstigung sowie Modalitäten zur transparenten Dokumentation in den Belegen und Rechnungen;
 

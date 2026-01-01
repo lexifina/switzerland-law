@@ -1,6 +1,6 @@
 # Art. 37a Beratende Kommissionen
 
-Beratende Kommissionen nach Artikel 33 Absatz 4 des Gesetzes sind:
+Beratende Kommissionen nach Artikel 33 Absatz 4 KVG sind:
 
   - a. die Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen (Leistungs- und Grundsatzkommission);
 

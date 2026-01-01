@@ -10,4 +10,4 @@
 
   - c. ob es einen Konflikt zwischen den Massnahmen des Pilotprojekts und gesetzlichen Bestimmungen gibt, zu denen in der Verordnung keine Abweichung vorgesehen ist;
 
-  - d. ob die erprobten Massnahmen in das Gesetz aufgenommen werden können.
+  - d. ob die erprobten Massnahmen in das KVG aufgenommen werden können.

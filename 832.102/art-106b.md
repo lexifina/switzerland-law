@@ -1,6 +1,6 @@
 # Art. 106b Meldungen des Kantons
 
-1 Der Kanton bestimmt eine Stelle, welche die Daten mit den Versicherern nach Artikel 65 Absatz 2 des Gesetzes austauscht.
+1 Der Kanton bestimmt eine Stelle, welche die Daten mit den Versicherern nach Artikel 65 Absatz 2 KVG austauscht.
 
 2 Er meldet dem Versicherer:
 

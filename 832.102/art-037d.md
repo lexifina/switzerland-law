@@ -8,7 +8,7 @@
 
   - b. Festsetzung von Grundsätzen, damit der Datenschutz und die Interessen der Versicherten bei der Leistungsbezeichnung in der Krankenversicherung gewahrt werden;
 
-  - c. Ausarbeitung von Kriterien für die Beurteilung von Leistungen nach Artikel 33 Absatz 3 des Gesetzes und Artikel 70.
+  - c. Ausarbeitung von Kriterien für die Beurteilung von Leistungen nach Artikel 33 Absatz 3 KVG und Artikel 70.
 
 3 Sie besteht aus 18 Mitgliedern; davon vertreten:
 

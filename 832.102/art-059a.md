@@ -8,7 +8,7 @@
 
 4 Die Datenannahmestelle bestimmt, für welche Rechnungen eine weitere Prüfung benötigt wird, und leitet die dazu notwendigen Angaben an den Versicherer weiter. Der Versicherer darf der Datenannahmestelle keine Weisungen bezüglich der Datenweitergabe in Bezug auf einzelne Rechnungen erteilen.
 
-5 Verlangt der Versicherer vom Leistungserbringer im Laufe der Prüfung zusätzliche Auskünfte medizinischer Natur im Sinne von Artikel 42 Absatz 4 des Gesetzes, so hat der Versicherer die versicherte Person über ihre Wahlmöglichkeit nach Artikel 42 Absatz 5 des Gesetzes zu informieren.
+5 Verlangt der Versicherer vom Leistungserbringer im Laufe der Prüfung zusätzliche Auskünfte medizinischer Natur im Sinne von Artikel 42 Absatz 4 KVG, so hat der Versicherer die versicherte Person über ihre Wahlmöglichkeit nach Artikel 42 Absatz 5 KVG zu informieren.
 
 6 Jeder Versicherer muss über eine Datenannahmestelle verfügen. Diese muss nach Artikel 13 des Datenschutzgesetzes vom 25. September 2020 (DSG) zertifiziert sein.
 
