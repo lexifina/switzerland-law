@@ -8,7 +8,7 @@
 
   - c. die Berechnung des Trassenpreises;
 
-  - d. den Zugang zu Umschlagsanlagen für den kombinierten Verkehr und Anschlussgleisen, die vom Bund mitfinanziert wurden;
+  - d. den Zugang zu Umschlagsanlagen für den kombinierten Verkehr, die vom Bund mitfinanziert wurden, sowie zur Hafeninfrastruktur für den Gütertransport auf dem Rhein;
 
   - e. die Wahrnehmung von Systemaufgaben;
 
