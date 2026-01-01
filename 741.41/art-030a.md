@@ -1,21 +1,29 @@
 # Art. 30a Prüfung von neuen Fahrzeugen: Identifikationsprüfung und Funktionskontrolle
 
-1 Liegen für ein neues Fahrzeug die Dokumente nach Artikel 30 Absatz 1 nicht vor, so wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften wie folgt erbracht:
+1 Für neue vollständige oder vervollständigte Fahrzeuge, die nicht unter Artikel 30 fallen, für Fahrzeuge gemäss Artikel 30 Absatz 2, für welche keine Typengenehmigung und kein Datenblatt vorliegt, sowie für Personenwagen gemäss Artikel 11 Absatz 2 Buchstabe a, die neu und vollständig sind und für welche die Dokumente nach Artikel 30 Absatz 1 nicht vorliegen, ist der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften erbracht mit:
 
-  - a. Liegt eine EU-Übereinstimmungsbescheinigung in Papierform vor, so wird bei Personenwagen und Wohnmotorwagen mit einem Gesamtgewicht bis 3,50 t eine Identifikationsprüfung durchgeführt, bei den übrigen Fahrzeugen eine Funktionskontrolle.
+  - a. einer EU-Übereinstimmungsbescheinigung in Papierform und einer Identifikationsprüfung:
 
-  - b. Liegt keine EU-Übereinstimmungsbescheinigung in Papierform vor, so wird eine Funktionskontrolle durchgeführt, wenn:
+    - 1. bei Personenwagen gemäss Artikel 11 Absatz 2 Buchstabe a,
 
-    - 1. eine Konformitätserklärung nach dem UNECE-Reglement Nr. 0 sowie alle weiteren erforderlichen Genehmigungen zur Vervollständigung nach dem entsprechenden EU-Gesamtgenehmigungsrechtsakt vorliegen,
+    - 2. bei vollständigen Wohnmotorwagen mit einem Gesamtgewicht bis 3,50 t;
 
-    - 2. Genehmigungen und Konformitätszeichen vorliegen, die von ausländischen Staaten nach nationalem oder internationalem Recht erteilt wurden, das in Anhang 2 aufgeführt oder den schweizerischen Vorschriften mindestens gleichwertig ist,
+  - b. einem elektronischen Einzelfahrzeugdatensatz (Art. 72b VZV) und einer Funktionskontrolle: bei vollständigen Wohnmotorwagen mit einem Gesamtgewicht bis 3,50 t;
 
-    - 3. Konformitätserklärungen nach den Artikeln 2 Buchstabe f und 14 TGV vorliegen,
+  - c. einer EU-Übereinstimmungsbescheinigung in Papierform, einem elektronischen Einzelfahrzeugdatensatz (Art. 72b VZV), einer Typengenehmigung oder einem Datenblatt sowie einer Funktionskontrolle: bei allen anderen vollständigen und vervollständigten Fahrzeugen;
 
-    - 4. Prüfberichte vorliegen, die nach den in Anhang 2 aufgeführten Vorschriften von anerkannten Prüfstellen nach Artikel 17 Absatz 1 TGV erstellt wurden, oder
+  - d. sofern keine EU-Übereinstimmungsbescheinigung in Papierform und kein elektronischer Einzelfahrzeugdatensatz (Art. 72b VZV) vorliegt: einer Funktionskontrolle und den nachfolgenden Nachweisdokumenten:
 
-    - 5. die Halter und Halterinnen diplomatische oder konsularische Vorrechte und Immunitäten geniessen.
+    - 1. Konformitätserklärung nach dem UNECE-Reglement Nr. 0 sowie alle weiteren erforderlichen Genehmigungen zur Vervollständigung nach dem entsprechenden EU-Gesamtgenehmigungsrechtsakt,
+
+    - 2. Genehmigungen und Konformitätszeichen, die von ausländischen Staaten nach nationalem oder internationalem Recht erteilt wurden, das in Anhang 2 aufgeführt ist oder den schweizerischen Vorschriften mindestens gleichwertig ist,
+
+    - 3. Konformitätserklärungen, die nach Artikel 14 TGV anerkannt sind,
+
+    - 4. Prüfberichte, die nach den in Anhang 2 aufgeführten Vorschriften von anerkannten Prüfstellen nach Artikel 17 Absatz 1 TGV erstellt worden sind.
+
+1bis Wenn der Halter oder die Halterin des Fahrzeuges diplomatische oder konsularische Vorrechte und Immunitäten geniesst, ist im Falle von Absatz 1 Buchstabe d eine Funktionskontrolle für den Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften ausreichend.
 
 2 Die Funktionskontrolle beschränkt sich auf die wichtigsten Vorrichtungen wie Lenkung, Bremsen und Beleuchtung sowie die Verbindungseinrichtungen von Zugfahrzeugen und Anhängern.
 
-3 Der Nachweis der Gleichwertigkeit nach Absatz 1 Buchstabe b Ziffer 2 ist vom Gesuchsteller oder von der Gesuchstellerin zu erbringen.
+3 Der Nachweis der Gleichwertigkeit nach Absatz 1 Buchstabe d Ziffer 2 ist vom Gesuchsteller oder von der Gesuchstellerin zu erbringen.
