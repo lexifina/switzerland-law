@@ -4,4 +4,4 @@
 
 2 Die Folgeprodukte, die den Endpunkt erreicht haben, sind in Anhang 1a aufgeführt.
 
-3 Die Endpunkte gelten nicht für Folgeprodukte, die als Dünge- oder Futtermittel verwendet oder zu solchen weiterverarbeitet werden, mit Ausnahme von Heimtierfutter.
+3 Den Endpunkt nicht erreichen können Folgeprodukte, die als Futtermittel oder Dünger verwendet oder dazu weiterverarbeitet werden. Die Ausnahmen sind in Anhang 1a aufgeführt.
