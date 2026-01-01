@@ -20,6 +20,6 @@
 
 2 Die verarbeiteten Substrate müssen zu mehr als der Hälfte ihrer Masse vom Standortbetrieb oder aus Landwirtschaftsbetrieben stammen, die innerhalb einer Fahrdistanz von in der Regel 15 km liegen. Dieser Teil muss mindestens 10 Prozent des Energieinhalts der gesamten verarbeiteten Substrate ausmachen. Die Quellen der restlichen Substrate müssen innerhalb einer Fahrdistanz von in der Regel 50 km liegen. Ausnahmsweise können längere Fahrdistanzen bewilligt werden.
 
-3 Die ganze Anlage muss sich dem Landwirtschaftsbetrieb unterordnen und einen Beitrag dazu leisten, dass die erneuerbaren Energien effizient genutzt werden.
+3 Die ganze Anlage muss Teil eines Landwirtschaftsbetriebs sein und einen Beitrag dazu leisten, dass die erneuerbaren Energien effizient genutzt werden.
 
 4 Die Voraussetzungen von Artikel 34 Absatz 4 müssen erfüllt sein.

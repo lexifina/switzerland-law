@@ -1,14 +1,8 @@
-# Art. 32c Standortgebundene Solaranlagen ausserhalb der Bauzonen
+# Art. 32c Nicht freistehende Solaranlagen ausserhalb der Bauzonen
 
-1 Solaranlagen mit Anschluss ans Stromnetz können ausserhalb der Bauzonen insbesondere dann standortgebunden sein, wenn sie:
+1 Nicht freistehende Solaranlagen, die ausserhalb der Bauzonen liegen und ans Stromnetz angeschlossen sind, können insbesondere dann als standortgebunden bewilligt werden, wenn sie optisch eine Einheit mit Bauten oder Anlagen bilden, die rechtmässig sind und voraussichtlich längerfristig bestehen.
 
-  - a. optisch eine Einheit bilden mit Bauten oder Anlagen, die voraussichtlich längerfristig rechtmässig bestehen;
-
-  - b. schwimmend auf einem Stausee oder auf anderen künstlichen Gewässerflächen angebracht werden; oder
-
-  - c. in wenig empfindlichen Gebieten Vorteile für die landwirtschaftliche Produktion bewirken oder entsprechenden Versuchs- und Forschungszwecken dienen.
-
-2 Besteht für die Anlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage.
+2 Besteht für die Solaranlage eine Planungspflicht, so bedarf das Vorhaben einer entsprechenden Grundlage.
 
 3 In jedem Fall bedarf es einer umfassenden Interessenabwägung.
 

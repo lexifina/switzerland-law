@@ -1,8 +1,8 @@
 # Art. 42b Hobbymässige Tierhaltung (Art. 24e RPG)
 
-1 Die hobbymässige Tierhaltung gilt als Erweiterung der Wohnnutzung der nahe gelegenen Wohnbaute.
+1 Die hobbymässige Tierhaltung gilt als Erweiterung der Wohnnutzung der nahe gelegenen Wohnbaute. Sie ist nur in den Fällen von Artikel 42 Absatz 3 Buchstabe b und nur als Brutto-Nebenfläche anzurechnen.
 
-2 Sie ist an allfällige Möglichkeiten zur Erweiterung der Wohnbaute nach Artikel 42 Absatz 3 anzurechnen.
+2 …
 
 3 Es dürfen nur so viele Tiere gehalten werden, wie die Bewohnerinnen und Bewohner der nahe gelegenen Wohnbaute selber betreuen können.
 
@@ -15,5 +15,7 @@
   - b. Weideunterstände.
 
 6 Der Allwetterauslauf darf nur aus zwingenden Gründen abgesetzt vom Stall errichtet werden. Für die zulässige Fläche gilt Artikel 34b Absatz 3 Buchstabe b.
+
+6bis Kleintierställe, die rechtmässig bestanden und durch höhere Gewalt zerstört worden sind, dürfen wiederaufgebaut werden.
 
 7 Sind die Voraussetzungen für eine Bewilligung nach Artikel 24e RPG nicht mehr erfüllt, so fällt die Bewilligung dahin. Die zuständige Behörde stellt dies durch Verfügung fest.

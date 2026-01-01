@@ -1,6 +1,6 @@
 # Art. 43a Gemeinsame Bestimmungen
 
-Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
+1 Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
 
   - a. die Baute für den bisherigen zonenkonformen oder standortgebundenen Zweck nicht mehr benötigt wird oder sichergestellt wird, dass sie zu diesem Zweck erhalten bleibt;
 
@@ -11,3 +11,5 @@ Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
   - d. die landwirtschaftliche Bewirtschaftung der umliegenden Grundstücke nicht gefährdet ist;
 
   - e. keine überwiegenden Interessen entgegenstehen.
+
+2 Energetische Sanierungen, an denen ein überwiegendes öffentliches Interesse besteht, können gestützt auf eine Beurteilung im Einzelfall bewilligt werden, soweit dieser Abschnitt keine speziellen Regelungen enthält.
