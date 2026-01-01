@@ -6,6 +6,6 @@
 
   - b. Futtermittel-Ausgangsprodukte und Futtermittelzusatzstoffe nach Anhang 7;
 
-  - c. Salz in Form von Meersalz oder rohem Steinsalz.
+  - c. Salz.
 
 2 Die Bestimmungen der Futtermittel-Verordnung vom 26. Oktober 2011 sind vorbehalten.

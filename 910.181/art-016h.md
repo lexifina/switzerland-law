@@ -14,4 +14,4 @@ Jede Eintragung muss mindestens folgende Angaben enthalten:
 
   - f. den Namen und/oder die Codenummer der für die Kontrolle des Unternehmens zuständigen Kontrollbehörde oder -stelle;
 
-  - g. die gewichtsmässig verfügbare Menge für Saatgut und die zahlenmässig verfügbare Menge für vegetatives Vermehrungsmaterial.
+  - g. …
