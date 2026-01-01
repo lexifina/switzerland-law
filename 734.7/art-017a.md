@@ -1,13 +1,11 @@
-# Art. 17a Intelligente Messsysteme
+# Art. 17a Zuständigkeit, Messtarife und Messentgelt
 
-1 Ein intelligentes Messsystem beim Endverbraucher, Erzeuger oder Speicher ist eine Messeinrichtung zur Erfassung elektrischer Energie, die eine bidirektionale Datenübertragung unterstützt und den tatsächlichen Energiefluss und dessen zeitlichen Verlauf erfasst.
+1 Die Netzbetreiber sind in ihrem Netzgebiet für das Messwesen zuständig.
 
-2 Der Bundesrat kann Vorgaben zur Einführung solcher intelligenten Messsysteme machen. Er berücksichtigt dabei internationale Normen und Empfehlungen anerkannter Fachorganisationen. Er kann insbesondere die Netzbetreiber dazu verpflichten, bis zu einem bestimmten Zeitpunkt bei allen Endverbrauchern, Erzeugern und Speichern oder bei gewissen Gruppen davon die Installation intelligenter Messsysteme zu veranlassen.
+2 Sie legen verursachergerechte Messtarife fest.
 
-3 Er kann unter Berücksichtigung der Bundesgesetzgebung über das Messwesen festlegen, welchen technischen Mindestanforderungen die intelligenten Messsysteme zu genügen haben und welche weiteren Eigenschaften, Ausstattungen und Funktionalitäten sie aufweisen müssen, insbesondere im Zusammenhang mit:
+3 Auf der Basis dieser Tarife erheben sie je Messpunkt das Messentgelt. Das erhobene Messentgelt darf die anrechenbaren Messkosten nicht übersteigen. Deckungsdifferenzen sind zeitnah auszugleichen.
 
-  - a. der Übermittlung von Messdaten;
+4 Anrechenbar sind die Betriebs- und Kapitalkosten, die durch die zuverlässige und effiziente Messung bei Endverbrauchern, Erzeugern und Speicherbetreibern anfallen; die Kapitalkosten enthalten einen angemessenen Betriebsgewinn.
 
-  - b. der Unterstützung von Tarifsystemen;
-
-  - c. der Unterstützung weiterer Dienste und Anwendungen.
+5 Der Bundesrat legt die Grundlagen zur Berechnung der anrechenbaren Messkosten fest. Er kann Tarifobergrenzen festlegen und regeln, ob und wie Deckungsdifferenzen aus vergangenen Tarifperioden verzinst werden.
