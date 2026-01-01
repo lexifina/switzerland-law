@@ -1,14 +1,14 @@
 # Art. 1g Festsetzung des Planungskorridors
 
-1 Die Gesuchstellerin erarbeitet unter Einbezug der betroffenen Kantone in der Regel mindestens zwei Planungskorridore und reicht dem BFE die erforderlichen Unterlagen ein.
+1 Das BFE übermittelt den Mitgliedern der Begleitgruppe die vollständigen Unterlagen zur Festsetzung des Planungskorridors zur Stellungnahme. Es kann für die Besichtigung von möglichen Planungskorridoren eine Begehung mit der Begleitgruppe organisieren.
 
-2 Das BFE übermittelt der Begleitgruppe die vollständigen Unterlagen innert 30 Tagen nach Eingang. Es kann für die Besichtigung von möglichen Planungskorridoren eine Begehung mit der Begleitgruppe organisieren.
+2 Es erarbeitet gestützt auf die Stellungnahmen und Empfehlungen der Mitglieder der Begleitgruppe den Entwurf des Objektblatts mit Bericht für den Planungskorridor und die anzuwendende Übertragungstechnologie.
 
-3 Die Begleitgruppe empfiehlt dem BFE aufgrund einer gesamtheitlichen Betrachtung innerhalb von zwei Monaten nach Erhalt aller benötigten Unterlagen einen Planungskorridor und die anzuwendende Übertragungstechnologie, namentlich ob die Leitung als Freileitung oder als Erdkabel erstellt werden soll.
+3 Es führt eine Ämterkonsultation durch und eröffnet das Anhörungs- und das Mitwirkungsverfahren nach Artikel 19 RPV.
 
-4 Es erarbeitet gestützt auf die Empfehlung der Begleitgruppe den Entwurf des Objektblatts mit Bericht für den Planungskorridor und die anzuwendende Übertragungstechnologie und eröffnet das Anhörungs- und Mitwirkungsverfahren nach Artikel 19 RPV.
+4 Ergeben sich aufgrund des Anhörungs- und des Mitwirkungsverfahrens wesentliche Änderungen am Entwurf des Objektblatts mit Bericht für den Planungskorridor und für die anzuwendende Übertragungstechnologie, so führt es eine weitere Ämterkonsultation durch.
 
-5 Nach der Bereinigung des Entwurfs führt es eine Ämterkonsultation durch. Es veranlasst innerhalb von zwei Monaten nach Abschluss der Ämterkonsultation die Festsetzung des Planungskorridors sowie der anzuwendenden Übertragungstechnologie durch:
+5 Es beantragt nach Abschluss von Ämterkonsultation, Anhörungs- und Mitwirkungsverfahren die Festsetzung des Planungskorridors und der anzuwendenden Übertragungstechnologie durch:
 
   - a. den Bundesrat in Fällen nach Artikel 21 Absatz 1 RPV;
 
