@@ -35,3 +35,5 @@
 6 Der Bundesrat regelt die Modalitäten der Bekanntgabe und die Information der betroffenen Person.
 
 7 Die Datenbekanntgabe erfolgt in der Regel schriftlich und kostenlos. Der Bundesrat kann die Erhebung einer Gebühr vorsehen, wenn besonders aufwendige Arbeiten erforderlich sind.
+
+8 Die Datenbekanntgabe kann auf elektronischem Weg erfolgen.

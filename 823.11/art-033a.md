@@ -18,6 +18,6 @@
 
   - a. über die Gesundheit und die Religionszugehörigkeit der Stellensuchenden, wenn diese Daten für die Vermittlung erforderlich sind;
 
-  - b. über Massnahmen, die im Rahmen des Vollzugs dieses Gesetzes und des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 verfügt werden oder vorgesehen sind, wenn diese Daten eine direkte Auswirkung auf die Leistung der Arbeitslosenversicherung haben.
+  - b. über Massnahmen, die im Rahmen des Vollzugs dieses Gesetzes und des AVIG verfügt werden oder vorgesehen sind, wenn diese Daten eine direkte Auswirkung auf die Leistung der Arbeitslosenversicherung haben.
 
 3 Ausserdem dürfen die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe Personendaten, die die Beurteilung der persönlichen und der wirtschaftlichen Situation der Empfänger von Beratungsleistungen nach diesem Gesetz erlauben, bearbeiten oder bearbeiten lassen.

@@ -1,6 +1,6 @@
 # Art. 35a Interinstitutionelle Zusammenarbeit und Zusammenarbeit mit privaten Arbeitsvermittlern
 
-1 Zum Zwecke der interinstitutionellen Zusammenarbeit nach Artikel 85f des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 kann den Berufsberatungsstellen, den Sozialdiensten der Kantone und Gemeinden, den Durchführungsorganen der kantonalen Arbeitslosenhilfegesetze, der Invaliden- und Krankenversicherung und der Asylgesetzgebung, den kantonalen Berufsbildungsbehörden, der Schweizerischen Unfallversicherungsanstalt sowie anderen für die Eingliederung Versicherter wichtigen privaten und öffentlichen Institutionen im Einzelfall Zugriff auf die erforderlichen Daten aus dem Informationssystem gewährt werden, sofern:
+1 Zum Zwecke der interinstitutionellen Zusammenarbeit nach Artikel 85f AVIG kann den Berufsberatungsstellen, den Sozialdiensten der Kantone und Gemeinden, den Durchführungsorganen der kantonalen Arbeitslosenhilfegesetze, der Invaliden- und Krankenversicherung und der Asylgesetzgebung, den kantonalen Berufsbildungsbehörden, der Schweizerischen Unfallversicherungsanstalt sowie anderen für die Eingliederung von versicherten Personen wichtigen privaten und öffentlichen Institutionen im Einzelfall Zugriff auf die erforderlichen Daten aus dem Informationssystem gewährt werden, sofern:
 
   - a. die betroffene Person Leistungen von einer dieser Stellen bezieht und der Gewährung des Zugriffs zustimmt; und
 
