@@ -1,8 +1,8 @@
 # Art. 5a Erbringer von Flugsicherungsdiensten
 
-1 Die Massnahmen zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs nach Anhang I der Durchführungsverordnung (EU) Nr. 1035/2011 sind Sache des Erbringers von Flugsicherungsdiensten.
+1 Die Massnahmen zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs nach Anhang III der Durchführungsverordnung (EU) 2017/373 sind Sache des Erbringers von Flugsicherungsdiensten.
 
-2 Der Erbringer von Flugsicherungsdiensten muss in sein System zur Gefahrenabwehr nach Anhang I Ziffer 4 der Durchführungsverordnung (EU) Nr. 1035/2011 mindestens aufnehmen:
+2 Der Erbringer von Flugsicherungsdiensten muss in sein System zur Gefahrenabwehr nach Anhang III Teilabschnitt D Punkt ATM/ANS.OR.D.010 der Durchführungsverordnung (EU) 2017/373 mindestens aufnehmen:
 
   - a. ein Organigramm seiner internen Sicherheitsorganisation mit der Bezeichnung von Aufgaben und Verantwortlichkeiten;
 
