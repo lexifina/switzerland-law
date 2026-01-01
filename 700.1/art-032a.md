@@ -1,4 +1,4 @@
-# Art. 32a Bewilligungsfreie Solaranlagen
+# Art. 32a Bewilligungsfreie Solaranlagen auf Dächern
 
 1 Solaranlagen auf einem Dach gelten als genügend angepasst (Art. 18a Abs. 1 RPG), wenn sie:
 
