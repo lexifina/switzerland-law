@@ -14,7 +14,7 @@
 
   - a. die Baute oder Anlage für den bisherigen Zweck nicht mehr benötigt wird, für die vorgesehene Nutzung geeignet ist und keine Ersatzbaute zur Folge hat, die nicht notwendig ist;
 
-  - b. die äussere Erscheinung und die bauliche Grundstruktur im Wesentlichen unverändert bleiben;
+  - b. die äussere Erscheinung, die bauliche Grundstruktur und die Umgebung in ihren wesentlichen Merkmalen erhalten bleiben;
 
   - c. höchstens eine geringfügige Erweiterung der bestehenden Erschliessung notwendig ist und sämtliche Infrastrukturkosten, die im Zusammenhang mit der vollständigen Zweckänderung der Bauten und Anlagen anfallen, auf deren Eigentümer überwälzt werden;
 

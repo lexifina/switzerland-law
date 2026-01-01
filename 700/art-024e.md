@@ -10,4 +10,4 @@
 
 5 Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn die Voraussetzungen von Artikel 24d Absatz 3 erfüllt sind.
 
-6 Der Bundesrat regelt die Einzelheiten. Er legt namentlich fest, in welchem Verhältnis die Änderungsmöglichkeiten nach diesem Artikel zu denjenigen nach Artikel 24c und nach Artikel 24d Absatz 1 stehen.
+6 Der Bundesrat regelt die Einzelheiten. Er legt namentlich fest, in welchem Verhältnis die Änderungsmöglichkeiten nach diesem Artikel zu denjenigen nach Artikel 24c stehen. Er kann vorsehen, dass die hobbymässige Kleintierhaltung nicht als Erweiterung der Wohnnutzung gilt und dass kleine Nebenbauten, die durch höhere Gewalt zerstört worden sind, wiederaufgebaut werden dürfen.

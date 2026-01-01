@@ -1,4 +1,4 @@
-# Art. 24c Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen
+# Art. 24c Altrechtliche Bauten und Anlagen
 
 1 Bestimmungsgemäss nutzbare Bauten und Anlagen ausserhalb der Bauzonen, die nicht mehr zonenkonform sind, werden in ihrem Bestand grundsätzlich geschützt.
 
