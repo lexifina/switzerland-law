@@ -1,13 +1,19 @@
-# Art. 8aquinquies Kostenrechnung des Datenplattformbetreibers
+# Art. 8aquinquies Konstituierung des Datenplattformbetreibers
 
-1 Der Datenplattformbetreiber erstellt eine Kostenrechnung.
+1 Das Gesuch um Genehmigung der Statuten des Datenplattformbetreibers (Art. 17h Abs. 2 StromVG) muss bis am 30. September 2025 eingereicht werden. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann diese Frist einmalig um drei Monate verlängern.
 
-2 In der Kostenrechnung müssen alle für die Berechnung der Entgelte nach Artikel 17i Absatz 3 StromVG notwendigen Positionen separat ausgewiesen werden, insbesondere die Kapital- und Betriebskosten.
+2 Es muss insbesondere folgende Angaben und Unterlagen enthalten:
 
-3 Als Betriebskosten gelten die Kosten für die mit dem Betrieb der Datenplattform direkt zusammenhängenden Leistungen. Dazu zählen insbesondere die Kosten für den Unterhalt der Informations- und Kommunikationstechnologie.
+  - a. einen Entwurf der Statuten;
 
-4 Als Kapitalkosten gelten die die kalkulatorischen Abschreibungen und die kalkulatorischen Zinsen auf den für den Betrieb der Datenplattform notwendigen Vermögenswerten. Für die Berechnung der Kapitalkosten gilt Artikel 13 Absätze 2 und 3 sinngemäss.
+  - b. eine Darlegung der ungedeckten Kosten des Gesuchstellers, die bis zur Gesuchseinreichung für die Errichtung der Datenplattform angefallen sind;
 
-5 Der Datenplattformbetreiber richtet die Einnahmen aus dem Entgelt für die kalkulatorischen Zinsen nach Absatz 4 den Anteilseignern proportional zu den geleisteten Einlagen aus. Die Anteilseigner haben keinen Anspruch auf weitere Entschädigungen und Leistungen.
+  - c. eine Kostenplanung;
 
-6 Die Kostenrechnung ist der ElCom jährlich vorzulegen.
+  - d. ein organisatorisches und technisches Konzept.
+
+3 Das UVEK kann weitere Vorgaben zur Gesuchseinreichung machen.
+
+4 Werden die Statuten genehmigt, so muss der Datenplattformbetreiber dem Gesuchsteller die Kosten nach Absatz 2 Buchstabe b innerhalb von zehn Jahren ab Inbetriebnahme der Datenplattform zurückerstatten. Anrechenbar sind alle notwendigen und angemessenen Kosten zur Errichtung der Datenplattform einschliesslich eines Zinses in der Höhe des durchschnittlichen Kapitalkostensatzes nach Anhang 1. Das UVEK legt den rückzuerstattenden Betrag fest.
+
+5 Das UVEK kann die Genehmigung der Statuten und die Rückerstattung der Kosten an Bedingungen knüpfen oder mit Auflagen verbinden. Es kann den spätesten Zeitpunkt der Inbetriebnahme der Datenplattform festlegen.
