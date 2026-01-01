@@ -1,19 +1,13 @@
-# Art. 8a Konstituierung des Datenplattformbetreibers
+# Art. 8a Anrechenbare Betriebskosten
 
-1 Das Gesuch um Genehmigung der Statuten des Datenplattformbetreibers (Art. 17h Abs. 2 StromVG) muss bis am 30. September 2025 eingereicht werden. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann diese Frist einmalig um drei Monate verlängern.
+1 Als Betriebskosten gelten die Kosten für die Leistungen, die in direktem Zusammenhang mit dem Messwesen erbracht werden. Dazu zählen insbesondere:
 
-2 Es muss insbesondere folgende Angaben und Unterlagen enthalten:
+  - a. die Kosten für den Betrieb und die Wartung der Messmittel;
 
-  - a. einen Entwurf der Statuten;
+  - b. die Kosten für die Erfassung, die Bearbeitung und die Übermittlung der Messdaten;
 
-  - b. eine Darlegung der ungedeckten Kosten des Gesuchstellers, die bis zur Gesuchseinreichung für die Errichtung der Datenplattform angefallen sind;
+  - c. die Kosten, die nach Artikel 17i Absatz 3 StromVG für die Nutzung der Datenplattform anfallen;
 
-  - c. eine Kostenplanung;
+  - d. die dem Messwesen zuzuordnenden Verwaltungskosten.
 
-  - d. ein organisatorisches und technisches Konzept.
-
-3 Das UVEK kann weitere Vorgaben zur Gesuchseinreichung machen.
-
-4 Werden die Statuten genehmigt, so muss der Datenplattformbetreiber dem Gesuchsteller die Kosten nach Absatz 2 Buchstabe b innerhalb von zehn Jahren ab Inbetriebnahme der Datenplattform zurückerstatten. Anrechenbar sind alle notwendigen und angemessenen Kosten zur Errichtung der Datenplattform einschliesslich eines Zinses in der Höhe des durchschnittlichen Kapitalkostensatzes nach Anhang 1. Das UVEK legt den rückzuerstattenden Betrag fest.
-
-5 Das UVEK kann die Genehmigung der Statuten und die Rückerstattung der Kosten an Bedingungen knüpfen oder mit Auflagen verbinden. Es kann den spätesten Zeitpunkt der Inbetriebnahme der Datenplattform festlegen.
+2 Die Netzbetreiber legen transparente, einheitliche und diskriminierungsfreie Richtlinien für die Ermittlung der Betriebskosten fest.

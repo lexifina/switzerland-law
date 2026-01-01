@@ -1,7 +1,11 @@
-# Art. 8aquater Aufgaben des Datenplattformbetreibers betreffend den Schutz und die Sicherheit der Daten
+# Art. 8aquater Deckungsdifferenzen im Bereich der Messkosten
 
-1 Der Datenplattformbetreiber muss die Datensicherheit gewährleisten. Zur Sicherstellung eines angemessenen Schutzes gegen Cyberbedrohungen muss er die Empfehlungen des IKT-Minimalstandards gemäss dem Schutzniveau für die Kategorie A nach Anhang 1a umsetzen.
+1 Stimmt die Summe des Messentgelts, das der Netzbetreiber während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Messkosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
 
-2 Er muss die Messdaten nach fünf Jahren vernichten, sofern sie nicht abrechnungsrelevant oder anonymisiert sind.
+2 In begründeten Fällen kann die ElCom den Zeitraum zum Ausgleich einer Deckungsdifferenz verlängern.
 
-3 Stellt er den Betrieb ein oder wird über ihn der Konkurs eröffnet, so muss er sicherstellen, dass die für den Betrieb der Datenplattform notwendigen Daten kostenlos auf das UVEK oder auf eine von diesem bezeichnete Stelle übertragen werden. Er muss seine Daten anschliessend vernichten.
+3 Der Zinssatz, den der Netzbetreiber gegenüber dem Endverbraucher anwenden muss, entspricht:
+
+  - a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz nach Anhang 1;
+
+  - b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz nach Anhang 1.

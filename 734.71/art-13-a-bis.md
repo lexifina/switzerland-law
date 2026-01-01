@@ -1,7 +1,5 @@
-# Art. 13abis Anrechenbare Kosten von Mess-, Steuer- und Regelsystemen
+# Art. 13abis Anrechenbare Kosten von Steuer- und Regelsystemen
 
-Als anrechenbare Kosten gelten:
+1 Als anrechenbare Kosten gelten die Kapital- und Betriebskosten von Steuer- und Regelsystemen, die für die netzdienliche Nutzung der Flexibilität nach Artikel 19a eingesetzt werden, einschliesslich der ausgerichteten Vergütung.
 
-  - a. die Kapital- und Betriebskosten von Messsystemen nach dieser Verordnung;
-
-  - b. die Kapital- und Betriebskosten von Steuer- und Regelsystemen, die im Sinn von Artikel 8c eingesetzt werden, einschliesslich der ausgerichteten Vergütung (Art. 8c Abs. 1 Bst. c).
+2 Die Netzbetreiber legen transparente und diskriminierungsfreie Richtlinien zu den Bestandteilen intelligenter Steuer- und Regelsysteme fest, insbesondere zu den installationstechnischen Vorbereitungen.

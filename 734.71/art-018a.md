@@ -1,11 +1,19 @@
-# Art. 18a Deckungsdifferenzen im Bereich der Netzkosten
+# Art. 18a Netznutzungstarife der Niederspannungsebene
 
-1 Stimmt die Summe des Netznutzungsentgelts, das der Netzbetreiber während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Netzkosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
+1 Auf der Niederspannungsebene gelten die folgenden Grundsätze für die Bildung der Kundengruppen:
 
-2 In begründeten Fällen kann die ElCom den Zeitraum zum Ausgleich einer Deckungsdifferenz verlängern.
+  - a. Endverbraucher in ganzjährig genutzten Liegenschaften mit einem Jahresverbrauch unter 50 MWh gehören der Basiskundengruppe an.
 
-3 Der Zinssatz, den der Netzbetreiber gegenüber dem Endverbraucher anwenden muss, entspricht:
+  - b. Endverbraucher in ganzjährig genutzten Liegenschaften mit einem Jahresverbrauch unter 50 MWh, die noch nicht mit einem intelligenten Messsystem ausgestattet sind, bilden zusammen eine eigene Kundengruppe.
 
-  - a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz gemäss Anhang 1;
+2 Für die Festlegung des Standardtarifs der Basiskundengruppe können die Netzbetreiber unter den drei folgenden Modellen für Netznutzungstarife wählen:
 
-  - b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz gemäss Anhang 1.
+  - a. Tarife mit einer nichtdegressiven Arbeitskomponente (Rp./kWh) von mindestens 70 Prozent;
+
+  - b. dynamische Tarife;
+
+  - c. Tarife mit einer nichtdegressiven Arbeitskomponente (Rp./kWh) von mindestens 50 Prozent und einer variablen Leistungskomponente (Rp./kW), deren Höhe sich nach den Netzlasten richtet und mindestens vier verschiedene Werte pro Tag aufweist.
+
+3 Die Höhe der variablen Leistungskomponente nach Absatz 2 Buchstabe c muss sich an Zeitfenstern orientieren, die unter Abschätzung der zu erwartenden Netzlasten für das gesamte Tarifjahr festgelegt werden.
+
+4 Bei Endverbrauchern nach Absatz 1 Buchstabe b müssen sämtliche Tarife eine nichtdegressive Arbeitskomponente (Rp./kWh) von mindestens 70 Prozent enthalten.
