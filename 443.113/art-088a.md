@@ -1,6 +1,6 @@
 # Art. 88a Datenbereinigung
 
-1 Sind die Personen, die an einem Film in einer Funktion nach Artikel 72 Gutschriften erhalten könnten, unbekannt oder können Mitteilungen nicht zugestellt werden, veröffentlicht das BAK den Filmtitel auf seiner Homepage und ruft die berechtigten Personen auf, sich innert 10 Tagen anzumelden.
+1 Sind die Personen, die an einem Film in einer Funktion nach Artikel 72 Gutschriften erhalten könnten, unbekannt oder können Mitteilungen nicht zugestellt werden, veröffentlicht das BAK den Filmtitel auf seiner Website und ruft die berechtigten Personen auf, sich innert 10 Tagen anzumelden.
 
 2 Für Funktionen, für die sich keine berechtigten Personen anmelden, und für berechtigte Personen, denen Mitteilungen nicht zugestellt werden können, werden keine Gutschriften berechnet.
 
