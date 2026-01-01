@@ -6,13 +6,13 @@
 
   - Kriterien | Punkte
 
-  - Relevanz, europäische Dimension und Mehrwert | 30
+  - Relevanz, europäische Dimension, Qualität der Partnerschaften, Nachhaltigkeit und Diversität | 35
 
   - Inhaltliche Qualität (Methodik, Format, Zielgruppe, Filmauswahl, pädagogische Mittel), Durchführbarkeit, Effizienz, Innovation | 40
 
-  - Verbreitung der Projektergebnisse, Wirkung und Nachhaltigkeit | 20
+  - Verbreitung und Wirkung der Projektergebnisse, Qualität der Strategie zur Datengewinnung | 15
 
-  - Qualität des Teams und der Partnerschaften | 10
+  - Qualität des Teams | 10.
 
 3 Förderbar sind Projekte, die mindestens 70 Punkte erreichen.
 
