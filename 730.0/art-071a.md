@@ -1,6 +1,6 @@
-# Art. 71a Übergangsbestimmungen zur Änderung vom 30. September 2022 (Produktion von zusätzlicher Elektrizität aus Photovoltaik-Grossanlagen)
+# Art. 71a Übergangsbestimmungen zur Produktion von zusätzlicher Elektrizität aus Photovoltaik-Grossanlagen
 
-1 Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine jährliche Gesamtproduktion von maximal 2 TWh erlaubt, gilt für solche Anlagen, sowie für ihre Anschlussleitungen, dass:
+1 Für Photovoltaik-Grossanlagen nach Absatz 2, ihre Anschlussleitungen und die erforderlichen Netzverstärkungen gilt, sofern bis zum 31. Dezember 2025 das Baugesuch öffentlich aufgelegt wurde und schweizweit eine jährliche Gesamtproduktion von 2 TWh aus solchen rechtskräftig bewilligten Anlagen voraussichtlich noch nicht erreicht wird, dass:
 
   - a. ihr Bedarf ausgewiesen ist;
 
@@ -22,12 +22,10 @@
 
   - a. die jährliche Mindestproduktion beträgt 10 GWh; und
 
-  - b. die Stromproduktion vom 1. Oktober−31. März (Winterhalbjahr) beträgt mindestens 500 kWh pro 1 kW installierter Leistung.
+  - b. die Stromproduktion vom 1. Oktober–31. März (Winterhalbjahr) beträgt mindestens 500 kWh pro 1 kW installierter Leistung.
 
-3 Die Bewilligung für Photovoltaik-Grossanlagen wird durch den Kanton erteilt, wobei die Zustimmung der Standortgemeinde und der Grundeigentümer vorliegen muss.
+3 Die Bewilligung für Photovoltaik- Grossanlagen wird durch den Kanton erteilt, wobei die Zustimmung der Standortgemeinde und der Grundeigentümer vorliegen muss.
 
-4 Anlagen, die bis zum 31. Dezember 2025 mindestens teilweise Elektrizität ins Stromnetz einspeisen, erhalten vom Bund eine Einmalvergütung in der Höhe von maximal 60 Prozent der Investitionskosten. Der Bundesrat legt die Ansätze im Einzelfall fest; die Betreiber reichen dazu eine Wirtschaftlichkeitsrechnung ein. Netzverstärkungen, die notwendig werden zur Einspeisung von Elektrizität der Anlagen, sind Teil der Systemdienstleistungen der nationalen Netzgesellschaft.
+4 Die Anlagen erhalten vom Bund eine Einmalvergütung in der Höhe von maximal 60 Prozent der Investitionskosten. Der Bundesrat legt die Ansätze im Einzelfall fest; die Betreiber reichen dazu eine Wirtschaftlichkeitsrechnung ein. Netzverstärkungen, die notwendig werden zur Einspeisung von Elektrizität der Anlagen, sind Teil der Systemdienstleistungen der nationalen Netzgesellschaft.
 
 5 Die Anlagen werden bei endgültiger Ausserbetriebnahme vollständig zurückgebaut und die Ausgangslage wiederhergestellt.
-
-6 Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
