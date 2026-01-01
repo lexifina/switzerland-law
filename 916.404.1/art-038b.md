@@ -1,6 +1,6 @@
-# Art. 38b Zugriff über die TVD-, die Identifikations- oder die Mikrochipnummer
+# Art. 38b Zugriff über die TVD-, die BUR-, die Identifikations- oder die Mikrochipnummer
 
-1 Wer über die TVD-Nummer einer Tierhaltung verfügt, kann ohne Einwilligung der betroffenen Person in die folgenden Daten zu dieser Tierhaltung Einsicht nehmen und sie verwenden:
+1 Wer über die TVD- oder BUR-Nummer einer Tierhaltung verfügt, kann ohne Einwilligung der betroffenen Person in die folgenden Daten zu dieser Tierhaltung Einsicht nehmen und sie verwenden:
 
   - a. bei landwirtschaftlichen Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998 (LBV): die Gebietszugehörigkeit;
 
@@ -18,6 +18,6 @@
 
   - d. bei Tieren der Schaf- und der Ziegengattung: den Tiergeschichtenstatus und das Geburtsdatum;
 
-  - e. bei Equiden: den Verwendungszweck nach Artikel 15 TAMV.
+  - e. bei Equiden: das Geburtsdatum sowie den Verwendungszweck nach Artikel 15 TAMV.
 
-3 Personen, die in die Daten Einsicht nehmen und sie verwenden wollen, beschaffen die TVD-Nummern von Tierhaltungen sowie die Identifikationsnummern und Mikrochipnummern von Tieren selber
+3 Personen, die in die Daten Einsicht nehmen und sie verwenden wollen, beschaffen die TVD- und die BUR-Nummern von Tierhaltungen sowie die Identifikationsnummern und Mikrochipnummern von Tieren selber.
