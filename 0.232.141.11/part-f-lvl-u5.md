@@ -4,7 +4,7 @@
 
   - a) Auf Antrag des Anmelders kann ein in der internationalen Anmeldung oder in einem anderen vom Anmelder eingereichten Schriftstücken enthaltener offensichtlicher Fehler nach dieser Regel berichtigt werden.
 
-  - b) Die Berichtigung eines Fehlers bedarf der Zustimmung der «zuständigen Behörde», nämlich
+  - b) Die Berichtigung eines Fehlers bedarf der Zustimmung der «zuständigen Behörde», nämlich:
 
     - i) im Falle eines Fehlers im Antragsformblatt der internationalen Anmeldung oder in einer Berichtigung desselben – des Anmeldeamts,
 

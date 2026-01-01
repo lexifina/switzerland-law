@@ -2,7 +2,7 @@
 
 90.1 Bestellung als Anwalt
 
-  - a) Eine Person, die befugt ist, vor dem nationalen Amt, bei dem die internationale Anmeldung eingereicht wird, oder, wenn die internationale Anmeldung beim Internationalen Büro eingereicht wird, in bezug auf die internationale Anmeldung vor dem Internationalen Büro als Anmeldeamt aufzutreten, kann vom Anmelder als Anwalt zu seiner Vertretung vor dem Anmeldeamt, dem Internationalen Büro, der Internationalen Recherchenbehörde, einer für die ergänzende Recherche bestimmten Behörde und der mit der internationalen
+  - a) Eine Person, die befugt ist, vor dem nationalen Amt, bei dem die internationale Anmeldung eingereicht wird, oder, wenn die internationale Anmeldung beim Internationalen Büro eingereicht wird, in bezug auf die internationale Anmeldung vor dem Internationalen Büro als Anmeldeamt aufzutreten, kann vom Anmelder als Anwalt zu seiner Vertretung vor dem Anmeldeamt, dem Internationalen Büro, der Internationalen Recherchenbehörde, einer für die ergänzende Recherche bestimmten Behörde und der mit der internationalen vorläufigen Prüfung beauftragten Behörde bestellt werden.
 
   - b) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als Internationale Recherchenbehörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
 
