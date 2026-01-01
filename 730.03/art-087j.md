@@ -2,6 +2,6 @@
 
 Der Investitionsbeitrag wird in zwei Tranchen ausbezahlt:
 
-  - a. 50 Prozent des nach Artikel 87g aktualisierten Höchstbetrags: bei Baubeginn;
+  - a. 50 Prozent des Höchstbetrags nach Artikel 87e Buchstabe b: bei Baubeginn;
 
   - b. Differenz des Betrags nach Buchstabe a zum definitiven Investitionsbeitrag: nach Eintritt der Rechtskraft der definitiven Festsetzung des Investitionsbeitrags.

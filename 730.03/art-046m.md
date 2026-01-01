@@ -8,4 +8,4 @@
 
   - b. eine Auflistung der anrechenbaren und der nicht anrechenbaren Investitionskosten.
 
-3 Wird bis zum 31. Dezember 2030 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so ist die Bauabschlussmeldung für diesen Teil der Anlage bis zum 31. Dezember 2031 einzureichen.
+3 Wird innerhalb der Inbetriebnahmefrist nach Artikel 46k Absatz 1 nur ein Teil der ursprünglich geplanten Anlage in Betrieb genommen, so ist die Bauabschlussmeldung für diesen Teil der Anlage einzureichen.

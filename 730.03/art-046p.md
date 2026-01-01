@@ -4,7 +4,7 @@
 
   - a. Höhe der definitiven ungedeckten Kosten (Abs. 2);
 
-  - b. 60 Prozent der voraussichtlichen anrechenbaren Investitionskosten (Art. 46j Bst. b); oder
+  - b. Höchstbetrag nach Artikel 46j Absatz 1;
 
   - c. 60 Prozent der definitiven anrechenbaren Investitionskosten.
 

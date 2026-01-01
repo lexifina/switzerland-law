@@ -10,4 +10,6 @@
 
 5 Reicht der Betreiber die Inbetriebnahmemeldung oder andere für die Auszahlungen nach Absatz 1 oder 2 notwendige Informationen nicht vollständig und fristgerecht ein, so besteht kein Anspruch auf Vergütung, bis diese Informationen vorliegen.
 
+5bis Reicht der Betreiber die Baukostenabrechnung nach Artikel 30cquinquies Absatz 5 nicht vollständig und fristgerecht ein, so wird der Winterstrombonus bis zum Vorliegen der Baukostenabrechnung nicht ausbezahlt.
+
 6 Speist eine Anlage weniger Elektrizität ins Netz ein, als der Anteil der Produktion ausmachen würde, der mit der gleitenden Marktprämie vergütet wird, so vergütet die zuständige Behörde die gleitende Marktprämie nur für die tatsächlich eingespeiste Elektrizität.

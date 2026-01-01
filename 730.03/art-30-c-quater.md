@@ -11,3 +11,5 @@
   - c. innerhalb des ausgeschriebenen Auktionsvolumens Platz finden.
 
 3 Unterschreitet die gesamte Leistung der Gebote, die die Teilnahmevoraussetzungen erfüllen, das ausgeschriebene Auktionsvolumen, so wird das Auktionsvolumen nachträglich automatisch auf 90 Prozent dieser angebotenen Leistung gekürzt.
+
+4 Wird für eine Anlage ein Winterstrombonus beantragt, ist mit dem Gebot eine Simulation der voraussichtlichen Stromproduktion der Anlage einzureichen, die aufzeigt, dass die Voraussetzungen für die Gewährung des Winterstrombonus voraussichtlich erfüllt werden.
