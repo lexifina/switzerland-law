@@ -8,10 +8,10 @@
 
   - c. ihren Pflichten nach den Artikeln 19 und 24 des Filmgesetzes nachkommen.
 
-2 Von der Förderung nach Artikel 14b Absatz 1 Buchstabe a ausgeschlossen sind Filme, deren Verleih oder Vertrieb bereits nach Artikel 7 gefördert wird.
+2 …
 
 3 Von der Förderung nach Artikel 14b Absatz 1 Buchstabe c ausgeschlossen sind:
 
   - a. Vorführunternehmen mit mehr als 25 Sälen; wirtschaftlich miteinander verbundene Unternehmen oder Säle gelten als ein Unternehmen;
 
-  - b. Säle, die zum Förderungsprogramm «Europas Cinemas» des Europarats zugelassen sind.
+  - b. Säle, die zum Förderungsprogramm «Europa Cinemas» des Europarats zugelassen sind.
