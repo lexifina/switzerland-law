@@ -2,7 +2,7 @@
 
 1 Bei Schweizer Wein muss anstelle der Sachbezeichnung «Wein» die Bezeichnung der Klasse verwendet werden, der er gemäss Artikel 63 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998 angehört.
 
-2 Auf der Etikette von Schweizer Wein der Klasse «Wein mit kontrollierter Ursprungsbezeichnung» muss zusätzlich der jeweilige geografische Ursprung angegeben werden.
+2 Auf der Etikette von Schweizer Wein der Klasse «Wein mit kontrollierter Ursprungsbezeichnung» muss zusätzlich der jeweilige geografische Ursprung angegeben werden. Die Bezeichnung «Wein mit kontrollierter Ursprungsbezeichnung» kann mit «KUB/AOC» abgekürzt werden.
 
 3 Auf der Etikette von Schweizer Wein der Klasse «Landwein» muss zusätzlich die jeweilige Herkunftsangabe aufgeführt werden.
 

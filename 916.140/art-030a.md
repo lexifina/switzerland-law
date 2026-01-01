@@ -1,6 +1,6 @@
 # Art. 30a Überwachung der Eigenkontrolle durch die Kantone
 
-1 Die Kantone überwachen die Eigenkontrolle der Einkellerinnen und Einkellerer während der Weinlese. Jeder Einkellerungsbetrieb wird mindestens alle sechs Jahre kontrolliert.
+1 Die Kantone überwachen die Eigenkontrolle der Einkellerinnen und Einkellerer ab dem Beginn der Weinlese bis zur Erstellung des Kellerblatts nach Absatz 4. Jeder Einkellerungsbetrieb wird mindestens alle sechs Jahre kontrolliert.
 
 2 Die Kantone nehmen die Überwachung der Eigenkontrolle durch die Einkellerin oder den Einkellerer entsprechend den möglichen Risiken vor. Dabei berücksichtigen sie insbesondere:
 
