@@ -2,7 +2,7 @@
 
 64.1 Stand der Technik
 
-  - a) Für die Anwendung des Artikels 33 Absätze 2 und 3 wird alles, was der Öffentlichkeit irgendwo in der Welt durch schriftliche Offenbarung (unter Einschluss von Zeichnungen und anderen Darstellungen) vor dem massgeblichen Zeitpunkt zugänglich war, zum Stand der Technik gerechnet.
+  - a) Für die Anwendung des Artikels 33 Absätze 2 und 3 wird alles, was der Öffentlichkeit irgendwo in der Welt auf jedwede Art und Weise vor dem massgeblichen Zeitpunkt zugänglich war, zum Stand der Technik gerechnet.
 
   - b) Für die Anwendung des Absatzes a ist massgeblicher Zeitpunkt:
 
@@ -14,7 +14,7 @@
 
 64.2 Nicht-schriftliche Offenbarungen
 
-Sind der Öffentlichkeit vor dem nach Regel 64.1 Absatz b massgeblichen Zeitpunkt Kenntnisse durch mündliche Offenbarung, Benutzung, Ausstellung oder auf andere nicht‑schriftliche Weise zugänglich gemacht worden («nicht‑schriftliche Offenbarung») und ist das Datum einer solchen Offenbarung in einer schriftlichen Offenbarung enthalten, die der Öffentlichkeit zu diesem oder einem späteren Zeitpunkt zugänglich gemacht worden ist, so wird die nicht-schriftliche Offenbarung nicht zum Stand der Technik nach Artikel 33 Absätze 2 und 3 gerechnet. Im internationalen vorläufigen Prüfungsbericht wird jedoch auf solche nicht‑schriftliche Offenbarungen nach Regel 70.9 hingewiesen.
+Sind der Öffentlichkeit vor dem nach Regel 64.1 Absatz b massgeblichen Zeitpunkt Kenntnisse durch mündliche Offenbarung, Benutzung, Ausstellung oder auf andere nicht schriftliche Weise zugänglich gemacht worden («nicht-schriftliche Offenbarung») und ist das Datum einer solchen Offenbarung in einer schriftlichen Offenbarung enthalten, die der Öffentlichkeit zu diesem oder einem späteren Zeitpunkt zugänglich gemacht worden ist, so wird im internationalen vorläufigen Prüfungsbericht auf solche nicht-schriftliche Offenbarungen nach Regel 70.9 hingewiesen.
 
 64.3 Bestimmte veröffentlichte Unterlagen
 

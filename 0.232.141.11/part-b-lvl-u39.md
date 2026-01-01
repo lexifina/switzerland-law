@@ -2,7 +2,7 @@
 
 33.1 Einschlägiger Stand der Technik für die internationale Recherche
 
-  - a) Für die Zwecke des Artikels 15 Absatz 2 ist unter dem einschlägigen Stand der Technik alles zu verstehen, was der Öffentlichkeit irgendwo in der Welt mittels schriftlicher Offenbarung (unter Einschluss von Zeichnungen und anderen Darstellungen) zugänglich gemacht worden ist und was für die Feststellung bedeutsam ist, ob die beanspruchte Erfindung neu oder nicht neu ist und ob sie auf einer erfinderischen Leistung beruht oder nicht (d.h. ob sie offensichtlich ist oder nicht), vorausgesetzt, dass der Zeitpunkt, zu dem es der Öffentlichkeit zugänglich gemacht wurde, vor dem internationalen Anmeldedatum liegt.
+  - a) Für die Zwecke des Artikels 15 Absatz 2 ist unter dem einschlägigen Stand der Technik alles zu verstehen, was der Öffentlichkeit irgendwo in der Welt auf jedwede Art und Weise zugänglich gemacht worden ist, die für die Fest-stellung bedeutsam ist, ob die beanspruchte Erfindung neu oder nicht neu ist und ob sie auf einer erfinderischen Leistung beruht oder nicht (d. h. ob sie offensichtlich ist oder nicht), vorausgesetzt, dass der Zeitpunkt, zu dem es der Öffentlichkeit zugänglich gemacht wurde, vor dem internationalen Anmelde-datum liegt.
 
   - b) Verweist eine schriftliche Offenbarung auf eine mündliche Offenbarung, Benutzung, Ausstellung oder andere Massnahmen, durch die der Inhalt der schriftlichen Offenbarung der Öffentlichkeit vor dem internationalen Anmeldedatum zugänglich gemacht worden ist, so werden im internationalen Recherchenbericht diese Tatsache und der Zeitpunkt der Zugänglichkeit gesondert erwähnt, sofern die schriftliche Offenbarung der Öffentlichkeit erst an oder nach dem internationalen Anmeldedatum zugänglich war.
 
