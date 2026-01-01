@@ -14,6 +14,6 @@
 
   - e. die Kosten für die besuchten arbeitsmarktlichen Massnahmen.
 
-3 Die Ausgleichsstelle der Arbeitslosenversicherung übermittelt dem Bundesamt für Sozialversicherungen eine Kopie der Abrechnung.
+3 Die Ausgleichsstelle der Arbeitslosenversicherung übermittelt dem BSV eine Kopie der Abrechnung.
 
 4 Die Zentrale Ausgleichsstelle der AHV prüft die Abrechnung und vergütet die Leistungen nach Artikel 94a AVIG.

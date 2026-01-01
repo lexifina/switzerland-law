@@ -1,6 +1,6 @@
 # Art. 122b Vereinbarung mit den Trägern der Arbeitslosenkassen
 
-1 Die Vereinbarung nach Artikel 92 Absatz 6 AVIG regelt die Zusammenarbeit zwischen dem Bund und dem Träger der Kasse beim Vollzug von Artikel 81 AVIG. Sie gibt dem Träger leistungsorientierte Anreize für einen effizienten Vollzug. Sie regelt insbesondere:
+1 Die Vereinbarung nach Artikel 92 Absatz 6 AVIG regelt die Zusammenarbeit zwischen dem Bund und dem Träger der Arbeitslosenkasse beim Vollzug von Artikel 81 AVIG. Sie gibt dem Träger leistungsorientierte Anreize für einen effizienten Vollzug. Sie regelt insbesondere:
 
   - a. die Umsetzung der Ziele des AVIG-Vollzuges;
 
@@ -16,7 +16,7 @@
 
   - g. die Dauer der Vereinbarung und die Kündigung.
 
-2 Das WBF kann die Ausarbeitung der Vereinbarung sowie die Evaluation der erreichten Wirkungen einer durch die Ausgleichsstelle geleiteten Kommission übertragen, in welcher die Kassen vertreten sind.
+2 Das WBF kann die Ausarbeitung der Vereinbarung sowie die Evaluation der erreichten Wirkungen einer durch die Ausgleichsstelle geleiteten Kommission übertragen, in welcher die Arbeitslosenkassen vertreten sind.
 
 3 Hat ein Träger für ein Kalenderjahr die Vereinbarung nicht unterzeichnet, so wird die Vergütung seiner anrechenbaren Kosten auf Grund der erzielten Leistung festgelegt. Die Bemessung der Leistungsindikatoren erfolgt analog der Leistungsvereinbarung nach Artikel 92 Absatz 6 AVIG, die das WBF mit den anderen Kassenträgern abgeschlossen hat. Befindet sich die Leistung einer Arbeitslosenkasse innerhalb der neutralen Zone oder in der Bonuszone, so werden dem Träger 100 Prozent der anrechenbaren Kosten nach der Verordnung vom 12. Februar 1986 über die Verwaltungskostenentschädigung der Arbeitslosenkassen entschädigt. Befindet sich die Leistung in der Maluszone, so wird die Malusregelung der Leistungsvereinbarung angewendet, die mit den anderen Trägern abgeschlossen wurde.
 
