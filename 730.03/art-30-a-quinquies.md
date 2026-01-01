@@ -13,3 +13,5 @@
   - a. für Wasserkraftanlagen: 5 Prozent;
 
   - b. für Biomasse- und Windenergieanlagen: 10 Prozent.
+
+6 Kommt bei einer Wasserkraftanlage, die sich im System der gleitenden Marktprämie befindet, die Minimalvergütung nach Artikel 15 Absatz 1bis EnG zum Tragen, so gilt für diese Zeit die massgebende Minimalvergütung nach Artikel 12 Absatz 1bis Buchstabe d EnV als Referenz-Marktpreis.
