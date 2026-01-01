@@ -4,4 +4,4 @@
 
 2 Die zweite Rate wird ausbezahlt, nachdem die Projektabrechnung und ein kurzer Projektbericht über den Stand und das weitere Vorgehen vorgelegt wurden.
 
-3 Wird die Projektabrechnung nicht innerhalb von 18 Monaten nach Auszahlung der ersten Rate vorgelegt, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.
+3 Wird die Projektabrechnung nicht innerhalb von 24 Monaten nach Auszahlung der ersten Rate vorgelegt, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.

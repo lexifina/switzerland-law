@@ -10,4 +10,4 @@ Anrechenbar sind die voraussichtlichen Kosten der Koentwicklung ab Gesuchseinrei
 
   - d. Produzentenhonorar und Reisespesen im Umfang von höchstens 15 Prozent des Budgets;
 
-  - e. höchstens 7 Prozent der Handlungsunkosten, sofern die entsprechenden Aufwendungen nicht separat budgetiert sind.
+  - e. höchstens 7,5 Prozent der Handlungsunkosten, sofern die entsprechenden Aufwendungen nicht separat budgetiert sind.
