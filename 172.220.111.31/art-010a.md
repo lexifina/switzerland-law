@@ -1,9 +1,9 @@
-# Art. 10a Lohn für Hochschulpraktikanten und -praktikantinnen
+# Art. 10a Lohn für Hochschulpraktikantinnen und -praktikanten
 
-Der Jahreslohn für Hochschulpraktikanten und -praktikantinnen beträgt für:
+Der Jahreslohn für Hochschulpraktikantinnen und -praktikanten beträgt für:
 
-  - a. Studierende ohne Abschluss: 32 021 Franken;
+  - a. Studierende ohne Abschluss: 34 500 Franken;
 
-  - b. Absolventen und Absolventinnen mit einem Bachelorabschluss: 44 830 Franken;
+  - b. Absolventinnen und Absolventen mit einem Bachelorabschluss: 48 240 Franken;
 
-  - c. Absolventen und Absolventinnen mit einem Masterabschluss: 50 168 Franken.
+  - c. Absolventinnen und Absolventen mit einem Masterabschluss: 54 000 Franken.
