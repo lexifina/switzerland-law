@@ -1,4 +1,4 @@
-# Art. 19a Überschreiten des Höchstsatzes der Reserven
+# Art. 19a Reserven des SNF
 
 1 Der SNF darf in einem Kalenderjahr (Rechnungsjahr n) den Höchstsatz von 15 Prozent des vom Parlament bewilligten Bundesbeitrags für den SNF ausnahmsweise überschreiten, wenn:
 

@@ -1,4 +1,4 @@
-# Art. 41a
+# Art. 41a Datenbekanntgabe durch Forschungsförderungsinstitutionen
 
 1 Die Forschungsförderungsinstitutionen können den arbeitgebenden Institutionen für Kontroll- und Vollzugszwecke Daten aus den eingegangenen Beitragsgesuchen und den Förderentscheiden durch ein Abrufverfahren zugänglich machen.
 
