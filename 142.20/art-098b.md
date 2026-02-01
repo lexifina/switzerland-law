@@ -4,13 +4,15 @@
 
   - a. die Vereinbarung von Terminen im Hinblick auf die Visumerteilung;
 
-  - b. den Empfang von Dokumenten (Visumgesuchsformular, Pass, Belege);
+  - b. den Empfang von Dokumenten (Visumgesuchsformular, Reisedokument, Belege);
+
+  - bbis. die Prüfung der Echtheit, Integrität und Gültigkeit des Reisedokuments und die Überprüfung der Qualität und Richtigkeit der vorgelegten Dokumente;
 
   - c. die Erhebung von Gebühren;
 
-  - d. das Erfassen biometrischer Daten im Rahmen des zentralen Visa-Informationssystems;
+  - d. das Erfassen biometrischer Daten;
 
-  - e. die Rücksendung des Passes an die Inhaberin oder den Inhaber am Ende des Verfahrens.
+  - e. die Rücksendung des Reisedokuments an die Inhaberin oder den Inhaber am Ende des Verfahrens.
 
 2 Das EDA und das SEM sorgen dafür, dass die Vorschriften über Datenschutz und ‑sicherheit von den beauftragten Dritten eingehalten werden.
 
