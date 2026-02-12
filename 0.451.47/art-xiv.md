@@ -2,7 +2,7 @@
 
 1. Dieses Abkommen tritt am ersten Tag des dritten Monats nach dem Zeitpunkt in Kraft, zu dem mindestens vierzehn Arealstaaten oder Organisationen der regionalen Wirtschaftsintegration, die mindestens sieben aus Afrika und sieben aus Eurasien einschliessen, es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnet oder nach Artikel XIII ihre Ratifikations-, Annahme- oder Genehmigungsurkunde hinterlegt haben.
 
-2. Für einen Arealstaat oder eine Organisation der regionalen Wirtschaftsintegration, die nach dem Zeitpunkt, zu dem die für das Inkrafttreten erforderliche Zahl von Arealstaaten und Organisationen der Wirtschaftsintegration das Abkommen ohne Vorbehalt unterzeichnet oder es gegebenenfalls ratifiziert, angenommen oder genehmigt haben,
+2. Für einen Arealstaat oder eine Organisation der regionalen Wirtschaftsintegration, die nach dem Zeitpunkt, zu dem die für das Inkrafttreten erforderliche Zahl von Arealstaaten und Organisationen der Wirtschaftsintegration das Abkommen ohne Vorbehalt unterzeichnet oder es gegebenenfalls ratifiziert, angenommen oder genehmigt haben:
 
   - (a) dieses Abkommen ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen,
 

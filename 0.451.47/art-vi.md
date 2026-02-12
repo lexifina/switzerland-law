@@ -38,7 +38,7 @@
 
   - (f) Zeit und Ort der nächsten Tagung bestimmen.
 
-9. Auf jeder Tagung kann die Versammlung der Vertragsparteien
+9. Auf jeder Tagung kann die Versammlung der Vertragsparteien:
 
   - (a) den Vertragsparteien für notwendig und zweckdienlich erachtete Empfehlungen unterbreiten;
 
