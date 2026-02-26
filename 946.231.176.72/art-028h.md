@@ -1,0 +1,3 @@
+# Art. 28h Verbot der Rückversicherung gebrauchter russischer Schiffe und Luftfahrzeuge
+
+Es ist verboten, während fünf Jahren nach dem Verkauf oder jeder Art von Vermietung von Schiffen oder Luftfahrzeugen, die von der Regierung der Russischen Föderation oder von juristischen Personen, Unternehmen oder Organisationen in der Russischen Föderation betrieben wurden, Verträge oder Vereinbarungen, durch welche Risiken im Zusammenhang mit der Versicherungsdeckung dieser Schiffe oder Luftfahrzeuge übernommen, übertragen oder abgetreten werden, bereitzustellen, zu zeichnen oder anderweitig einzugehen.

@@ -22,7 +22,15 @@
 
   - c. die ausschliessliche Nutzung durch die Schweiz zur Erfüllung von Unterhaltungsverpflichtungen in Gebieten, für die ein langfristiger Mietvertrag zwischen der Schweiz und der Russischen Föderation besteht; oder
 
-  - d. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
+  - d. folgende Tätigkeiten:
+
+    - 1. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit,
+
+    - 2. die Weiterführung der Planung, des Baus und der Abnahmetests für die Indienststellung ziviler Atomanlagen,
+
+    - 3. die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung,
+
+    - 4. die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.
 
 5 Es kann Ausnahmen von den Verboten nach den Absätzen 1–2 bewilligen für:
 
@@ -40,7 +48,7 @@
 
   - g. Güter der Zolltarifnummer 2920, 3917 10 und 3920 62, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind;
 
-  - h. Güter der Zolltarifnummern 7007 19, 7615, 8414 60 und 8422 30, falls diese von natürlichen Personen im Haushalt verwendet werden;
+  - h. Güter der Zolltarifnummern 7007 19 80, 7615 10, 8414 60, 8422 30 und 8423 10, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
   - i. Güter der Zolltarifnummern 9026, 9027 und 9031, falls deren Einfuhr aus der Russischen Föderation nach Artikel 14c Absatz 6 Buchstabe c bewilligt worden ist;
 

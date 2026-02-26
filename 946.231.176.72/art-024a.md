@@ -4,7 +4,7 @@
 
   - a. Banken, Unternehmen oder Organisationen mit Sitz in der Russischen Föderation gemäss Anhang 15;
 
-  - b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, an denen Banken, Unternehmen oder Organisationen nach Buchstabe a zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind;
+  - b. Banken, Unternehmen oder Organisationen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaates, an denen Banken, Unternehmen oder Organisationen nach Buchstabe a zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt sind;
 
   - c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.
 
@@ -14,11 +14,11 @@
 
   - b. juristischen Personen, Organisationen oder Einrichtungen mit Sitz in der Russischen Föderation, die sich unter öffentlicher Kontrolle oder zu über 50 Prozent in öffentlichem Eigentum befinden, bei denen die Russische Föderation und ihre Regierung oder ihre Zentralbank das Recht auf Gewinnbeteiligung haben oder mit denen die Russische Föderation und ihre Regierung oder ihre Zentralbank andere wesentliche wirtschaftliche Beziehungen unterhalten;
 
-  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, an denen eine juristische Person, Organisation oder Einrichtung nach Buchstabe b zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt ist;
+  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaates, an denen eine juristische Person, Organisation oder Einrichtung nach Buchstabe b zu über fünfzig Prozent unmittelbar oder mittelbar beteiligt ist;
 
   - d. juristischen Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung einer juristischen Person, Organisation oder Einrichtung nach Buchstabe b oder c handeln.
 
-2 Sofern kein anderes Verbot vorliegt, gilt das Verbot nach Absatz 1 nicht für:
+2 Das Verbot nach Absatz 1 gilt nicht für:
 
   - a. Transaktionen, die erforderlich sind für den Kauf, die Einfuhr oder den Transport von Erdgas, Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz aus der Russischen Föderation oder durch die Russische Föderation in die Schweiz, einen EWR-Mitgliedstaat, nach Albanien, Bosnien und Herzegowina, in den Kosovo, nach Montenegro, Nordmazedonien oder Serbien;
 
@@ -38,7 +38,19 @@
 
   - g. Transaktionen, die erforderlich sind zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz oder einem EWR-Mitgliedstaat oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz oder einem EWR-Mitgliedstaat;
 
-  - h. …
+  - h. Transaktionen mit den in Anhang 15 unter den SSID-Nummern 175-52773 und 175-52767 genannten Organisationen, sofern:
+
+    - 1. dies erforderlich ist für den Handel, die Vermittlung oder den Transport von Rohöl der Zolltarifnummer 2709 00 und Erdölerzeugnissen der Zolltarifnummer 2710 aus oder mit Ursprung in der Russischen Föderation oder für die Erbringung von technischer Hilfe, technischen Vermittlungsdiensten und Finanzdienstleistungen sowie für die Gewährung von Finanzmitteln im Zusammenhang mit diesen Tätigkeiten, und
+
+    - 2. der Einkaufspreis die Preisobergrenze nach Anhang 28 nicht übersteigt.
+
+2bis Der in Anhang 15 unter der SSID-Nummer 175-52767 genannten Organisation ist es verboten, sich an Transaktionen nach Absatz 2 Buchstaben a und e zu beteiligen, es sei denn:
+
+  - a. die Transaktion betrifft die Durchfuhr von Öl oder raffinierten Erdölerzeugnissen mit Ursprung in einem Drittland, die lediglich in der Russischen Föderation verladen werden, aus der Russischen Föderation abgehen oder durch die Russische Föderation durchgeführt werden; und
+
+  - b. die Güter haben ihren Ursprung nicht in der Russischen Föderation und befinden sich nicht in russischem Eigentum.
+
+2ter Der in Anhang 15 unter der SSID-Nummer 175-52773 genannten Organisation ist es verboten, sich an Transaktionen nach Absatz 2 Buchstaben a, b und e zu beteiligen.
 
 3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 bewilligen, um:
 
@@ -48,9 +60,9 @@
 
 4 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1bis Buchstaben b–d bewilligen, sofern:
 
-  - a. eine juristische Person, Organisation oder Einrichtung ein Joint Venture oder eine ähnliche Rechtsform ist, an dem oder der eine juristische Person, Organisation oder Einrichtung nach Absatz 1bis Buchstabe b, c oder d beteiligt ist und das oder die vor dem 25. Januar 2023 von einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung geschlossen wurde;
+  - a. eine juristische Person, Organisation oder Einrichtung ein Joint Venture oder eine ähnliche Rechtsform ist, an dem oder der eine juristische Person, Organisation oder Einrichtung nach Absatz 1bis Buchstabe b, c oder d beteiligt ist und das oder die vor dem 25. Januar 2023 von einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung geschlossen wurde;
 
-  - b. eine juristische Person, Organisation oder Einrichtung eine juristische Person, Organisation oder Einrichtung nach Absatz 1bis Buchstabe b, c oder d ist, die sich in der Russischen Föderation vor dem 25. Januar 2023 niedergelassen hat und sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet;
+  - b. eine juristische Person, Organisation oder Einrichtung eine juristische Person, Organisation oder Einrichtung nach Absatz 1bis Buchstabe b, c oder d ist, die sich in der Russischen Föderation vor dem 25. Januar 2023 niedergelassen hat und sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet;
 
   - c. es für die Sicherstellung der kritischen Energieversorgung erforderlich ist, eine Funktion nach Absatz 1bis Buchstabe b, c oder d auszuüben;
 

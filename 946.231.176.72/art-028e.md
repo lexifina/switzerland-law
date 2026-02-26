@@ -1,69 +1,85 @@
 # Art. 28e Verbote betreffend Dienstleistungen und Software
 
-1 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Regierung der Russischen Föderation oder für juristische Personen, Unternehmen oder Organisationen, die in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten niedergelassen sind, ist verboten.
+1 Die direkte oder indirekte Erbringung von Dienstleistungen in den folgenden Bereichen für die Regierung der Russischen Föderation oder für juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation ist verboten:
 
-1bis Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Bauwesen, Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Regierung der Russischen Föderation oder für juristische Personen, Unternehmen oder Organisationen, die in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten niedergelassen sind, ist verboten.
+  - a. Rechtsberatung;
 
-1ter Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Markt- und Meinungsforschung, technische physikalische und chemische Untersuchung sowie Werbung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
+  - b. Rechnungswesen, Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung, Steuerberatung und Unternehmens- und Managementberatung, und Öffentlichkeitsarbeit;
 
-1quater Der Verkauf, die Lieferung, die Ausfuhr, der Transport und die Bereitstellung von Software für die Unternehmensführung, für Industriedesign und Fertigung sowie für den Banken- und Finanzsektor gemäss Anhang 32 an die Regierung der Russischen Föderation oder an juristische Personen, Unternehmen oder Organisationen, die in der Russischen Föderation oder den in Anhang 6 bezeichneten Gebieten niedergelassen sind, sowie die Durchfuhr dieser Software durch die Schweiz sind verboten.
+  - c. Bauwesen, Architektur, Ingenieurwesen, integriertes Ingenieurwesen, Stadtplanung, mit Ingenieurdienstleistungen zusammenhängende wissenschaftliche und technische Beratungsdienstleistungen und technische Prüf- und Analysedienste;
 
-1quinquies Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Dienstleistungen oder Software nach den Absätzen 1–1quater oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport oder der Bereitstellung dieser Dienstleistungen oder Software nach oder zur Verwendung in der Russischen Föderation oder den in Anhang 6 bezeichneten Gebieten sind verboten.
+  - d. Werbung, Markt- und Meinungsforschung;
 
-1sexies Die direkte oder indirekte Erbringung von Dienstleistungen im Bereich Rechnungswesen für juristische Personen, Einrichtungen oder Organisationen in den in Anhang 6 bezeichneten Gebieten ist verboten.
+  - e. IT-Beratung.
 
-1septies Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1quater oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an die Regierung der Russischen Föderation, an juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten oder zur Verwendung in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten sind verboten.
+2 Die Verbote nach Absatz 1 Buchstaben a–c und e gelten auch für juristische Personen, Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten.
 
-2 Die Verbote nach den Absätzen 1–1quinquies gelten nicht für:
+3 Die Erbringung von Dienstleistungen in direktem Zusammenhang mit touristischen Aktivitäten in der Russischen Föderation ist verboten.
 
-  - a. Dienstleistungen und Software, die zur ausschliesslichen Nutzung durch in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaats oder dem Recht eines Partners gegründet oder eingetragen sind;
+4 Der Verkauf, die Lieferung, die Ausfuhr, der Transport und die Bereitstellung von Software für die Unternehmensführung, für Industriedesign und Fertigung sowie für den Banken- und Finanzsektor nach Anhang 32 an die Regierung der Russischen Föderation oder an juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten sowie die Durchfuhr dieser Software durch die Schweiz sind verboten.
+
+5 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Dienstleistungen oder Software nach den Absätzen 1, 2 und 4 oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport oder der Bereitstellung dieser Dienstleistungen oder Software nach oder zur Verwendung in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten sind verboten.
+
+6 Der mittelbare oder unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Software nach Absatz 4 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Software an die Regierung der Russischen Föderation, an juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten oder zur Verwendung in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten sind verboten.
+
+7 Die direkte oder indirekte Erbringung in den Absätzen 1 und 3 nicht genannter Dienstleistungen für die Regierung der Russischen Föderation unterliegt einer Bewilligungspflicht. Das SECO erteilt nach Rücksprache mit den zuständigen Stellen des EDA und des EFD die Bewilligung, sofern dies mit den Zielen dieser Verordnung in Einklang steht.
+
+8 Die Verbote nach den Absätzen 1, 2 und 4 gelten nicht für:
+
+  - a. Dienstleistungen und Software, die zur ausschliesslichen Nutzung durch juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaates oder dem Recht eines Partners gegründet oder eingetragen sind;
 
   - b. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen, sofern die Aktivitäten durchgeführt werden durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten.
 
-2bis Die Verbote nach den Absätzen 1 und 1bis gelten nicht für Dienstleistungen, die erforderlich sind:
+9 Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie nach Absatz 8 erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2026 und anschliessend halbjährlich melden. Die Meldungen müssen die Namen der Empfänger sowie Angaben zur Art und zum Wert der betreffenden Dienstleistungen oder Software enthalten.
 
-  - a. zur Wahrnehmung des Rechts auf Verteidigung in Gerichtsverfahren oder des Rechts auf eine wirksame Beschwerde;
+10 Die Verbote nach Absätze 1 Buchstaben a und b sowie 2 gelten nicht für Dienstleistungen, die erforderlich sind für:
 
-  - b. zur Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich oder für die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich.
+  - a. die Wahrnehmung des Rechts auf Verteidigung in Gerichtsverfahren und des Rechts auf eine wirksame Beschwerde;
 
-2ter Die Verbote nach den Absätzen 1bis–1quater gelten nicht für Dienstleistungen und Software, die erforderlich sind:
+  - b. die Gewährleistung des Zugangs zu Gerichts-, Verwaltungs- oder Schiedsverfahren in der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich oder die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz, einem EWR-Mitgliedstaat oder dem Vereinigten Königreich.
 
-  - a. für die Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit;
+11 Die Verbote nach den Absätzen 1 Buchstaben c und f, 2 und 4 gelten nicht für Dienstleistungen und Software, die erforderlich sind für:
 
-  - b. für die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird;
+  - a. die Bekämpfung von Notlagen im Bereich der öffentlichen Gesundheit;
 
-  - c. für die Bewältigung von Naturkatastrophen.
+  - b. die dringende Abwendung oder Eindämmung eines Ereignisses mit voraussichtlich schwerwiegenden und wesentlichen Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt;
 
-2quater …
+  - c. die Bewältigung von Naturkatastrophen.
 
-3 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1–1quinquies bewilligen für Dienstleistungen und Software, die erforderlich sind für:
+12 Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1, 2, 4, und 5 bewilligen für Dienstleistungen und Software, die erforderlich sind für:
 
-  - a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen;
+  - a. humanitäre Zwecke oder Evakuierungen;
 
-  - b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation oder den in Anhang 6 bezeichneten Gebieten;
+  - b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten;
 
-  - c. die amtliche Tätigkeit diplomatischer und konsularischer Vertretungen der Schweiz und ihrer Partner oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, in der Russischen Föderation oder den in Anhang 6 bezeichneten Gebieten;
+  - c. die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, in der Russischen Föderation oder in den in Anhang 6 bezeichneten Gebieten;
 
   - d. die Sicherstellung der Energieversorgung der Schweiz oder eines EWR-Mitgliedstaates bei einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage;
 
-  - e. den Kauf von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz und deren Einfuhr oder Beförderung in die Schweiz oder einen EWR-Mitgliedstaat;
+  - e. den Kauf von Titan, Aluminium, Kupfer, Nickel, Palladium und Eisenerz oder deren Einfuhr oder Transport in die Schweiz oder einen EWR-Mitgliedstaat;
 
-  - f. die Gewährleistung des Betriebs von Infrastrukturen, Hardware und Software, die für die Gesundheit und Sicherheit von Menschen oder die Sicherheit der Umwelt von grundlegender Bedeutung sind;
+  - f. die Gewährleistung des Betriebs von Infrastruktur, Hardware und Software, die für die Gesundheit und Sicherheit von Menschen oder die Sicherheit der Umwelt von grundlegender Bedeutung sind;
 
-  - g. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung;
+  - g. folgende Tätigkeiten:
 
-  - h. die Erbringungen von Dienstleistungen durch Telekommunikationsbetreiber in der Schweiz oder einem EWR-Mitgliedstaat, die erforderlich sind für:
+    - 1. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit,
 
-    - 1. den Betrieb, die Instandhaltung und die Sicherheit, einschliesslich der Cybersicherheit, von elektronischen Kommunikationsdiensten in der Russischen Föderation, der Ukraine, der Schweiz oder einem EWR-Mitgliedstaat, zwischen der Russischen Föderation oder der Ukraine und der Schweiz oder einem EWR-Mitgliedstaat, oder
+    - 2. die Weiterführung der Planung, des Baus und der Abnahmetests für die Indienststellung ziviler Atomanlagen,
+
+    - 3. die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung,
+
+    - 4. die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung;
+
+  - h. die Erbringung von Dienstleistungen durch Telekommunikationsbetreiber in der Schweiz oder einem EWR-Mitgliedstaat, die erforderlich sind für:
+
+    - 1. den Betrieb, die Instandhaltung und die Sicherheit, einschliesslich der Cybersicherheit, von elektronischen Kommunikationsdiensten in der Russischen Föderation, der Ukraine, der Schweiz oder einem EWR-Mitgliedstaat, zwischen der Russischen Föderation oder der Ukraine und der Schweiz oder einem EWR-Mitgliedstaat,
 
     - 2. Rechenzentrumsdienste in der Schweiz oder einem EWR-Mitgliedstaat.
 
-3bis Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1bis bewilligen, sofern die Dienstleistungen für die Tätigkeit einer konsularischen oder diplomatischen Vertretung der Russischen Föderation in der Schweiz oder einem EWR-Mitgliedstaat erforderlich sind.
+13 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 Buchstaben a und b sowie 2 bewilligen für Dienstleistungen, die erforderlich sind für die Errichtung, Zertifizierung oder Bewertung eines Systems nach Artikel 15 Absatz 10.
 
-4 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 1bis bewilligen für Dienstleistungen, die erforderlich sind für die Errichtung, Zertifizierung oder Bewertung eines Systems nach Artikel 15 Absatz 10.
+14 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 Buchstaben a, c und e sowie 2 bewilligen für Dienstleistungen, die erforderlich sind für die Tätigkeit einer konsularischen oder diplomatischen Vertretung der Russischen Föderation in der Schweiz oder einem EWR-Mitgliedstaat.
 
-5 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach Absatz 1quater bewilligen, sofern die Software für den Beitrag russischer Staatsangehöriger in der Russischen Föderation oder ukrainischer Staatsangehöriger in den in Anhang 6 bezeichneten Gebieten zu internationalen Open-Source-Projekten erforderlich ist.
+15 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 Buchstaben g und h sowie 3 bewilligen für Dienstleistungen und Software, die erforderlich sind für den Beitrag russischer Staatsangehöriger in der Russischen Föderation oder ukrainischer Staatsangehöriger in den in Anhang 6 bezeichneten Gebieten zu internationalen Open-Source-Projekten.
 
-6 Juristische Personen, Unternehmen oder Organisationen müssen Dienstleistungen oder Software, die sie gemäss Absatz 2 Buchstabe a erbringen oder bereitstellen, dem SECO bis zum 31. Juli 2024 und anschliessend semesterweise melden.
-
-7 Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Dienstleistungen oder Software enthalten.
+16 Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 1 Buchstabe f bewilligen für Dienstleistungen, die erforderlich sind für die zwischenstaatliche Zusammenarbeit bei Raumfahrtprogrammen.

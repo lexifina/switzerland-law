@@ -1,6 +1,6 @@
 # Art. 12abis Kauf und Einfuhr von Erdölerzeugnissen aus Drittstaaten
 
-1 Der Kauf, die Einfuhr, die Durchfuhr und der Transport in und durch die Schweiz von Erdölerzeugnissen der Zolltarifnummer 2710 sind verboten, wenn diese in einem Drittstaat aus Rohöl der Zolltarifnummer 2709 00 mit Ursprung in der Russischen Föderation gewonnen wurden.
+1 Der Kauf, sofern die Schweiz der Bestimmungsort ist, die Einfuhr, die Durchfuhr und der Transport in und durch die Schweiz von Erdölerzeugnissen der Zolltarifnummer 2710 sind verboten, wenn diese in einem Drittstaat aus Rohöl der Zolltarifnummer 2709 00 mit Ursprung in der Russischen Föderation gewonnen wurden.
 
 2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern, für die das Verbot nach Absatz 1 gilt, sind verboten.
 

@@ -4,7 +4,9 @@
 
   - a. Banken oder Organisationen nach Anhang 15b;
 
-  - b. Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung von Banken oder Organisationen nach Buchstabe a handeln.
+  - b. Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung von Banken oder Organisationen nach Buchstabe a handeln;
+
+  - c. Banken oder Organisationen, die als vergleichbare Organisationen oder Nachfolgeorganisationen der Banken oder Organisationen nach Buchstabe a tätig sind.
 
 2 Das Verbot nach Absatz 1 gilt nicht für Transaktionen, die erforderlich sind:
 

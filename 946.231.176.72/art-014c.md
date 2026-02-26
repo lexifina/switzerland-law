@@ -20,13 +20,13 @@
 
     - 1. die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner in der Russischen Föderation oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder
 
-    - 2. den persönlichen Gebrauch durch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats, natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz verfügen, oder ihre unmittelbaren Familienangehörigen;
+    - 2. den persönlichen Gebrauch durch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaates, natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz verfügen, oder ihre unmittelbaren Familienangehörigen;
 
   - b. die Einfuhr von:
 
     - 1. persönlichen Gegenständen, die für den persönlichen Gebrauch von in die Schweiz einreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sich im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind,
 
-    - 2. Fahrzeugen der Zolltarifnummer 8703, die nicht für den Verkauf bestimmt sind, ausschliesslich zum persönlichen Gebrauch in die Schweiz eingeführt werden und sich im Eigentum von Schweizer Staatsangehörigen oder Staatsangehörigen eines EWR-Mitgliedstaats oder von ihren unmittelbaren Familienangehörigen befinden, die ihren Wohnsitz in der Russischen Föderation haben,
+    - 2. Fahrzeugen der Zolltarifnummer 8703, die nicht für den Verkauf bestimmt sind, ausschliesslich zum persönlichen Gebrauch in die Schweiz eingeführt werden und sich im Eigentum von Schweizer Staatsangehörigen oder Staatsangehörigen eines EWR-Mitgliedstaates oder von ihren unmittelbaren Familienangehörigen befinden, die ihren Wohnsitz in der Russischen Föderation haben,
 
     - 3. Fahrzeugen der Zolltarifnummer 8703, die über ein Diplomatenkennzeichen verfügen und für die Arbeit diplomatischer und konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder für den persönlichen Gebrauch ihres Personals und ihrer unmittelbaren Familienangehörigen erforderlich sind.
 
@@ -44,4 +44,10 @@
 
   - b. für die Wartung, Reparatur oder Rückgabe fehlerhafter Teile in der Schweiz von Gütern der Zolltarifnummern 8471, 8523, 8536 und 9027, die Bestandteile von Medizinprodukten sind und die sich vor dem Geltungsbeginn der Verbote in der Russischen Föderation befanden;
 
-  - c. für Güter der Zolltarifnummern 9026, 9027 und 9031, die der Wartung, Reparatur oder periodischen Zertifizierung primärer oder sekundärer Rohölmessstellen auf der Druschba-Pipeline dienen, sofern dies für die ununterbrochene Versorgung mit Rohöl der Zolltarifnummer 2709 aus der Russischen Föderation über die Druschba-Pipeline in die EU unbedingt erforderlich ist.
+  - c. für Güter der Zolltarifnummern 9026, 9027 und 9031, die der Wartung, Reparatur oder periodischen Zertifizierung primärer oder sekundärer Rohölmessstellen auf der Druschba-Pipeline dienen, sofern dies für die ununterbrochene Versorgung mit Rohöl der Zolltarifnummer 2709 aus der Russischen Föderation über die Druschba-Pipeline in die EU unbedingt erforderlich ist;
+
+  - d. für Güter der Zolltarifnummer 8539, sofern:
+
+    - 1. dies für die Wartung, die Reparatur oder den Betrieb von Ultraviolett-Lampen (UV-Lampen) für die Desinfektion von Trinkwasser erforderlich ist, und
+
+    - 2. es keinen Lieferanten gleichwertiger UV-Lampen und dazugehöriger Güter ausserhalb der Russischen Föderation gibt.
