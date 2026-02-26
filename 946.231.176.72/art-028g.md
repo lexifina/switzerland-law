@@ -6,7 +6,7 @@
 
   - b. juristischen Personen, Organisationen oder Einrichtungen mit Sitz in der Russischen Föderation, die sich unter öffentlicher Kontrolle oder zu über fünfzig Prozent in öffentlichem Eigentum befinden;
 
-  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaats, die von einer juristischen Person, Organisation oder Einrichtung nach Buchstabe a oder b zu über fünfzig Prozent kontrolliert werden;
+  - c. juristischen Personen, Organisationen oder Einrichtungen mit Sitz ausserhalb der Schweiz oder eines EWR-Mitgliedstaates, die von einer juristischen Person, Organisation oder Einrichtung nach Buchstabe a oder b zu über fünfzig Prozent kontrolliert werden;
 
   - d. natürlichen oder juristischen Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung einer juristischen Person, Organisation oder Einrichtung nach Buchstabe a, b oder c handeln.
 

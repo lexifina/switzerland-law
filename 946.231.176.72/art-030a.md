@@ -8,11 +8,11 @@
 
     - 1. Schweizer Staatsangehörigen,
 
-    - 2. Staatsangehörigen eines EWR-Mitgliedstaats,
+    - 2. Staatsangehörigen eines EWR-Mitgliedstaates,
 
-    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
+    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
 
-    - 4. einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
+    - 4. einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
 
   - c. sich die betreffenden Güter und Technologien physisch in der Russischen Föderation befanden, bevor die jeweiligen Verbote nach den Artikeln 4, 5, 9, 9a, 9b, 10, 11, 11a und 14b für diese Güter und Technologien in Kraft getreten sind.
 
@@ -22,7 +22,7 @@
 
   - a. eine Gasinfrastruktur zwischen der Russischen Föderation und Drittländern betreibt;
 
-  - b. vor dem 3. März 2022 nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründet oder eingetragen wurde; und
+  - b. vor dem 3. März 2022 nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründet oder eingetragen wurde; und
 
   - c. eine russische juristische Person, Organisation oder Einrichtung umfasst.
 
@@ -34,10 +34,10 @@
 
     - 1. Schweizer Staatsangehörigen,
 
-    - 2. Staatsangehörigen eines EWR-Mitgliedstaats,
+    - 2. Staatsangehörigen eines EWR-Mitgliedstaates,
 
-    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
+    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
 
-    - 4. einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
+    - 4. einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
 
   - c. sich die betreffenden Güter physisch in der Russischen Föderation befanden, bevor die jeweiligen Verbote nach den Artikeln 14a und 14c für diese Güter in Kraft getreten sind.
