@@ -8,11 +8,11 @@
 
     - 1. Schweizer Staatsangehörigen,
 
-    - 2. Staatsangehörigen eines EWR-Mitgliedstaats,
+    - 2. Staatsangehörigen eines EWR-Mitgliedstaates,
 
-    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
+    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
 
-    - 4. einer in Belarus niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
+    - 4. einer in Belarus niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
 
   - c. sich die betreffenden Güter und Technologien physisch in Belarus befanden, bevor die jeweiligen Verbote nach den Artikeln 4, 5, 6, 10, 10a, 10b, 10c, 10d und 10e für diese Güter und Technologien in Kraft getreten sind.
 
@@ -26,10 +26,10 @@
 
     - 1. Schweizer Staatsangehörigen,
 
-    - 2. Staatsangehörigen eines EWR-Mitgliedstaats,
+    - 2. Staatsangehörigen eines EWR-Mitgliedstaates,
 
-    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
+    - 3. einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung, oder
 
-    - 4. einer in Belarus niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
+    - 4. einer in Belarus niedergelassenen juristischen Person, Organisation oder Einrichtung, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen juristischen Person, Organisation oder Einrichtung befindet; und
 
   - c. sich die betreffenden Güter physisch in Belarus befanden, bevor die jeweiligen Verbote nach den Artikeln 10f, 10g und 11 für diese Güter in Kraft getreten sind.
