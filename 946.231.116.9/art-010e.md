@@ -12,6 +12,6 @@
 
   - b. für den persönlichen Gebrauch durch Mitarbeitende der in Buchstabe a genannten Vertretungen und Organisationen bestimmt sind;
 
-  - c. die Zolltarifnummer 7113 oder 7114 tragen und bestimmt sind für den persönlichen Gebrauch von aus der Schweiz ausreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen, sich im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind.
+  - c. …
 
 5 Das SECO kann für die Lieferung oder die Ausfuhr von Kulturgütern nach Belarus Ausnahmen vom Verbot nach Absatz 1 bewilligen, wenn es sich dabei um Leihgaben im Rahmen der offiziellen kulturellen Zusammenarbeit mit Belarus handelt.

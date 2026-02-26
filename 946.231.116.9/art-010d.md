@@ -24,7 +24,7 @@
 
 8 Es kann Ausnahmen von den Verboten nach den Absätzen 1–3 bewilligen für:
 
-  - a. Güter der Zolltarifnummer 8417 20, falls diese von natürlichen Personen im Haushalt für die Herstellung von Backwaren, Patisserie und Biskuits verwendet werden;
+  - a. …
 
   - b. Güter der Zolltarifnummern 3917, 8523 und 8536, falls diese für die Instandhaltung oder Reparatur von Medizinprodukten erforderlich sind;
 
