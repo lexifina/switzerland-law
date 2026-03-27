@@ -10,7 +10,13 @@
 
   - d. Werbung, Markt- und Meinungsforschung;
 
-  - e. IT-Beratung.
+  - e. IT-Beratung;
+
+  - f. gewerbliche weltraumgestützte Dienstleistungen in Bezug auf Erdbeobachtung und Satellitennavigation;
+
+  - g. Dienstleistungen im Bereich der künstlichen Intelligenz in Bezug auf den Zugang zu Modellen oder Plattformen für deren Training, Feinabstimmung und Inferenz;
+
+  - h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
 
 2 Die Verbote nach Absatz 1 Buchstaben a–c und e gelten auch für juristische Personen, Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten.
 
