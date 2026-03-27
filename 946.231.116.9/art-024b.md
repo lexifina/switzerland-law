@@ -10,7 +10,13 @@
 
   - d. Werbung, Markt- und Meinungsforschung;
 
-  - e. IT-Beratung.
+  - e. IT-Beratung;
+
+  - f. gewerbliche weltraumgestützte Dienstleistungen in Bezug auf Erdbeobachtung und Satellitennavigation;
+
+  - g. Dienstleistungen im Bereich der künstlichen Intelligenz in Bezug auf den Zugang zu Modellen oder Plattformen für deren Training, Feinabstimmung und Inferenz;
+
+  - h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
 
 2 Der Verkauf, die Lieferung, die Ausfuhr, der Transport und die Bereitstellung von Software für die Unternehmensführung, für Industriedesign und Fertigung sowie für den Banken- und Finanzsektor nach Anhang 27 an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder natürliche oder juristische Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sowie die Durchfuhr dieser Software durch die Schweiz sind verboten.
 
