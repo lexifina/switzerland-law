@@ -28,6 +28,8 @@
 
   - c. bei Anlagen zur Umwandlung von Elektrizität in Wasserstoff, synthetische Gase, Brenn- oder Treibstoffe: Rückerstattung für die Elektrizitätsmenge, die für die Umwandlung in diese speicherbaren chemischen Substrate aus dem Netz bezogen wird; dieses Recht auf Rückerstattung ist auf Pilot- und Demonstrationsanlagen, die mit Elektrizität aus erneuerbaren Energien betrieben werden und insgesamt höchstens eine Leistung von 200 MW aufweisen, beschränkt.
 
+4bis Messungen, die für den Nachweis der Elektrizitätsmengen nach Absatz 4 Buchstabe a erforderlich sind, dürfen in Abweichung von Artikel 17a und Artikel 17abis mit beim Speicher bereits vorhandenen Messgeräten erfolgen. Der Bundesrat regelt die Anforderungen an diese Messgeräte und die Datenübermittlung an die Netzbetreiber.
+
 5 Der Bundesrat kann:
 
   - a. die Kosten für die Messungen, die zum Nachweis der Elektrizitätsmengen nach Absatz 4 erforderlich sind, den Betreibern der Anlagen auferlegen;

@@ -12,9 +12,21 @@
 
   - c. sie standortgebunden sind;
 
-  - d. das Interesse an ihrer Realisierung anderen nationalen Interessen grundsätzlich vorgeht; und
+  - d. das Interesse an ihrer Realisierung anderen nationalen Interessen grundsätzlich vorgeht;
 
-  - e. zusätzliche Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft vorzusehen sind.
+  - e. zusätzliche Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft vorzusehen sind; und
+
+  - f. wenn eine Ausgleichsmassnahme nach Buchstabe e aus glaubhaft gemachten sachlichen Gründen nicht mit der Projektgenehmigung konkret verfügt werden kann, der Gesuchsteller verpflichtet ist, dem Kanton eine Sicherheitsleistung zu bezahlen; sachliche Gründe sind insbesondere:
+
+    - 1. Unmöglichkeit oder Verzögerungen bei der Landsicherung,
+
+    - 2. fehlende Realisierbarkeit aufgrund ausstehender Zusicherungen für die Restkostenfinanzierung,
+
+    - 3. andere laufende Verfahren,
+
+    - 4. Gründe, die nicht durch die Gesuchsteller beeinflusst werden können.
+
+3bis Die Sicherheitsleistung nach Absatz 3 Buchstabe f dient zur Realisierung der Massnahme und beträgt mindestens das Eineinhalbfache der voraussichtlichen Kosten. Realisiert der Konzessionär die Massnahme, ist der Betrag zinslos zu erstatten. Hat er aber bis spätestens zur offiziellen Inbetriebnahme der Kraftwerksanlagen die Massnahme nicht realisiert, fällt der Betrag an den Kanton, der diesen zweckgebunden für die Realisierung anderer Massnahmen sowie zur Deckung seiner Kosten verwendet. Der Bundesrat legt die Grundsätze zur Berechnung der Sicherheitsleistung sowie deren maximale Höhe fest.
 
 4 Für Solar- und Windkraftanlagen von nationalem Interesse nach Artikel 12 EnG, die in einem geeigneten Gebiet nach Artikel 10 Absatz 1 EnG und Artikel 8b des Raumplanungsgesetzes vom 22. Juni 1979, aber ausserhalb von Objekten nach Artikel 5 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz vorgesehen sind, gilt dass:
 
