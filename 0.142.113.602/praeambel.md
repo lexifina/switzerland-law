@@ -16,7 +16,7 @@ in der Erkenntnis, dass Visaerleichterungen nicht zu illegaler Migration führen
 
 unter Berücksichtigung des Abkommens zwischen der Europäischen Union, der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands, unterzeichnet am 26. Oktober 2004,
 
-unter Berücksichtigung des Abkommens zwischen Georgien und der Europäischen Union über die Erleichterung der Visaerteilung, das am 17. Juni 2010 unterzeichnet
+unter Berücksichtigung des Abkommens zwischen Georgien und der Europäischen Union über die Erleichterung der Visaerteilung, das am 17. Juni 2010 unterzeichnet,
 
 und am 1. März 2011 in Kraft getreten ist, sowie der gemeinsamen Erklärung zu der Schweiz, Island, Liechtenstein und Norwegen im Anhang zu diesem Abkommen,
 
