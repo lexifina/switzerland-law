@@ -10,4 +10,4 @@
 
   - d. über einen Sprachnachweis verfügt, der die entsprechenden Sprachkompetenzen in dieser Landessprache bescheinigt und der sich auf ein Sprachnachweisverfahren abstützt, das den allgemein anerkannten Qualitätsstandards für Sprachtests entspricht.
 
-2 Das SEM unterstützt die Kantone bei der Prüfung der Sprachnachweise nach Absatz 2 Buchstabe d. Es kann Dritte mit dieser Aufgabe betrauen.
+2 Das SEM unterstützt die Kantone bei der Prüfung der Sprachnachweise nach Absatz 1 Buchstabe d. Es kann Dritte mit dieser Aufgabe betrauen.
