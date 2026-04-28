@@ -16,6 +16,8 @@
 
 3. Artikel 9 des Übereinkommens und seine Überschrift werden durch folgenden Wortlaut ersetzt:
 
+    - Rechnungseinheit oder Werteinheit und Umrechnung
+
   - 1. Die in diesem Übereinkommen genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Die in den Artikeln 7 und 8 genannten Beträge werden in die Landeswährung des Staates des angerufenen Gerichts umgerechnet; die Umrechnung erfolgt entsprechend dem Wert der betreffenden Währung am Tag des Urteils oder an dem von den Parteien vereinbarten Tag. Der in Sonderziehungsrechten ausgedrückte Wert der Landeswährung eines Staates, der Mitglied des Internationalen Währungsfonds ist, wird nach der vom Internationalen Währungsfonds angewendeten Bewertungsmethode errechnet, die an dem betreffenden Tag für seine Operationen und Transaktionen gilt. Der in Sonderziehungsrechten ausgedrückte Wert der Landeswährung eines Staates, der nicht Mitglied des Internationalen Währungsfonds ist, wird auf eine von diesem Staat bestimmte Weise errechnet.
 
   - 2. Dessen ungeachtet kann ein Staat, der nicht Mitglied des Internationalen Währungsfonds ist und dessen Recht die Anwendung des Absatzes 1 nicht zulässt, bei der Ratifikation oder dem Beitritt oder jederzeit danach erklären, dass die in seinem Hoheitsgebiet geltenden Haftungshöchstbeträge dieses Übereinkommens wie folgt festgesetzt werden:
