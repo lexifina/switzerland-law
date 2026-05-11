@@ -40,7 +40,7 @@
 
   - s. Impfung gegen Rotaviren;
 
-  - t. Impfung gegen Respiratorische Syncytial-Viren (RSV).
+  - t. Impfung gegen Respiratorische Synzytial-Viren (RSV).
 
 2 Die Versicherung übernimmt für die Impfungen folgende Kosten für die Impfberatung:
 
