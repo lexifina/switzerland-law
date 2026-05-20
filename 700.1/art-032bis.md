@@ -1,4 +1,4 @@
-# Art. 32bis bis Bündelung von Infrastrukturanlagen
+# Art. 32bis Bündelung von Infrastrukturanlagen
 
 1 Infrastrukturanlagen sind soweit möglich und zweckmässig zu bündeln oder zusammenzulegen und an möglichst unempfindlichen Standorten vorzusehen. Kulturland ist zu schonen.
 
