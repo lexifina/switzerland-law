@@ -8,7 +8,11 @@
 
     - 2. juristischen Personen, Unternehmen oder Organisationen im Eigentum oder unter Kontrolle von juristischen Personen, Unternehmen oder Organisationen nach Ziffer 1;
 
-  - b. …
+  - b. die Beibehaltung einer bestehenden Beteiligung am Eigentum oder an der Kontrolle von:
+
+    - 1. juristischen Personen, Unternehmen oder Organisationen, die als in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14b Ziffer 1 ansässig registriert sind oder dort ihren Sitz, ihre Hauptniederlassung oder ihre Betriebsstätte haben,
+
+    - 2. juristischen Personen, Unternehmen oder Organisationen im Eigentum oder unter Kontrolle von juristischen Personen, Unternehmen oder Organisationen nach Ziffer 1;
 
   - c. die Gründung eines neuen Joint Venture:
 
@@ -16,11 +20,15 @@
 
     - 2. mit juristischen Personen, Unternehmen oder Organisationen nach Buchstabe a;
 
-  - d. …
+  - d. die Weiterführung eines bestehenden Joint Venture:
+
+    - 1. in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14b Ziffer 1,
+
+    - 2. mit juristischen Personen, Unternehmen oder Organisationen nach Buchstabe b;
 
   - e. die Gründung neuer Niederlassungen oder Repräsentationsbüros in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14b Ziffer 1 oder 2;
 
-  - f. …
+  - f. die Weiterführung bestehender Niederlassungen oder Repräsentationsbüros in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14b Ziffer 1;
 
   - g. der Abschluss neuer Verträge oder Vereinbarungen über:
 
@@ -28,7 +36,11 @@
 
     - 2. die Erbringung von Dienstleistungen und die Bereitstellung damit zusammenhängender Rechte des geistigen Eigentums oder von Geschäftsgeheimnissen für juristische Personen, Unternehmen oder Organisationen nach Buchstabe a;
 
-  - h. …
+  - h. die Beibehaltung bestehender Verträge oder Vereinbarungen über:
+
+    - 1. die Lieferung von Gütern an juristische Personen, Unternehmen oder Organisationen nach Buchstabe b,
+
+    - 2. die Erbringung von Dienstleistungen und die Bereitstellung damit zusammenhängender Rechte des geistigen Eigentums oder von Geschäftsgeheimnissen für juristische Personen, Unternehmen oder Organisationen nach Buchstabe b;
 
   - i. die Gewährung oder Bereitstellung von Darlehen, Krediten oder sonstiger Finanzmittel, einschliesslich Eigenkapital, an:
 
