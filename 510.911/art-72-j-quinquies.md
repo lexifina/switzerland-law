@@ -1,17 +1,11 @@
 # Art. 72jquinquies Datenbekanntgabe
 
-1 Die Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung machen die Daten des PSB folgenden Stellen und Personen durch Abrufverfahren zugänglich:
+Die Gruppe Verteidigung und armasuisse können die Daten des Informationssystems Personal der Gruppe Verteidigung und von armasuisse den folgenden Organen und Personen durch Abrufverfahren zugänglich machen:
 
-  - a. den Mitarbeiterinnen und Mitarbeitern dieser Verwaltungseinheiten für die Einsicht in ihre Daten und für deren Bearbeitung;
+  - a. den betreffenden Mitarbeiterinnen und Mitarbeitern für die Einsicht in ihre Daten und für deren Bearbeitung;
 
-  - b. den Personalfachstellen für die Bearbeitung der Daten der Mitarbeiterinnen und Mitarbeiter in ihrem Bereich;
+  - b. den betreffenden Personalfachstellen für die Bearbeitung der Daten ihrer Mitarbeiterinnen und Mitarbeiter;
 
   - c. den Vorgesetzten zur Einsicht in die Daten der ihnen unterstellten Mitarbeiterinnen und Mitarbeiter sowie zur Kontrolle und Genehmigung der Daten, die durch die ihnen unterstellten Mitarbeiterinnen und Mitarbeiter bearbeitet werden;
 
-  - d. bei Übertritten des Personals innerhalb des VBS den neu zuständigen Personalfachstellen und Vorgesetzten nach den Buchstaben b und c.
-
-2 Sie geben die Daten des PSB bekannt:
-
-  - a. dem IPDM;
-
-  - b. dem IAM-System nach Artikel 5 Absatz 1 Buchstabe c IAMV.
+  - d. bei Personalübertritten zwischen der Gruppe Verteidigung und armasuisse der neu zuständigen Personalfachstelle und den neuen Vorgesetzten nach den Buchstaben b und c.

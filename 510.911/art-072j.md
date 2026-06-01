@@ -1,3 +1,9 @@
-# Art. 72j Verantwortliches Organ
+# Art. 72j Verantwortliche Organe
 
-Die armasuisse betreibt für die Verwaltungseinheiten des VBS, die nicht der Gruppe Verteidigung angehören, das Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung (PSB) und stellt es diesen zur Verfügung.
+1 Die Gruppe Verteidigung betreibt das Informationssystem Personal der Gruppe Verteidigung und des Bundesamts für Rüstung (armasuisse).
+
+2 Im Informationssystem sind für die Bearbeitung der Daten zuständig:
+
+  - a. die Gruppe Verteidigung für die Mitarbeiterinnen und Mitarbeiter der ihr unterstellten Verwaltungseinheiten;
+
+  - b. armasuisse für seine Mitarbeiterinnen und Mitarbeiter.

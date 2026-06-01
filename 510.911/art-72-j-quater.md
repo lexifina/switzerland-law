@@ -1,8 +1,8 @@
 # Art. 72jquater Datenbeschaffung
 
-Die Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung beschaffen die Daten für das PSB:
+Die Gruppe Verteidigung und armasuisse beschaffen die Daten für das Informationssystem Personal der Gruppe Verteidigung und von armasuisse:
 
-  - a. bei den betreffenden Mitarbeiterinnen und Mitarbeitern dieser Verwaltungseinheiten;
+  - a. bei den betreffenden Mitarbeiterinnen und Mitarbeitern;
 
   - b. bei den direkten Vorgesetzten der betreffenden Mitarbeiterinnen und Mitarbeiter;
 

@@ -1,3 +1,9 @@
 # Art. 72jbis Zweck
 
-Das PSB dient der Bearbeitung von Daten der Zeit- und Leistungswirtschaft des Personals der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung, der Abwicklung der Supportprozesse Finanzen und Logistik sowie der Erfüllung der Aufgaben des Immobilienmanagements.
+Das Informationssystem Personal der Gruppe Verteidigung und von armasuisse dient:
+
+  - a. der Personalgewinnung und Personalführung;
+
+  - b. der Personalhonorierung;
+
+  - c. der Abrechnung der Sozialversicherungsbeiträge.
