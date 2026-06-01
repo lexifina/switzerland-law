@@ -18,4 +18,4 @@
 
 5 Der Bund entrichtet dem Standortkanton oder der Standortgemeinde durch Vereinbarung Bundesbeiträge für die Abgeltung der Verwaltungs- und Personal- sowie der übrigen Kosten, die bei der Erfüllung der Aufgaben nach Absatz 2 entstehen. Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Abgeltung einmalig anfallender Kosten.
 
-6 Die übrigen Bestimmungen für Zentren des Bundes gelten sinngemäss auch für kantonale und kommunale Zentren. In Zentren nach Absatz 1 können die gleichen Verfahren durchgeführt werden wie in den Zentren des Bundes nach Artikel 24.
+6 Die übrigen Bestimmungen des 2a. und des 2b. Abschnitts gelten sinngemäss auch für kantonale und kommunale Zentren. In Zentren nach Absatz 1 können die gleichen Verfahren durchgeführt werden wie in den Zentren des Bundes nach Artikel 24.
