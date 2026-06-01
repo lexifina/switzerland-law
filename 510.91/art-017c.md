@@ -1,6 +1,6 @@
 # Art. 17c Daten
 
-1 Das DIM enthält von den Militärdienstpflichtigen, einschliesslich der Stellungspflichtigen, dem für die Friedensförderung vorgesehenen Personal und den Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden, folgende Daten:
+1 Das DIM enthält von den Militärdienstpflichtigen, dem für die Friedensförderung vorgesehenen Personal, den Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden, und den Personen, die eine Tätigkeit zur Unterstützung der Armee oder des für die Friedensförderung vorgesehenen Personals ausüben, folgende Daten:
 
   - a. Personalien, AHV-Nummer, Foto, Beruf, Kontoverbindung, Kontaktdaten und von der betreffenden Person gemeldete Notfallkontaktdaten Dritter;
 
@@ -81,3 +81,5 @@
   - m. Entscheide zu den Gesuchen, Anträgen und Anmeldungen, die die betreffende Person eingereicht hat;
 
   - n. Daten aus Umfragen.
+
+3 Es kann auch Daten nach den Absätzen 1 und 2 von interessierten Dritten enthalten, sofern diese das 15. Altersjahr vollendet und in die Datenbearbeitung eingewilligt haben.

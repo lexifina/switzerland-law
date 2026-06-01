@@ -1,6 +1,6 @@
 # Art. 17b Zweck
 
-Das DIM dient den Militärdienstpflichtigen, einschliesslich der Stellungspflichtigen, dem für die Friedensförderung vorgesehenen Personal, den Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden, und den Schutzdienstpflichtigen dazu:
+Das DIM dient den Militärdienstpflichtigen, dem für die Friedensförderung vorgesehenen Personal, den Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden, den Personen, die eine Tätigkeit zur Unterstützung der Armee oder des für die Friedensförderung vorgesehenen Personals ausüben, den Schutzdienstpflichtigen und den interessierten Dritten, die das 15. Altersjahr vollendet haben, dazu:
 
   - a. eigene Daten einzusehen und zu aktualisieren sowie Auszüge davon zu erstellen;
 
