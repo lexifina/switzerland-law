@@ -2,7 +2,7 @@
 
 1 Höhere Unteroffiziere und Offiziere des Zivilschutzes erhalten für die nach der Ersatzpflicht geleisteten Schutzdiensttage einen Teil oder alle Ersatzabgaben zurückerstattet.
 
-2 Als Ausweis der geleisteten Diensttage gelten das Dienstbüchlein oder die EO-Abrechnungen.
+2 Als Ausweis der geleisteten Diensttage gelten die im PISA enthaltenen Daten oder die EO-Abrechnungen.
 
 3 Die Höhe der Rückerstattung ist abhängig von den effektiv absolvierten und anrechenbaren Schutzdiensttagen ab dem Folgejahr des Wegfalls der Ersatzpflicht bis zum Ende der Schutzdienstpflicht. Zu viel geleistete Schutzdiensttage aus den elf Jahren Ersatzpflicht werden bei der Rückerstattung berücksichtigt.
 
