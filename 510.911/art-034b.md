@@ -1,8 +1,8 @@
 # Art. 34b Zweck
 
-Das HYDRA dient der Gruppe Verteidigung für:
+Das HYDRA dient für:
 
-  - a. die Administration des Dienstbüchleins bei Auslandeinsätzen von Angehörigen der Armee;
+  - a. die Administration der Nachweise der Dienstpflicht für Angehörige der Armee, die im Ausland Dienst leisten;
 
   - b. bei Erstellung von Auslandauszeichnungen für Personen, die an friedenserhaltenden Missionen teilnehmen;
 

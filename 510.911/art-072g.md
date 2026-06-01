@@ -6,4 +6,4 @@
 
 3 Die Daten nach Absatz 1 dürfen in anonymisierter Form aufbewahrt werden.
 
-4 Die als archivwürdig bezeichneten Daten müssen dem Bundesarchiv übermittelt werden.
+4 …

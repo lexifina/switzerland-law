@@ -1,6 +1,6 @@
 # Art. 70d Datenbekanntgabe
 
-Folgende Daten des E-Aufgebots werden nachstehenden Stellen und Personen bekannt gegeben:
+Folgende Daten des elektronischen Aufgebots- und Alarmierungssystems werden nachstehenden Stellen und Personen bekanntgegeben:
 
   - a. sämtliche Daten: den verantwortlichen Militärbehörden und den zuständigen militärischen Kommandos;
 
