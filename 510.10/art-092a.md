@@ -8,7 +8,7 @@
 
 4 Gegen Staatsluftfahrzeuge, namentlich Militärluftfahrzeuge, die ohne Bewilligung oder unter Missachtung der Bewilligungsauflagen den schweizerischen Luftraum benützen, dürfen Waffen eingesetzt werden, wenn die Luftfahrzeuge den luftpolizeilichen Anordnungen nicht Folge leisten.
 
-5 Die Vorsteherin oder der Vorsteher des VBS ordnet den Waffeneinsatz an. Sie oder er kann die Kompetenz für den Waffeneinsatz an den Kommandanten der Luftwaffe delegieren.
+5 Die Vorsteherin oder der Vorsteher des VBS ordnet den Waffeneinsatz an. Sie oder er kann die Kompetenz für den Waffeneinsatz an die Kommandantin oder den Kommandanten der Luftwaffe delegieren.
 
 6 Vorbehalten bleiben Waffeneinsätze bei Notstand oder Notwehr.
 
