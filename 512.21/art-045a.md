@@ -4,7 +4,9 @@
 
   - a. das Kdo Ausb für persönliche Befragungen bei Personensicherheitsprüfungen für Stellungspflichtige und Angehörige der Armee;
 
-  - b. der militärärztliche Dienst für medizinische Untersuchungen zur Neubeurteilung der Tauglichkeit.
+  - b. der militärärztliche Dienst für medizinische Untersuchungen zur Neubeurteilung der Tauglichkeit;
+
+  - c. die kantonale Militärbehörde des Wohnkantons für die Rückgabe der persönlichen Ausrüstung.
 
 2 Die Amtstermine sind nicht besoldet und werden nicht an die Ausbildungsdienstpflicht angerechnet.
 
