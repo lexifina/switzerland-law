@@ -8,7 +8,7 @@
 
   - c. die Dienst in der Militärverwaltung leisten.
 
-1bis In Abweichung von Absatz 1 haben Armeeangehörige zwischen zwei Ausbildungsdiensten nur Anspruch auf eine Entschädigung, wenn sie erwerbslos sind. Selbstständigerwerbende und Nichterwerbstätige haben keinen Anspruch. Der Bundesrat regelt das Verfahren.
+1bis In Abweichung von Absatz 1 haben Armeeangehörige zwischen zwei Ausbildungsdiensten oder separaten Teilen einer Rekrutenschule nur Anspruch auf eine Entschädigung, wenn sie erwerbslos sind. Selbstständigerwerbende und Nichterwerbstätige haben keinen Anspruch. Der Bundesrat regelt das Verfahren.
 
 2 Personen, die Zivildienst leisten, haben für jeden anrechenbaren Diensttag gemäss dem Zivildienstgesetz vom 6. Oktober 1995 Anspruch auf eine Entschädigung.
 
