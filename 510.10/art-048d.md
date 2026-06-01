@@ -6,11 +6,11 @@
 
   - b. Anlässen oder Veranstaltungen von nationaler oder internationaler Bedeutung.
 
-2 Zivile Behörden haben gegenüber anderen Gesuchstellern Vorrang.
+2 Zivile Behörden haben gegenüber anderen Gesuchstellenden Vorrang.
 
 3 Die militärischen Mittel dürfen nur zur Verfügung gestellt werden, wenn:
 
-  - a. die Gesuchsteller die Tätigkeiten nachweisbar weder mit eigenen Mitteln noch mit Unterstützung des Zivilschutzes oder anerkannter militärischer Vereine oder Verbände durchführen können;
+  - a. Gesuchstellende die Tätigkeiten nachweisbar weder mit eigenen Mitteln noch mit Unterstützung von anderen militärischen Vereinen oder Verbänden oder des Zivilschutzes durchführen können;
 
   - b. die dafür vorgesehenen Personen aufgrund ihrer Ausbildung und Ausrüstung geeignet sind, die geforderte Leistung zu erbringen; und
 

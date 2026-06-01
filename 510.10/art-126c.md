@@ -1,6 +1,6 @@
 # Art. 126c Aussteckung
 
-1 Vor der öffentlichen Auflage des Gesuchs muss der Gesuchsteller die Veränderungen, welche die geplanten Bauten und Anlagen im Gelände bewirken, sichtbar machen, indem er sie aussteckt; bei Hochbauten hat er Profile aufzustellen.
+1 Vor der öffentlichen Auflage des Gesuchs müssen Gesuchstellende die Veränderungen, welche die geplanten Bauten und Anlagen im Gelände bewirken, sichtbar machen, indem sie diese ausstecken; bei Hochbauten müssen sie Profile aufstellen.
 
 2 Aus wichtigen Gründen kann die Genehmigungsbehörde ganz oder teilweise von der Pflicht nach Absatz 1 befreien.
 
