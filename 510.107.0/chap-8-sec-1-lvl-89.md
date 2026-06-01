@@ -4,7 +4,7 @@
 
 2 Das Aufgebot zu Nachschiesskursen erfolgt über Aufgebotsplakate. Es werden keine Marschbefehle versandt.
 
-3 Die Angehörigen der Armee müssen die militärische Meldepflicht erfüllen. Änderungen von persönlichen Daten, von Wohnadresse und Beruf sind innerhalb von vierzehn Tagen dem Sektionschef beziehungsweise dem Kreiskommando zu melden. Unverzüglich zu melden ist auch ein allfälliger Verlust des Dienstbüchleins.
+3 Die Angehörigen der Armee müssen die militärische Meldepflicht erfüllen. Änderungen von persönlichen Daten, von Wohnadresse und Beruf sind innerhalb von vierzehn Tagen dem Sektionschef beziehungsweise dem Kreiskommando zu melden.
 
 4 Angehörige der Armee, die sich länger als zwölf Monate im Ausland aufhalten wollen, müssen Auslandurlaub einholen. Das Gesuch ist an das zuständige Kreiskommando zu richten.
 
