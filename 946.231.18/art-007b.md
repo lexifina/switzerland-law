@@ -1,3 +1,5 @@
-# Art. 7b Veröffentlichung
+# Art. 7b Meldepflichten
 
-Die Inhalte der Anhänge 1 und 2 werden in der Amtlichen Sammlung und in der Systematischen Sammlung des Bundesrechts nur durch Verweis veröffentlicht.
+1 Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+
+2 Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
