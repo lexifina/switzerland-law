@@ -8,6 +8,8 @@
 
   - c. das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das BAZG und die Grenzposten der kantonalen Polizeibehörden: wenn eine Verknüpfung mit einem persönlichen Dossier im C‑VIS vorliegt;
 
-  - d. das SEM im Rahmen der Erfüllung seiner Aufgaben als nationale ETIAS-Stelle: wenn eine Verknüpfung mit einem persönlichen ETIAS-Gesuchsdatensatz vorliegt, der die Daten nach Artikel 19 Absatz 3 der Verordnung (EU) 2018/1240 enthält.
+  - d. das SEM im Rahmen der Erfüllung seiner Aufgaben als nationale ETIAS-Stelle: wenn eine Verknüpfung mit einem persönlichen ETIAS-Gesuchsdatensatz vorliegt, der die Daten nach Artikel 19 Absatz 3 der Verordnung (EU) 2018/1240 enthält;
+
+  - e. das SEM, die kantonalen Migrations- und Polizeibehörden sowie das Grenzwachtkorps im Rahmen ihrer Aufgaben im Asyl- und Ausländerbereich in Zusammenhang mit dem Zugang zu den Eurodac-Daten: wenn eine Verknüpfung mit einem persönlichen Eurodac-Datensatz nach der Verordnung (EU) 2024/1358 vorliegt.
 
 2 Besteht im CIR eine Verknüpfung zwischen Daten aus mehreren Informationssystemen, die auf einen Identitätsbetrug hinweist, so können die Behörden nach Absatz 1 die im CIR gespeicherten Daten und Verweise abfragen, soweit sie auf das EES, das ETIAS, das C-VIS, Eurodac oder das SIS Zugriff nach diesem Gesetz oder nach dem Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes haben.

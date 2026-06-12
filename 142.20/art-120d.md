@@ -10,4 +10,6 @@ Mit Busse wird bestraft, wer vorsätzlich als Mitarbeiterin oder Mitarbeiter ein
 
   - d. des CIR für andere als die in den Artikeln 110a–110d vorgesehenen Zwecke bearbeitet;
 
-  - e. des MID für andere als die in den Artikeln 110f und 110g vorgesehenen Zwecke bearbeitet.
+  - e. des MID für andere als die in den Artikeln 110f und 110g vorgesehenen Zwecke bearbeitet;
+
+  - f. von Eurodac für andere als die in den Artikeln 109k–109lquater dieses Gesetzes sowie in den Artikeln 102abis–102aquater und 102c Absätze 5 und 6 AsylG vorgesehenen Zwecke bearbeitet.
