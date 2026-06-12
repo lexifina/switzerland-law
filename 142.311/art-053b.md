@@ -1,6 +1,6 @@
-# Art. 53b
+# Art. 53b Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2024/1351
 
-1 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2024/1351, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 (RVOG) darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Bestimmungen der Verordnung (EU) 2024/1351 erlassen wurden und Folgendes regeln oder festlegen:
+1 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2024/1351, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7a des Regierungs- und Verwaltungsorganisations-gesetzes vom 21. März 1997 (RVOG) darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Bestimmungen der Verordnung (EU) 2024/1351 erlassen wurden und Folgendes regeln oder festlegen:
 
   - a. das Standardformblatt für den Austausch relevanter Informationen zwischen den Dublin-Staaten zur Ermittlung von im Hoheitsgebiet eines anderen Dublin-Staates lebenden Familienangehörigen oder Verwandten einer oder eines unbegleiteten Minderjährigen (Art. 23 Abs. 7);
 

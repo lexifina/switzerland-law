@@ -10,4 +10,4 @@ In dieser Verordnung gelten als:
 
   - d. minderjährig: wer nach Artikel 14 des Zivilgesetzbuches das 18. Lebensjahr noch nicht vollendet hat;
 
-  - e. Familie: Ehegatten und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) Nr. 604/2013.
+  - e. Familie: Ehegatten und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) 2024/1351.
