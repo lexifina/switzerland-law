@@ -14,7 +14,9 @@
 
   - e. der betroffenen Person zuvor die Einreise nach Artikel 14 des Schengener Grenzkodex verweigert wurde (Art. 64c Abs. 1 Bst. b);
 
-  - f. die betroffene Person aufgrund der Dublin-Assoziierungsabkommen weggewiesen wird (Art. 64a).
+  - f. die betroffene Person aufgrund der Dublin-Assoziierungsabkommen weggewiesen wird (Art. 64a);
+
+  - g. die betroffene Person infolge einer gemeinsamen Kontrolle mit einem anderen Schengen-Staat weggewiesen wird (Art. 64cbis).
 
 3 Namentlich die folgenden konkreten Anzeichen lassen befürchten, dass sich die betroffene Person der Ausschaffung entziehen will:
 

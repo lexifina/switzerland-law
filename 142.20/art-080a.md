@@ -14,7 +14,7 @@
 
 5 Die Haftanordnung gegenüber Kindern und Jugendlichen unter 15 Jahren ist ausgeschlossen.
 
-6 Bei einer Haftanordnung gegenüber unbegleiteten minderjährigen Asylsuchenden wird die Vertrauensperson nach Artikel 64a Absatz 3bis des vorliegenden Gesetzes oder nach Artikel 17 Absatz 3 AsylG vorgängig informiert.
+6 Bei einer Haftanordnung gegenüber unbegleiteten minderjährigen Asylsuchenden wird die Vertrauensperson nach Artikel 66 Absatz 1 des vorliegenden Gesetzes oder nach Artikel 17 Absatz 3 AsylG vorgängig informiert.
 
 7 Die Haft wird beendet, wenn:
 

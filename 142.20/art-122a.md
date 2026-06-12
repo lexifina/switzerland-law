@@ -1,6 +1,6 @@
 # Art. 122a Sorgfaltspflichtverletzungen durch Luftverkehrsunternehmen
 
-1 Ein Luftverkehrsunternehmen, das seine Sorgfaltspflicht nach Artikel 92 Absatz 1 verletzt, wird mit 4000 Franken pro beförderte Person, die nicht über die erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa oder Aufenthaltstitel verfügt, belastet. In schweren Fällen beträgt die Belastung 16 000 Franken pro Person. In leichten Fällen kann von der Eröffnung eines Verfahrens abgesehen werden.
+1 Ein Luftverkehrsunternehmen, das seine Sorgfaltspflicht nach Artikel 92 Absatz 1 oder 1bis verletzt, wird mit 4000 Franken pro beförderte Person, die nicht über die erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa oder Aufenthaltstitel verfügt oder einer Einreisebeschränkung unterliegt, die gemäss Artikel 65a angeordnet wurde oder gemäss einem Abkommen mit der Europäischen Union gilt, belastet. In schweren Fällen beträgt die Belastung 16 000 Franken pro Person. In leichten Fällen kann von der Eröffnung eines Verfahrens abgesehen werden.
 
 2 Eine Verletzung der Sorgfaltspflicht wird vermutet, wenn das Luftverkehrsunternehmen Personen befördert, die nicht über die für die Einreise in den Schengen-Raum oder für die Durchreise durch die internationalen Transitzonen der Flughäfen erforderlichen Reisedokumente, ETIAS-Reisegenehmigungen, Visa oder Aufenthaltstitel verfügen und denen die Einreise verweigert wird.
 
