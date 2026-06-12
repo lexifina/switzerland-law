@@ -1,6 +1,6 @@
 # Art. 102h Rechtsvertretung
 
-1 Jeder asylsuchenden Person wird ab Beginn der Vorbereitungsphase und für das weitere Asylverfahren eine Rechtsvertretung zugeteilt, sofern die asylsuchende Person nicht ausdrücklich darauf verzichtet.
+1 Jeder asylsuchenden Person wird nach Abschluss der Überprüfung nach der Verordnung (EU) 2024/1356 in der Vorbereitungsphase und für das weitere Asylverfahren eine Rechtsvertretung zugeteilt, sofern die asylsuchende Person nicht ausdrücklich darauf verzichtet. Bei unbegleiteten minderjährigen Asylsuchenden erfolgt die Zuteilung bereits ab Beginn der Vorbereitungsphase.
 
 2 Die zugewiesene Rechtsvertretung informiert die asylsuchende Person so rasch als möglich über ihre Chancen im Asylverfahren.
 
