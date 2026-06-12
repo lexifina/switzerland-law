@@ -10,7 +10,7 @@
 
   - d. das Anbringen der Visummarke (Art. 29 Abs. 1a);
 
-  - e. Weisungen zur Erteilung von Visa an den Schengener Aussengrenzen an Seeleute (Art. 36 Abs. 2a);
+  - e. Weisungen zur Erteilung von Visa an den Schengen-Aussengrenzen an Seeleute (Art. 36 Abs. 2a);
 
   - f. Weisungen zur praktischen Anwendung des Visakodex (Art. 51);
 
