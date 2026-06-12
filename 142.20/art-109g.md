@@ -24,7 +24,7 @@
 
   - g. die Daten, die für die Verwaltung und Kontrolle der verschiedenen Phasen der Ausreise aus der Schweiz erforderlich sind;
 
-  - h. die medizinischen Daten, die für die Beurteilung der Transportfähigkeit einer Person erforderlich sind;
+  - h. die medizinischen Daten, die vor einer Überstellung dem zuständigen Dublin-Staat bekanntgegeben werden müssen oder für die Beurteilung der Transportfähigkeit einer Person erforderlich sind;
 
   - i. das Ergebnis der Abfrage im RIPOL und im SIS;
 
