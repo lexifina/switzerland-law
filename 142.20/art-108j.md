@@ -8,7 +8,7 @@
 
     - 2. auf Daten nach Artikel 108i Absatz 2 Buchstaben a–i für die Bearbeitung und Beantwortung von Konsultationsanfragen;
 
-  - b. der NDB und fedpol: auf Daten nach Artikel 108i Absatz 2 Buchstaben a–i für die Bearbeitung und Beantwortung von Konsultationsanfragen im Rahmen der ETIAS-Gesuchsbearbeitung;
+  - b. der NDB, fedpol, das Protokoll des EDA und die Schweizer Mission in Genf: auf Daten nach Artikel 108i Absatz 2 Buchstaben a–i für die Beantwortung von Konsultationsanfragen im Rahmen der ETIAS-Gesuchsbearbeitung;
 
   - c. der NDB und fedpol: auf Daten nach Artikel 108i Absatz 2 Buchstaben k und l im Rahmen der Erfüllung ihrer Aufgaben als beantragende Behörde für die Bearbeitung von Daten in der ETIAS-Überwachungsliste.
 
