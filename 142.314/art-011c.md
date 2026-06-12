@@ -1,5 +1,5 @@
-# Art. 11c Aufsicht über die Bearbeitung von Daten im Eurodac
+# Art. 11c Recht auf Berichtigung, Ergänzung oder Löschung der Daten
 
-1 Der EDÖB arbeitet bei der Wahrnehmung seiner Aufgaben mit dem Europäischen Datenschutzbeauftragten zusammen; für diesen ist er nationale Ansprechstelle.
+1 Das Verfahren zur Ausübung des Rechts auf Berichtigung, Ergänzung oder Löschung von Eurodac-Daten richtet sich nach Artikel 43 der Verordnung (EU) 2024/1358.
 
-2 Der EDÖB ist die nationale Behörde nach den Artikeln 29 Absätze 11–13 und 30 der Verordnung (EU) Nr. 603/2013. Er ist für die Wahrnehmung der in diesen Artikeln festgelegten Aufgaben verantwortlich.
+2 Das SEM bearbeitet die Gesuche zur Berichtigung, Ergänzung oder Löschung der Daten.

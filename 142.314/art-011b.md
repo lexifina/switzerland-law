@@ -1,3 +1,5 @@
-# Art. 11b Haftung in Zusammenhang mit dem Betrieb des Eurodac
+# Art. 11b Auskunftsrecht
 
-Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958, insbesondere nach dessen Artikeln 19a–19c, die sinngemäss anwendbar sind.
+1 Das Auskunftsrecht richtet sich nach dem Datenschutzgesetz vom 25. September 2020.
+
+2 Das SEM bearbeitet die Auskunftsgesuche.

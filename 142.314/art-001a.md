@@ -1,6 +1,6 @@
 # Art. 1a Informationssysteme
 
-Das Staatssekretariat für Migration (SEM) betreibt zur Erfüllung seiner gesetzlichen Aufgaben folgende Informationssysteme:
+1 Das Staatssekretariat für Migration (SEM) betreibt zur Erfüllung seiner gesetzlichen Aufgaben folgende Informationssysteme:
 
   - a. Zentrales Migrationsinformationssystem (ZEMIS) nach der ZEMIS-Verordnung vom 12. April 2006;
 
@@ -8,20 +8,18 @@ Das Staatssekretariat für Migration (SEM) betreibt zur Erfüllung seiner gesetz
 
   - c. Geschäftsverwaltung Darlehen;
 
-  - d. …
+  - d. Datenbank Finanzierung, Statistik und Controlling (FiSCo);
 
-  - e. Datenbank Finanzierung, Statistik und Controlling (FiSCo);
+  - e. Datenbank Medizinalfälle;
 
-  - f. Datenbank Medizinalfälle;
+  - f. Datenbank individuelle Rückkehrhilfe;
 
-  - g. Datenbank individuelle Rückkehrhilfe;
+  - g. Informationssystem der Zentren des Bundes und der Unterkünfte an den Flughäfen (MIDES);
 
-  - h. …
+  - h. Informationssystem eRetour nach Artikel 12 der Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen;
 
-  - i. Informationssystem der Zentren des Bundes und der Unterkünfte an den Flughäfen (MIDES);
+  - i. Datenbank Dolmetscher Pool (DOPO);
 
-  - j. Informationssystem AURORA nach Artikel 12 der Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen;
+  - j. Fristenmanagementtool (FM-Tool).
 
-  - k. Datenbank Dolmetscher Pool (DOPO);
-
-  - l. das Fristenmanagementtool (FM-Tool).
+2 Es beteiligt sich im Rahmen seiner Aufgaben im Ausländer- und Asylbereich an der Verwaltung von Eurodac.
