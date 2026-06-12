@@ -2,9 +2,11 @@
 
 1 In Wegweisungsverfahren kann mit Unterstützung wissenschaftlicher Methoden abgeklärt werden, ob die Altersangabe der betroffenen Person dem tatsächlichen Alter entspricht.
 
-2 Kann für unbegleitete Minderjährige nicht sofort eine Beistand- oder Vormundschaft eingesetzt werden, so bestimmt die zuständige kantonale Behörde für die Dauer des Wegweisungsverfahrens, längstens aber bis zur Ernennung eines Beistandes, einer Beiständin, eines Vormundes oder einer Vormundin oder bis zum Eintritt der Volljährigkeit, unverzüglich eine Vertrauensperson nach Artikel 64 Absatz 4 oder Artikel 64a Absatz 3bis AIG.
+1bis Handelt es sich bei der illegal aufhältigen Person oder der Person, die beim irregulären Überschreiten einer Aussengrenze aufgegriffen wurde, um einen unbegleiteten Minderjährigen, so muss sie bei der Erfassung der Daten im Eurodac von einer Vertrauensperson begleitet werden.
 
-3 Die Vertrauensperson muss über Kenntnisse des Ausländerrechts und des Rechts betreffend das Dublin-Verfahren verfügen. Sie begleitet und unterstützt die unbegleitete minderjährige Person im Wegweisungsverfahren unter Einschluss von Verfahren zur Anordnung von Zwangsmassnahmen nach den Artikeln 73–81 AIG.
+2 Kann für unbegleitete Minderjährige nicht sofort eine Beistand- oder Vormundschaft eingesetzt werden, so bestimmt die zuständige kantonale Behörde für die Dauer des ausländerrechtlichen Verfahrens, längstens aber bis zur Ernennung eines Beistandes, einer Beiständin, eines Vormundes oder einer Vormundin oder bis zum Eintritt der Volljährigkeit, unverzüglich eine Vertrauensperson nach den Artikeln 9b Absatz 4, 9c Absatz 4, 66 oder 109l Absatz 2 AIG.
+
+3 Die Vertrauensperson muss über Kenntnisse des Ausländerrechts und des Rechts betreffend das Dublin-Verfahren verfügen. Sie begleitet und unterstützt die unbegleitete minderjährige Person bei der Erfassung der Daten im Eurodac und während des Überprüfungs- und Wegweisungsverfahrens unter Einschluss von Verfahren zur Anordnung von Zwangsmassnahmen nach den Artikeln 73–81 AIG. Sie handelt zum Wohl der unbegleiteten Minderjährigen, berät sie und steht ihnen insbesondere bei der Kommunikation mit Behörden zur Seite.
 
 4 Sie erfüllt namentlich folgende Aufgaben:
 

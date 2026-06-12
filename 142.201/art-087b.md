@@ -1,3 +1,3 @@
-# Art. 87b Recht auf Auskunft und Recht auf Berichtigung oder Löschung von Daten im Eurodac
+# Art. 87b Auskunftsrecht und Recht auf Berichtigung, Ergänzung oder Löschung von Eurodac-Daten
 
-Das Verfahren zur Ausübung des Rechts auf Auskunft und des Rechts auf Berichtigung oder Löschung von Daten im Eurodac richtet sich nach Artikel 11a AsylV 3.
+Das Verfahren zur Ausübung des Auskunftsrechts und des Rechts auf Berichtigung, Ergänzung oder Löschung von Eurodac-Daten richtet sich nach den Artikeln 11b und 11c AsylV 3.
