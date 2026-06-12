@@ -4,7 +4,7 @@
 
   - a. Information und Beratung der Asylsuchenden;
 
-  - b. Teilnahme der Rechtsvertretung an der Erstbefragung in der Vorbereitungsphase und an der Anhörung zu den Asylgründen;
+  - b. Teilnahme der Rechtsvertretung an der Erstbefragung und an der Befragung gemäss Artikel 22 der Verordnung (EU) 2024/1351 in der Vorbereitungsphase und an der Anhörung zu den Asylgründen;
 
   - c. Stellungnahme zum Entwurf eines ablehnenden Asylentscheides im beschleunigten Verfahren;
 

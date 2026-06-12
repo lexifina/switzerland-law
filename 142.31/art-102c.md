@@ -1,4 +1,4 @@
-# Art. 102c Bekanntgabe von Personendaten an einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist
+# Art. 102c Bekanntgabe von Personendaten an einen Nicht-Dublin-Staat
 
 1 An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, wenn sie ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 DSG gewährleisten.
 
@@ -14,10 +14,6 @@
 
 4 Der Bundesrat bestimmt den Umfang der zu erbringenden Garantien und die Modalitäten der Garantieerbringung.
 
-5 Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen übermittelt werden an:
+5 Die in Eurodac gespeicherten Personendaten dürfen nicht an Drittstaaten, internationale Organisationen, private Stellen oder natürliche Personen übermittelt werden.
 
-  - a. einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist;
-
-  - b. internationale Organisationen;
-
-  - c. private Stellen.
+6 Das SEM darf jedoch an einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist, Daten übermitteln, wenn dies zum Nachweis der Identität einer oder eines Drittstaatsangehörigen zum Zweck der Rückkehr notwendig ist und die Bedingungen nach Artikel 50 der Verordnung (EU) 2024/1358 erfüllt sind.

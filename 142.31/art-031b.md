@@ -1,6 +1,6 @@
 # Art. 31b Anerkennung von Asyl- und Wegweisungsentscheiden der Dublin-Staaten
 
-1 Eine asylsuchende Person, gegen die in einem Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist (Dublin-Staat), ein ablehnender Asyl- und ein rechtskräftiger Wegweisungsentscheid ergangen ist, kann nach den Voraussetzungen der Richtlinie 2001/40/EG direkt in ihren Heimat- oder Herkunftsstaat weggewiesen werden, wenn:
+1 Eine asylsuchende Person, gegen die in einem Dublin-Staat ein ablehnender Asyl- und ein rechtskräftiger Wegweisungsentscheid ergangen ist, kann nach den Voraussetzungen der Richtlinie 2001/40/EG direkt in ihren Heimat- oder Herkunftsstaat weggewiesen werden, wenn:
 
   - a. der zuständige Dublin-Staat während längerer Zeit keine Wegweisungen in den Heimat- oder Herkunftsstaat der asylsuchenden Person vollzieht; und
 
