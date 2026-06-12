@@ -12,7 +12,7 @@
 
   - bter. die Daten über erteilte ETIAS-Reisegenehmigungen, falls eine Pflicht für solche besteht;
 
-  - c. den Zeitpunkt der Ein- und Ausreise in den und aus dem Schengen-Raum sowie die Grenzübergangsstelle und die für die Grenzkontrolle zuständige Behörde;
+  - c. den Zeitpunkt der Ein- und Ausreise in den und aus dem Schengen-Raum sowie die Grenzübergangsstelle und die für die Grenzkontrollen zuständige Behörde;
 
   - d. Einreiseverweigerungen.
 
