@@ -1,6 +1,6 @@
 # Art. 92a Meldepflicht der Luftverkehrsunternehmen
 
-1 Zur Verbesserung der Grenzkontrollen und zur Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und Durchreisen durch die internationalen Transitzonen der Flughäfen kann das SEM auf Gesuch der Grenzkontrollbehörden Luftverkehrsunternehmen verpflichten, ihm oder der für die Grenzkontrolle zuständigen Behörde zu bestimmten Flügen Personendaten der beförderten Personen sowie Daten zum Flug zu melden.
+1 Zur Verbesserung der Grenzkontrollen und zur Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und Durchreisen durch die internationalen Transitzonen der Flughäfen kann das SEM auf Gesuch der für die Grenzkontrollen zuständigen Behörden die Luftverkehrsunternehmen verpflichten, ihm oder der für die Grenzkontrollen zuständigen Behörde zu bestimmten Flügen Personendaten der beförderten Personen sowie Daten zum Flug zu melden.
 
 1bis Das SEM kann die Meldepflicht auf weitere Flüge ausdehnen:
 

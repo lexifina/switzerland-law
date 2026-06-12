@@ -1,12 +1,12 @@
 # Art. 9a Überwachung der Ankunft am Flughafen
 
-1 Die Ankunft von Flugpassagieren kann mit technischen Erkennungsverfahren überwacht werden. Die für die Grenzkontrolle zuständigen Behörden (Art. 7 und 9) verwenden die dabei erhobenen Daten:
+1 Die Ankunft von Flugpassagieren kann mit technischen Erkennungsverfahren überwacht werden. Die für die Grenzkontrollen zuständigen Behörden verwenden die dabei erhobenen Daten:
 
   - a. um bei Ausländerinnen und Ausländern, welche die Einreisevoraussetzungen nicht erfüllen, das benutzte Luftverkehrsunternehmen und den Abflugsort festzustellen;
 
   - b. um bei allen einreisenden Personen einen Vergleich mit den in Fahndungssystemen aufbewahrten Daten durchzuführen.
 
-2 Die zuständigen Behörden melden dem NDB, wenn sie durch diese Überwachung eine konkrete Gefährdung der inneren oder der äusseren Sicherheit feststellen. Sie können mit der Meldung die entsprechenden Daten weiterleiten.
+2 Die für die Grenzkontrollen zuständigen Behörden melden dem Nachrichtendienst des Bundes (NDB), wenn sie durch diese Überwachung eine konkrete Gefährdung der inneren oder der äusseren Sicherheit feststellen. Sie können mit der Meldung die entsprechenden Daten weiterleiten.
 
 3 Die erhobenen Daten müssen innerhalb von 30 Tagen gelöscht werden. Falls sie für ein hängiges straf-, asyl- oder ausländerrechtliches Verfahren benötigt werden, kann der Bundesrat vorsehen, dass bestimmte Daten länger aufbewahrt werden.
 

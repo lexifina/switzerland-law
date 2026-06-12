@@ -8,4 +8,4 @@
 
   - c. die kantonalen und kommunalen Migrationsbehörden.
 
-2 Der Bundesrat kann Luftverkehrsunternehmen, Flughafenbetreiber und andere Stellen, die die Identität einer Person prüfen müssen, für Personenkontrollen dazu ermächtigen, die auf dem Datenchip gespeicherten Fingerabdrücke zu lesen.
+2 Der Bundesrat kann Luftverkehrsunternehmen, Flugplatzhalter und andere Stellen, die die Identität einer Person prüfen müssen, dazu ermächtigen, die auf dem Datenchip gespeicherten Fingerabdrücke zu diesem Zweck zu lesen.

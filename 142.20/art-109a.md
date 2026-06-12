@@ -8,13 +8,15 @@
 
   - a. das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden: im Rahmen des Visumverfahrens;
 
-  - b. das SEM: zur Bestimmung des Staates, der in Anwendung der Verordnung (EU) Nr. 604/2013 für die Prüfung eines Asylgesuchs zuständig ist, und im Rahmen der Prüfung eines Asylgesuchs, wenn die Schweiz für dessen Bearbeitung zuständig ist;
+  - b. das SEM: zur Bestimmung des Staates, der in Anwendung der Verordnung (EU) 2024/1351 für die Prüfung eines Asylgesuchs zuständig ist, und im Rahmen der Prüfung eines Asylgesuchs, wenn die Schweiz für dessen Bearbeitung zuständig ist;
 
-  - c. das Grenzwachtkorps und die für die Kontrolle der Schengen-Aussengrenzen verantwortlichen kantonalen Polizeibehörden: zur Durchführung der Kontrollen an den Übergangsstellen der Aussengrenzen und im Hoheitsgebiet der Schweiz;
+  - c. das Grenzwachtkorps und die für die Kontrolle der Schengen-Aussengrenzen zuständigen kantonalen Polizeibehörden: zur Durchführung der Grenzkontrollen an den Schengen-Aussengrenzen;
 
   - d. das Grenzwachtkorps und die kantonalen undkommunalen Polizeibehörden, die Personenkontrollen durchführen: zur Identifikation der Personen, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet der Schweiz oder den Aufenthalt in der Schweiz nicht oder nicht mehr erfüllen;
 
-  - e. das SEM: im Rahmen der Erfüllung seiner Aufgaben als nationale ETIAS-Stelle.
+  - e. das SEM: im Rahmen der Erfüllung seiner Aufgaben als nationale ETIAS-Stelle;
+
+  - ebis. das SEM, das Grenzwachtkorps, die kantonalen und kommunalen Polizeibehörden, die Personenkontrollen durchführen, und die zuständigen kantonalen Migrationsbehörden: zur Durchführung einer Überprüfung gemäss den Artikeln 9b und 9c dieses Gesetzes sowie den Artikeln 21a und 26 Absatz 1bis AsylG.
 
 3 Die folgenden Behörden können im Sinne der Verordnung (EG) Nr. 767/2008 zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten bei der zentralen Zugangsstelle nach Absatz 4 bestimmte Daten des C‑VIS beantragen:
 

@@ -12,7 +12,7 @@
 
 2 Das SEM darf zur Überprüfung, ob die Luftverkehrsunternehmen ihre Meldepflicht erfüllen, und zur Durchsetzung der Sanktionen nach Artikel 122b mittels Abrufverfahren die Daten nach Artikel 92a Absatz 3 aus dem API-System abfragen.
 
-3 Die für die Personenkontrollen an den Schengen-Aussengrenzen zuständigen Behörden dürfen zur Verbesserung der Grenzkontrollen und zur Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und Durchreisen durch die internationalen Transitzonen der Flughäfen mittels Abrufverfahren die Daten nach Artikel 92a Absatz 3 sowie die Ergebnisse der Abgleiche nach Absatz 4 abfragen.
+3 Die für die Grenzkontrollen zuständigen Behörden dürfen zur Verbesserung der Grenzkontrollen und zur Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und Durchreisen durch die internationalen Transitzonen der Flughäfen mittels Abrufverfahren die Daten nach Artikel 92a Absatz 3 sowie die Ergebnisse der Abgleiche nach Absatz 4 abfragen.
 
 3bis Besteht der Verdacht, dass eine Person Straftaten nach Artikel 92a Absatz 1bis Buchstabe a vorbereitet oder durchführt, so kann fedpol mittels Abrufverfahren die Daten nach Artikel 92a Absatz 3 abfragen.
 

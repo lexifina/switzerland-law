@@ -1,6 +1,6 @@
 # Art. 104c Zugang zu Passagierdaten im Einzelfall
 
-1 Für die Durchführung der Grenzkontrolle, die Bekämpfung der illegalen Migration und den Vollzug von Wegweisungen müssen Luftverkehrsunternehmen den für die Grenzkontrolle zuständigen Behörden auf Verlangen Passagierlisten zur Verfügung stellen.
+1 Für die Durchführung der Grenzkontrollen, die Bekämpfung der illegalen Migration und den Vollzug von Wegweisungen müssen Luftverkehrsunternehmen den für die Grenzkontrollen zuständigen Behörden auf Verlangen Passagierlisten zur Verfügung stellen.
 
 2 Die Passagierlisten müssen die folgenden Daten enthalten:
 
@@ -12,4 +12,4 @@
 
 3 Die Pflicht, die Passagierlisten zur Verfügung zu stellen, endet sechs Monate nach Durchführung des Flugs.
 
-4 Die für die Grenzkontrolle zuständigen Behörden löschen die Daten innerhalb von 72 Stunden nach Erhalt.
+4 Die für die Grenzkontrollen zuständigen Behörden löschen die Daten innerhalb von 72 Stunden nach Erhalt.

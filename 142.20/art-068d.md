@@ -8,7 +8,7 @@
 
   - c. bekannt ist, dass die betroffene Person die Staatsangehörigkeit eines EU/EFTA-Staates erhalten hat.
 
-2 Die Löschung von Ausschreibungen zur Rückkehr im SIS nach Artikel 68a Absatz 1 erfolgt durch die zuständige Grenzkontrollbehörde, sobald die ausgeschriebene Person den Schengen-Raum über die Schweiz verlässt.
+2 Die Löschung von Ausschreibungen zur Rückkehr im SIS nach Artikel 68a Absatz 1 erfolgt durch die für die Grenzkontrollen zuständige Behörde, sobald die ausgeschriebene Person den Schengen-Raum über die Schweiz verlässt.
 
 3 Ausschreibungen zur Einreise- und Aufenthaltsverweigerung nach Artikel 68a Absatz 2 werden durch die ausschreibende Behörde gelöscht, sobald:
 

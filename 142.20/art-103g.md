@@ -1,9 +1,9 @@
-# Art. 103g Automatisierte Grenzkontrolle am Flughafen
+# Art. 103g Automatisierte Grenzkontrollen an Flugplätzen, die eine Schengen‑Aussengrenze bilden
 
-1 Die für die Grenzkontrolle an den Flughäfen zuständigen Behörden können ein automatisiertes Grenzkontrollverfahren betreiben.
+1 An Flugplätzen, die eine Schengen-Aussengrenze bilden, können die für die Grenzkontrollen zuständigen Behörden ein automatisiertes Verfahren für die Grenzkontrollen betreiben.
 
-2 Am automatisierten Grenzkontrollverfahren können Personen ab dem 12. Altersjahr teilnehmen, die, unabhängig von ihrer Nationalität, über ein Reisedokument verfügen, das mit einem Datenchip versehen ist. Dieser enthält ein Gesichtsbild der Inhaberin oder des Inhabers, dessen Echtheit und Integrität geprüft werden kann.
+2 Am automatisierten Verfahren können Personen ab 12 Jahren teilnehmen, die, unabhängig von ihrer Nationalität, über ein Reisedokument verfügen, das mit einem Datenchip versehen ist. Dieser enthält ein Gesichtsbild der Inhaberin oder des Inhabers, dessen Echtheit und Integrität geprüft werden kann.
 
-3 Der Bundesrat regelt die Modalitäten der automatisierten Grenzkontrolle.
+3 Der Bundesrat regelt die Modalitäten der automatisierten Grenzkontrollen.
 
-4 Im Rahmen des automatisierten Grenzkontrollverfahrens können die Fingerabdrücke und das Gesichtsbild der Person mit den Daten des Reisedokuments, das mit einem Datenchip versehen ist, abgeglichen werden.
+4 Im Rahmen des automatisierten Verfahrens können die Fingerabdrücke und das Gesichtsbild der Person mit den Daten des Reisedokuments, das mit einem Datenchip versehen ist, abgeglichen werden.
