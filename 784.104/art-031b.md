@@ -6,6 +6,6 @@
 
 3 Kurznummern für europäisch harmonisierte Dienste können in Bezug auf die Anzahl Ziffern vom Format nach Artikel 26 abweichen.
 
-3bis Verbindungen zu Kurznummern für europäisch harmonisierte Dienste von sozialem Wert müssen für die Anrufenden kostenlos sein.
+3bis …
 
 4 Das BAKOM kann für Kurznummern für europäisch harmonisierte Dienste Nutzungsbedingungen erlassen.
