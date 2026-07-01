@@ -4,7 +4,9 @@
 
   - a. den ökologischen Mehrwert eines zugrundeliegenden Brenn- oder Treibstoffs an Endverbraucherinnen oder Endverbraucher oder an eine Tankstelle abgibt;
 
-  - b. die Menge des zugrundeliegenden gasförmige Brenn- oder Treibstoffs an Endverbraucherinnen oder Endverbraucher oder einer Tankstelle abgibt und nicht ins schweizerische Gasnetz einspeist; oder
+  - abis. zugrundeliegenden Wasserstoff an Endverbraucherinnen oder Endverbraucher oder eine Tankstelle abgibt;
+
+  - b. die Menge des zugrundeliegenden Biogases oder des zugrundeliegenden Methans aus anderen erneuerbaren Energieträgern an Endverbraucherinnen oder Endverbraucher oder einer Tankstelle abgibt und nicht ins schweizerische Gasnetz einspeist; oder
 
   - c. die Menge des zugrundeliegenden Brenn- oder Treibstoffs:
 
@@ -22,6 +24,10 @@
 
   - c. im Rahmen der Pflicht zur Bereitstellung und zur Beimischung von emissionsarmen, erneuerbaren und erneuerbaren synthetischen Treibstoffen nach Artikel 28f des CO2-Gesetzes.
 
-3 Die Entwertung muss jeweils bis Ende eines Quartals vorgenommen werden.
+3 Die Entwertung muss jeweils vorgenommen werden:
 
-4 Wer einen Herkunftsnachweis, der auf der Basis ausländischer Zertifikate für erneuerbarer Gase ausgestellt worden ist, im freiwilligen Wärmemarkt einsetzt, muss ihn innerhalb eines Jahres entwerten.
+  - a. für die Herkunftsnachweise, die im vergangenen Quartal als Nachweis für die Lieferung von schweizerischem erneuerbarem Gas an Tankstellen eingesetzt worden sind: bis am 25. des Monats, der auf das entsprechende Quartal folgt;
+
+  - b. für die Herkunftsnachweise, die im vergangenen Jahr zu einem anderen Verwendungszweck als den Nachweis für die Lieferung von schweizerischem erneuerbarem Gas an Tankstellen eingesetzt worden sind: bis Ende Februar des Folgejahres.
+
+4 …

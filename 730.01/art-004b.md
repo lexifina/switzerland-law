@@ -16,6 +16,8 @@
 
     - 2. Wasserstoff in Brennstoffzellenfahrzeugen als Betriebsmittel im Fahrzeugtank importieren,
 
-    - 3. für die importierten Brenn- und Treibstoffe über einen ausländischen Herkunftsnachweis verfügen.
+    - 3. für die importierten Brenn- und Treibstoffe über einen ausländischen Herkunftsnachweis oder ein ausländisches Herkunftszertifikat verfügen.
 
-5 Importeure von ausländischen Herkunftsnachweisen für erneuerbare Gase und anderen ausländischen Zertifikaten für erneuerbare Gase müssen diese bei der Vollzugsstelle erfassen lassen.
+4bis Importeure von Brenn- oder Treibstoffen, die über ausländische Herkunftsnachweise oder ausländische Herkunftszertifikate verfügen, müssen diese bei der Vollzugsstelle erfassen lassen.
+
+5 Importeure von ausländischen Herkunftsnachweisen für erneuerbare Gase, ausländischen Herkunftszertifikaten für erneuerbare Gase und weiteren ausländischen Zertifikaten für erneuerbare Gase müssen diese bei der Vollzugsstelle erfassen lassen.
