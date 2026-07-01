@@ -28,7 +28,9 @@
 
   - j. falls von einer Aussteckung abgesehen werden soll, eine Begründung;
 
-  - k. Angaben, wie die Anforderungen nach den übrigen anwendbaren Bestimmungen von Bund und Kanton erfüllt werden.
+  - k. Angaben, wie die Anforderungen nach den übrigen anwendbaren Bestimmungen von Bund und Kanton erfüllt werden;
+
+  - l. bei Vorhaben ausserhalb der Bauzonen: Pläne, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25a Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000 und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25a Absatz 2 der Raumplanungsverordnung ersichtlich ist.
 
 2 Sind Enteignungen notwendig, ist das Gesuch mit den Angaben nach Artikel 28 des Bundesgesetzes über die Enteignung vom 20. Juni 1930 zu ergänzen.
 
