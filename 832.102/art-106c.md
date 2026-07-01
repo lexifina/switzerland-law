@@ -1,10 +1,12 @@
 # Art. 106c Aufgaben des Versicherers
 
-1 Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann. Er teilt dem Kanton ausserdem die genehmigte Prämie sowie den Ausgleichsbetrag nach Artikel 26 Absatz 4 der Krankenversicherungsaufsichtsverordnung vom 18. November 2015 mit.
+1 Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann. Er teilt dem Kanton ausserdem die genehmigte Prämie sowie den Ausgleichsbetrag nach Artikel 26 Absatz 4 der Krankenversicherungsaufsichtsverordnung vom 18. November 2015 (KVAV) mit.
+
+1bis Nimmt der Versicherer einen Ausgleich von zu hohen Prämieneinnahmen nach Artikel 17 KVAG vor, so teilt er dem Kanton zudem die versicherten Personen, deren Prämie vollständig durch die Prämienverbilligung nach Artikel 65 KVG gedeckt ist, sowie den Rückvergütungsbetrag nach Artikel 31a KVAV pro versicherte Person mit.
 
 2 Er meldet dem Kanton wesentliche Änderungen im Verhältnis zwischen der versicherten Person und ihm. Das EDI kann festlegen, welche Änderungen als wesentlich gelten.
 
-3 Der Versicherer legt dem Kanton eine Jahresrechnung vor. Diese umfasst je berechtigte Person die Personendaten nach Artikel 105g, den betroffenen Zeitraum, die Monatsprämien der obligatorischen Krankenpflegeversicherung und die ausgerichteten Beträge.
+3 Der Versicherer legt dem Kanton eine Jahresrechnung vor. Diese umfasst je berechtigte Person die Personendaten nach Artikel 105g, den betroffenen Zeitraum, die Monatsprämien der obligatorischen Krankenpflegeversicherung, die ausgerichteten Beträge und allfällige Rückvergütungsbeträge nach Artikel 31a KVAV.
 
 4 Der Versicherer gibt die Prämienverbilligung je versicherte Person und Monat auf der Prämienrechnung an. Er darf die Prämienverbilligung nicht auf dem Versicherungsausweis angeben.
 
