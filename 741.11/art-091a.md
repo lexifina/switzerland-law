@@ -8,7 +8,7 @@
 
   - c. Fahrzeuge, die einen Sattelanhänger mit einem zum Wohnen dienenden Aufbau mitführen;
 
-  - d. Fahrten der Feuerwehr, des Zivilschutzes, der Sanität, der Polizei und des Militärs sowie Fahrten zur Hilfeleistung bei Katastrophen;
+  - d. Fahrten der Feuerwehr, des Zivilschutzes, der Sanität, der Polizei, der Zollbehörden und des Militärs sowie Fahrten zur Hilfeleistung bei Katastrophen;
 
   - e. gewerbliche Traktoren, Motorkarren und Arbeitskarren sowie ihre Anhänger, sofern die Fahrzeuge während den Verbotszeiten ausschliesslich für land- und forstwirtschaftliche Fahrten verwendet werden (Art. 86–90);
 
@@ -16,19 +16,23 @@
 
   - g. Transporte von Lebensmitteln (Art. 4 des Lebensmittelgesetzes vom 20. Juni 2014, LMG), die nicht tiefgefroren, ultrahocherhitzt oder sterilisiert sind und deren Verbrauchsfrist höchstens 30 Tage beträgt;
 
-  - h. Transporte von Schlachttieren und Sportpferden;
+  - h. Transporte von lebenden Tieren;
 
-  - i. Transporte von Schnittblumen;
+  - i. Transporte von leicht verderblichen Gütern, die innert Tagesfrist verbraucht, weiterverarbeitet oder eingelagert werden müssen;
 
   - j. Transporte von Tageszeitungen mit redaktionellem Inhalt sowie Fahrten für aktuelle Fernsehreportagen;
 
   - k. Fahrten mit Raupenfahrzeugen zur Pistenbereitung;
 
+  - kbis. Fahrten mit Raupenfahrzeugen mit einem Gesamtgewicht bis 3,5 t zur Versorgung von Örtlichkeiten abseits befahrbarer Strassen;
+
   - l. Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist;
 
   - m. schwere Motorwagen mit einem Gesamtgewicht von höchstens 4250 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9a Abs. 2 VTS) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
 
-  - n. Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von höchstens 5750 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9a Abs. 2 VTS) verfügen und das 5000 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
+  - n. Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von höchstens 5750 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9a Abs. 2 VTS) verfügen und das 5000 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
+
+  - o. Fahrten für Bau und Unterhalt von Strassen, Gleisanlagen, Fernmeldeanlagen, Infrastrukturen der Energie- und Wasserversorgung sowie für die Pflege des öffentlichen Raums.
 
 2 Vom Sonntags- und Nachtfahrverbot ausgenommen sind ferner Fahrten zur Hilfeleistung bei Unfällen, Fahrzeugpannen und Betriebsstörungen, namentlich in öffentlichen Transportunternehmungen und im Flugverkehr, sowie Fahrten bei Winterdiensteinsätzen.
 
