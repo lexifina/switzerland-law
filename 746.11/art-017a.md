@@ -1,5 +1,11 @@
-# Art. 17a Meldungen an die kantonale Vermessungsaufsicht
+# Art. 17a Meldepflichten
 
-1 Das BFE informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+1 Das BFE informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-2 Die Unternehmung muss diese Stelle innert 20 Tagen über Änderungen ihrer Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+2 Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert die Unternehmung das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+  - a. den Baubeginn; und
+
+  - b. die Bauvollendung.
+
+3 Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt die Unternehmung gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 11 Buchstabe g in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979 zuständig ist.
