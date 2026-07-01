@@ -14,6 +14,6 @@
 
 4 Die Kompetenz zur Aufhebung und zur Verlängerung der Dauer der nach Absatz 3 bestimmten Planungszonen verbleibt auch nach der Genehmigung der Richtplananpassung bei der Kantonsregierung.
 
-5 Die Bezeichnung der Kantone nach Artikel 38a Absatz 5 zweiter Satz RPG erfolgt auf Ablauf der Frist hin in einem Anhang zu dieser Verordnung.
+5 Die Bezeichnung der Kantone nach Artikel 38a Absatz 5 zweiter Satz RPG erfolgt auf Ablauf der Frist hin in Anhang 3.
 
 6 Solange der Richtplan mit den nach Artikel 32b Buchstabe f bezeichneten Objekten nicht durch den Bund genehmigt ist, längstens aber mit Wirkung von fünf Jahren ab Inkrafttreten dieser Änderung, kann die Kantonsregierung die Liste der Kulturdenkmäler von kantonaler Bedeutung durch einfachen Beschluss provisorisch festlegen.
