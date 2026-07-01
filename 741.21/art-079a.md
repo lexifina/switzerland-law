@@ -1,6 +1,6 @@
 # Art. 79a Markierung von Park- und Halteverboten
 
-1 Am Fahrbahnrand angebrachte Parkverbotslinien (gelb, durchbrochen durch Kreuze; 6.22) und Parkverbotsfelder (gelb mit Diagonalkreuz; 6.23) verbieten das Parkieren an der markierten Stelle. Ist auf dem Parkverbotsfeld eine Aufschrift, wie «Taxi» oder wie eine Kontrollschildnummer, oder das Symbol «Gehbehinderte» (5.14), «Ladestation» (5.42) oder «Fahrzeuge mit einem Automatisierungssystem» (5.44) angebracht, so sind Ein- und Aussteigenlassen von Personen sowie Güterumschlag nur zulässig, wenn die Berechtigten nicht behindert werden.
+1 Am Fahrbahnrand angebrachte Parkverbotslinien (gelb, durchbrochen durch Kreuze; 6.22) und Parkverbotsfelder (gelb mit Diagonalkreuz; 6.23) verbieten das Parkieren an der markierten Stelle. Ist auf dem Parkverbotsfeld eine Aufschrift, wie «Taxi» oder wie eine Kontrollschildnummer, oder das Symbol «Gehbehinderte» (5.34.4), «Ladestation» (5.42) oder «Fahrzeuge mit einem Automatisierungssystem» (5.44) angebracht, so sind Ein- und Aussteigenlassen von Personen sowie Güterumschlag nur zulässig, wenn die Berechtigten nicht behindert werden.
 
 2 Am Fahrbahnrand angebrachte Halteverbotslinien (gelb, ununterbrochen; 6.25) verbieten das freiwillige Halten an der markierten Stelle.
 

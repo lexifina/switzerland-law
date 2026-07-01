@@ -6,6 +6,8 @@
 
 3 Die mit einem Zonensignal angezeigten Rechte und Pflichten gelten mit Beginn der Zonensignalisation bis zum jeweiligen Ende-Signal. Das Ende-Signal zeigt an, dass wiederum die allgemeinen Verkehrsregeln gelten.
 
+3bis Folgt auf eine Tempo-30-Zone eine Begegnungszone oder umgekehrt, zeigt das neue Zonensignal «Begegnungszone» (2.59.5) beziehungsweise «Tempo-30-Zone» (2.59.1) gleichzeitig das Ende der vorangegangenen Zone an.
+
 4 Mit einem Zonensignal dürfen höchstens drei Verkehrsanordnungen angezeigt werden.
 
 5 Die Signale «Tempo-30-Zone» (2.59.1), «Begegnungszone» (2.59.5) und «Fussgängerzone» (2.59.3) sind nur auf nicht verkehrsorientierten Nebenstrassen zulässig.
