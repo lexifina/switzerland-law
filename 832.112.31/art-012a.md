@@ -1,6 +1,6 @@
 # Art. 12a Prophylaktische Impfungen
 
-1 Die Versicherung übernimmt die Kosten für folgende prophylaktischen Impfungen gemäss den im «Referenzdokument Prophylaktische Impfungen» des BAG, Version vom 1. Januar 2026, genannten Impfindikationen, Impfschemata und zusätzlichen spezifischen Limitierungen:
+1 Die Versicherung übernimmt die Kosten für folgende prophylaktischen Impfungen gemäss den im «Referenzdokument Prophylaktische Impfungen» des BAG, Version vom 1. Juli 2026, genannten Impfindikationen, Impfschemata und zusätzlichen spezifischen Limitierungen:
 
   - a. Impfungen gegen Diphtherie und Tetanus;
 
