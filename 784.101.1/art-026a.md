@@ -1,4 +1,4 @@
-# Art. 26a Übermittlung von Nummern
+# Art. 26a …
 
 1 Verbindungserzeugende Anbieterinnen von öffentlichem Telefondienst müssen sicherstellen, dass als Nummer des anrufenden Anschlusses mindestens eine Nummer gemäss schweizerischem Nummerierungsplan E.164 übermittelt wird.
 
