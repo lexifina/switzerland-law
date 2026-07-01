@@ -35,3 +35,5 @@
 5 Elektronische Elektrizitätszähler nach Absatz 1 Buchstabe a unterstehen der Messmittelverordnung vom 15. Februar 2006 und den entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements, sofern sie in deren Geltungsbereich fallen.
 
 6 Verlangt ein Zusammenschluss zum Eigenverbrauch, eine lokale Elektrizitätsgemeinschaft oder ein Speicherbetreiber die Ausstattung mit einem intelligenten Messsystem, so muss der Netzbetreiber dieses innerhalb von drei Monaten installieren. Bei Zusammenschlüssen zum Eigenverbrauch bezieht sich dieser Anspruch auf alle Messpunkte des Zusammenschlusses gegenüber dem Netzbetreiber.
+
+7 Die Netzbetreiber müssen sicherstellen, dass ab dem 1. Januar 2028 bei allen Erzeugungsanlagen, die der Abnahme- und Vergütungspflicht nach Artikel 15 Absatz 1 EnG und der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001 (NIV) unterliegen, ein intelligentes Messsystem eingesetzt ist.
