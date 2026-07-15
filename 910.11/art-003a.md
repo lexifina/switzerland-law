@@ -2,7 +2,7 @@
 
 Keine Gebühren werden erhoben für:
 
-  - a. den Bezug von statistischen Dienstleistungen des BLW durch das Bundesamt für Statistik;
+  - a. …
 
   - b. Verfügungen betreffend Finanzhilfen und Abgeltungen;
 
