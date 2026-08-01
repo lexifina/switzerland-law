@@ -1,3 +1,9 @@
-# Art. 9a Auswertung der Lohnentwicklung
+# Art. 9a Vorschlag für die Lohnentwicklung
 
-Die Personalverantwortlichen werten die Abweichungen von der vorgeschlagenen Lohnentwicklung nach Artikel 39a Absätze 1–3 BPV aus, namentlich nach Geschlecht, Alter und Sprache der Angestellten.
+1 Liegt der Lohn der Angestellten unterhalb der Lohnentwicklungskurve, so berechnet sich der Vorschlag nach Anhang 1, bis der Lohn die Lohnentwicklungskurve erreicht.
+
+2 Liegt der Lohn auf der Lohnentwicklungskurve, so entspricht der Vorschlag dem Anstieg der Lohnentwicklungskurve nach Artikel 39 Absatz 1 Buchstaben a–d BPV.
+
+3 Liegt der Lohn der Angestellten über der Lohnentwicklungskurve, so erhalten die Vorgesetzten den Vorschlag, keine Lohnentwicklung zu beantragen.
+
+4 Die Angestellten werden über die Anzahl Erfahrungsjahre informiert, die dem Vorschlag für ihre Lohnentwicklung zugrunde liegen.
