@@ -5,3 +5,7 @@
 2 Die Kantone legen für diese Abfälle Einzugsgebiete fest und sorgen für einen wirtschaftlichen Betrieb der Abfallanlagen.
 
 3 Der Inhaber muss die Abfälle den von den Kantonen vorgesehenen Sammlungen oder Sammelstellen übergeben.
+
+4-6 …
+
+7 Selbst kleine Mengen von Abfällen, wie Verpackungen oder Zigarettenstummel, dürfen nicht ausserhalb der vorgesehenen Sammlungen weggeworfen oder liegengelassen werden. Die Kantone können bei bewilligungspflichtigen Veranstaltungen Ausnahmen von diesem Verbot vorsehen.
