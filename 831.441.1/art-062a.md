@@ -1,6 +1,6 @@
 # Art. 62a
 
-1 Das ordentliche Rentenalter der Frauen im AHVG gilt auch als ordentliches BVG-Rentenalter der Frauen (Art. 13 BVG).
+1 Das ordentliche Rentenalter der Frauen im AHVG gilt auch als ordentliches BVG-Rentenalter der Frauen (Art. 13 Abs. 1 BVG).
 
 2 Dieses Rentenalter ist ebenfalls massgebend für:
 
