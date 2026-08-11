@@ -1,9 +1,3 @@
-# Art. 7a Kontrolle und Vollzug
+# Art. 7a Automatische Übernahme von Listen der Vereinten Nationen
 
-1 Das SECO überwacht den Vollzug der Zwangsmassnahmen nach den Artikeln 1 und 2.
-
-2 Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
-
-3 Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit.
-
-4 Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+Die Listen, die der Sicherheitsrat der Vereinten Nationen beziehungsweise das zuständige Komitee des Sicherheitsrats der Vereinten Nationen betreffend natürliche Personen, Unternehmen und Organisationen erlassen oder aktualisiert hat (Anhang 1), werden automatisch übernommen.
