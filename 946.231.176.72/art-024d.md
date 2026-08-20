@@ -26,7 +26,9 @@
 
   - i. die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und der Abnahmetests für die Indienststellung ziviler Atomanlagen;
 
-  - j. den Kauf, die Einfuhr und den Transport von Steinkohle der Zolltarifnummer 2701, sofern diese ihren Ursprung nicht in der Russischen Föderation hat und sich nicht in russischem Eigentum befindet und lediglich in der Russischen Föderation verladen, aus der Russischen Föderation ausgeführt oder durch die Russische Föderation durchgeführt wird.
+  - j. den Kauf, die Einfuhr und den Transport von Steinkohle der Zolltarifnummer 2701, sofern diese ihren Ursprung nicht in der Russischen Föderation hat und sich nicht in russischem Eigentum befindet und lediglich in der Russischen Föderation verladen, aus der Russischen Föderation ausgeführt oder durch die Russische Föderation durchgeführt wird;
+
+  - k. den Kauf, die Einfuhr oder den Transport von Gütern der Zolltarifnummern 7207 12 10 und 7224 90, sofern es sich um Geschäfte mit dem in Anhang 15c unter der SSID-Nummer 175-104071 genannten Hafen handelt.
 
 3 Das Verbot nach Absatz 1 Buchstabe b gilt nicht für Geschäfte, die erforderlich sind für:
 

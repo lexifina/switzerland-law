@@ -30,7 +30,7 @@
 
 7 Die direkte oder indirekte Erbringung in den Absätzen 1 und 3 nicht genannter Dienstleistungen für die Regierung der Russischen Föderation unterliegt einer Bewilligungspflicht. Das SECO erteilt nach Rücksprache mit den zuständigen Stellen des EDA und des EFD die Bewilligung, sofern dies mit den Zielen dieser Verordnung in Einklang steht.
 
-8 Die Verbote nach den Absätzen 1, 2 und 4 gelten nicht für:
+8 Die Verbote nach den Absätzen 1, 2, 4 und 5 gelten nicht für:
 
   - a. Dienstleistungen und Software, die zur ausschliesslichen Nutzung durch juristische Personen, Unternehmen oder Organisationen in der Russischen Föderation bestimmt sind, die sich im Eigentum oder unter der alleinigen oder gemeinsamen Kontrolle von juristischen Personen, Unternehmen oder Organisationen befinden, die nach Schweizer Recht, dem Recht eines EWR-Mitgliedstaates oder dem Recht eines Partners gegründet oder eingetragen sind;
 

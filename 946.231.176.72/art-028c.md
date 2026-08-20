@@ -1,6 +1,6 @@
-# Art. 28c Verbote betreffend die Unterstützung öffentlicher Einrichtungen
+# Art. 28c Verbot betreffend die Unterstützung im Rahmen eines nationalen Programms der Schweiz
 
-1 Die unmittelbare oder mittelbare Unterstützung, insbesondere durch die Gewährung von Finanzmitteln oder sonstigen Vorteilen im Rahmen eines nationalen Programms der Schweiz, folgender juristischer Personen, Unternehmen oder Organisationen ist verboten:
+1 Die unmittelbare oder mittelbare Unterstützung, insbesondere durch die Gewährung von Finanzmitteln oder sonstigen Vorteilen, folgender juristischer Personen, Unternehmen oder Organisationen im Rahmen eines nationalen Programms der Schweiz ist verboten:
 
   - a. in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen;
 

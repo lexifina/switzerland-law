@@ -15,3 +15,5 @@
   - b. Ort und Datum der Einreise in die Schweiz;
 
   - c. Ort und Datum der Ausreise aus der Schweiz.
+
+3 Russische Staatsangehörige, die der Meldepflicht nach Absatz 1 unterliegen, müssen während ihres Aufenthalts in der Schweiz eine Kopie der Meldung mitführen und sie den zuständigen Behörden auf Verlangen vorlegen.

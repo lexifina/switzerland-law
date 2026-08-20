@@ -4,9 +4,11 @@
 
 1bis Die Durchfuhr durch die Russische Föderation von Gütern zur Stärkung der Industrie gemäss Anhang 23a ist verboten.
 
-2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach Absatz 1 oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter nach oder zur Verwendung in der Russischen Föderation sind verboten.
+1ter Der Verkauf, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern nach Anhang 23b an juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation, einschliesslich ihrer ausschliesslichen Wirtschaftszone und ihres Festlandsockels, sind verboten.
 
-2bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.
+2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern nach den Absätzen 1 und 1ter oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter nach oder zur Verwendung in der Russischen Föderation sind verboten.
+
+2bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach den Absätzen 1 und 1ter oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.
 
 3 Die Verbote nach den Absätzen 1–2 gelten nicht für Güter und Dienstleistungen, die:
 
@@ -46,7 +48,7 @@
 
   - f. Güter der Zolltarifnummern 7411 und 7412 mit einem inneren Durchmesser von bis zu 50 mm, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
-  - g. Güter der Zolltarifnummer 2920, 3917 10 und 3920 62, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind;
+  - g. Güter der Zolltarifnummern 2835 22 00, 2920, 3917 10 und 3920 62, falls diese ausschliesslich für die Herstellung von Lebensmitteln benötigt werden, die für den menschlichen Verzehr bestimmt sind;
 
   - h. Güter der Zolltarifnummern 7007 19 80, 7615 10, 8414 60, 8422 30 und 8423 10, falls diese von natürlichen Personen im Haushalt verwendet werden;
 
@@ -54,11 +56,13 @@
 
   - j. Güter der Zolltarifnummer 8517 62 und 8523 52, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind, die nicht einer Organisation gehören, die von einer staatlichen Stelle kontrolliert wird oder an der eine staatliche Stelle zu über 50 Prozent beteiligt ist;
 
-  - k. Güter der Zolltarifnummer 3916 20, falls diese für den Verkauf von PVC-Bodenbelägen an natürliche Personen zur Verwendung im Haushalt erforderlich sind;
+  - k. Güter der Zolltarifnummer 3916 20, falls diese für den Verkauf von PVC‑Bodenbelägen oder PVC-Fenstern an natürliche Personen zur Verwendung im Haushalt erforderlich sind;
 
   - l. Güter der Zolltarifnummer 8422 30, falls diese für die Verpackung von Lebensmitteln, Getränken oder Pharmazeutika erforderlich sind;
 
-  - m. Güter der Zolltarifnummer 3402 90, falls diese erforderlich sind für die Erfüllung von vor dem 1. Januar 2025 geschlossenen Verträgen bis zum 1. Januar 2028 oder bis zu ihrem Ablaufdatum, je nachdem, welcher Zeitpunkt früher liegt.
+  - m. Güter der Zolltarifnummer 3402 90, falls diese erforderlich sind für die Erfüllung von vor dem 1. Januar 2025 geschlossenen Verträgen bis zum 1. Januar 2028 oder bis zu ihrem Ablaufdatum, je nachdem, welcher Zeitpunkt früher liegt;
+
+  - n. Güter der Zolltarifnummern 3920, 3925 90, 4310 99 und 8302 41, die für den Verkauf von Fenstern erforderlich sind.
 
 6 Es kann Ausnahmen vom Verbot nach Absatz 1bis bewilligen, falls dies erforderlich ist für die Herstellung von Titangütern, die in der Luftfahrtindustrie benötigt werden und nicht anders beschafft werden können.
 

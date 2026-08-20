@@ -25,3 +25,11 @@
   - e. die Anerkennung oder Vollstreckung eines Gerichtsurteils oder eines Schiedsspruchs aus der Schweiz oder einem EWR-Mitgliedstaat;
 
   - f. die Untersuchung von Verstössen gegen diese Verordnung oder von anderen illegalen Aktivitäten.
+
+8 Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1–4 bewilligen, wenn ein Schiff nach Anhang 33 recycliert werden soll und die nach den Absätzen 1–4 verbotenen Tätigkeiten erforderlich sind für:
+
+  - a. die Fahrt des Schiffes zur Recyclinganlage;
+
+  - b. Tätigkeiten der Recyclinganlage, die in Bezug auf das Schiff relevant sind; oder
+
+  - c. Zahlungen im Zusammenhang mit dem Recycling.

@@ -12,7 +12,7 @@
 
   - b. nach Anhang 21, die für einen Drittstaat ausserhalb der Schweiz oder der EU bestimmt sind;
 
-  - c. der Zolltarifnummern 7201, 7203 und 7601, die Teil der von der EU festgelegten Einfuhrkontingente sind.
+  - c. der Zolltarifnummer 7601, die Teil der von der EU festgelegten Einfuhrkontingente sind.
 
 5 Das Verbot nach Absatz 1 gilt nicht für:
 

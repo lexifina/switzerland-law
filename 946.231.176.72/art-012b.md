@@ -20,4 +20,4 @@
 
 5 Natürliche und juristische Personen, die Dienstleistungen erbringen und die keinen Zugang zu den in Anhang 28 festgelegten Preisobergrenzen je Barrel für die betreffenden Güter haben, müssen für die Anwendung der Absätze 1 und 4 Buchstabe b für russisches Rohöl oder russische Erdölerzeugnisse gemäss Anhang 24, die ab dem 20. Februar 2024 verladen werden, aufgeschlüsselte Preisinformationen über Nebenkosten erheben; sie holen die Preisinformationen bei den Wirtschaftsbeteiligten in der weiter vorgelagerten Lieferkette von russischem Rohöl oder russischen Erdölerzeugnissen ein. Die Preisinformationen müssen den Gegenparteien und dem SECO auf Anfrage zur Verfügung gestellt werden.
 
-6 Alle Transaktionen zum Kauf oder zum Transport in Staaten ausserhalb der Schweiz von Erdgaskondensaten der Zolltarifnummer 2709 00 10 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation sind dem SECO innerhalb von zwei Wochen und unter Angabe der gekauften oder transportierten Mengen zu melden.
+6 …

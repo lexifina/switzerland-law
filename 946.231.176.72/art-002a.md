@@ -12,6 +12,8 @@
 
 4 Die Verbote nach den Absätzen 1–3bis gelten nicht für Ersatzteile und Dienstleistungen, die für die Wahrung, Wiederherstellung und Sicherung vorhandener militärischer Fähigkeiten der Schweiz oder eines Mitgliedstaates des Europäischen Wirtschaftsraums (EWR) erforderlich sind.
 
+4bis Die Verbote nach den Absätzen 1–3bis gelten nicht für die militärisch-forensische Analyse von Gütern mit Ursprung in der Russischen Föderation, die in der Ukraine sichergestellt wurden.
+
 5 Die Verbote nach den Absätzen 1 und 1bis gelten nicht für die vorübergehende Ausfuhr von Schutzkleidung, einschliesslich kugelsicherer Westen und Helme, zur persönlichen Verwendung durch das Personal der Organisation der Vereinten Nationen, der Europäischen Union oder des Bundes, durch Medienvertreterinnen und -vertreter sowie durch humanitäres Personal.
 
 6 Die Verbote nach den Absätzen 1, 1bis, 3 und 3bis gelten nicht für Güter und Dienstleistungen, die durch die Organisation für das Verbot chemischer Waffen gemäss Artikel X Absatz 7 des Chemiewaffenübereinkommens vom 13. Januar 1993 bei der Schweiz als Hilfeleistungen angefordert werden.
