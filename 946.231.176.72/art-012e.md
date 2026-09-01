@@ -20,7 +20,7 @@
 
   - c. sich im Eigentum von Personen, Organisationen oder Einrichtungen in der Russischen Föderation befindet oder von diesen verwaltet wird;
 
-  - d. und e. …
+  - d.und e. …
 
 3 Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
 
