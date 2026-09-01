@@ -1,14 +1,14 @@
 # Art. 2a Rüstungsgüter
 
-1 Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, nach der Russischen Föderation oder der Ukraine oder zur Verwendung in der Russischen Föderation oder der Ukraine sind verboten.
+1 Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, nach der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.
 
-1bis Die Durchfuhr durch die Russische Föderation oder die Ukraine von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, ist verboten.
+1bis Die Durchfuhr durch die Russische Föderation von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, ist verboten.
 
 2 Der Kauf, die Beschaffung, die Einfuhr und die Durchfuhr von Rüstungsgütern aller Art, einschliesslich Waffen und Munition, Militärfahrzeugen und -ausrüstung, paramilitärischer Ausrüstung sowie Bestandteilen, Zubehör und Ersatzteilen dafür, aus oder mit Ursprung in der Russischen Föderation sind verboten.
 
 3 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlungsdiensten und technischer Beratung, die Gewährung von Finanzmitteln sowie die Bereitstellung und Vermittlung von Versicherungen und Rückversicherungen im Zusammenhang mit dem Kauf, dem Verkauf, der Beschaffung, der Lieferung, der Ein-, Aus- und Durchfuhr, der Herstellung oder der Verwendung von Gütern nach den Absätzen 1 und 2 sind verboten.
 
-3bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Waffen und Munition sowie Bestandteilen, Zubehör und Ersatzteilen dafür oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder der Ukraine oder zur Verwendung in der Russischen Föderation oder der Ukraine sind verboten.
+3bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Waffen und Munition sowie Bestandteilen, Zubehör und Ersatzteilen dafür oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.
 
 4 Die Verbote nach den Absätzen 1–3bis gelten nicht für Ersatzteile und Dienstleistungen, die für die Wahrung, Wiederherstellung und Sicherung vorhandener militärischer Fähigkeiten der Schweiz oder eines Mitgliedstaates des Europäischen Wirtschaftsraums (EWR) erforderlich sind.
 
@@ -18,7 +18,7 @@
 
 6 Die Verbote nach den Absätzen 1, 1bis, 3 und 3bis gelten nicht für Güter und Dienstleistungen, die durch die Organisation für das Verbot chemischer Waffen gemäss Artikel X Absatz 7 des Chemiewaffenübereinkommens vom 13. Januar 1993 bei der Schweiz als Hilfeleistungen angefordert werden.
 
-6bis Die Verbote nach den Absätzen 1, 3 und 3bis gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zum Einbau in ein Rüstungsgut bestimmt sind und ihre Herstellungskosten weniger als 50 Prozent der Herstellungskosten des fertigen Rüstungsguts ausmachen.
+6bis …
 
 7 Das Staatssekretariat für Wirtschaft (SECO) kann nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) Ausnahmen von den Verboten nach den Absätzen 1–3bis bewilligen:
 

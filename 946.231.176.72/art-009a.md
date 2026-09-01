@@ -1,26 +1,14 @@
 # Art. 9a Güter und Technologien der Seeschifffahrt
 
-1 Der Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern und Technologien der Seeschifffahrt gemäss Anhang 16:
+1 Der Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, die Durchfuhr und der Transport von Gütern und Technologien der Seeschifffahrt gemäss Anhang 16 nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten.
 
-  - a. nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten;
+2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern und Technologien nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter und Technologien nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten.
 
-  - b. nach oder zur Verwendung in der Ukraine oder auf einem Schiff unter der Flagge der Ukraine unterliegen der Bewilligungspflicht.
-
-2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Gütern und Technologien nach Absatz 1 oder mit dem Verkauf, der Lieferung, der Ausfuhr, der Durchfuhr, dem Transport, der Bereitstellung, der Herstellung, der Wartung oder der Verwendung dieser Güter und Technologien:
-
-  - a. nach oder zur Verwendung in der Russischen Föderation oder auf einem Schiff unter der Flagge der Russischen Föderation sind verboten;
-
-  - b. nach oder zur Verwendung in der Ukraine oder auf einem Schiff unter der Flagge der Ukraine unterliegen der Bewilligungspflicht.
-
-2bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen:
-
-  - a. in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten;
-
-  - b. in der Ukraine oder zur Verwendung in der Ukraine unterliegen einer Bewilligungspflicht.
+2bis Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern nach Absatz 1 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Güter an natürliche oder juristische Personen, Organisationen oder Einrichtungen in der Russischen Föderation oder zur Verwendung in der Russischen Föderation sind verboten.
 
 3 Die Verbote nach den Absätzen 1 Buchstabe a und 2 Buchstabe a und die Bewilligungspflichten nach den Absätzen 1 Buchstabe b und 2 Buchstabe b gelten nicht für den Verkauf, die Bereitstellung, die Lieferung, die Ausfuhr, den Transport und die Durchfuhr der Güter und Technologien nach Absatz 1 und die Bereitstellung von damit verbundener technischer Hilfe oder Finanzhilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzer, wenn die Güter und Technologien für humanitäre Zwecke, gesundheitliche Notlagen, die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder auf die Umwelt haben wird, oder für die Bewältigung von Naturkatastrophen bestimmt sind.
 
-3bis Die Verbote und Bewilligungspflichten nach den Absätzen 1–2bis und 5 gelten nicht für Güter, die aus der Schweiz nach einem Staat gemäss Anhang 34 geliefert werden, sofern sie zum Einbau in ein Gut gemäss Anhang 16 bestimmt sind und ihre Herstellungskosten weniger als 50 Prozent der Herstellungskosten des fertigen Guts ausmachen.
+3bis …
 
 4 Das SECO kann Ausnahmen vom Verbot nach Absatz 1 Buchstabe a und dem Verbot der Bereitstellung von damit verbundener technischer Hilfe und Finanzhilfe für nichtmilitärische Zwecke und für nichtmilitärische Endnutzer bewilligen, wenn die Güter und Technologien nach Absatz 1 oder die damit verbundene technische Hilfe oder Finanzhilfe für die maritime Sicherheit bestimmt sind.
 
