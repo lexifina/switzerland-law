@@ -1,0 +1,7 @@
+# Art. 1b Gold
+
+1 Der Kauf von Gold gemäss Anhang 3 mit Ursprung im Sudan, das nach dem 9. September 2026 aus dem Sudan ausgeführt wurde, und die Einfuhr, die Durchfuhr und der Transport solchen Goldes in und durch die Schweiz sind verboten.
+
+2 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung, technischer Hilfe und der Gewährung von Finanzmitteln, im Zusammenhang mit dem Kauf, der Einfuhr, der Durchfuhr und dem Transport in und durch die Schweiz sowie mit der Bereitstellung, der Herstellung oder der Verwendung von Gold nach Absatz 1 sind verboten.
+
+3 Die Verbote nach den Absätzen 1 und 2 gelten nicht für Güter, die erforderlich sind für die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner im Sudan oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.
