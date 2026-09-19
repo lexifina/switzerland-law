@@ -37,3 +37,5 @@
   - f. Güter der Zolltarifnummer 3916 20, falls diese für den Verkauf von PVC-Bodenbelägen an natürliche Personen zur Verwendung im Haushalt erforderlich sind.
 
 9 Es kann Ausnahmen von den Verboten nach den Absätzen 1 und 3 bewilligen für Güter der Zolltarifnummern 8517 62 und 8523 52 für nichtmilitärische Zwecke und nichtmilitärische Endempfänger, falls diese für zivile, nicht öffentlich zugängliche elektronische Kommunikationsnetze bestimmt sind.
+
+10 Es verweigert die Bewilligung von Ausnahmen für Güter und Dienstleistungen nach den Absätzen 7 und 8, wenn diese ganz oder teilweise für militärische Zwecke oder für militärische Endempfänger bestimmt sind.

@@ -18,13 +18,15 @@
 
   - h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
 
+1bis Die Erbringung von Dienstleistungen in direktem Zusammenhang mit touristischen Aktivitäten in Belarus ist verboten.
+
 2 Der Verkauf, die Lieferung, die Ausfuhr, der Transport und die Bereitstellung von Software für die Unternehmensführung, für Industriedesign und Fertigung sowie für den Banken- und Finanzsektor nach Anhang 27 an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder natürliche oder juristische Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sowie die Durchfuhr dieser Software durch die Schweiz sind verboten.
 
 3 Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Beratung, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Dienstleistungen oder Software nach den Absätzen 1 und 2 oder im Zusammenhang mit dem Verkauf, der Ausfuhr, der Durchfuhr, dem Transport oder der Bereitstellung dieser Dienstleistungen oder Software nach oder zur Verwendung in Belarus sind verboten.
 
 4 Der mittelbare und unmittelbare Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, die Erteilung von Lizenzen für solche Rechte und Geheimnisse, die anderweitige Weitergabe solcher Rechte und Geheimnisse sowie die Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Software nach Absatz 2 oder mit der Bereitstellung, Herstellung, Wartung oder Verwendung dieser Software an die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen und Agenturen oder natürliche oder juristische Personen, Organisationen oder Einrichtungen, die im Namen oder auf Weisung der Republik Belarus, ihrer Regierung, ihrer öffentlichen Stellen, Unternehmen oder Agenturen handeln, sind verboten.
 
-5 Die direkte oder indirekte Erbringung in Absatz 1 nicht genannter Dienstleistungen für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen oder Agenturen unterliegt einer Bewilligungspflicht. Das SECO erteilt nach Rücksprache mit den zuständigen Stellen des EDA und des EFD die Bewilligung, sofern dies mit den Zielen dieser Verordnung in Einklang steht.
+5 Die direkte oder indirekte Erbringung in den Absätzen 1 und 1bis nicht genannter Dienstleistungen für die Republik Belarus, ihre Regierung, ihre öffentlichen Stellen, Unternehmen oder Agenturen unterliegt einer Bewilligungspflicht. Das SECO erteilt nach Rücksprache mit den zuständigen Stellen des EDA und des EFD die Bewilligung, sofern dies mit den Zielen dieser Verordnung in Einklang steht.
 
 6 Die Verbote nach den Absätzen 1–3 gelten nicht für:
 
