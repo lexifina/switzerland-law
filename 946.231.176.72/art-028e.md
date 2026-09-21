@@ -16,7 +16,9 @@
 
   - g. Dienstleistungen im Bereich der künstlichen Intelligenz in Bezug auf den Zugang zu Modellen oder Plattformen für deren Training, Feinabstimmung und Inferenz;
 
-  - h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen.
+  - h. Hochleistungsrechendienste, einschliesslich des Zugangs zu durch Grafikprozessoren beschleunigter Rechentechnik, und Quanteninformatikdienstleistungen;
+
+  - i. verwaltete Sicherheitsdienste.
 
 2 Die Verbote nach Absatz 1 Buchstaben a–c und e gelten auch für juristische Personen, Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten.
 
