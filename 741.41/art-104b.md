@@ -8,4 +8,6 @@
 
   - a. Motorwagen, bei denen die Zulassungsbehörde im Einzelfall eine Ausnahme gestattet, weil das Anbringen von seitlichen Schutzvorrichtungen aus technischen oder betrieblichen Gründen nicht möglich ist;
 
-  - b. Militärfahrzeuge.
+  - b. Militärfahrzeuge;
+
+  - c. Fahrzeuge der Klasse N2 mit emissionsfreiem Antrieb, deren Gesamtgewicht höchstens 4,25 t beträgt und deren 3,50 t überschreitendes Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
