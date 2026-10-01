@@ -1,0 +1,15 @@
+# Art. 8.5 Verfahren des Schiedsgerichts
+
+1. Sofern dieses Abkommen nichts anderes vorsieht oder die Streitparteien nichts anderes vereinbart haben, richtet sich das Verfahren des Schiedsgerichts mutatis mutandis nach den PCA-Regeln 2012.
+
+2. Das Schiedsgericht prüft die ihm im Antrag auf Einsetzung eines Schiedsgerichts unterbreitete Angelegenheit im Lichte der einschlägigen Bestimmungen dieses Abkommens, die in Übereinstimmung mit den Auslegungsregeln des Völkerrechts ausgelegt werden.
+
+3. Alle Verhandlungen werden in englischer Sprache geführt. Die Anhörungen des Schiedsgerichts finden in Den Haag statt und sind öffentlich, sofern die Streitparteien nichts anderes vereinbaren.
+
+4. Es darf keine einseitigen Kontakte zum Schiedsgericht zu Angelegenheiten geben, die diesem zur Beurteilung vorliegen.
+
+5. Alle Dokumente und Informationen, die eine Vertragspartei dem Schiedsgericht unterbreitet, übermittelt sie gleichzeitig auch der anderen Streitpartei. Schriftliche Eingaben, Anträge, Mitteilungen oder andere Dokumente gelten als erhalten, wenn sie den Adressatinnen und Adressaten über diplomatische Kanäle übermittelt wurden.
+
+6. Die Vertragsparteien behandeln Informationen als vertraulich, die eine andere Vertragspartei dem Schiedsgericht unterbreitet und als vertraulich bezeichnet hat.
+
+7. Entscheide des Schiedsgerichts werden durch Mehrheitsentscheid getroffen. Mitglieder können zu Angelegenheiten, in denen keine Einstimmigkeit erreicht wurde, getrennte Stellungnahmen abgeben. Das Schiedsgericht legt nicht offen, welche Mitglieder den Standpunkt der Mehrheit oder der Minderheit vertreten.
