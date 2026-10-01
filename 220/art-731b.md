@@ -6,7 +6,7 @@
 
   - 2. Ein vorgeschriebenes Organ der Gesellschaft ist nicht richtig zusammengesetzt.
 
-  - 3. Die Gesellschaft führt das Aktienbuch oder das Verzeichnis über die ihr gemeldeten wirtschaftlich berechtigten Personen nicht vorschriftsgemäss.
+  - 3. Die Gesellschaft führt das Aktienbuch nicht vorschriftsgemäss.
 
   - 4. Die Gesellschaft hat Inhaberaktien ausgegeben, ohne dass sie Beteiligungspapiere an einer Börse kotiert hat oder die Inhaberaktien als Bucheffekten ausgestaltet sind.
 

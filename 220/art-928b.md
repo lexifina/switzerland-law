@@ -6,4 +6,6 @@
 
 3 Die Datenerfassung für die zentrale Datenbank Personen obliegt den Handelsregisterämtern. Die Oberaufsichtsbehörde des Bundes über das Handelsregister macht die Daten der natürlichen Personen für Einzelabfragen im Internet gebührenfrei zugänglich.
 
+3bis Der Bundesrat kann die zentrale Datenbank Personen auf Daten von nicht im Handelsregister eingetragenen Personen ausweiten, die in einem Informationssystem des Bundes erfasst sind, um die Identität dieser Personen zu prüfen. Dazu kann er Bundesbehörden sowohl die Abfrage als auch die Erfassung von Daten in dieser Datenbank erlauben. Er regelt den Zugang zu den Daten, die von den Bundesbehörden in der zentralen Datenbank Personen erfasst wurden.
+
 4 Der Bundist für die Sicherheit der Informationssysteme und die Rechtmässigkeit der Datenbearbeitung verantwortlich.

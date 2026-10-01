@@ -22,7 +22,7 @@
 
   - 2. der Auflösung der Gesellschaft durch Urteil des Gerichts;
 
-  - 3. der Meldung der wirtschaftlich berechtigten Person gemäss Artikel 697j.
+  - 3. …
 
 5 Sie werden berechnet:
 
