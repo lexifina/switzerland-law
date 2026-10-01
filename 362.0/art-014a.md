@@ -8,6 +8,10 @@
 
   - b. im Hinblick auf die Teilnahme an einem Strafverfahren;
 
-  - c. von Vermissten oder schutzbedürftigen Personen.
+  - c. von Vermissten oder schutzbedürftigen Personen;
 
-3 Eine Personenausschreibung nach Absatz 2 Buchstabe a kann auch mit einer Feuerwaffe ergänzt werden.
+  - d. bei Informationsausschreibungen zu Drittstaatsangehörigen.
+
+3 Eine Personenausschreibung nach Absatz 2 Buchstabe a oder d kann auch mit einer Feuerwaffe ergänzt werden.
+
+4 Eine Informationsausschreibung zu Drittstaatsangehörigen kann auch mit einem bargeldlosen Zahlungsmittel ergänzt werden.

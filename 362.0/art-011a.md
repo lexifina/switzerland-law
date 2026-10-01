@@ -24,4 +24,6 @@ Folgende Daten sind zwingend zu erfassen:
 
     - 1. eine Bezugnahme auf die Entscheidung, die der Ausschreibung zugrunde liegt,
 
-    - 2. die Kategorie der Gründe für die Ausschreibung.
+    - 2. die Kategorie der Gründe für die Ausschreibung;
+
+  - e. bei Informationsausschreibungen zu Drittstaatsangehörigen: die Art der Straftat gemäss Anhang 4 BPI.

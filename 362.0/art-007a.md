@@ -8,7 +8,7 @@
 
   - c. den Inhalt der Protokolle zu automatisierten Abfragen von Fahrzeugen im System zur «Automatischen Fahrzeugfahndung und Verkehrsüberwachung (AFV)» (Art. 12 Abs. 8 der Verordnung (EU) 2018/1862);
 
-  - d. die technischen Vorschriften für die Eingabe, Aktualisierung, Löschung und Abfrage der Daten und Zusatzinformationen (Art. 20 Abs. 3 der Verordnung (EU) 2018/1861 und Art. 20 Abs. 4, 26 Abs. 6, 32 Abs. 9, 34 Abs. 3, 36 Abs. 6 und 62 Abs. 4 der Verordnung (EU) 2018/1862);
+  - d. die technischen Vorschriften für die Eingabe, Aktualisierung, Löschung und Abfrage der Daten und Zusatzinformationen (Art. 20 Abs. 3 der Verordnung (EU) 2018/1861 und Art. 20 Abs. 4, 26 Abs. 6, 32 Abs. 9, 34 Abs. 3, 36 Abs. 6, 37a Abs. 15 und 62 Abs. 4 der Verordnung (EU) 2018/1862);
 
   - e. Vorschriften zur Kategorisierung von Personenausschreibungen, Arten von Fällen und zur Eingabe der Daten bei Verknüpfung mit Sachausschreibungen (Art. 32 Abs. 9 der Verordnung (EU) 2018/1862);
 
