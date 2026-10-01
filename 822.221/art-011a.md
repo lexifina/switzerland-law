@@ -6,7 +6,7 @@
 
   - b. das Fahrzeug mit einem digitalen Fahrtschreiber ausgerüstet ist.
 
-2 Bei Fahrten zwischen 22.00 und 06.00 Uhr ist die Lenkzeit nach Artikel 8 Absatz 1 auf drei Stunden zu kürzen, ausser bei Mehrfachbesatzung.
+2 Wenn die wöchentliche Ruhezeit verschoben wird, ist bei Fahrten zwischen 22.00 und 06.00 Uhr die Pause nach Artikel 8 Absatz 1 bereits nach drei Stunden Lenkzeit einzulegen. Dies gilt nicht bei Fahrten mit Mehrfachbesatzung.
 
 3 Abweichend von Artikel 8 Absatz 2 können bei Rundfahrten zwei Pausen von je mindestens 15 Minuten eingelegt werden; diese Pausen sind so einzulegen, dass Artikel 8 Absatz 1 eingehalten ist.
 

@@ -1,6 +1,6 @@
 # Art. 13c Werkstattkarte
 
-1 Werkstattkarten werden Werkstätten erteilt, die über eine Bewilligung nach Artikel 101 der Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS) verfügen und die die Voraussetzungen für die Erteilung einer Unternehmenskarte nicht erfüllen. In begründeten Fällen können Werkstattkarten auch Werkstätten erteilt werden, die die Voraussetzungen für die Erteilung einer Unternehmenskarte erfüllen, wenn ihre unternehmerische Tätigkeit das Sicherheitssystem nach der Verordnung (EU) Nr. 165/2014 nicht gefährdet.
+1 Werkstattkarten werden Werkstätten erteilt, die über eine Bewilligung nach Artikel 101 VTS verfügen und die die Voraussetzungen für die Erteilung einer Unternehmenskarte nicht erfüllen. In begründeten Fällen können Werkstattkarten auch Werkstätten erteilt werden, die die Voraussetzungen für die Erteilung einer Unternehmenskarte erfüllen, wenn ihre unternehmerische Tätigkeit das Sicherheitssystem nach der Verordnung (EU) Nr. 165/2014 nicht gefährdet.
 
 2 Das Gesuch um eine Werkstattkarte ist beim Bundesamt für Zoll und Grenzsicherheit (BAZG) einzureichen und beinhaltet die Daten zur Werkstatt und zum Werkstatttechniker oder zur Werkstatttechnikerin nach Anhang 2 Ziffern 222 und 223 IVZV.
 
