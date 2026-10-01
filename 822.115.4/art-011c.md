@@ -6,4 +6,4 @@
 
   - b. Logistikerin EBA/Logistiker EBA.
 
-2 Lernende in der beruflichen Grundbildung Logistikerin EFZ/Logistiker EFZ mit der Fachrichtung Verkehr dürfen ab dem vollendeten 17. Altersjahr höchstens 2 Nächte pro Woche und höchstens 10 Nächte pro Jahr arbeiten.
+2 Lernende in der beruflichen Grundbildung Fachfrau Bahntransport EFZ / Fachmann Bahntransport EFZ dürfen ab dem vollendeten 17. Altersjahr höchstens 2 Nächte pro Woche und höchstens 10 Nächte pro Jahr arbeiten.
