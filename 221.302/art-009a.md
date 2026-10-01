@@ -6,7 +6,7 @@
 
   - b. für diese Prüfungen ausreichend organisiert ist; und
 
-  - c. keine andere nach den Finanzmarktgesetzen (Art. 1 Abs. 1 FINMAG) bewilligungspflichtige Tätigkeit ausübt.
+  - c. keine andere nach den Finanzmarktgesetzen (Art. 1 Abs. 1 FINMAG) bewilligungspflichtige Tätigkeit ausübt; ausgenommen ist die Beratertätigkeit nach Artikel 2 Absätze 3bis und 3ter des Geldwäschereigesetzes vom 10. Oktober 1997.
 
 2 Eine Person wird zur Leitung von Prüfungen nach Artikel 2 Buchstabe a Ziffer 2 (leitende Prüferin oder leitender Prüfer) zugelassen, wenn sie:
 
