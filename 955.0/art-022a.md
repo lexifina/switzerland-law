@@ -8,7 +8,7 @@
 
   - b. die Aufsichtsorganisationen zuhanden der Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe abis, die ihrer laufenden Aufsicht unterstehen;
 
-  - c. die Selbstregulierungsorganisationen zuhanden der diesen angeschlossenen Finanzintermediäre.
+  - c. die Selbstregulierungsorganisationen zuhanden der diesen angeschlossenen Personen.
 
 3 Die ESBK, die interkantonale Behörde und das Zentralamt leiten die vom EFD erhaltenen Daten an die ihnen unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben e–g weiter.
 

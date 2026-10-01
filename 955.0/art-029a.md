@@ -8,4 +8,4 @@
 
 3 Sie können der FINMA, der ESBK, der interkantonalen Behörde und dem Zentralamt alle Informationen erteilen und Unterlagen übermitteln, die diese im Rahmen der Erfüllung ihrer Aufgabe verlangen, sofern das Strafverfahren nicht beeinträchtigt wird.
 
-4 Die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden. Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.
+4 Die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt koordinieren allfällige Interventionen bei einem Finanzintermediär oder einer Beraterin oder einem Berater mit den zuständigen Strafverfolgungsbehörden. Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.

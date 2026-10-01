@@ -14,6 +14,6 @@
 
 4 Der Finanzintermediär, der gestützt auf Absatz 2 oder 3 informiert worden ist, untersteht dem Informationsverbot nach Absatz 1.
 
-5 Die Händlerin oder der Händler darf weder Betroffene noch Dritte darüber informieren, dass sie oder er eine Meldung nach Artikel 9 erstattet hat.
+5 Die Händlerin oder der Händler oder die Beraterin oder der Berater darf weder Betroffene noch Dritte darüber informieren, dass sie oder er eine Meldung nach Artikel 9 erstattet hat. Nicht als Dritte gelten die Behörden und Organisationen, die für die Aufsicht nach Artikel 12 zuständig sind, sowie die Personen, die im Rahmen der Aufsicht Prüfungen durchführen.
 
 6 Ausgenommen vom Informationsverbot nach den Absätzen 1 und 5 bleibt die Wahrung eigener Interessen im Rahmen eines Zivilprozesses oder eines Straf- oder Verwaltungsverfahrens.

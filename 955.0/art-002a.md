@@ -15,3 +15,5 @@
 4 Inländische politisch exponierte Personen gelten 18 Monate nach Aufgabe der Funktion nicht mehr als politisch exponiert im Sinne dieses Gesetzes. Die allgemeinen Sorgfaltspflichten der Finanzintermediäre bleiben vorbehalten.
 
 5 Als internationale Sportverbände im Sinne von Absatz 1 Buchstabe c gelten das Internationale Olympische Komitee sowie die von ihm anerkannten nichtstaatlichen Organisationen, die auf globaler Ebene eine oder mehrere offizielle Sportarten regeln.
+
+6 Nicht operative Rechtseinheiten sind juristische Personen, Gesellschaften, Anstalten, Stiftungen, Trusts, Treuhandunternehmen und ähnliche Verbindungen, die nicht zum Zweck des Betriebs oder der Unterstützung der operativen Tätigkeiten eines Unternehmens oder eines Konzerns gegründet oder unterhalten werden, insbesondere Sitzgesellschaften.

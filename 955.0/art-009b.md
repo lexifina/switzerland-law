@@ -4,6 +4,8 @@
 
 2 Der Finanzintermediär, der die Geschäftsbeziehung abbrechen will, darf den Rückzug bedeutender Vermögenswerte nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.
 
+2bis Die Beraterin oder der Berater, die oder der eine Meldung erstattet, kann die Geschäftsbeziehung jederzeit abbrechen.
+
 3 Der Abbruch der Geschäftsbeziehung und das Datum des Abbruchs sind der Meldestelle unverzüglich mitzuteilen.
 
 4 Nach dem Abbruch der Geschäftsbeziehung ist das Informationsverbot nach Artikel 10a Absatz 1 weiterhin einzuhalten.
