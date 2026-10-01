@@ -1,4 +1,4 @@
-# Art. 29b
+# Art. 29b Informationsaustausch mit der Meldestelle
 
 1 Die Meldestelle kann mit den Aufsichtsorganisationen und den Selbstregulierungsorganisationen alle Auskünfte austauschen, die für die Anwendung dieses Gesetzes notwendig sind.
 
