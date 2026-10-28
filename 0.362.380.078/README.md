@@ -1,0 +1,7 @@
+# Notenaustausch vom 14. Dezember 2018 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2018/1726 über die Agentur der Europäischen Union für das Betriebsmanagement von IT-Grosssystemen (eu-LISA), zur Änderung der Verordnung (EG) Nr. 1987/2006 und des Beschlusses 2007/533/JI sowie zur Aufhebung der Verordnung (EU) Nr. 1077/2011 (Weiterentwicklung des Schengen-Besitzstands)
+
+SR 0.362.380.078 ·  · <https://fedlex.data.admin.ch/eli/cc/2018/809>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |

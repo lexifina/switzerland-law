@@ -1,0 +1,16 @@
+# Europäisches Übereinkommen vom 16. September 1968 über die Beschränkung der Verwendung bestimmter Detergentien in Wasch- und Reinigungsmitteln
+
+SR 0.814.226.29 ·  · <https://fedlex.data.admin.ch/eli/cc/1975/2242_2241_2241>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |
+| [Art. 1](art-001.md) |  | 0 |  |
+| [Art. 2](art-002.md) |  | 0 |  |
+| [Art. 3](art-003.md) |  | 0 |  |
+| [Art. 4](art-004.md) |  | 0 |  |
+| [Art. 5](art-005.md) |  | 0 |  |
+| [Art. 6](art-006.md) |  | 0 |  |
+| [Art. 7](art-007.md) |  | 0 |  |
+| [Art. 8](art-008.md) |  | 0 |  |
+| [Art. 9](art-009.md) |  | 0 |  |

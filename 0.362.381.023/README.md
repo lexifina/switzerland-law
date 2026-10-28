@@ -1,0 +1,7 @@
+# Notenaustausch vom 21. August 2023 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme des Durchführungsbeschlusses (EU) 2023/1061 zur Aufstellung der Liste der Reisedokumente der Russischen Föderation, die in von der Russischen Föderation besetzten Regionen oder Gebieten in der Ukraine oder abtrünnigen Gebieten in Georgien, die nicht unter der Kontrolle der georgischen Regierung stehen, oder für Personen mit Wohnsitz in diesen Regionen und Gebieten ausgestellt werden und nicht als gültige Reisedokumente für die Zwecke der Visumerteilung und des Überschreitens der Aussengrenzen anerkannt werden (Weiterentwicklung des Schengen-Besitzstands)
+
+SR 0.362.381.023 ·  · <https://fedlex.data.admin.ch/eli/cc/2023/615>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |

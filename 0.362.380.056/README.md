@@ -1,0 +1,7 @@
+# Notenaustausch vom 21. August 2013 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 610/2013 zur Änderung des Schengener Grenzkodex (Verordnung [EG] Nr. 562/2006), des Schengener Durchführungsübereinkommens sowie der Verordnungen (EG) Nr. 1683/95, (EG) Nr. 539/2001, (EG) Nr. 767/2008 und (EG) Nr. 810/2009 (Weiterentwicklung des Schengen-Besitzstands)
+
+SR 0.362.380.056 ·  · <https://fedlex.data.admin.ch/eli/cc/2013/582>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |

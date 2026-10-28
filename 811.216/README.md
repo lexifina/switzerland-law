@@ -1,0 +1,29 @@
+# Verordnung vom 13. Dezember 2019 über das Register der Gesundheitsberufe (Registerverordnung GesBG)
+
+SR 811.216 ·  · <https://fedlex.data.admin.ch/eli/cc/2020/20>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |
+| [Art. 1](art-001.md) | Gegenstand | 0 |  |
+| [Art. 2](art-002.md) | Registerführende Stelle | 0 |  |
+| [Art. 3](art-003.md) | Aufsicht über die registerführende Stelle | 0 |  |
+| [Art. 4](art-004.md) | SRK | 1 | 2022-01-01 |
+| [Art. 5](art-005.md) | Kantone | 1 | 2022-01-01 |
+| [Art. 6](art-006.md) | Hochschulen und andere Institutionen des Hochschulbereichs | 0 |  |
+| [Art. 7](art-007.md) | Höhere Fachschulen | 0 |  |
+| [Art. 8](art-008.md) | Bundesamt für Statistik | 0 |  |
+| [Art. 9](art-009.md) | Stiftung Refdata | 0 |  |
+| [Art. 10](art-010.md) | Datenqualität | 0 |  |
+| [Art. 11](art-011.md) | Bekanntgabe der öffentlich zugänglichen Daten | 0 |  |
+| [Art. 12](art-012.md) | Zugang über eine Standardschnittstelle | 0 |  |
+| [Art. 13](art-013.md) | Verwendung der Daten zu statistischen Zwecken und zu Forschungszwecken | 0 |  |
+| [Art. 14](art-014.md) | Bekanntgabe besonders schützenswerter Personendaten an die zuständigen Behörden | 1 | 2022-01-01 |
+| [Art. 15](art-015.md) | Bekanntgabe besonders schützenswerter Personendaten an die betroffene Gesundheitsfachperson | 0 |  |
+| [Art. 16](art-016.md) | Änderung von Daten | 0 |  |
+| [Art. 17](art-017.md) | Berichtigungsantrag durch betroffene Gesundheitsfachpersonen | 0 |  |
+| [Art. 18](art-018.md) | Kostenaufteilung und technische Anforderungen | 0 |  |
+| [Art. 19](art-019.md) | Gebühren | 0 |  |
+| [Art. 20](art-020.md) |  | 0 |  |
+| [Art. 22](art-022.md) | Übergangsbestimmungen | 0 |  |
+| [Art. 23](art-023.md) | Inkrafttreten | 0 |  |
