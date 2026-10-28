@@ -1,0 +1,22 @@
+# Abkommen vom 3. April 2002 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Usbekistan über den grenzüberschreitenden Personen- und Güterverkehr auf der Strasse (mit Prot.)
+
+SR 0.741.619.621 ·  · <https://fedlex.data.admin.ch/eli/cc/2004/48>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |
+| [Art. 1](art-001.md) | Geltungsbereich | 0 |  |
+| [Art. 2](art-002.md) | Begriffsbestimmungen | 0 |  |
+| [Art. 3](art-003.md) | Personenbeförderungen | 0 |  |
+| [Art. 4](art-004.md) | Güterbeförderungen | 1 | 2024-02-08 |
+| Art. 5 (aufgehoben) | Ausnahmen von der Genehmigungspflicht | 1 | 2024-02-08 |
+| [Art. 6](art-006.md) | Anwendung des nationalen Rechts | 0 |  |
+| [Art. 7](art-007.md) | Verbot landesinterner Beförderungen | 0 |  |
+| [Art. 8](art-008.md) | Widerhandlungen | 0 |  |
+| [Art. 9](art-009.md) | Zuständige Behörden | 0 |  |
+| [Art. 10](art-010.md) | Ausführungsbestimmungen | 0 |  |
+| [Art. 11](art-011.md) | Gemischte Kommission | 0 |  |
+| [Art. 12](art-012.md) | Änderung des Abkommens und des Protokolls | 0 |  |
+| [Art. 13](art-013.md) | Streitbeilegung | 0 |  |
+| [Art. 14](art-014.md) | Anwendung auf das Fürstentum Liechtenstein | 0 |  |
+| [Art. 15](art-015.md) | Inkrafttreten und Geltungsdauer | 0 |  |

@@ -1,0 +1,7 @@
+# Notenaustausch vom 30. Januar 2009 zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme der Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger (Weiterentwicklung des Schengen-Besitzstands)
+
+SR 0.362.380.042 ·  · <https://fedlex.data.admin.ch/eli/cc/2010/849>
+
+| Artikel | Sachüberschrift | Änderungen seit dem ersten Stand | Zuletzt geändert |
+| --- | --- | --- | --- |
+| [Präambel](praeambel.md) |  | 0 |  |

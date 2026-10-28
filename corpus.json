@@ -1,0 +1,45 @@
+{
+  "corpus": "ch/bund/acts",
+  "name": "Systematische Rechtssammlung des Bundes (Swiss Classified Compilation)",
+  "label": "Switzerland",
+  "language": "de",
+  "acts": 5874,
+  "history_from": "1855-01-20",
+  "record_to": "2026-10-28",
+  "record_note": "Every act of the Classified Compilation with a German Akoma Ntoso version on Fedlex, checked against Fedlex on 2026-10-28.",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "correction_trailer": "Corrected",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Adopted",
+      "Vote",
+      "Published"
+    ],
+    "time": "12:00 Europe/Zurich"
+  },
+  "citation": {
+    "file": "([0-9.]+[a-z]?|eli-[^/]+)/art-0*([0-9]+[a-z]*)\\.md",
+    "cites": "(Artikel|Art\\.) ?{n}([^0-9a-z]|$)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note found; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retroactivity (Rückwirkungsverbot)",
+      "meaning": "new law does not attach consequences to facts completed before it took effect unless the law says so; procedural rules generally apply to pending proceedings unless transitional provisions say otherwise",
+      "authority": "Art. 5 and 9 of the Federal Constitution (SR 101), as applied by the Federal Supreme Court",
+      "decided_here": false
+    }
+  },
+  "branches": {
+    "main": "the law in force on the build day",
+    "future": "changes adopted but not yet in force"
+  },
+  "tool": "tools/stand_am.py"
+}
