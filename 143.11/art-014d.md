@@ -2,7 +2,7 @@
 
 1 Die Kantone können die Wohnsitzgemeinden ermächtigen, Anträge auf die Ausstellung von Identitätskarten ohne Datenchip entgegenzunehmen.
 
-2 Die antragstellende Person hat persönlich bei der Wohnsitzgemeinde vorzusprechen, die allenfalls verlangten Dokumente mitzubringen und sich über ihre Identität auszuweisen. Die Wohnsitzgemeinde entscheidet, ob die antragstellende Person eine Fotografie mitbringen muss oder diese vor Ort erstellt wird. Die Anforderungen an die Fotografie werden durch das Departement festgelegt.
+2 Die antragstellende Person hat persönlich bei der Wohnsitzgemeinde vorzusprechen, die allenfalls verlangten Dokumente mitzubringen und sich über ihre Identität auszuweisen. Die Wohnsitzgemeinde entscheidet, ob die antragstellende Person eine Fotografie mitbringen muss oder diese vor Ort erstellt wird. Die Anforderungen an die Fotografie werden durch das EJPD festgelegt.
 
 3 Die Wohnsitzgemeinde füllt den elektronischen Antrag gestützt auf die Angaben der Einwohnerregister, die auf den im Personenstandsregister Infostar geführten Daten basieren, vollständig und richtig aus. Sie ergänzt den Antrag mit der Fotografie.
 
