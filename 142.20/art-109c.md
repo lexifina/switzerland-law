@@ -22,4 +22,6 @@ Das SEM kann folgenden Behörden einen Online-Zugang zu den Daten des ORBIS gew�
 
   - h. den Zivilstandsämtern und ihren Aufsichtsbehörden: zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft sowie zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97a Absatz 1 ZGB und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004;
 
-  - i. der nationalen ETIAS-Stelle: im Rahmen der Erfüllung ihrer Aufgaben.
+  - i. der nationalen ETIAS-Stelle: im Rahmen der Erfüllung ihrer Aufgaben;
+
+  - j. der nationalen Stelle für die Bearbeitung von Flugpassagierdaten: zur Überprüfung der Identität von Flugpassagierinnen und -passagieren (Art. 6 Abs. 3 Bst. b des Flugpassagierdatengesetzes vom 21. März 2025).
