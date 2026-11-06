@@ -1,5 +1,7 @@
 # Swiss federal law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Switzerland's federal law, which global-law reads at `switzerland/bund/acts/`.
+
 The Swiss Classified Compilation (Systematische Rechtssammlung, SR) as a git repository: every federal act and treaty
 that the Federal Chancellery publishes as structured text on [Fedlex](https://www.fedlex.admin.ch), in German. Each
 amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Zurich.
