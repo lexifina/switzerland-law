@@ -1,5 +1,10 @@
 # Swiss federal law, change by change
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Swiss law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Switzerland's federal law, which global-law reads at `switzerland/bund/acts/`.
 
 The Swiss Classified Compilation (Systematische Rechtssammlung, SR) as a git repository: every federal act and treaty
