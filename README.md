@@ -1,126 +1,129 @@
-# Swiss federal law, change by change
+# Schweizer Bundesrecht, Änderung für Änderung
+
+**Deutsch** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Swiss law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/de/effort-dark.svg">
+<img alt="Schweizer Recht in diesem Repository: Inhalt, Änderungen nach Jahr des Inkrafttretens, Vollständigkeit gegenüber den amtlichen Quellen und Richtigkeit des Enthaltenen" src="data/de/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Switzerland's federal law, which global-law reads at `switzerland/bund/acts/`.
+Teil von [lexifina/global-law](https://github.com/lexifina/global-law), einer Git-Historie für das Recht aller Länder: Dies ist das Bundesrecht der Schweiz, das global-law unter `switzerland/bund/acts/` liest.
 
-The Swiss Classified Compilation (Systematische Rechtssammlung, SR) as a git repository: every federal act and treaty
-that the Federal Chancellery publishes as structured text on [Fedlex](https://www.fedlex.admin.ch), in German. Each
-amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Zurich.
+Die Systematische Rechtssammlung des Bundes (SR) als Git-Repository: jeder Bundeserlass und jeder Staatsvertrag, den die
+Bundeskanzlei auf [Fedlex](https://www.fedlex.admin.ch) als strukturierten Text veröffentlicht, im deutschen Wortlaut.
+Jeder Änderungserlass ist ein Commit, diesem Erlass zugeschrieben und auf den Tag datiert, an dem seine Änderungen in
+Kraft getreten sind, um 12 Uhr Zürcher Zeit.
 
-*Deutsch: [unten](#deutsch).*
+## Warum es so aufgebaut ist
 
-## Why it is built this way
+Repositories mit konsolidierten Fassungen gibt es bereits: Man nimmt jede neue Fassung eines Erlasses, committet sie,
+und Git zeigt, was sich geändert hat. Das beantwortet die Hälfte der Frage, die eine Juristin oder ein Jurist stellt.
+Die andere Hälfte ist das *Warum*: Welcher Erlass hat diesen Satz geändert, wann ist die Änderung in Kraft getreten, und
+worauf wirkt sie sich sonst noch aus? Ein Diff zwischen zwei Fassungen kann das nicht sagen. Dieses Repository ist so
+angelegt, dass es das kann.
 
-Repositories of consolidated versions already exist: take each new version of an act, commit it, and git shows what
-changed. That answers half of a lawyer's question. The other half is *why*: which act changed this sentence, when did
-the change take effect, and what else does it reach? A diff between two versions cannot say. This repository is
-arranged so that it can.
+- **Jeder Commit ist ein Änderungserlass.** Sein Autor ist der Erlass in der Amtlichen Sammlung (AS), der die Änderung
+  vorgenommen hat, zum Beispiel `AS 2021 310`, so dass `git blame` die Frage «Welcher Erlass hat diesen Absatz
+  geschrieben?» beantwortet. Den Erlass nennen zwei amtliche Quellen: die eigenen Angaben von Fedlex darüber, welcher
+  Erlass welchen Artikel geändert hat, und die unter dem Artikel abgedruckte Fussnote («Fassung gemäss …», «Eingefügt
+  durch …», «Angenommen in der Volksabstimmung vom …»).
+- **Commits tragen das Datum des Inkrafttretens.** Dieses Datum entscheidet, welcher Text auf einen Fall anwendbar ist.
+  Es kann Monate nach der Verabschiedung des Erlasses durch die Bundesversammlung liegen, und eine Änderung der
+  Bundesverfassung tritt am Tag der Abstimmung in Kraft, wird aber erst Wochen später veröffentlicht. Jede
+  Commit-Nachricht hält jedes Datum als Trailer fest: `Adopted:`, `Vote:`, wo es eine Abstimmung gab, `Published:` und
+  `In-force:`, dazu `Affecting:` und `Source:`.
+- **Main ist das heute geltende Recht.** Bereits beschlossene, aber noch nicht in Kraft getretene Änderungen liegen im
+  Branch `future`, jeweils auf den Tag datiert, an dem sie in Kraft treten werden. `git log main..future` listet sie auf.
+- **Jeder Erlass ist ein Ordner, der nach seiner SR-Nummer benannt ist** (`101/` ist die Bundesverfassung, `220/` das
+  Obligationenrecht, `0.101/` die Europäische Menschenrechtskonvention), und **jeder Artikel ist eine Datei**
+  (`101/art-010a.md`), jeder Absatz des Artikels ein Absatz der Datei, so dass `git log -p 101/art-010a.md` die
+  Geschichte von Art. 10a ist.
+- **Berichtigungen sind keine Gesetze.** Wo Fedlex seinen konsolidierten Text ohne zugrunde liegenden Erlass berichtigt
+  hat (eine Schreibweise, einen Zeilenumbruch), stammt der Commit von `Bundeskanzlei (Fedlex)` und sagt das auch. Rein
+  typografische Änderungen ("..." für "…") sind überhaupt keine Commits.
+- **Der Bestand beginnt dort, wo der strukturierte Text beginnt.** Bei den meisten Erlassen ist das 2021; manche
+  reichen weiter zurück. Der erste Commit jedes Erlasses stammt von der Bundeskanzlei (Trailer `Consolidated:`). Die
+  Fussnoten darin schreiben älteren Text den Erlassen zu, die ihn geschrieben haben; die Leseansicht auf lexifina.com
+  zeigt diese Autoren Absatz für Absatz.
 
-- **Each commit is one amending act.** Its author is the act in the Official Compilation (AS) that made the change,
-  for example `AS 2021 310`, so `git blame` answers "which act wrote this paragraph?". The act is named by two official
-  sources: Fedlex's own record of which act changed which article, and the footnote printed under the article
-  ("Fassung gemäss …", "Eingefügt durch …", "Angenommen in der Volksabstimmung vom …").
-- **Commits are dated the day the change took effect** (Inkrafttreten). That is the date that decides which text
-  applies to a case. It can be months after the Federal Assembly adopted the act, and a change to the Constitution
-  takes effect on the day of the vote but is published weeks later. Every commit message records each date as a
-  trailer: `Adopted:`, `Vote:` where there was one, `Published:` and `In-force:`, with `Affecting:` and `Source:`.
-- **Main is the law today.** Changes already adopted but not yet in force are on the branch `future`,
-  each dated the day it will take effect. `git log main..future` lists them.
-- **Each act is a folder named by its SR number** (`101/` is the Constitution, `220/` the Code of Obligations, `0.101/`
-  the European Convention on Human Rights), and **each article is a file** (`101/art-010a.md`), one paragraph per
-  paragraph, so `git log -p 101/art-010a.md` is the history of Art. 10a.
-- **Corrections are not laws.** Where Fedlex corrected its consolidated text without an act behind it (a spelling, a
-  line break), the commit is by `Bundeskanzlei (Fedlex)` and says so. Changes of typesetting alone ("..." for "…") are
-  not commits at all.
-- **The record starts where the structured text does.** For most acts that is 2021; some go back further. The first
-  commit of each act is by the Federal Chancellery (`Consolidated:` trailer). The footnotes in it credit older text
-  to the acts that wrote it; the reader on lexifina.com shows those authors paragraph by paragraph.
+## Verwendung
 
-## Using it
-
-The text in force on a day, for one article or a whole act:
+Der an einem bestimmten Tag geltende Text, für einen Artikel oder einen ganzen Erlass:
 
 ```sh
-python tools/stand_am.py 2021-06-01 101 197      # Art. 197 of the Constitution on 1 June 2021
-python tools/stand_am.py 2024-07-01 281.1        # the whole Debt Enforcement and Bankruptcy Act on 1 July 2024
+python tools/stand_am.py 2021-06-01 101 197      # Art. 197 der Bundesverfassung am 1. Juni 2021
+python tools/stand_am.py 2024-07-01 281.1        # das ganze Bundesgesetz über Schuldbetreibung und Konkurs am 1. Juli 2024
 ```
 
-Or with git alone (a commit is dated noon in Zurich on its day, so ask for the end of the day):
+Oder nur mit Git (ein Commit ist auf 12 Uhr Zürcher Zeit seines Tages datiert, also nach dem Ende des Tages fragen):
 
 ```sh
 git checkout "$(git rev-list -1 --before=2024-07-01T23:59:59+02:00 main)" -- 281.1
 ```
 
-Which act wrote each paragraph, and every change to an article:
+Welcher Erlass jeden Absatz geschrieben hat, und jede Änderung eines Artikels:
 
 ```sh
 git blame 101/art-010a.md
 git log -p --word-diff 281.1/art-230.md
 ```
 
-`git blame` credits whole lines, and a line is a paragraph. Where two acts wrote parts of one paragraph, blame names
-the later one; `git log -p --word-diff` on the file shows each act's own words.
+`git blame` schreibt ganze Zeilen zu, und eine Zeile ist ein Absatz. Wo zwei Erlasse Teile desselben Absatzes
+geschrieben haben, nennt blame den späteren; `git log -p --word-diff` auf der Datei zeigt den eigenen Wortlaut jedes
+Erlasses.
 
-Everything one amending act changed, across every act it touched:
+Alles, was ein Änderungserlass geändert hat, in allen Erlassen, die er berührt:
 
 ```sh
 git show as/2023-628
 git log --author='AS 2023 628'
 ```
 
-The history is rebuilt from scratch when the record is regenerated, so commit hashes can change between builds. To
-update a clone:
+Die Historie wird von Grund auf neu aufgebaut, wenn der Bestand neu erzeugt wird, so dass sich Commit-Hashes zwischen
+zwei Builds ändern können. So wird ein Klon aktualisiert:
 
 ```sh
 git fetch --force --tags origin && git checkout main && git reset --hard origin/main
 ```
 
-(`git fetch --tags` alone keeps tags you already have, so it would leave you reading the old build.)
+(`git fetch --tags` allein behält Tags, die bereits vorhanden sind; man würde also weiterhin den alten Build lesen.)
 
-Every amending act is a tag (`as/2021-310`). The amending acts with their dates are in [`erlasse.csv`](erlasse.csv);
-every act in the record, with its SR number, titles, status and versions, is in [`data/erlasse.json`](data/erlasse.json).
-Each act's folder has a `README.md` listing its articles and how often each changed. How the repository was made,
-step by step, and how to rebuild it hash for hash: [`REPRODUCE.md`](REPRODUCE.md).
+Jeder Änderungserlass ist ein Tag (`as/2021-310`). Die Änderungserlasse mit ihren Daten stehen in
+[`erlasse.csv`](erlasse.csv); jeder Erlass im Bestand, mit SR-Nummer, Titeln, Status und Fassungen, steht in
+[`data/erlasse.json`](data/erlasse.json). Der Ordner jedes Erlasses enthält eine `README.md`, die seine Artikel auflistet
+und angibt, wie oft jeder geändert wurde. Wie das Repository Schritt für Schritt erstellt wurde und wie es sich Hash für
+Hash nachbauen lässt: [`REPRODUCE.md`](REPRODUCE.md).
 
-## What is not here yet
+## Was noch fehlt
 
-- Versions Fedlex publishes only as PDF or Word documents, which is most versions before 2021. Their text is not here;
-  the footnotes still credit it.
-- Annexes and tables attached to an act, and acts whose structured text holds no articles.
-- An amending act's own transitional rules ("für hängige Verfahren gilt bisheriges Recht"), which are in the Official
-  Compilation, not in the consolidated text.
-- French, Italian and Romansh. The three official languages are equally authoritative.
+- Fassungen, die Fedlex nur als PDF- oder Word-Dokument veröffentlicht, also die meisten Fassungen vor 2021. Ihr Text
+  ist nicht enthalten; die Fussnoten schreiben ihn dennoch zu.
+- Anhänge und Tabellen zu einem Erlass sowie Erlasse, deren strukturierter Text keine Artikel enthält.
+- Die eigenen Übergangsbestimmungen eines Änderungserlasses («für hängige Verfahren gilt bisheriges Recht»), die in der
+  Amtlichen Sammlung stehen, nicht im konsolidierten Text.
+- Französisch, Italienisch und Rätoromanisch. Die drei Amtssprachen sind gleichermassen massgebend.
 
-This is a research aid. Only the Official Compilation (AS) is authoritative; the consolidated text on Fedlex, and so
-this repository, is not.
+Dies ist ein Hilfsmittel für die Recherche. Massgebend ist allein die Amtliche Sammlung (AS); der konsolidierte Text auf
+Fedlex und damit dieses Repository sind es nicht.
 
-## Sources and licence
+## Quellen und Lizenz
 
-Text and data: the Federal Chancellery's publication platform Fedlex, through its open linked-data service (the JOLux
-ontology) and the Akoma Ntoso XML of each consolidated version. Enactments and official texts of the Confederation are
-not protected by copyright (Art. 5 para. 1 let. a of the Copyright Act, URG). The history, commit messages and tables
-are released under [CC0 1.0](LICENSE). The repository is built by Lexifina Watch; the same record, with a reader for
-any date, is at lexifina.com/watch/swiss-law.
+Texte und Daten: die Publikationsplattform Fedlex der Bundeskanzlei, über ihren offenen Linked-Data-Dienst (die
+JOLux-Ontologie) und das Akoma-Ntoso-XML jeder konsolidierten Fassung. Erlasse und amtliche Texte des Bundes sind
+urheberrechtlich nicht geschützt (Art. 5 Abs. 1 Bst. a des Urheberrechtsgesetzes, URG). Die Historie, die
+Commit-Nachrichten und die Tabellen werden unter [CC0 1.0](LICENSE) freigegeben. Das Repository wird von Lexifina Watch
+erstellt; derselbe Bestand, mit einer Leseansicht für jedes beliebige Datum, ist unter lexifina.com/watch/swiss-law
+verfügbar.
 
----
+Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 
-## Deutsch
+## Mehr
 
-Die Systematische Rechtssammlung des Bundes als Git-Repository: jeder Erlass und Staatsvertrag, den die Bundeskanzlei
-auf Fedlex als strukturierten Text veröffentlicht, im deutschen Wortlaut.
+Aus dem Repository [lexifina/global-law](https://github.com/lexifina/global-law) (auf Englisch):
 
-- **Jeder Commit ist ein Änderungserlass** der Amtlichen Sammlung (AS), als Autor eingetragen, so dass `git blame`
-  zeigt, welcher Erlass welchen Absatz geschrieben hat. Den Erlass nennen zwei amtliche Quellen: die Änderungsdaten von
-  Fedlex und die Fussnote unter dem Artikel.
-- **Jeder Commit trägt das Datum des Inkrafttretens**, Mittag in Zürich. In der Nachricht stehen auch Beschluss,
-  Volksabstimmung, Veröffentlichung und Inkrafttreten.
-- **`main` ist das geltende Recht.** Beschlossene, noch nicht geltende Änderungen liegen im Branch `future`.
-- **Jeder Erlass ist ein Ordner mit seiner SR-Nummer**, jeder Artikel eine Datei, jeder Absatz ein Absatz.
-- **Berichtigungen sind keine Gesetze.** Wo Fedlex den Text ohne Erlass berichtigt hat, ist der Commit von der
-  Bundeskanzlei.
-
-Massgebend ist allein die Amtliche Sammlung.
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): alle Funktionen und was jedes Korpus unterstützen muss (`git blame`, `law.py`, MCP-Werkzeuge)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): Fragen und Antworten · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): Änderungen vorschlagen · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP-Server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): wie es erstellt wurde · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): wie aktuell jedes Korpus ist · [Überwachung](https://github.com/lexifina/global-law/tree/main/monitoring): ob die Aktualisierungen funktionieren · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): wie jede amtliche Quelle auf Änderungen überwacht wird
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): wie schnell die Werkzeuge sind, gemessen
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): Diagramme und Verbindungen im Recht der ganzen Welt
+- [Schwachstellen](https://github.com/lexifina/global-law/tree/main/vulnerabilities): Fehler in Rechtsakten, wie sie veröffentlicht wurden
