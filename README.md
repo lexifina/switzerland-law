@@ -1,119 +1,85 @@
-# Schweizer Bundesrecht, Änderung für Änderung
+# Schweiz: Rechtsgeschichte in Git
 
-**Deutsch** · [English](README.en.md)
+**Deutsch** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/de/effort-dark.svg">
 <img alt="Schweizer Recht in diesem Repository: Inhalt, Änderungen nach Jahr des Inkrafttretens, Vollständigkeit gegenüber den amtlichen Quellen und Richtigkeit des Enthaltenen" src="data/de/effort-light.svg" width="880">
 </picture>
 
+Das Bundesrecht der Schweiz als Git-Historie: eine Datei je Artikel, ein Commit je Änderungserlass an dem Tag, an dem seine Änderungen in Kraft getreten sind, und als Autor des Commits der Änderungserlass in der Amtlichen Sammlung (AS). `git blame` nennt zu jedem Absatz den Erlass, der ihn geschrieben hat; `git log` listet jede Änderung eines Artikels auf; ein gewähltes Datum ergibt den an diesem Tag geltenden Text.
+
 Teil von [lexifina/global-law](https://github.com/lexifina/global-law), einer Git-Historie für das Recht aller Länder: Dies ist das Bundesrecht der Schweiz, das global-law unter `switzerland/bund/acts/` liest.
 
-Die Systematische Rechtssammlung des Bundes (SR) als Git-Repository: jeder Bundeserlass und jeder Staatsvertrag, den die
-Bundeskanzlei auf [Fedlex](https://www.fedlex.admin.ch) als strukturierten Text veröffentlicht, im deutschen Wortlaut.
-Jeder Änderungserlass ist ein Commit, diesem Erlass zugeschrieben und auf den Tag datiert, an dem seine Änderungen in
-Kraft getreten sind, um 12 Uhr Zürcher Zeit.
+**Was es jetzt enthält:** 5’874 Erlasse der Systematischen Rechtssammlung (SR), die Fedlex als strukturierten Text veröffentlicht, 2’642 des Landesrechts und 3’232 Staatsverträge, mit 12’121 Fassungen und 23’602 Änderungen an Artikeln: 17’667 durch Änderungserlasse und 5’935 Berichtigungen des konsolidierten Texts. Beschlossene, aber noch nicht in Kraft getretene Änderungen, bis 2033, liegen im Zweig `future`. [`data/erlasse.json`](data/erlasse.json) führt jeden Erlass mit SR-Nummer, Titeln, Status und Fassungen an; [`erlasse.csv`](erlasse.csv) führt jeden Änderungserlass mit seinen Daten an.
 
-## Warum es so aufgebaut ist
+Jeder Erlass ist ein Ordner, benannt nach seiner SR-Nummer, und jeder Artikel eine Datei (`822.11/art-046.md` ist Art. 46 des Arbeitsgesetzes, SR 822.11; `101/` ist die Bundesverfassung); ein Erlass, dessen SR-Nummer auf einen anderen Erlass übergegangen ist, ist nach seiner ELI benannt (`eli-2000-10`). Jeder Absatz ist eine Zeile.
 
-Repositories mit konsolidierten Fassungen gibt es bereits: Man nimmt jede neue Fassung eines Erlasses, committet sie,
-und Git zeigt, was sich geändert hat. Das beantwortet die Hälfte der Frage, die eine Juristin oder ein Jurist stellt.
-Die andere Hälfte ist das *Warum*: Welcher Erlass hat diesen Satz geändert, wann ist die Änderung in Kraft getreten, und
-worauf wirkt sie sich sonst noch aus? Ein Diff zwischen zwei Fassungen kann das nicht sagen. Dieses Repository ist so
-angelegt, dass es das kann.
+Der Text ist auf Deutsch, so wie ihn Fedlex veröffentlicht. Der französische und der italienische Wortlaut, die gleichermassen massgebend sind, und die englischen Übersetzungen auf Fedlex, die keine Rechtskraft haben, sind nicht Teil dieses Bestands.
 
-- **Jeder Commit ist ein Änderungserlass.** Sein Autor ist der Erlass in der Amtlichen Sammlung (AS), der die Änderung
-  vorgenommen hat, zum Beispiel `AS 2021 310`, so dass `git blame` die Frage «Welcher Erlass hat diesen Absatz
-  geschrieben?» beantwortet. Den Erlass nennen zwei amtliche Quellen: die eigenen Angaben von Fedlex darüber, welcher
-  Erlass welchen Artikel geändert hat, und die unter dem Artikel abgedruckte Fussnote («Fassung gemäss …», «Eingefügt
-  durch …», «Angenommen in der Volksabstimmung vom …»).
-- **Commits tragen das Datum des Inkrafttretens.** Dieses Datum entscheidet, welcher Text auf einen Fall anwendbar ist.
-  Es kann Monate nach der Verabschiedung des Erlasses durch die Bundesversammlung liegen, und eine Änderung der
-  Bundesverfassung tritt am Tag der Abstimmung in Kraft, wird aber erst Wochen später veröffentlicht. Jede
-  Commit-Nachricht hält jedes Datum als Trailer fest: `Adopted:`, `Vote:`, wo es eine Abstimmung gab, `Published:` und
-  `In-force:`, dazu `Affecting:` und `Source:`.
-- **Main ist das heute geltende Recht.** Bereits beschlossene, aber noch nicht in Kraft getretene Änderungen liegen im
-  Branch `future`, jeweils auf den Tag datiert, an dem sie in Kraft treten werden. `git log main..future` listet sie auf.
-- **Jeder Erlass ist ein Ordner, der nach seiner SR-Nummer benannt ist** (`101/` ist die Bundesverfassung, `220/` das
-  Obligationenrecht, `0.101/` die Europäische Menschenrechtskonvention), und **jeder Artikel ist eine Datei**
-  (`101/art-010a.md`), jeder Absatz des Artikels ein Absatz der Datei, so dass `git log -p 101/art-010a.md` die
-  Geschichte von Art. 10a ist.
-- **Berichtigungen sind keine Gesetze.** Wo Fedlex seinen konsolidierten Text ohne zugrunde liegenden Erlass berichtigt
-  hat (eine Schreibweise, einen Zeilenumbruch), stammt der Commit von `Bundeskanzlei (Fedlex)` und sagt das auch. Rein
-  typografische Änderungen ("..." für "…") sind überhaupt keine Commits.
-- **Der Bestand beginnt dort, wo der strukturierte Text beginnt.** Bei den meisten Erlassen ist das 2021; manche
-  reichen weiter zurück. Der erste Commit jedes Erlasses stammt von der Bundeskanzlei (Trailer `Consolidated:`). Die
-  Fussnoten darin schreiben älteren Text den Erlassen zu, die ihn geschrieben haben; die Leseansicht auf lexifina.com
-  zeigt diese Autoren Absatz für Absatz.
+## Fragen als Git-Befehle
 
-## Verwendung
+| Frage | Befehl |
+| --- | --- |
+| Jede Änderung von Art. 46 des Arbeitsgesetzes | `git log -p --word-diff -- 822.11/art-046.md` |
+| Welcher Erlass hat jede Zeile von Art. 46 geschrieben? | `git blame 822.11/art-046.md` |
+| Jede Fassung des Arbeitsgesetzes, mit dem Tag ihres Inkrafttretens | `git log --date=short --format="%h %ad %an" -- "822.11/art-*"` |
+| Art. 46 in der am 1. Januar 2023 geltenden Fassung | `python tools/stand_am.py 2023-01-01 822.11 46` |
 
-Der an einem bestimmten Tag geltende Text, für einen Artikel oder einen ganzen Erlass:
+**Ausserhalb von Git** stellen wir diesen Bestand auch öffentlich und kostenlos bereit:
+
+- **[Claude zum Schweizer Recht fragen](https://global-law.lexifina.com/v1/try_claude?country=switzerland)**: öffnet Claude mit einer vorbereiteten ersten Frage.
+- **[ChatGPT fragen](https://global-law.lexifina.com/v1/try_chatgpt?country=switzerland)**: dieselbe Frage in ChatGPT.
+- **[Die API im Browser aufrufen](https://global-law.lexifina.com/v1/search_law?query=Ferien&jurisdictions=switzerland)**: eine Suche im Schweizer Recht nach «Ferien», als JSON. Die Dokumentation finden Sie [hier](https://lexifina.com/api/global-law).
+
+Beide Assistenten lesen den Bestand über den kostenlosen Connector Global law (MCP, `https://global-law.lexifina.com/mcp`); beim ersten Mal gibt Ihnen der Chat den Link, mit dem Sie ihn hinzufügen. Fragen Sie auf Deutsch oder auf Englisch.
+
+**Ganz einfach selbst betreiben.** Sie brauchen nur Git und Python, und die Werkzeuge laufen auf Ihrem Rechner:
 
 ```sh
-python tools/stand_am.py 2021-06-01 101 197      # Art. 197 der Bundesverfassung am 1. Juni 2021
-python tools/stand_am.py 2024-07-01 281.1        # das ganze Bundesgesetz über Schuldbetreibung und Konkurs am 1. Juli 2024
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add switzerland/bund/acts
+python3 tools/law.py show 2026-01-01 switzerland/bund/acts/822.11/art-046.md
 ```
 
-Oder nur mit Git (ein Commit ist auf 12 Uhr Zürcher Zeit seines Tages datiert, also nach dem Ende des Tages fragen):
+In Claude Code, Cursor, VS Code oder Codex geöffnet, startet der Klon auch einen lokalen MCP-Server mit denselben Werkzeugen ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-```sh
-git checkout "$(git rev-list -1 --before=2024-07-01T23:59:59+02:00 main)" -- 281.1
-```
+## Datumsangaben
 
-Welcher Erlass jeden Absatz geschrieben hat, und jede Änderung eines Artikels:
+Jeder Commit ist mit 12 Uhr Zürcher Zeit (Europe/Zurich) des Tages datiert, an dem die Änderung in Kraft getreten ist, und trägt diesen Tag in seinem `In-force:`-Trailer, dazu `Adopted:`, `Vote:`, wo es eine Volksabstimmung gab, und `Published:`:
 
-```sh
-git blame 101/art-010a.md
-git log -p --word-diff 281.1/art-230.md
-```
+- der Tag stammt aus der Fussnote unter dem Artikel («in Kraft seit …») oder aus den Angaben von Fedlex darüber, welcher Erlass diesen Artikel geändert hat, und liegt nie auf oder vor der vorherigen Fassung; wo Fedlex nur für einige Fassungen strukturierten Text hat, kann die Fassung, in der eine Änderung zuerst erscheint, später liegen als dieser Tag;
+- jeder Erlass beginnt mit seiner ersten strukturierten Fassung, bei den meisten Erlassen 2021 (Trailer `Consolidated:`); Berichtigungen tragen `Corrected:`;
+- Git kann keine Daten vor 1970 speichern, daher sind die 536 früheren Commits auf den 1970-01-01 datiert, jeweils eine Sekunde auseinander, mit dem tatsächlichen Tag in der Betreffzeile und im Trailer.
 
-`git blame` schreibt ganze Zeilen zu, und eine Zeile ist ein Absatz. Wo zwei Erlasse Teile desselben Absatzes
-geschrieben haben, nennt blame den späteren; `git log -p --word-diff` auf der Datei zeigt den eigenen Wortlaut jedes
-Erlasses.
+Jede Änderung wird dem Änderungserlass zugeschrieben, den die Angaben von Fedlex oder die Fussnote des Artikels («Fassung gemäss …», «Eingefügt durch …») nennen, etwa `AS 2022 491 (DSG)`; die erste Fassung jedes Erlasses und jede Änderung, für die kein Erlass genannt ist, stammen von `Bundeskanzlei (Fedlex)`. Später als falsch erkannte Daten werden in angehängten Commits festgehalten (Trailer `Redates:`).
 
-Alles, was ein Änderungserlass geändert hat, in allen Erlassen, die er berührt:
+## Wie geprüft wird
 
-```sh
-git show as/2023-628
-git log --author='AS 2023 628'
-```
+- `tools/check_repo.py` liest jede Fassung jedes Artikels am Tag ihres Inkrafttretens aus Git zurück, ebenso die vorherige Fassung am Vortag, und vergleicht beide mit dem aus Fedlex erstellten Text.
+- Jedes Wort, jedes Datum und jeder Titel wird von den Werkzeugen aus Fedlex übernommen; ein blosser Unterschied im Schriftsatz («...» und «…») ist keine Änderung.
+- [`data/versionen.json`](data/versionen.json) führt jede verwendete XML-Datei von Fedlex mit ihrem SHA-256 an; `tools/bulk.py` ergibt aus denselben Daten dieselben Commits mit denselben Hashes ([`REPRODUCE.md`](REPRODUCE.md)).
+- Ein neuer Build ersetzt die Historie, daher können sich Hashes zwischen Builds ändern: Einen Klon aktualisieren Sie mit `git fetch --force --tags origin && git reset --hard origin/main`.
 
-Die Historie wird von Grund auf neu aufgebaut, wenn der Bestand neu erzeugt wird, so dass sich Commit-Hashes zwischen
-zwei Builds ändern können. So wird ein Klon aktualisiert:
+## Was es nicht zeigt
 
-```sh
-git fetch --force --tags origin && git checkout main && git reset --hard origin/main
-```
+- **Fassungen vor dem strukturierten Text.** Fedlex hat die meisten Fassungen vor 2021 nur als PDF- oder Word-Datei; ihr Text ist nicht enthalten, und die Historie eines Erlasses beginnt später als der Erlass (das Arbeitsgesetz von 1964 ab 2021).
+- **Anhänge und Tabellen** sowie die 49 Erlasse, deren XML keine Artikel enthält (aufgeführt in `REPRODUCE.md`).
+- **Übergangsbestimmungen von Änderungserlassen** («für hängige Verfahren gilt bisheriges Recht»), die in der AS stehen, nicht im konsolidierten Text.
+- **Ob ein ganzer Erlass noch in Kraft ist.** 520 Erlasse, die Fedlex als nicht mehr in Kraft kennzeichnet, behalten ihren letzten Text in `main`; `data/erlasse.json` gibt den Status jedes Erlasses an.
+- **Kantonales und kommunales Recht sowie Rechtsprechung** liegen in eigenen Repositorys, aufgeführt in [switzerland/REPOSITORIES.md](https://github.com/lexifina/global-law/blob/main/switzerland/REPOSITORIES.md) von global-law.
 
-(`git fetch --tags` allein behält Tags, die bereits vorhanden sind; man würde also weiterhin den alten Build lesen.)
+## Quellen
 
-Jeder Änderungserlass ist ein Tag (`as/2021-310`). Die Änderungserlasse mit ihren Daten stehen in
-[`erlasse.csv`](erlasse.csv); jeder Erlass im Bestand, mit SR-Nummer, Titeln, Status und Fassungen, steht in
-[`data/erlasse.json`](data/erlasse.json). Der Ordner jedes Erlasses enthält eine `README.md`, die seine Artikel auflistet
-und angibt, wie oft jeder geändert wurde. Wie das Repository Schritt für Schritt erstellt wurde und wie es sich Hash für
-Hash nachbauen lässt: [`REPRODUCE.md`](REPRODUCE.md).
+| Quelle | Art | Frühere Fassungen | Anmerkungen |
+| --- | --- | --- | --- |
+| [Fedlex](https://www.fedlex.admin.ch) (Bundeskanzlei) | Systematische Rechtssammlung (SR), konsolidiert; Amtliche Sammlung (AS) für die Änderungserlasse | ja, jede als strukturierter Text veröffentlichte Fassung | Seine offenen verknüpften Daten (SPARQL, JOLux) und das Akoma-Ntoso-XML jeder Fassung; massgebend ist allein die AS |
 
-## Was noch fehlt
+## Lizenz
 
-- Fassungen, die Fedlex nur als PDF- oder Word-Dokument veröffentlicht, also die meisten Fassungen vor 2021. Ihr Text
-  ist nicht enthalten; die Fussnoten schreiben ihn dennoch zu.
-- Anhänge und Tabellen zu einem Erlass sowie Erlasse, deren strukturierter Text keine Artikel enthält.
-- Die eigenen Übergangsbestimmungen eines Änderungserlasses («für hängige Verfahren gilt bisheriges Recht»), die in der
-  Amtlichen Sammlung stehen, nicht im konsolidierten Text.
-- Französisch, Italienisch und Rätoromanisch. Die drei Amtssprachen sind gleichermassen massgebend.
+Siehe [`LICENSE`](LICENSE). Erlasse und amtliche Texte des Bundes sind urheberrechtlich nicht geschützt (Art. 5 Abs. 1 Bst. a Urheberrechtsgesetz, URG, SR 231.1); die Historie, die Commit-Nachrichten, die Tabellen und die Werkzeuge stehen unter CC0 1.0.
 
-Dies ist ein Hilfsmittel für die Recherche. Massgebend ist allein die Amtliche Sammlung (AS); der konsolidierte Text auf
-Fedlex und damit dieses Repository sind es nicht.
-
-## Quellen und Lizenz
-
-Texte und Daten: die Publikationsplattform Fedlex der Bundeskanzlei, über ihren offenen Linked-Data-Dienst (die
-JOLux-Ontologie) und das Akoma-Ntoso-XML jeder konsolidierten Fassung. Erlasse und amtliche Texte des Bundes sind
-urheberrechtlich nicht geschützt (Art. 5 Abs. 1 Bst. a des Urheberrechtsgesetzes, URG). Die Historie, die
-Commit-Nachrichten und die Tabellen werden unter [CC0 1.0](LICENSE) freigegeben. Das Repository wird von Lexifina Watch
-erstellt; derselbe Bestand, mit einer Leseansicht für jedes beliebige Datum, ist unter lexifina.com/watch/swiss-law
-verfügbar.
+Kein KI-Modell hat Rechtstext geschrieben oder geändert; die Werkzeuge wurden von einem KI-Modell geschrieben (siehe [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 

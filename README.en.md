@@ -1,110 +1,85 @@
-# Swiss federal law, change by change
+# Switzerland: law history in git
 
-[Deutsch](README.md) · **English**
+**English** · **[Oder auf Deutsch lesen](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Swiss law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The federal law of Switzerland as a git history: one file per article, one commit per amending act on the day its changes took effect, and the amending act in the Official Compilation (AS) as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Switzerland's federal law, which global-law reads at `switzerland/bund/acts/`.
 
-The Swiss Classified Compilation (Systematische Rechtssammlung, SR) as a git repository: every federal act and treaty
-that the Federal Chancellery publishes as structured text on [Fedlex](https://www.fedlex.admin.ch), in German. Each
-amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Zurich.
+**What is in it now:** 5,874 acts of the Classified Compilation (SR) that Fedlex publishes as structured text, 2,642 of federal law and 3,232 international treaties, with 12,121 versions and 23,602 changes to articles: 17,667 made by amending acts and 5,935 corrections of the consolidated text. Changes adopted but not yet in force, up to 2033, are on the branch `future`. [`data/erlasse.json`](data/erlasse.json) lists every act with its SR number, titles, status and versions; [`erlasse.csv`](erlasse.csv) lists every amending act with its dates.
 
-## Why it is built this way
+Each act is a folder named by its SR number and each article a file (`822.11/art-046.md` is Art. 46 of the Arbeitsgesetz, the Labour Act, SR 822.11; `101/` is the Federal Constitution); an act whose SR number passed to another act is named by its ELI (`eli-2000-10`). Each paragraph is one line.
 
-Repositories of consolidated versions already exist: take each new version of an act, commit it, and git shows what
-changed. That answers half of a lawyer's question. The other half is *why*: which act changed this sentence, when did
-the change take effect, and what else does it reach? A diff between two versions cannot say. This repository is
-arranged so that it can.
+The text is in German, as Fedlex publishes it. French and Italian, equally authoritative, and Fedlex's English translations, which have no legal force, are not part of this record.
 
-- **Each commit is one amending act.** Its author is the act in the Official Compilation (AS) that made the change,
-  for example `AS 2021 310`, so `git blame` answers "which act wrote this paragraph?". The act is named by two official
-  sources: Fedlex's own record of which act changed which article, and the footnote printed under the article
-  ("Fassung gemäss …", "Eingefügt durch …", "Angenommen in der Volksabstimmung vom …").
-- **Commits are dated the day the change took effect** (Inkrafttreten). That is the date that decides which text
-  applies to a case. It can be months after the Federal Assembly adopted the act, and a change to the Constitution
-  takes effect on the day of the vote but is published weeks later. Every commit message records each date as a
-  trailer: `Adopted:`, `Vote:` where there was one, `Published:` and `In-force:`, with `Affecting:` and `Source:`.
-- **Main is the law today.** Changes already adopted but not yet in force are on the branch `future`,
-  each dated the day it will take effect. `git log main..future` lists them.
-- **Each act is a folder named by its SR number** (`101/` is the Constitution, `220/` the Code of Obligations, `0.101/`
-  the European Convention on Human Rights), and **each article is a file** (`101/art-010a.md`), one paragraph per
-  paragraph, so `git log -p 101/art-010a.md` is the history of Art. 10a.
-- **Corrections are not laws.** Where Fedlex corrected its consolidated text without an act behind it (a spelling, a
-  line break), the commit is by `Bundeskanzlei (Fedlex)` and says so. Changes of typesetting alone ("..." for "…") are
-  not commits at all.
-- **The record starts where the structured text does.** For most acts that is 2021; some go back further. The first
-  commit of each act is by the Federal Chancellery (`Consolidated:` trailer). The footnotes in it credit older text
-  to the acts that wrote it; the reader on lexifina.com shows those authors paragraph by paragraph.
+## Questions as git commands
 
-## Using it
+| Question | Command |
+| --- | --- |
+| Every change to Art. 46 of the Labour Act | `git log -p --word-diff -- 822.11/art-046.md` |
+| Which act wrote each line of Art. 46? | `git blame 822.11/art-046.md` |
+| Every version of the Labour Act, with the day each took effect | `git log --date=short --format="%h %ad %an" -- "822.11/art-*"` |
+| Art. 46 as in force on 1 January 2023 | `python tools/stand_am.py 2023-01-01 822.11 46` |
 
-The text in force on a day, for one article or a whole act:
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Swiss law](https://global-law.lexifina.com/v1/try_claude?country=switzerland)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=switzerland)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=Ferien&jurisdictions=switzerland)**: a search of Swiss law for "Ferien", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in German or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
 ```sh
-python tools/stand_am.py 2021-06-01 101 197      # Art. 197 of the Constitution on 1 June 2021
-python tools/stand_am.py 2024-07-01 281.1        # the whole Debt Enforcement and Bankruptcy Act on 1 July 2024
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add switzerland/bund/acts
+python3 tools/law.py show 2026-01-01 switzerland/bund/acts/822.11/art-046.md
 ```
 
-Or with git alone (a commit is dated noon in Zurich on its day, so ask for the end of the day):
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-```sh
-git checkout "$(git rev-list -1 --before=2024-07-01T23:59:59+02:00 main)" -- 281.1
-```
+## Dates
 
-Which act wrote each paragraph, and every change to an article:
+Each commit is dated at noon, Europe/Zurich, on the day the change took effect, and carries it in its `In-force:` trailer, with `Adopted:`, `Vote:` where there was one, and `Published:`:
 
-```sh
-git blame 101/art-010a.md
-git log -p --word-diff 281.1/art-230.md
-```
+- the day comes from the footnote under the article ("in Kraft seit …") or from Fedlex's record of which act changed that article, and is never on or before the previous version; where Fedlex has structured text for only some versions, the version where a change first appears can be later than that day;
+- each act starts with its first structured version, for most acts in 2021 (trailer `Consolidated:`); corrections carry `Corrected:`;
+- git cannot store dates before 1970, so the 536 earlier commits are dated 1970-01-01, one second apart, with the real day in the subject line and the trailer.
 
-`git blame` credits whole lines, and a line is a paragraph. Where two acts wrote parts of one paragraph, blame names
-the later one; `git log -p --word-diff` on the file shows each act's own words.
+Each change is credited to the amending act that Fedlex's records or the article's footnote ("Fassung gemäss …", "Eingefügt durch …") name, such as `AS 2022 491 (DSG)`; each act's first version, and every change no act is named for, is by `Bundeskanzlei (Fedlex)`. Dates found wrong later are recorded in appended commits (`Redates:` trailer).
 
-Everything one amending act changed, across every act it touched:
+## How it is checked
 
-```sh
-git show as/2023-628
-git log --author='AS 2023 628'
-```
+- `tools/check_repo.py` reads every version of every article back from git on the day it took effect, and the version before it on the day before, and compares them with the text built from Fedlex.
+- Every word, date and title is copied from Fedlex by the tools; a difference of typesetting alone ("..." and "…") is not a change.
+- [`data/versionen.json`](data/versionen.json) lists every Fedlex XML file used with its SHA-256; `tools/bulk.py` gives the same commits with the same hashes from the same data ([`REPRODUCE.md`](REPRODUCE.md)).
+- A new build replaces the history, so hashes can change between builds: update a clone with `git fetch --force --tags origin && git reset --hard origin/main`.
 
-The history is rebuilt from scratch when the record is regenerated, so commit hashes can change between builds. To
-update a clone:
+## What it does not show
 
-```sh
-git fetch --force --tags origin && git checkout main && git reset --hard origin/main
-```
+- **Versions before the structured text.** Fedlex has most versions before 2021 only as PDF or Word files; their text is not here, and an act's history starts later than the act (the Labour Act of 1964 from 2021).
+- **Annexes and tables**, and the 49 acts whose XML holds no articles (listed in `REPRODUCE.md`).
+- **Transitional rules of amending acts** ("für hängige Verfahren gilt bisheriges Recht"), which are in the AS, not in the consolidated text.
+- **Whether a whole act is still in force.** 520 acts Fedlex marks as no longer in force keep their last text on `main`; `data/erlasse.json` gives each act's status.
+- **Cantonal and communal law and case law** are in their own repositories, listed in global-law's [switzerland/REPOSITORIES.md](https://github.com/lexifina/global-law/blob/main/switzerland/REPOSITORIES.md).
 
-(`git fetch --tags` alone keeps tags you already have, so it would leave you reading the old build.)
+## Sources
 
-Every amending act is a tag (`as/2021-310`). The amending acts with their dates are in [`erlasse.csv`](erlasse.csv);
-every act in the record, with its SR number, titles, status and versions, is in [`data/erlasse.json`](data/erlasse.json).
-Each act's folder has a `README.md` listing its articles and how often each changed. How the repository was made,
-step by step, and how to rebuild it hash for hash: [`REPRODUCE.md`](REPRODUCE.md).
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Fedlex](https://www.fedlex.admin.ch) (Federal Chancellery) | Classified Compilation (SR), consolidated; Official Compilation (AS) for the amending acts | yes, every version published as structured text | Its open linked data (SPARQL, JOLux) and the Akoma Ntoso XML of each version; only the AS is authoritative |
 
-## What is not here yet
+## Licence
 
-- Versions Fedlex publishes only as PDF or Word documents, which is most versions before 2021. Their text is not here;
-  the footnotes still credit it.
-- Annexes and tables attached to an act, and acts whose structured text holds no articles.
-- An amending act's own transitional rules ("für hängige Verfahren gilt bisheriges Recht"), which are in the Official
-  Compilation, not in the consolidated text.
-- French, Italian and Romansh. The three official languages are equally authoritative.
+See [`LICENSE`](LICENSE). Enactments and official texts of the Confederation are not protected by copyright (Art. 5 para. 1 let. a of the Copyright Act, URG, SR 231.1); the history, commit messages, tables and tools are CC0 1.0.
 
-This is a research aid. Only the Official Compilation (AS) is authoritative; the consolidated text on Fedlex, and so
-this repository, is not.
-
-## Sources and licence
-
-Text and data: the Federal Chancellery's publication platform Fedlex, through its open linked-data service (the JOLux
-ontology) and the Akoma Ntoso XML of each consolidated version. Enactments and official texts of the Confederation are
-not protected by copyright (Art. 5 para. 1 let. a of the Copyright Act, URG). The history, commit messages and tables
-are released under [CC0 1.0](LICENSE). The repository is built by Lexifina Watch; the same record, with a reader for
-any date, is at lexifina.com/watch/swiss-law.
+No AI model wrote or changed legal text; the tools were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
