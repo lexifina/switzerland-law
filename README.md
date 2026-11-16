@@ -61,6 +61,7 @@ Jede Änderung wird dem Änderungserlass zugeschrieben, den die Angaben von Fedl
 - Jedes Wort, jedes Datum und jeder Titel wird von den Werkzeugen aus Fedlex übernommen; ein blosser Unterschied im Schriftsatz («...» und «…») ist keine Änderung.
 - [`data/versionen.json`](data/versionen.json) führt jede verwendete XML-Datei von Fedlex mit ihrem SHA-256 an; `tools/bulk.py` ergibt aus denselben Daten dieselben Commits mit denselben Hashes ([`REPRODUCE.md`](REPRODUCE.md)).
 - Ein neuer Build ersetzt die Historie, daher können sich Hashes zwischen Builds ändern: Einen Klon aktualisieren Sie mit `git fetch --force --tags origin && git reset --hard origin/main`.
+- [vulnerabilities/](vulnerabilities/): mögliche Redaktionsfehler in diesem Recht, von den Detektoren von global-law gefunden und von Hand geprüft. Noch nicht gelaufen.
 
 ## Was es nicht zeigt
 
@@ -83,6 +84,10 @@ Siehe [`LICENSE`](LICENSE). Erlasse und amtliche Texte des Bundes sind urheberre
 Kein KI-Modell hat Rechtstext geschrieben oder geändert; die Werkzeuge wurden von einem KI-Modell geschrieben (siehe [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
+
+## Visualisierungen
+
+- [visualisations/](visualisations/): Diagramme aus diesem Repository. Noch nicht gezeichnet.
 
 ## Mehr
 

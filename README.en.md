@@ -61,6 +61,7 @@ Each change is credited to the amending act that Fedlex's records or the article
 - Every word, date and title is copied from Fedlex by the tools; a difference of typesetting alone ("..." and "…") is not a change.
 - [`data/versionen.json`](data/versionen.json) lists every Fedlex XML file used with its SHA-256; `tools/bulk.py` gives the same commits with the same hashes from the same data ([`REPRODUCE.md`](REPRODUCE.md)).
 - A new build replaces the history, so hashes can change between builds: update a clone with `git fetch --force --tags origin && git reset --hard origin/main`.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the amending act that Fedlex's records or the article
 See [`LICENSE`](LICENSE). Enactments and official texts of the Confederation are not protected by copyright (Art. 5 para. 1 let. a of the Copyright Act, URG, SR 231.1); the history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or changed legal text; the tools were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
